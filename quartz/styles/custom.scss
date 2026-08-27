@@ -9,14 +9,18 @@
   margin-bottom: 2rem;
 }
 
-/* På skärmar som är bredare än surfplattor flyttas den till höger på Quartz */
+/* På skärmar med plats för högersidekolumn i Quartz */
 @media (min-width: 1200px) {
   .character-sidebar {
-    float: right;
-    width: 320px;
-    margin-left: 2rem;
-    margin-bottom: 1rem;
-    position: relative;
+    position: absolute;
+    right: -340px; /* Skjuter ut den i högersidofältet */
+    top: 0;
+    width: 300px;
     z-index: 10;
+  }
+  
+  /* Gör att huvudmallen skapar ett tomt utrymme så inte texten krockar */
+  article {
+    position: relative;
   }
 }
