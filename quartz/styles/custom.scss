@@ -11,3 +11,10 @@
 .note-property:not(:has(*)) {
   display: none;
 }
+.sidebar.right, 
+div[data-position="right"] {
+  position: sticky;
+  top: 2rem;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+}
