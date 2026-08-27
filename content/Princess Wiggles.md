@@ -2,6 +2,7 @@
 Updated: 2026-08-24
 Birth: 1468
 Death: 1501
+draft: true
 ---
 ```dataviewjs
 await dv.view("World/Admin/doa");
