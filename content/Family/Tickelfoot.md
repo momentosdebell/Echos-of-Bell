@@ -1,0 +1,4 @@
+
+
+## Conected Pages
+![[Tickelfoot.base]]

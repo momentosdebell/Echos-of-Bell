@@ -1,0 +1,1 @@
+kriget av kungens far som förenade Valanor till ett land
