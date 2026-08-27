@@ -11,10 +11,19 @@
 div:has(> .note-property-value:not(:has(*)):not(:contains_text)) {
   display: none !important;
 }
+/* Gör så att hela högerspalten följer med när man scrollar, utan intern skroll */
 .sidebar.right, 
 div[data-position="right"] {
   position: sticky;
   top: 2rem;
-  max-height: calc(100vh - 4rem);
-  overflow-y: auto;
+  height: fit-content;
+  max-height: none;
+  overflow-y: visible;
+}
+
+/* Tvingar alla boxar och element i spalten att visa allt innehåll utan inre skroll */
+.sidebar.right *, 
+div[data-position="right"] * {
+  max-height: none !important;
+  overflow: visible !important;
 }
