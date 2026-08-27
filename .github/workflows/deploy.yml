@@ -36,9 +36,6 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-22.04
-    environment:
-      name: github-pages
-      page_url: ${{ steps.deployment.outputs.page_url }}
     permissions:
       pages: write
       id-token: write
