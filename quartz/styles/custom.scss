@@ -27,3 +27,7 @@ div[data-position="right"] * {
   max-height: none !important;
   overflow: visible !important;
 }
+.note-property:empty, 
+.note-property-value:empty {
+  display: none !important;
+}
