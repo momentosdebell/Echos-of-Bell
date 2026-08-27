@@ -31,23 +31,6 @@ Children:
 - "[[Caleb Fallow]]"
 draft: false
 ---
-
-> [!infobox]+ Quickies
->
->  **Titel:** [[Keeper of the Winter Table]], [[Guardian of Gold]], [[The Uncrowned]], Lady,
-> **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
-> **Race:** #Gnome, #Dwarf
-> **Gender:** #Female
-> **Occupation:** Field worker in [[The Circle of the Blooming Table]]
-> **Residence:** [[Ambervale]]
-> **Class:** #Cleric 
-> ---
-> **Father:** [[Orin Hamilton]]
-> **Mother:** [[Gelinda Hamilton]]
-> **Siblings:** 
->**Former Partner:** [[Harrick Fallow]]
-> **Children:** [[Noxie Fallow]], [[Caleb Fallow]]
-
 ## 📖 Overview
 
 Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
