@@ -1,7 +1,8 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-27
 Birth: 0
 Death: 0
+draft: true
 ---
 ```dataviewjs
 await dv.view("World/Admin/doa");
