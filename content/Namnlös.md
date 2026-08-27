@@ -1,1 +1,0 @@
-Genasi tsm med lizard folk, deras barn tsm med sköldpadda
