@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.character-sidebar {
+  background-color: rgba(var(--dark), 0.03);
+  border: 1px solid rgba(var(--dark), 0.1);
+  padding: 1.2rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+
+/* På skärmar som är bredare än surfplattor flyttas den till höger på Quartz */
+@media (min-width: 1200px) {
+  .character-sidebar {
+    float: right;
+    width: 320px;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 10;
+  }
+}
