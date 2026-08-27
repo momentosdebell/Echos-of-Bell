@@ -6,10 +6,10 @@
   object-fit: cover;
   margin-bottom: 0.5rem;
 }
-/* Dölj rader i note-properties som saknar innehåll */
-.note-property:has(:empty), 
-.note-property:not(:has(*)) {
-  display: none;
+/* Döljer rader i note-properties som saknar värde */
+.note-property-row:has(.note-property-value:empty),
+div:has(> .note-property-value:not(:has(*)):not(:contains_text)) {
+  display: none !important;
 }
 .sidebar.right, 
 div[data-position="right"] {
