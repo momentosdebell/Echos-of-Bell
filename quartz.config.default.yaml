@@ -72,7 +72,7 @@ plugins:
     order: 1
     layout:
       position: right
-      priority: 30
+      priority: 10
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -139,7 +139,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 30
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -152,7 +152,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 40
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -248,7 +248,7 @@ plugins:
     order: 2
     layout:
       position: right
-      priority: 15
+      priority: 20
       display: all
   - source: "@quartz-community/unlisted-pages"
     enabled: true
