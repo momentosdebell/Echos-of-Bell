@@ -1,10 +1,23 @@
 ---
 Updated: 2026-06-05
 title: "Molliebeth Bramblevick" 
-draft: false 
+Img:
+Race: 
 Birth: 1442 
 Death: 1844
-Origin: Hamilton
+Age:
+Pronouns:
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner:
+Former Partner:
+Children:
+draft: false 
 ---
 ```dataviewjs
 await dv.view("World/Admin/doa");
