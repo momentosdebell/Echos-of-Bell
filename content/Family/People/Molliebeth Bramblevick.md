@@ -2,7 +2,6 @@
 Updated: 2026-06-05
 title: "Molliebeth Bramblevick" 
 draft: false 
-tags: [character, gnome, cleric] 
 Birth: 1442 
 Death: 1844
 ---
