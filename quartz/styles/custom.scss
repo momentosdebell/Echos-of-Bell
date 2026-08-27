@@ -27,7 +27,9 @@ div[data-position="right"] * {
   max-height: none !important;
   overflow: visible !important;
 }
-.note-property:empty, 
-.note-property-value:empty {
-  display: none !important;
+/* YAML får vars en rad om mer än en propertie */
+.note-properties-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
 }
