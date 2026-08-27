@@ -1,39 +1,27 @@
 ---
 Updated: 2026-06-05
-title: "Molliebeth Bramblevick" 
-Img:
-Race: 
-Birth: 1442 
+title: Molliebeth Bramblevick
+Img: " [[Molliebeth Bramblevick.png]]"
+Race: [Gnome, Dwarf]
+Birth: 1442
 Death: 1844
 Age:
-Pronouns:
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
+Pronouns: She
+Class: Cleric
+Occupation: Field Worker
+Residence: [[Ambervale]]
+Origin: [[Hamilton]], [[McGlagen]], [[Nollac]]
+Father: [[Orin Hamilton]]
+Mother: [[Gelinda Hamilton]]
+Siblings: [[Valentin Hamilton]], [[Fender Hamilton]], [[Quinn Hamilton]], [[Grizel Hamilton]]
 Partner:
-Former Partner:
-Children:
-draft: false 
+Former Partner: [[Harrick Fallow]]
+Children: [[Noxie Fallow]], [[Caleb Fallow]]
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-<div class="character-sidebar"> ### 📌 Quick Info * 
-**Titles:** Keeper of the Winter Table, Guardian of Gold, The Uncrowned, Lady * 
-**Origin:** Hamilton, McGlagen, Nollac * 
-**Race:** #Gnome / #Dwarf *
-**Gender:** #Female * 
-**Class:** #Cleric * 
-**Occupation:** Field worker in The Circle of the Blooming Table * 
-**Residence:** Ambervale 
-**Family:** * **Father:** Orin Hamilton * **Mother:** Gelinda Hamilton * **Siblings:** Valentin, Fender, Quinn, Grizel * **Partner (Ex):** Harrick Fallow * **Children:** Noxie, Caleb </div>
 
 > [!infobox]+ Quickies
-> ![[Molliebeth Bramblevick.png|230]]
+>
 >  **Titel:** [[Keeper of the Winter Table]], [[Guardian of Gold]], [[The Uncrowned]], Lady,
 > **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
 > **Race:** #Gnome, #Dwarf
@@ -44,7 +32,7 @@ await dv.view("World/Admin/doa");
 > ---
 > **Father:** [[Orin Hamilton]]
 > **Mother:** [[Gelinda Hamilton]]
-> **Siblings:** [[Valentin Hamilton]], [[Fender Hamilton]], [[Quinn Hamilton]], [[Grizel Hamilton]]
+> **Siblings:** 
 >**Former Partner:** [[Harrick Fallow]]
 > **Children:** [[Noxie Fallow]], [[Caleb Fallow]]
 
