@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-27
 title: Molliebeth Bramblevick
-Img: ![[Molliebeth Bramblevick.png|200]]
+Img: [[Molliebeth Bramblevick.png]]
 Race:
   - Gnome
   - Dwarf

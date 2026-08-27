@@ -1,4 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+{
+  source: "./quartz/components/CharacterPortrait",
+  enabled: true,
+  layout: {
+    position: "right",
+    priority: 10 // Sätt den högt upp så den hamnar överst i spalten
+  }
+}
 configuration:
   pageTitle: Echos of Bell
   pageTitleSuffix: ""
