@@ -10,7 +10,7 @@ Pronouns: She
 Class: Cleric
 Occupation: Field Worker
 Residence: [[Ambervale]]
-Origin: [[Hamilton]], [[McGlagen]], [[Nollac]]
+Origin: [[Hamilton]]. [[McGlagen]], [[Nollac]]
 Father: [[Orin Hamilton]]
 Mother: [[Gelinda Hamilton]]
 Siblings: [[Valentin Hamilton]], [[Fender Hamilton]], [[Quinn Hamilton]], [[Grizel Hamilton]]
