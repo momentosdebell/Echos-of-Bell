@@ -69,7 +69,7 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
-    order: 50
+    order: 1
     layout:
       position: right
       priority: 30
