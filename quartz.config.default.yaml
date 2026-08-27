@@ -225,7 +225,7 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags
@@ -236,7 +236,7 @@ plugins:
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: right
       priority: 15
       display: all
   - source: "@quartz-community/unlisted-pages"
