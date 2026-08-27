@@ -225,22 +225,8 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       hideEmpty: true
-      includedProperties:
-        - Race
-        - Age
-        - Pronouns
-        - Class
-        - Occupation
-        - Residence
-        - Origin
-        - Father
-        - Mother
-        - Siblings
-        - Partner
-        - Former Partner
-        - Children
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
