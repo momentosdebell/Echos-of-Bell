@@ -227,17 +227,19 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - Titles
-        - Origin
+        - Img
         - Race
-        - Gender
+        - Age
+        - Pronouns
         - Class
         - Occupation
         - Residence
+        - Origin
         - Father
         - Mother
         - Siblings
         - Partner
+        - Former Partner
         - Children
       excludedProperties: []
       hidePropertiesView: false
