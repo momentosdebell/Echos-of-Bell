@@ -235,7 +235,6 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - Img
         - Race
         - Age
         - Pronouns
