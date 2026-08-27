@@ -1,5 +1,5 @@
 @use "./variables.scss" as *;
-
+/* Grundstil för rutan i Obsidian */
 .character-sidebar {
   background-color: rgba(var(--dark), 0.03);
   border: 1px solid rgba(var(--dark), 0.1);
@@ -9,18 +9,20 @@
   margin-bottom: 2rem;
 }
 
-/* På skärmar med plats för högersidekolumn i Quartz */
+/* På skärmar med högersidofält i Quartz */
 @media (min-width: 1200px) {
-  .character-sidebar {
-    position: absolute;
-    right: -340px; /* Skjuter ut den i högersidofältet */
-    top: 0;
-    width: 300px;
-    z-index: 10;
+  /* Vi letar reda på högersidofältet och injicerar/flyttar rutan dit */
+  .left.sidebar, .right.sidebar {
+    /* Ser till att sidofälten tillåter flex */
+    display: flex;
+    flex-direction: column;
   }
-  
-  /* Gör att huvudmallen skapar ett tomt utrymme så inte texten krockar */
-  article {
-    position: relative;
+
+  .character-sidebar {
+    /* Plockar bort den ur vanliga textflödet och lägger den i högerspalten */
+    order: 10; /* Hamnar längst ner i högersidofältet (under grafen/toc) */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
   }
 }
