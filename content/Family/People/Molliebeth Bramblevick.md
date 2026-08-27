@@ -1,11 +1,26 @@
 ---
 Updated: 2026-06-05
-Birth: 1442
+title: "Molliebeth Bramblevick" 
+draft: false 
+tags: [character, gnome, cleric] 
+Birth: 1442 
 Death: 1844
 ---
 ```dataviewjs
 await dv.view("World/Admin/doa");
 ```
+> [!info] Status & Ålder > 
+> `await dv.view("World/Admin/doa")` 
+> | Attribut | Detalj | | :--- | :--- | 
+> | **Titlar** | Keeper of the Winter Table, Guardian of Gold, The Uncrowned, Lady | 
+> | **Ursprung** | Hamilton, McGlagen, Nollac | 
+> | **Ras / Klass** | Gnome, Dwarf / Cleric | 
+> | **Sysselsättning** | Field worker in The Circle of the Blooming Table | 
+> | **Boende** | Ambervale | 
+> | **Relationer** | **Far:** Orin <br>**Mor:** Gelinda <br>**Syskon:** Valentin, Fender, Quinn, Grizel <br>**Ex:** Harrick Fallow <br>**Barn:** Noxie, Caleb | 
+> ---
+
+
 > [!infobox]+ Quickies
 > ![[Molliebeth Bramblevick.png|230]]
 >  **Titel:** [[Keeper of the Winter Table]], [[Guardian of Gold]], [[The Uncrowned]], Lady,
