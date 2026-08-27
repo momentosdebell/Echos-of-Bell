@@ -4,6 +4,7 @@ title: "Molliebeth Bramblevick"
 draft: false 
 Birth: 1442 
 Death: 1844
+Origin: Hamilton
 ---
 ```dataviewjs
 await dv.view("World/Admin/doa");
