@@ -200,7 +200,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -245,7 +245,7 @@ plugins:
       hidePropertiesView: false
       delimiters: ---
       language: yaml
-    order: 5
+    order: 2
     layout:
       position: right
       priority: 15
