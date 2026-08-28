@@ -42,3 +42,10 @@ div[data-position="right"] details {
   display: flex;
   flex-direction: column;
 }
+/* Main bild */
+.content img {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 300px;
+  border-radius: 6px;
+}
