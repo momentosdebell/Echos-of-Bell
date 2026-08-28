@@ -1,25 +1,75 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1473
 Death: 1687
+title:
+Img:
+Race:
+Age:
+Gender:
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner:
+Former Partner:
+Children:
+draft: true
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Dave Tickelfoot.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Tickelfoot]]
-> **Race:** #Halfling, #Half-Elf
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Ambervale]]
-> **Class:** 
->  **Personality:** Disobedient, careless and loud
-> ---
-> **Father:** [[Jami-Lee Wolfaxe]]
-> **Mother:** [[Eldana Tickelfoot]]
-> **Siblings:** [[Daniela Tickelfoot]], [[Danny Tickelfoot]]
-> **Partner:** 
-> **Children:** 
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

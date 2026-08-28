@@ -17,12 +17,14 @@ Origin:
 Father: "[[Jami-Lee Wolfaxe]]"
 Mother: "[[Eldana Tickelfoot]]"
 Siblings:
+  - "[[Dave Tickelfoot]]"
+  - "[[Danny Tickelfoot]]"
 Partner:
 Former Partner:
 Children:
-draft: true
+draft: false
 ---
-
+![[Daniela Tickelfoot.jpeg]]
 ## 📜Overview 
 
 ---

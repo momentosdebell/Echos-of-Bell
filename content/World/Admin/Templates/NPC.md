@@ -1,10 +1,10 @@
 ---
-Updated: 2026-08-27
+Updated: 2026-08-28
 title:
 Img:
 Race:
-Birth: 1442
-Death: 1844
+Birth:
+Death:
 Age:
 Gender:
 Class:

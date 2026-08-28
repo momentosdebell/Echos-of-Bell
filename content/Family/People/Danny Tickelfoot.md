@@ -1,25 +1,80 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1477
 Death: 1593
+title: Danny Tickelfoot
+Img: "[[Danny Tickelfoot.jpeg]]"
+Race:
+  - Halfling
+  - Half-Elf
+Age:
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+  - "[[Tickelfoot]]"
+Father: "[[Jami-Lee Wolfaxe]]"
+Mother: "[[Eldana Tickelfoot]]"
+Siblings:
+  - "[[Daniela Tickelfoot]]"
+  - "[[Dave Tickelfoot]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Danny Tickelfoot.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Tickelfoot]]
-> **Race:** #Halfling, #Half-Elf 
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[World/Places/Ambervale|Ambervale]]
-> **Class:** 
->  **Personality:** Cunning and angry
-> ---
-> **Father:** [[Jami-Lee Wolfaxe]]
-> **Mother:** [[Eldana Tickelfoot]]
-> **Siblings:** [[Daniela Tickelfoot]], [[Dave Tickelfoot]]
-> **Partner:** 
-> **Children:** 
+![[Danny Tickelfoot.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 
