@@ -2,24 +2,29 @@
 Updated: 2026-08-27
 Birth: 1473
 Death: 1687
-title:
-Img:
+title: Dave Tickelfoot
+Img: "[[Dave Tickelfoot.jpeg]]"
 Race:
+  - Halfling
+  - Half-Elf
 Age:
-Gender:
+Gender: Male
 Class:
 Occupation:
-Residence:
+Residence: "[[Ambervale]]"
 Origin:
-Father:
-Mother:
+  - "[[Tickelfoot]]"
+Father: "[[Jami-Lee Wolfaxe]]"
+Mother: "[[Eldana Tickelfoot]]"
 Siblings:
+  - "[[Daniela Tickelfoot]]"
+  - "[[Danny Tickelfoot]]"
 Partner:
 Former Partner:
 Children:
-draft: true
+draft: false
 ---
-
+![[Dave Tickelfoot.jpeg]]
 ## 📜Overview 
 
 ---
