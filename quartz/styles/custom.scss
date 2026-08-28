@@ -81,33 +81,19 @@ article img, .center img {
   }
 }
 @media (max-width: 768px) {
-  /* Bygg om mittenkolumnen till flex för att kasta om ordningen */
+  /* Behåll rubrik och properties på sina ursprungliga platser */
   .center {
     display: flex;
     flex-direction: column;
   }
 
-  /* 1. Rubriken först */
-  .page-title {
-    order: 1;
-  }
-
-  /* 2. Högerspalten (sidebar.right) direkt efter */
+  /* Flytta bara högerspalten så den hamnar direkt efter rubrik/properties men före texten */
   .sidebar.right, 
   div[data-position="right"] {
     order: 2;
   }
 
-  /* 3. Själva artikeln med texten sist */
   article, .page-content {
     order: 3;
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Om properties ligger inuti artikeln, tvinga upp dem före resten av texten */
-  .note-properties {
-    order: -1; /* Hoppar upp först inuti artikeln */
-    margin-bottom: 1.5rem;
   }
 }
