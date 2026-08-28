@@ -6,17 +6,19 @@ title: Pax Nollac
 Img:
 Race:
   - Human
-Gender: Male
+Gender: Female
 Class:
 Occupation:
-Residence:
+Residence: "[[Silvergrove City]]"
 Origin:
+  - "[[Nollac]]"
 Father:
 Mother:
 Siblings:
-Partner:
+Partner: "[[Bomona Nallac]]"
 Former Partner:
 Children:
+  - "[[Likki Nollac]]"
 draft: false
 ---
 

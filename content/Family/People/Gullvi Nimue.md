@@ -15,7 +15,7 @@ Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:
   - "[[Gustav Ekblad]]"
-Partner: "[[Pith Tealeaf]]"
+Partner: "[[Pith Nimue]]"
 Former Partner:
 Children:
 draft: false

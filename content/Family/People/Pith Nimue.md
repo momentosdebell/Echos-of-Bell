@@ -1,26 +1,26 @@
 ---
 Updated: 2026-08-28
-Birth: 664
-Death: 1619
-title: Queen Lilliana Yllaris Everfall
-Img: "[[Queen Lilliana Yllaris Everfall.jpeg]]"
+Birth: 1388
+Death: 2333
+title: Pith Nimue
+Img: "[[Pith Tealeaf.jpeg]]"
 Race:
-  - Elf
-Gender: Female
-Class:
+  - Firbolg
+Gender: Male
+Class: Druid
 Occupation:
-Residence: "[[Silvergrove City]]"
+Residence:
 Origin:
 Father:
 Mother:
 Siblings:
-Partner: "[[King Theodemar Yllaris Everfal]]"
+  - "[[Pym Nimue]]"
+Partner: "[[Gullvi Nimue]]"
 Former Partner:
 Children:
-  - "[[Lily Everfall]]"
 draft: false
 ---
-![[Queen Lilliana Yllaris Everfall.jpeg]]
+![[Pith Tealeaf.jpeg]]
 ## 📜Overview 
 
 ---

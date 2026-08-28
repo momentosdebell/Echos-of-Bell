@@ -1,24 +1,81 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1419
 Death: 1535
+title: Pax von Je'Den
+Img: "[[Pax von Je'Den.jpeg]]"
+Race:
+  - Human
+  - Elf
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+  - "[[Nollac]]"
+  - "[[Everfall]]"
+  - "[[Dong]]"
+Father: "[[Lord Andross von Je'Den]]"
+Mother: "[[Eiliss von Je'Den]]"
+Siblings:
+  - "[[Hepzibah Smith]]"
+  - "[[Gerbera von Je'Den]]"
+Partner:
+Former Partner: "[[Qia Twinkle]]"
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Pax von Je'Den.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Nollac]], [[Everfall]], [[Dong]]
-> **Race:** #Human, #Elf
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** [[Lord Andross von Je'Den]]
-> **Mother:** [[Eiliss von Je'Den]]
-> **Siblings:** [[Hepzibah Smith]], [[Gerbera von Je'Den]]
-> **Former Partner:** [[Qia Twinkle]]
-> **Children:** 
+![[Pax von Je'Den.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 
