@@ -83,13 +83,14 @@ If she is useful, people live.
 ---
 
 ## 🔒 Known Secrets
-
+<details> <summary>Klick here to revile spoilers!</summary>
 She carries three identities that the world does not fully connect:  
 Lady Mollibeth Hamilton, M. Fallow, and The Uncrowned.
 
 She knows her former husband and family shaped the narrative of her loss, but not all details are fully uncovered publicly.
 
 Only she holds full proof connecting her identities and past events in [[Ambervale]].
+ </details>
 
 ---
 

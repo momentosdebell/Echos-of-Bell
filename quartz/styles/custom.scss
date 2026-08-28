@@ -53,3 +53,15 @@ article img, .center img {
   display: block !important;
   top: 40 px !important;
 }
+// Tvinga pageTitle att hålla sig på en rad utan radbrytningar
+.page-title, .page-title a {
+  white-space: nowrap !important;
+  word-break: normal !important;
+}
+
+// Dölj grafen helt på skärmar som är mindre än 768px (mobiler/små skärmar)
+@media (max-width: 768px) {
+  .graph-component, .desktop-only.graph {
+    display: none !important;
+  }
+}
