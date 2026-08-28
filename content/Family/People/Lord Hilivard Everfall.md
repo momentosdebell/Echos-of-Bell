@@ -1,23 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 566
 Death: 637
+title: Lord Hilivard Everfall
+Img: "[[Lord Hilivard Everfall.jpeg]]"
+Race:
+  - Dragonborn
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Enya Everfall]]"
+Former Partner:
+Children:
+  - "[[Vilya Dong]]"
+  - "[[Li'thanïa Everfall]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Lord Hilivard Everfall.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Dragonborn
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Enya Everfall]]
-> **Children:** [[Vilya Dong]], [[Li'thanïa Everfall]]
+![[Lord Hilivard Everfall.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

@@ -1,27 +1,25 @@
 ---
-Updated: 2026-08-19
+Updated: 2026-08-28
 Birth: 968
 Death: 1541
+title: Mellinga Lillibet Bramblevick
+Img:
+Race:
+  - Gnome
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: Borum Bramblevick
+Former Partner:
+Children:
+  - "[[Talia Bramblevick]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Mellinga Lillibet Bramblevick.png|230]]
->  **Titel:** 
-> **Origin:** [[Bramblevick]]
-> **Race:** #Gnome
-> **Gender:** #Female
-> **Occupation:** Owner of [[The Rolling Pin]]
-> **Residence:** [[Ambervale]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** Borum Bramblevick
-> **Children:** [[Talia Bramblevick]]
-
 ## 📖 Overview
 Mellinga Lillibet Bramblevick, known across Ambervale as the chaotic spark behind [[Rolling Pin Inn]], is a retired baker and winner of [[Doublewake Rolling Pin]] from [[The Bloom of the First Seed]]. Once a stubborn trespasser squatting in a leaking ruin, she now lives entirely outside of sensible rules, carrying warm bread where others bring bureaucracy.
 
@@ -56,3 +54,56 @@ Nilly’s notoriously chaotic energy and constant stream of pranks are actually 
 ## 📜 Trivia
 
 - She von the [[Doublewake Rolling Pin]] later hand it over to [[Family/People/Talia Bramblevick]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

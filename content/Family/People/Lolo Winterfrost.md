@@ -1,23 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1332
 Death: 1378
+title: Lolo Winterfrost
+Img:
+Race:
+  - Goliath
+Gender: Female
+Class: Babarian
+Occupation:
+Residence: "[[Ever Peak]]"
+Origin:
+  - "[[Winterfrost]]"
+Father: "[[Arashi Winterfrost]]"
+Mother: "[[Fumlah Winterfrost]]"
+Siblings:
+  - "[[Rami Winterfrost]]"
+Partner: "[[Fyr Hamilton]]"
+Former Partner:
+Children:
+  - "[[Bromhilda Winterfrost]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Lolo Winterfrost.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Winterfrost]]
-> **Race:** #Goliath 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** [[Ever Peak]]
-> **Class:** #Babarian 
-> ---
-> **Father:** [[Arashi Winterfrost]]
-> **Mother:** [[Fumlah Winterfrost]]
-> **Siblings:** [[Rami Winterfrost]]
-> **Partner:** [[Fyr Hamilton]]
-> **Children:** [[Bromhilda Winterfrost]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+

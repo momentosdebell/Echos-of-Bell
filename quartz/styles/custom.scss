@@ -76,20 +76,15 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Återställ layouten helt till standard i mobilläge */
+  /* Återställ .center och högerspalten till standardflöde i mobilen */
   .center {
     display: block !important;
   }
 
   .sidebar.right, 
   div[data-position="right"] {
-    display: revert !important;
-    position: revert !important;
-    grid-template-columns: revert !important;
-    order: revert !important;
-  }
-
-  article, .page-content {
-    order: revert !important;
+    display: block !important;
+    position: static !important;
+    grid-template-columns: none !important;
   }
 }
