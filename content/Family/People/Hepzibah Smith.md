@@ -1,24 +1,81 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1412
 Death: 1541
+title: Hepzibah Smith
+Img: "[[Hepzibah Smith.jpeg]]"
+Race:
+  - Human
+  - Elf
+Gender: Female
+Class: Cleric
+Occupation: Priest
+Residence: "[[Silvergrove City]]"
+Origin:
+  - "[[Nollac]]"
+  - "[[Everfall]]"
+  - "[[Dong]]"
+Father: "[[Lord Andross von Je'Den]]"
+Mother: "[[Eiliss von Je'Den]]"
+Siblings:
+  - "[[Pax von Je'Den]]"
+  - "[[Gerbera von Je'Den]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Hepzibah Smith.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Nollac]], [[Everfall]], [[Dong]]
-> **Race:** #Human, #Elf
-> **Gender:** #Female
-> **Occupation:** Priest
-> **Residence:** [[Silvergrove City]]
-> **Class:** #Cleric
-> ---
-> **Father:** [[Lord Andross von Je'Den]]
-> **Mother:** [[Eiliss von Je'Den]]
-> **Siblings:** [[Pax von Je'Den]], [[Gerbera von Je'Den]]
-> **Partner:** 
-> **Children:** 
+![[Hepzibah Smith.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

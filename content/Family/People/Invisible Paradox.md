@@ -1,23 +1,74 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1349
 Death: 1387
+title: Invisible Paradox
+Img: "[[_Invisible Paradox_.jpeg]]"
+Race:
+Gender: Male
+Class:
+Occupation: Crime Lord
+Residence: "[[Silvergrove City]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Helena Bunkum]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[_Invisible Paradox_.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** 
-> **Gender:** #Male 
-> **Occupation:** Assasin / Crime Loard
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Helena Bunkum]]
-> **Children:** 
+![[_Invisible Paradox_.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

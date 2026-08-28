@@ -1,25 +1,78 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1394
 Death: 1471
+title: Gustav Ekblad
+Img:
+Race:
+  - Firbolg
+  - Human
+Gender: Male
+Class:
+Occupation: "[[The Shelf|Innkeeper]]"
+Residence: "[[Ever Peak]]"
+Origin:
+Father: "[[Flow Windgust]]"
+Mother: "[[Safir Windgust]]"
+Siblings:
+  - "[[Gullvi Nimue]]"
+Partner: "[[Agnes Ekblad]]"
+Former Partner:
+Children:
+  - "[[Princess Wiggles]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Gustav Ekblad.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Firbolg #Human 
-> **Gender:** #Male 
-> **Occupation:** Innkeeper of [[The Shelf]]
-> **Residence:** [[Ever Peak]]
-> **Class:** 
->  **Personality:** Cozy, charmig and enthusiastic
-> ---
-> **Father:** [[Flow Windgust]]
-> **Mother:** [[Safir Windgust]]
-> **Siblings:** [[Gullvi Nimue]]
-> **Partner:** [[Agnes Ekblad]]
-> **Children:** [[Princess Wiggles]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

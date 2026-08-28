@@ -1,24 +1,79 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 692
 Death: 1754
+title: Hef Dong
+Img: "[[Hef Dong]]"
+Race:
+  - Elf
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Rivergold]]"
+Origin:
+  - "[[Everfall]]"
+  - "[[Dong]]"
+Father: "[[Hao Dong]]"
+Mother: "[[Vilya Dong]]"
+Siblings:
+  - "[[Eiliss von Je'Den]]"
+  - "[[Kinni Tiller]]"
+Partner: "[[Fnarl Z'url]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Hef Dong.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Everfall]], [[Dong]]
-> **Race:** #Elf
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Rivergold]]
-> **Class:** 
-> ---
-> **Father:** [[Hao Dong]]
-> **Mother:** [[Vilya Dong]]
-> **Siblings:** [[Eiliss von Je'Den]], [[Kinni Tiller]]
-> **Partner:** [[Fnarl Z'url]]
-> **Children:** 
+![[Hef Dong.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

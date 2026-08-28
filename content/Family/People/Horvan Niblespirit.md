@@ -1,24 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1415
 Death: 1444
+title: Horvan Niblespirit
+Img: "[[Horvan Niblespirit.jpeg]]"
+Race:
+  - Halfling
+Gender: Male
+Class:
+Occupation: Farmer
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+  - "[[Milo Vindtop]]"
+Partner: "[[Unani Niblespirit]]"
+Former Partner:
+Children:
+  - "[[Rocksan Tickelfoot]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Horvan Niblespirit.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Halfling
-> **Gender:** #Male
-> **Occupation:** Farmer
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** [[Milo Vindtop]]
-> **Partner:** [[Unani Niblespirit]]
-> **Children:** [[Rocksan Tickelfoot]]
+![[Horvan Niblespirit.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

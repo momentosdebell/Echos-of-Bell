@@ -1,24 +1,76 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1401
 Death: 1627
+title: Gullvi Nimue
+Img: "[[Gullvi Tealeaf.jpeg]]"
+Race:
+  - Firbolg
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ever Peak]]"
+Origin:
+Father: "[[Flow Windgust]]"
+Mother: "[[Safir Windgust]]"
+Siblings:
+  - "[[Gustav Ekblad]]"
+Partner: "[[Pith Tealeaf]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Gullvi Tealeaf.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Firbolg, #Human
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** [[Ever Peak]]
-> **Class:** 
->  **Personality:** Helpful, trustworthy and polite
-> ---
-> **Father:** [[Flow Windgust]]
-> **Mother:** [[Safir Windgust]]
-> **Siblings:** [[Gustav Ekblad]]
-> **Partner:** [[Pith Tealeaf]]
-> **Children:** 
+![[Gullvi Tealeaf.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

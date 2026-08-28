@@ -1,24 +1,83 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1454
 Death: 1829
+title: Grizel Hamilton
+Img: "[[Grizel Hamilton.png]]"
+Race:
+  - Gnome
+  - Dwarf
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+  - "[[Hamilton]]"
+  - "[[McGlagen]]"
+  - "[[Nollac]]"
+Father: "[[Orin Hamilton]]"
+Mother: "[[Gelinda Hamilton]]"
+Siblings:
+  - "[[Valentin Hamilton]]"
+  - "[[Fender Hamilton]]"
+  - "[[Molliebeth Bramblevick]]"
+  - "[[Quinn Hamilton]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Grizel Hamilton.png|230]]
-> **Titel:** Lady
-> **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
-> **Race:** #Gnome, #Dwarf 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** [[World/Places/Ambervale|Ambervale]]
-> **Class:** 
->  **Personality:** Egocentric, lazy and whining
-> ---
-> **Father:** [[Orin Hamilton]]
-> **Mother:** [[Gelinda Hamilton]]
-> **Siblings:** [[Valentin Hamilton]], [[Fender Hamilton]], [[Molliebeth Bramblevick]], [[Quinn Hamilton]]
-> **Partner:** 
-> **Children:** 
+![[Grizel Hamilton.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

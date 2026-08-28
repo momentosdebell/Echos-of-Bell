@@ -18,9 +18,20 @@ Partner: "[[Fu Dong]]"
 Former Partner:
 Children:
   - "[[Hao Dong]]"
+  - "[[Du Dong]]"
+  - "[[Song Dong]]"
+  - "[[Xing Dong]]"
+  - "[[Luo Dong]]"
+  - "[[Ye Dong]]"
+  - "[[Me Dong]]"
+  - "[[Ze Dong]]"
+  - "[[Fang Dong]]"
+  - "[[Ju Dong]]"
+  - "[[Fa Dong]]"
+  - "[[Jin Dong]]"
 draft: false
 ---
-
+![[Gong Dong.jpeg]]
 ## 📜Overview 
 
 ---
