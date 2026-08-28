@@ -1,25 +1,80 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1454
 Death: 1553
+title: Eldana Tickelfoot
+Img: "[[Eldena Tickelfoot.jpeg]]"
+Race:
+  - Halfling
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+  - "[[Tickelfoot]]"
+Father: "[[Feather Tickelfoot]]"
+Mother: "[[Wiree Tickelfoot]]"
+Siblings:
+  - "[[Ann Tickelfoot]]"
+Partner: "[[Jami-Lee Wolfaxe]]"
+Former Partner:
+Children:
+  - "[[Daniela Tickelfoot]]"
+  - "[[Dave Tickelfoot]]"
+  - "[[Danny Tickelfoot]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Eldena Tickelfoot.jpeg]]
-> **Titel:** 
-> **Origin:** [[Tickelfoot]]
-> **Race:** #Halfling
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** [[Ambervale]]
-> **Class:** 
-> **Personality:** Shy, afraid and silent
-> ---
-> **Father:** [[Feather Tickelfoot]]
-> **Mother:** [[Wiree Tickelfoot]]
-> **Siblings:** [[Ann Tickelfoot]]
-> **Partner:** [[Jami-Lee Wolfaxe]]
-> **Children:** [[Daniela Tickelfoot]], [[Dave Tickelfoot]], [[Danny Tickelfoot]]
+![[Eldena Tickelfoot.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

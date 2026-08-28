@@ -5,7 +5,6 @@ Img:
 Race:
 Birth:
 Death:
-Age:
 Gender:
 Class:
 Occupation:
