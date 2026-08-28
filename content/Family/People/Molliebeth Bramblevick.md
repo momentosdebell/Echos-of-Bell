@@ -4,7 +4,6 @@ title: Molliebeth Bramblevick
 img: "[[Molliebeth Bramblevick.png]]"
 Race:
   - Gnome
-  - Dwarf
 Birth: 1442
 Death: 1844
 Age:

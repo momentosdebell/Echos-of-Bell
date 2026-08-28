@@ -293,3 +293,8 @@ layout:
         right: []
     canvas: {}
     bases: {}
+  - source: "./components/doa"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 25
