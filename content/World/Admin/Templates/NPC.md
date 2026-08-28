@@ -20,14 +20,18 @@ Children:
 draft: true
 ---
 
-Overview 
+## Overview 
 – den där "elevator pitch"-meningen, ger sammanhang direkt 
-Personality  
+
+## Personality  
 – vem de är som person 
-Background 
-• Origin 
-• Upbringing 
-• Culture 
+
+## Background 
+
+#### Origin 
+
+#### Upbringing 
+#### Culture 
 • Education 
 • Turning Point 
 • Consequences 

@@ -30,6 +30,21 @@ Children:
 draft: false
 ---
 ![[Molliebeth Bramblevick.png]]
+<span id="doa-box"></span>
+<script>
+  fetch('/static/contentIndex.json').then(r => r.json()).then(idx => {
+    const slug = window.location.pathname.replace(/^\/|\/$/g, '');
+    const p = Object.values(idx).find(x => x.slug === slug || slug.endsWith(x.slug));
+    const s = Object.values(idx).find(x => x.slug === 'settings' || x.slug?.toLowerCase().endsWith('/settings'));
+    const yr = s?.frontmatter?.Year ? Number(s.frontmatter.Year) : 1542;
+    const b = p?.frontmatter?.Birth, d = p?.frontmatter?.Death;
+    if (b !== undefined) {
+      let st = b > yr ? "⚫ Not born" : (d !== undefined && d < yr ? "🔴 Dead" : "🟢 Alive");
+      let ag = b > yr ? "" : (d !== undefined && d < yr ? ` | Died at ${d - b} y/o | ${yr - d} years ago` : ` | Age: ${yr - b} y/o`);
+      document.getElementById('doa-box').innerHTML = `<a href="/Settings">${st}</a>${ag}`;
+    }
+  }).catch(() => {});
+</script>
 ## 📖 Overview 1
 Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
 To some she is a myth. To others, a name whispered in famine zones. To herself, just someone still moving forward.
