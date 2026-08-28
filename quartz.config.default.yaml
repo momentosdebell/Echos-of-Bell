@@ -229,8 +229,7 @@ plugins:
       hideEmpty: true
       includedProperties:
         - Race
-        - Age
-        - Pronouns
+        - Gender
         - Class
         - Occupation
         - Residence

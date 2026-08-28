@@ -71,4 +71,7 @@ draft: false
 ## 🗓️Events
 
 ---
-## �
+## 🍿Trivia
+
+
+

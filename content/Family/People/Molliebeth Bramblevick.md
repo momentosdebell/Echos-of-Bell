@@ -6,8 +6,7 @@ Race:
   - Gnome
 Birth: 1442
 Death: 1844
-Age:
-Pronouns: She
+Gender: She
 Class: Cleric
 Occupation: Field Worker
 Residence: "[[Ambervale]]"
