@@ -3,24 +3,25 @@ Updated: 2026-08-27
 Birth: 1442
 Death: 1844
 title: Agnes Ekblad
-Img: "[[Agnes Ekblad.jpeg]]"
+Img:
 Race:
   - Human
 Age:
-Pronouns: She
+Gender: Female
 Class:
-Occupation: "[[Innkeeper|The Shelf]]"
-Residence:
+Occupation: "[[The Shelf|Innkeeper]]"
+Residence: "[[Ever Peak]]"
 Origin:
-Father:
-Mother:
+Father: "[[Agust Ekblad]]"
+Mother: "[[Bromhilda Ekblad]]"
 Siblings:
-Partner:
+  - "[[Aurora]]"
+Partner: "[[Gustav Ekblad]]"
 Former Partner:
 Children:
-draft: true
+  - "[[Princess Wiggles]]"
+draft: false
 ---
-
 ## 📜Overview 
 
 ---
@@ -72,24 +73,3 @@ draft: true
 ---
 ## 🍿Trivia
 
-
-
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Agnes Ekblad.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Human 
-> **Gender:** #Female 
-> **Occupation:** Innkeeper of [[The Shelf]]
-> **Residence:** [[Ever Peak]]
-> **Class:** #Babarian 
-> **Personality:** Sweet and careing
-> ---
-> **Father:** [[Agust Ekblad]]
-> **Mother:** [[Bromhilda Ekblad]]
-> **Siblings:** [[Aurora]]
-> **Partner:** [[Gustav Ekblad]]
-> **Children:** [[Princess Wiggles]]

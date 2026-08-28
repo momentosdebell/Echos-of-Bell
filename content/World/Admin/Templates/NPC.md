@@ -6,7 +6,7 @@ Race:
 Birth: 1442
 Death: 1844
 Age:
-Pronouns:
+Gender:
 Class:
 Occupation:
 Residence:

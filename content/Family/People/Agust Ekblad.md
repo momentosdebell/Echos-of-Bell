@@ -1,24 +1,78 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1369
 Death: 1402
+title: Agust Ekblad
+Img:
+Race:
+  - Human
+Age:
+Gender: Male
+Class:
+Occupation: Viking
+Residence: "[[Ever Peak]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Bromhilda Ekblad]]"
+Former Partner:
+Children:
+  - "[[Aurora]]"
+  - "[[Agnes Ekblad]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Agust Ekblad.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Human 
-> **Gender:** #Male
-> **Occupation:** Viking
-> **Residence:** [[Ever Peak]]
-> **Class:** 
-> **Personality:** Harsh and brutal but loving if needed
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Bromhilda Ekblad]]
-> **Children:** [[Aurora]], [[Agnes Ekblad]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
