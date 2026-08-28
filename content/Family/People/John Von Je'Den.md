@@ -1,24 +1,76 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1338
 Death: 1413
+title: John Von Je'Den
+Img: "[[John Von Je'Den.jpeg]]"
+Race:
+  - Human
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Helga Nollac]]"
+Former Partner:
+Children:
+  - "[[Lord Andross von Je'Den]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[John Von Je'Den.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Human
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Helga Nollac]]
-> **Children:** [[Lord Andross von Je'Den]]
+![[John Von Je'Den.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 
