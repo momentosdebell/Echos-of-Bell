@@ -58,7 +58,6 @@ article img, .center img {
   top: 40px !important;
 }
 
-/* --- Mobila anpassningar (endast under 768px) --- */
 @media (max-width: 768px) {
   /* Tvinga pageTitle att hålla sig på en rad */
   .page-title, .page-title a {
@@ -79,17 +78,24 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Placera högerspalten (med properties) direkt efter toppen på mobilen */
+  /* Bygg om mittenkolumnen till ren flex och nollställ desktop-trassel */
   .center {
-    display: flex;
-    flex-direction: column;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
+  /* Nollställ grid och fasta regler för högerspalten och flytta upp den */
   .sidebar.right, 
   div[data-position="right"] {
+    display: flex !important;
+    flex-direction: column !important;
+    position: static !important;
+    grid-template-columns: unset !important;
     order: 2 !important;
+    margin-bottom: 1.5rem;
   }
 
+  /* Låt artikeln hamna efter */
   article, .page-content {
     order: 3 !important;
   }
