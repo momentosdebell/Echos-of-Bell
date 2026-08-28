@@ -1,24 +1,80 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1362
 Death: 1839
+title: Orin Hamilton
+Img: "[[Orin Hamilton.png]]"
+Race:
+  - Gnome
+Gender: Male
+Class:
+Occupation: Mechanic
+Residence: "[[Ambervale]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Gelinda Hamilton]]"
+Former Partner:
+Children:
+  - "[[Valentin Hamilton]]"
+  - "[[Fender Hamilton]]"
+  - "[[Molliebeth Bramblevick]]"
+  - "[[Quinn Hamilton]]"
+  - "[[Grizel Hamilton]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Orin Hamilton.png|230]]
-> **Titel:** Sir
-> **Origin:** 
-> **Race:** #Gnome 
-> **Gender:** #Male 
-> **Occupation:** Mechanic
-> **Residence:** [[Ambervale]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Gelinda Hamilton]]
-> **Children:** [[Valentin Hamilton]], [[Fender Hamilton]], [[Molliebeth Bramblevick]], [[Quinn Hamilton]],
-[[Grizel Hamilton]]
+![[Orin Hamilton.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

@@ -1,23 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1417
 Death: 1543
+title: Nok'ite Ikran
+Img: "[[Nok'ite Ikran.jpeg]]"
+Race:
+  - Genasi
+Gender: Female
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Tsu'tey Ikran]]"
+Former Partner:
+Children:
+  - "[[Teylu Ikran]]"
+  - "[[Captain Blue Whale]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Nok'ite Ikran.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Genasi (Water)
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Tsu'tey Ikran]]
-> **Children:** [[Teylu Ikran]], [[Captain Blue Whale]]
+![[Nok'ite Ikran.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
