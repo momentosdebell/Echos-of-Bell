@@ -1,24 +1,77 @@
 ---
-Updated: 2026-06-08
+Updated: 2026-08-28
 Birth: 1000
 Death: 1979
+title: Elyra De Rivièr
+Img: "[[Elyra De Rivièr.jpeg]]"
+Race:
+  - Elf
+Gender: Female
+Class: Sorcerer
+Occupation: Artist
+Residence: "[[Liora]]"
+Origin:
+  - "[[De Rivièr]]"
+Father: "[[Alerion De Rivièr]]"
+Mother: "[[Thalindra De Rivièr]]"
+Siblings:
+  - "[[Iquique Yllaris Everfall]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Elyra De Rivièr.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[De Rivièr]]
-> **Race:** #Elf 
-> **Gender:** #Female 
-> **Occupation:** Artist
-> **Residence:** Outside [[Liora]]
-> **Class:** #Sorcerer
-> **Personality:** Enthusiastic, frisky and hyperactive
-> ---
-> **Father:** [[Alerion De Rivièr]]
-> **Mother:** [[Thalindra De Rivièr]]
-> **Siblings:** [[Iquique Yllaris Everfall]]
-> **Partner:** 
-> **Children:** 
+![[Elyra De Rivièr.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

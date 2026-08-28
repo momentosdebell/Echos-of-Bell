@@ -1,24 +1,79 @@
 ---
-Updated: 2026-05-31
+Updated: 2026-08-28
 Birth: 206
 Death: 1154
+title: Enya Everfall
+Img: "[[Enya Everfall.jpeg]]"
+Race:
+  - Elf
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+  - "[[Everfall]]"
+Father:
+Mother:
+Siblings:
+  - "[[Melon Everfall]]"
+Partner: "[[Lord Hilivard Everfall]]"
+Former Partner:
+Children:
+  - "[[Vilya Dong]]"
+  - "[[Li'thanïa Everfall]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Enya Everfall.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Everfall]]
-> **Race:** #Elf
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
->  **Personality:** Layedback, graceful, charismatic 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** [[Melon Everfall]]
-> **Partner:** [[Lord Hilivard Everfall]]
-> **Children:** [[Vilya Dong]], [[Li'thanïa Everfall]]
+![[Enya Everfall.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

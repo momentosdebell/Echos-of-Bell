@@ -18,9 +18,11 @@ Partner: "[[Andora Tickelfoot]]"
 Former Partner:
 Children:
   - "[[Phitra Hamilton]]"
-draft: true
+  - "[[Unani Niblespirit]]"
+  - "[[Feather Tickelfoot]]"
+draft: false
 ---
-
+![[Eldar Tarrintel.jpeg]]
 ## 📜Overview 
 
 ---

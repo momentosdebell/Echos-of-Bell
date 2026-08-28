@@ -1,25 +1,87 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 719
 Death: 799
+title: Fang Dong
+Img: "[[Fang Dong.jpeg]]"
+Race:
+  - Human
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+  - "[[Dong]]"
+Father: "[[Gong Dong]]"
+Mother: "[[Fu Dong]]"
+Siblings:
+  - "[[Hao Dong]]"
+  - "[[Du Dong]]"
+  - "[[Song Dong]]"
+  - "[[Xing Dong]]"
+  - "[[Luo Dong]]"
+  - "[[Ye Dong]]"
+  - "[[Me Dong]]"
+  - "[[Ze Dong]]"
+  - "[[Ju Dong]]"
+  - "[[Fa Dong]]"
+  - "[[Jin Dong]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Fang Dong.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Dong]]
-> **Race:** #Human
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
->  **Personality:** Arrogant, wellfed and gossipy
-> ---
-> **Father:** [[Gong Dong]]
-> **Mother:** [[Fu Dong]]
-> **Siblings:** [[Hao Dong]], [[Du Dong]], [[Song Dong]], [[Xing Dong]], [[Luo Dong]], [[Ye Dong]], [[Me Dong]], [[Ze Dong]], [[Ju Dong]], [[Fa Dong]], [[Jin Dong]]
-> **Partner:** 
-> **Children:** 
+![[Fang Dong.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 
