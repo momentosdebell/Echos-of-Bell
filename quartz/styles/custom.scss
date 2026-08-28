@@ -63,37 +63,35 @@ article img, .center img {
   }
 }
 
-// Dölj grafen helt på skärmar som är mindre än 768px (mobiler/små skärmar)
 @media (max-width: 768px) {
-  .graph-component, 
-  .desktop-only.graph, 
-  div[class*="graph"], 
-  .graph-outer {
-    display: none !important;
-  }
-}
-@media (max-width: 768px) {
-  /* Dölj backlinks på små skärmar */
   .backlinks-component, 
   div[class*="backlinks"], 
   .desktop-only.backlinks {
     display: none !important;
   }
-}
-@media (max-width: 768px) {
-  /* Behåll rubrik och properties på sina ursprungliga platser */
+
   .center {
     display: flex;
     flex-direction: column;
   }
 
-  /* Flytta bara högerspalten så den hamnar direkt efter rubrik/properties men före texten */
-  .sidebar.right, 
-  div[data-position="right"] {
-    order: 2;
+  article, .page-content {
+    display: flex;
+    flex-direction: column;
   }
 
-  article, .page-content {
-    order: 3;
+  /* Tvinga properties (och högerspalten) att hoppa upp */
+  .note-properties {
+    order: -2 !important;
+  }
+
+  .sidebar.right, 
+  div[data-position="right"] {
+    order: -1 !important;
+  }
+
+  /* Resten av brödtexten hamnar sist */
+  .page-body, .content-text {
+    order: 1;
   }
 }
