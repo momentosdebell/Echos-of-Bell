@@ -20,7 +20,7 @@ Former Partner:
 Children:
 draft: false
 ---
-![[Rocksan Tickelfoot.jpeg]]
+![[Rocksan Tickelfoot.jpeg]]§
 ## 📜Overview 
 
 ---
