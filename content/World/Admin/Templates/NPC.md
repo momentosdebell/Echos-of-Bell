@@ -28,20 +28,36 @@ draft: true
 
 ## Background 
 
-#### Origin 
+Origin 
 
-#### Upbringing 
-#### Culture 
-• Education 
-• Turning Point 
-• Consequences 
-• Affiliations 
-• Motivations 
-• Secrets 
-• Bridge 
-Equipment – kopplat till abilities, vad de faktiskt använder 
-Relationships – hur de kopplar till andra i berättelsen 
-Events – vad som hänt hittills ingame, kräver att man redan känner karaktären 
-Trivia – ingame citat, inspirationskällor, ingame Roliga minnen, Namnbetydelse, Alternativa versioner, favorit mat/färg/dricka/osv, Fördomar/åsikter, ovanor, rädslor
+Upbringing 
+
+Culture 
+
+Education 
+
+Turning Point 
+
+Consequences 
+
+Affiliations 
+
+Motivations 
+
+Secrets 
+
+Bridge 
+
+## Equipment
+– kopplat till abilities, vad de faktiskt använder 
+
+## Relationships
+– hur de kopplar till andra i berättelsen 
+
+## Events
+– vad som hänt hittills ingame, kräver att man redan känner karaktären 
+
+## Trivia
+– ingame citat, inspirationskällor, ingame Roliga minnen, Namnbetydelse, Alternativa versioner, favorit mat/färg/dricka/osv, Fördomar/åsikter, ovanor, rädslor
 
 
