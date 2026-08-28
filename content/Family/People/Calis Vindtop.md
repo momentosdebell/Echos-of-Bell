@@ -1,26 +1,77 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1446
 Death: 1631
+title: Calis Vindtop
+Img: "[[Calis Vindtop.jpeg]]"
+Race:
+  - Halfling
+Age:
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+Father: "[[Milo Vindtop]]"
+Mother: "[[Jillian Vindtop]]"
+Siblings:
+  - "[[Sappho Vindtop]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Calis Vindtop.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Halfling
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** [[Ambervale]]
-> **Class:** 
->  **Personality:** Bookworm, smart and enthusiastic
-> 
-> ---
-> **Father:** [[Milo Vindtop]]
-> **Mother:** [[Jillian Vindtop]]
-> **Siblings:** [[Sappho Vindtop]]
-> **Partner:** 
-> **Children:** 
+![[Calis Vindtop.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

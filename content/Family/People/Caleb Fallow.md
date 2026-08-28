@@ -1,24 +1,80 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1469
 Death: 1477
+title: Caleb Fallow
+Img: "[[Caleb Fallow.png]]"
+Race:
+  - Gnome
+Age:
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+  - "[[Hamilton]]"
+  - "[[McGlagen]]"
+  - "[[Nollac]]"
+Father: "[[Harrick Fallow]]"
+Mother: "[[Molliebeth Bramblevick]]"
+Siblings:
+  - "[[Noxie Fallow]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Caleb Fallow.png|230]]
-> **Titel:** 
-> **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
-> **Race:** #Gnome 
-> **Gender:** #Male 
-> **Occupation:** 
-> **Residence:** [[Ambervale]]
-> **Class:** 
->  **Personality:** Hyperactive and cute
-> ---
-> **Father:** [[Harrick Fallow]]
-> **Mother:** [[Molliebeth Bramblevick]]
-> **Siblings:** [[Noxie Fallow]]
-> **Partner:** 
-> **Children:** 
+![[Caleb Fallow.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

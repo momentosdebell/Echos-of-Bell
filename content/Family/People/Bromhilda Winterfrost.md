@@ -1,23 +1,29 @@
 ---
 Updated: 2026-08-27
-Birth: 1442
-Death: 1844
-title:
+Birth: 1365
+Death: 1402
+title: Bromhilda Winterfrost
 Img:
 Race:
+  - Goliath
+  - Human
 Age:
-Gender:
-Class:
-Occupation:
-Residence:
+Gender: Female
+Class: Fighter
+Occupation: Viking
+Residence: "[[Ever Peak]]"
 Origin:
-Father:
-Mother:
+  - "[[Winterfrost]]"
+  - "[[Hamilton]]"
+Father: "[[Fyr Hamilton]]"
+Mother: "[[Lolo Winterfrost]]"
 Siblings:
-Partner:
+Partner: "[[Agust Ekblad]]"
 Former Partner:
 Children:
-draft: true
+  - "[[Aurora]]"
+  - "[[Agnes Ekblad]]"
+draft: false
 ---
 
 ## 📜Overview 
