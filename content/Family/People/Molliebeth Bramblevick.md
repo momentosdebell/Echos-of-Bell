@@ -30,8 +30,11 @@ Children:
 - "[[Caleb Fallow]]"
 draft: false
 ---
-<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 300px;"> <img src="{{ frontmatter.img }}" alt="Bild" style="border-radius: 6px; width: 100%; display: block;" /> </div>
-## 📖 Overview123456789
+<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 300px;"> 
+<img src="{{ frontmatter.img }}" alt="Bild" style="border-radius: 6px; width: 100%; display: block;" />
+</div>
+
+## 📖 Overview
 Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
 To some she is a myth. To others, a name whispered in famine zones. To herself, just someone still moving forward.
 
