@@ -1,5 +1,5 @@
 ---
-Updated: 2026-08-27
+Updated: 2026-08-28
 title: Molliebeth Bramblevick
 img: "[[Molliebeth Bramblevick.png]]"
 Race:
@@ -31,6 +31,7 @@ draft: false
 ---
 ![[Molliebeth Bramblevick.png]]
 <span id="doa-box"></span>
+<span id="doa-box"></span>
 <script>
   fetch('/static/contentIndex.json').then(r => r.json()).then(idx => {
     const slug = window.location.pathname.replace(/^\/|\/$/g, '');
@@ -45,7 +46,7 @@ draft: false
     }
   }).catch(() => {});
 </script>
-## 📖 Overview 1
+## 📖 Overview 12
 Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
 To some she is a myth. To others, a name whispered in famine zones. To herself, just someone still moving forward.
 
