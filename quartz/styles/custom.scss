@@ -63,7 +63,10 @@ article img, .center img {
 
 // Dölj grafen helt på skärmar som är mindre än 768px (mobiler/små skärmar)
 @media (max-width: 768px) {
-  .graph-component, .desktop-only.graph {
+  .graph-component, 
+  .desktop-only.graph, 
+  div[class*="graph"], 
+  .graph-outer {
     display: none !important;
   }
 }
