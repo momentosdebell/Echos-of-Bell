@@ -5,9 +5,10 @@ img: "[[Molliebeth Bramblevick.png]]"
 Race:
   - Gnome
   - Dwarf
+  - Human
 Birth: 1442
 Death: 1844
-Gender: She
+Gender: Female
 Class: Cleric
 Occupation: Field Worker
 Residence: "[[Ambervale]]"
