@@ -20,4 +20,4 @@ await dv.view("World/Admin/doa");
 > **Mother:** 
 > **Siblings:** 
 > **Partner:** [[Flow Windgust]]
-> **Children:** [[Gustav Ekblad]], [[Gullvi Tealeaf]]
+> **Children:** [[Gustav Ekblad]], [[Gullvi Nimue]]

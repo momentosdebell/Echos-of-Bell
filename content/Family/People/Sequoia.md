@@ -18,7 +18,7 @@ await dv.view("World/Admin/doa");
 > ---
 > **Father:** [[Flow Windgust]]
 > **Mother:** [[Gaganesh Orvil Amon Thorne]]
-> **Siblings:** [[Gustav Ekblad]], [[Gullvi Tealeaf]]
+> **Siblings:** [[Gustav Ekblad]], [[Gullvi Nimue]]
 > **Partner:** 
 > **Children:** 
 

@@ -1,25 +1,76 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 681
 Death: 780
+title: Gong Dong
+Img: "[[Gong Dong.jpeg]]"
+Race:
+  - Human
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Fu Dong]]"
+Former Partner:
+Children:
+  - "[[Hao Dong]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Gong Dong.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Dong]]
-> **Race:** #Human
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
->  **Personality:** Overwhelmed, proud and traditional 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Fu Dong]]
-> **Children:** [[Hao Dong]], [[Du Dong]], [[Song Dong]], [[Xing Dong]], [[Luo Dong]], [[Ye Dong]], [[Me Dong]], [[Ze Dong]], [[Fang Dong]], [[Ju Dong]], [[Fa Dong]], [[Jin Dong]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

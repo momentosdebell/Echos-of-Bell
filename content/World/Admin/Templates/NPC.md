@@ -16,7 +16,7 @@ Siblings:
 Partner:
 Former Partner:
 Children:
-draft: true
+draft: false
 ---
 
 ## 📜Overview 

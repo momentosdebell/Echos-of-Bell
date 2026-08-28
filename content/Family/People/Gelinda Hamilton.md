@@ -1,25 +1,86 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1399
 Death: 1588
+title: Gelinda Hamilton
+Img:
+Race:
+  - Human
+  - Dwarf
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ambervale]]"
+Origin:
+  - "[[Hamilton]]"
+  - "[[McGlagen]]"
+  - "[[Nollac]]"
+Father: "[[Sean Christopher Hamilton II]]"
+Mother: "[[Arthur Wolfric McGlagen III]]"
+Siblings:
+  - "[[Frick Achkook]]"
+  - "[[Sean Christopher Hamilton III]]"
+Partner: "[[Orin Hamilton]]"
+Former Partner:
+Children:
+  - "[[Valentin Hamilton]]"
+  - "[[Fender Hamilton]]"
+  - "[[Molliebeth Bramblevick]]"
+  - "[[Quinn Hamilton]]"
+  - "[[Grizel Hamilton]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Gelinda Hamilton.png|230]]
-> **Titel:** Lady
-> **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
-> **Race:** #Human, #Dwarf 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** [[Ambervale]]
-> **Class:** 
->  **Personality:** Mean, egoistic and witless
-> ---
-> **Father:** [[Sean Christopher Hamilton II]]
-> **Mother:** [[Arthur Wolfric McGlagen III]]
-> **Siblings:** [[Frick Achkook]], [[Sean Christopher Hamilton III]]
-> **Partner:** [[Orin Hamilton]]
-> **Children:** [[Valentin Hamilton]], [[Fender Hamilton]], [[Molliebeth Bramblevick]], [[Quinn Hamilton]],
-[[Grizel Hamilton]]
+![[Gelinda Hamilton.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

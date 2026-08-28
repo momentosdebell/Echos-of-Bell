@@ -1,25 +1,75 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1456
 Death: 1534
+title: Fnarl Z'url
+Img: "[[Fnarl Z'url.jpeg]]"
+Race:
+  - Orc
+Gender: Male
+Class:
+Occupation: Florist
+Residence: "[[Rivergold]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Hef Dong]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Fnarl Z'url.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Orc
-> **Gender:** #Male
-> **Occupation:** Florist 
-> **Residence:** [[Rivergold]]
-> **Class:** 
->  **Personality:** Romantic, faithful and neat
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Hef Dong]]
-> **Children:** 
+![[Fnarl Z'url.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

@@ -19,7 +19,7 @@ await dv.view("World/Admin/doa");
 > ---
 > **Father:** [[Flow Windgust]]
 > **Mother:** [[Safir Windgust]]
-> **Siblings:** [[Gullvi Tealeaf]]
+> **Siblings:** [[Gullvi Nimue]]
 > **Partner:** [[Agnes Ekblad]]
 > **Children:** [[Princess Wiggles]]
 

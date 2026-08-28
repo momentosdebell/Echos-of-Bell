@@ -1,24 +1,77 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1400
 Death: 1466
+title: Frick Achkook
+Img:
+Race:
+  - Dragonborn
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+Father: "[[Sean Christopher Hamilton II]]"
+Mother: "[[Arthur Wolfric McGlagen III]]"
+Siblings:
+  - "[[Gelinda Hamilton]]"
+  - "[[Sean Christopher Hamilton III]]"
+Partner: "[[Morgani Achkook]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Frick Achkook.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Dragonborn 
-> **Gender:** #Male 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
->  **Personality:** Curious, naive and loyal
-> ---
-> **Adobted Father:** [[Sean Christopher Hamilton II]]
-> **Adobted Mother:** [[Arthur Wolfric McGlagen III]]
-> **Siblings:** [[Gelinda Hamilton]], [[Sean Christopher Hamilton III]]
-> **Partner:** [[Morgani Achkook]]
-> **Children:** 
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

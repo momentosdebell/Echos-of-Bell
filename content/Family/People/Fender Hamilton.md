@@ -1,24 +1,81 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1439
 Death: 1839
+title: Fender Hamilton
+Img: "[[Fender Hamilton.png]]"
+Race:
+  - Gnome
+  - Dwarf
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+  - "[[Hamilton]]"
+Father: "[[Orin Hamilton]]"
+Mother: "[[Gelinda Hamilton]]"
+Siblings:
+  - "[[Valentin Hamilton]]"
+  - "[[Molliebeth Bramblevick]]"
+  - "[[Quinn Hamilton]]"
+  - "[[Grizel Hamilton]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Fender Hamilton.png|230]]
-> **Titel:** 
-> **Origin:** [[Hamilton]]
-> **Race:** #Gnome, #Dwarf 
-> **Gender:** #Male 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
->  **Personality:** Loner, narrow minded and grumpy 
-> ---
-> **Father:** [[Orin Hamilton]]
-> **Mother:** [[Gelinda Hamilton]]
-> **Siblings:** [[Valentin Hamilton]], [[Molliebeth Bramblevick]], [[Quinn Hamilton]], [[Grizel Hamilton]]
-> **Partner:** 
-> **Children:** 
+![[Fender Hamilton.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

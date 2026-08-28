@@ -1,24 +1,78 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-28
 Birth: 1319
 Death: 1405
+title: Fyr Hamilton
+Img: "[[Fyr Hamilton.jpg]]"
+Race:
+  - Human
+Gender: Male
+Class: Fighter
+Occupation: Soldier
+Residence: "[[Silvergrove City]]"
+Origin:
+  - "[[Hamilton]]"
+Father: "[[Sean Hamilton]]"
+Mother: "[[Triss Hamilton]]"
+Siblings:
+  - "[[Sean Christopher Hamilton]]"
+Partner: "[[Lolo Winterfrost]]"
+Former Partner:
+Children:
+  - "[[Bromhilda Winterfrost]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Fyr Hamilton.jpg|230]]
-> **Titel:** 
-> **Origin:** [[Hamilton]]
-> **Race:** #Human 
-> **Gender:** #Male 
-> **Occupation:** Soldier
-> **Residence:** [[Silvergrove City]]
-> **Class:** #Fighter 
->  **Personality:** Loyal, viscous and Stubern 
-> ---
-> **Father:** [[Sean Hamilton]]
-> **Mother:** [[Triss Hamilton]]
-> **Siblings:** [[Sean Christopher Hamilton]]
-> **Partner:** [[Lolo Winterfrost]]
-> **Children:** [[Bromhilda Winterfrost]]
+![[Fyr Hamilton.jpg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
