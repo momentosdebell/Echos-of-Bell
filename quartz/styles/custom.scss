@@ -43,9 +43,14 @@ div[data-position="right"] details {
   flex-direction: column;
 }
 /* Main bild */
-.content img {
-  float: right;
-  margin: 0 0 1rem 1.5rem;
-  max-width: 300px;
-  border-radius: 6px;
+.content p:has(img), .content figure {
+  > img {
+    float: right !important;
+    width: 30px !important;
+    max-width: 30px !important;
+    height: auto !important;
+    margin: 0 0 1rem 1.5rem !important;
+    border-radius: 6px !important;
+    object-fit: cover;
+  }
 }
