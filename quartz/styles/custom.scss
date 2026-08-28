@@ -55,8 +55,10 @@ article img, .center img {
 }
 // Tvinga pageTitle att hålla sig på en rad utan radbrytningar
 .page-title, .page-title a {
+  font-size: clamp(1.2rem, 4vw, 2rem) !important;
   white-space: nowrap !important;
-  word-break: normal !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
 }
 
 // Dölj grafen helt på skärmar som är mindre än 768px (mobiler/små skärmar)
