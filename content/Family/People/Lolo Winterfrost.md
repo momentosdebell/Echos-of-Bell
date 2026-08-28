@@ -20,4 +20,4 @@ await dv.view("World/Admin/doa");
 > **Mother:** [[Fumlah Winterfrost]]
 > **Siblings:** [[Rami Winterfrost]]
 > **Partner:** [[Fyr Hamilton]]
-> **Children:** [[Bromhilda Ekblad]]
+> **Children:** [[Bromhilda Winterfrost]]

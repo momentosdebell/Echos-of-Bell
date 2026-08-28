@@ -1,25 +1,79 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1390
 Death: 1419
+title: Aurora
+Img: "[[Aurora.jpeg]]"
+Race:
+  - Human
+Age:
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Ever Peak]]"
+Origin:
+  - "[[Winterfrost]]"
+  - "[[Hamilton]]"
+Father: "[[Agust Ekblad]]"
+Mother: "[[Bromhilda Winterfrost]]"
+Siblings:
+  - "[[Agnes Ekblad]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Aurora.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Winterfrost]], [[Hamilton]]
-> **Race:** #Human 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** [[Ever Peak]]
-> **Class:** 
-> **Personality:** Naive, posh and kind
-> ---
-> **Father:** [[Agust Ekblad]]
-> **Mother:** [[Bromhilda Ekblad]]
-> **Siblings:** [[Agnes Ekblad]]
-> **Partner:** 
-> **Children:** 
+![[Aurora.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

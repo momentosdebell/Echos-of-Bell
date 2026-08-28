@@ -15,7 +15,7 @@ Origin:
 Father:
 Mother:
 Siblings:
-Partner: "[[Bromhilda Ekblad]]"
+Partner: "[[Bromhilda Winterfrost]]"
 Former Partner:
 Children:
   - "[[Aurora]]"

@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-27
-Birth: 1442
-Death: 1844
+Birth: 1394
+Death: 1477
 title: Agnes Ekblad
 Img:
 Race:
@@ -13,7 +13,7 @@ Occupation: "[[The Shelf|Innkeeper]]"
 Residence: "[[Ever Peak]]"
 Origin:
 Father: "[[Agust Ekblad]]"
-Mother: "[[Bromhilda Ekblad]]"
+Mother: "[[Bromhilda Winterfrost]]"
 Siblings:
   - "[[Aurora]]"
 Partner: "[[Gustav Ekblad]]"

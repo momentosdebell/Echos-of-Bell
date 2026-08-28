@@ -21,4 +21,4 @@ await dv.view("World/Admin/doa");
 > **Mother:** [[Triss Hamilton]]
 > **Siblings:** [[Sean Christopher Hamilton]]
 > **Partner:** [[Lolo Winterfrost]]
-> **Children:** [[Bromhilda Ekblad]]
+> **Children:** [[Bromhilda Winterfrost]]

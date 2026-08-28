@@ -1,24 +1,78 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-27
 Birth: 1075
 Death: 1497
+title: Arthur Wolfric McGlagen II
+Img:
+Race:
+  - Dwarf
+Age:
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Rivergold]]"
+Origin:
+  - "[[McGlagen]]"
+Father:
+Mother:
+Siblings:
+Partner: "[[Toy McGlagen]]"
+Former Partner:
+Children:
+  - "[[Arthur Wolfric McGlagen III]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Arthur Wolfric McGlagen II.jpg|230]]
-> **Titel:** Sr
-> **Origin:** [[McGlagen]]
-> **Race:** #Dwarf 
-> **Gender:** #Male 
-> **Occupation:** Lord Proprietor
-> **Residence:** [[Rivergold]]
-> **Class:** 
-> **Personality:** Close minded and stubbern
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Toy McGlagen]]
-> **Children:** [[Arthur Wolfric McGlagen III]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

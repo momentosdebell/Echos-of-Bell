@@ -1,24 +1,79 @@
 ---
-Updated: 2026-06-08
+Updated: 2026-08-27
 Birth: 630
-Death: 1547
+Death: 1844
+title: Alerion De Rivièr
+Img:
+Race:
+  - Elf
+Age:
+Gender: Male
+Class:
+Occupation: "[[River Royal|Winemaker]]"
+Residence: "[[Liora]]"
+Origin:
+  - "[[De Rivièr]]"
+Father:
+Mother:
+Siblings:
+Partner: "[[Thalindra De Rivièr]]"
+Former Partner:
+Children:
+  - "[[Iquique Yllaris Everfall]]"
+  - "[[Elyra De Rivièr]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox|right]+ Quickies
-> ![[.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[De Rivièr]]
-> **Race:** #Elf 
-> **Gender:** #Male 
-> **Occupation:** Winemaker of [[River Royal]]
-> **Residence:** Outside [[Liora]]
-> **Class:** 
-> **Personality:** Noble, collected and understanding
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Thalindra De Rivièr]]
-> **Children:** [[Iquique Yllaris Everfall]], [[Elyra De Rivièr]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
