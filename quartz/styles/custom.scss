@@ -14,8 +14,8 @@ div:has(> .note-property-value:not(:has(*)):not(:contains_text)) {
 /* Gör så att hela högerspalten följer med när man scrollar, utan intern skroll */
 .sidebar.right, 
 div[data-position="right"] {
-  position: sticky;
-  top: 2rem;
+  position: static !important;
+  top: unset !important;
   height: fit-content;
   max-height: none;
   overflow-y: visible;
