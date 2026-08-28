@@ -45,10 +45,11 @@ div[data-position="right"] details {
 /* Main bild */
 article img, .center img {
   float: right !important;
-  width: 200px !important;
-  max-width: 200px !important;
+  width: 300px !important;
+  max-width: 300px !important;
   height: auto !important;
-  margin: 25px 0 1rem 1.5rem !important;
+  margin: 0 0 1rem 1.5rem !important;
   border-radius: 6px !important;
   display: block !important;
+  top: 40 px !important;
 }
