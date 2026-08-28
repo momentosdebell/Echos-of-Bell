@@ -59,7 +59,6 @@ article img, .center img {
 }
 
 @media (max-width: 768px) {
-  /* Tvinga pageTitle att hålla sig på en rad */
   .page-title, .page-title a {
     font-size: clamp(1.2rem, 4vw, 2rem) !important;
     white-space: nowrap !important;
@@ -67,7 +66,6 @@ article img, .center img {
     text-overflow: ellipsis !important;
   }
 
-  /* Dölj graf och backlinks */
   .graph-component, 
   .desktop-only.graph, 
   div[class*="graph"], 
@@ -78,25 +76,20 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Bygg om mittenkolumnen till ren flex och nollställ desktop-trassel */
+  /* Återställ layouten helt till standard i mobilläge */
   .center {
-    display: flex !important;
-    flex-direction: column !important;
+    display: block !important;
   }
 
-  /* Nollställ grid och fasta regler för högerspalten och flytta upp den */
   .sidebar.right, 
   div[data-position="right"] {
-    display: flex !important;
-    flex-direction: column !important;
-    position: static !important;
-    grid-template-columns: unset !important;
-    order: 2 !important;
-    margin-bottom: 1.5rem;
+    display: revert !important;
+    position: revert !important;
+    grid-template-columns: revert !important;
+    order: revert !important;
   }
 
-  /* Låt artikeln hamna efter */
   article, .page-content {
-    order: 3 !important;
+    order: revert !important;
   }
 }
