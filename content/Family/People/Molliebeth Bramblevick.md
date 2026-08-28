@@ -30,21 +30,42 @@ Children:
 draft: false
 ---
 ![[Molliebeth Bramblevick.png]]
-<span id="doa-box"></span>
-<span id="doa-box"></span>
+<div id="doa-status"></div>
 <script>
-  fetch('/static/contentIndex.json').then(r => r.json()).then(idx => {
-    const slug = window.location.pathname.replace(/^\/|\/$/g, '');
-    const p = Object.values(idx).find(x => x.slug === slug || slug.endsWith(x.slug));
-    const s = Object.values(idx).find(x => x.slug === 'settings' || x.slug?.toLowerCase().endsWith('/settings'));
-    const yr = s?.frontmatter?.Year ? Number(s.frontmatter.Year) : 1542;
-    const b = p?.frontmatter?.Birth, d = p?.frontmatter?.Death;
-    if (b !== undefined) {
-      let st = b > yr ? "⚫ Not born" : (d !== undefined && d < yr ? "🔴 Dead" : "🟢 Alive");
-      let ag = b > yr ? "" : (d !== undefined && d < yr ? ` | Died at ${d - b} y/o | ${yr - d} years ago` : ` | Age: ${yr - b} y/o`);
-      document.getElementById('doa-box').innerHTML = `<a href="/Settings">${st}</a>${ag}`;
+  async function loadDoa() {
+    try {
+      const res = await fetch('/static/contentIndex.json');
+      const index = await res.json();
+      
+      const currentSlug = window.location.pathname.replace(/^\/|\/$/g, '');
+      const page = Object.values(index).find(p => p.slug === currentSlug || currentSlug.endsWith(p.slug));
+      const settings = Object.values(index).find(p => p.slug === 'settings' || p.slug?.toLowerCase().endsWith('/settings'));
+      
+      const year = settings?.frontmatter?.Year ? Number(settings.frontmatter.Year) : 1542;
+      const birth = page?.frontmatter?.Birth;
+      const death = page?.frontmatter?.Death;
+
+      if (birth === undefined) return;
+
+      let status = "";
+      let details = "";
+
+      if (birth > year) {
+        status = "⚫ Not born";
+      } else if (death !== undefined && death < year) {
+        status = "🔴 Dead";
+        details = ` | Died at ${death - birth} y/o | ${year - death} years ago`;
+      } else {
+        status = "🟢 Alive";
+        details = ` | Age: ${year - birth} y/o`;
+      }
+
+      document.getElementById('doa-status').innerHTML = `<a href="/Settings">${status}</a>${details}`;
+    } catch (e) {
+      // Tyst om det misslyckas
     }
-  }).catch(() => {});
+  }
+  loadDoa();
 </script>
 ## 📖 Overview 12
 Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
