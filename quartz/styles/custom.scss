@@ -72,3 +72,30 @@ article img, .center img {
     display: none !important;
   }
 }
+@media (max-width: 768px) {
+  /* Dölj backlinks på små skärmar */
+  .backlinks-component, 
+  div[class*="backlinks"], 
+  .desktop-only.backlinks {
+    display: none !important;
+  }
+
+  /* Flytta upp hela högerspalten ovanför huvudinnehållet på mobilen */
+  .center {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .page-title {
+    order: 1;
+  }
+
+  .sidebar.right, 
+  div[data-position="right"] {
+    order: 2;
+  }
+
+  article, .page-content {
+    order: 3;
+  }
+}

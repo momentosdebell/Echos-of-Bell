@@ -18,7 +18,7 @@ Former Partner:
 Children:
 draft: false
 ---
-§§![[_Invisible Paradox_.jpeg]]
+![[_Invisible Paradox_.jpeg]]
 ## 📜Overview 
 
 ---
