@@ -90,7 +90,7 @@ At Sourdogh Tally's bakery, [[The Rolling Pin]], she learned that food is not ju
 
 This place shaped her identity more than any noble education ever did. It is where she became Molly.
 
----
+
 
 ## 👨‍👧 Relationship
 

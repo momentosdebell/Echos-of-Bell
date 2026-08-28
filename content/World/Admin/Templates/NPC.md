@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-27
-title: Molliebeth Bramblevick
+title:
 Img:
 Race:
 Birth: 1442
@@ -20,45 +20,56 @@ Children:
 draft: true
 ---
 
-## Overview 
-– den där "elevator pitch"-meningen, ger sammanhang direkt 
+## 📜Overview 
 
-## Personality  
-– vem de är som person 
+---
+## 🎭Personality  
 
-## Background 
+---
+## 🏰Background 
 
-**Origin** 
+   **Origin** 
 
 
-Upbringing 
+   **Upbringing** 
 
-Culture 
 
-Education 
+   **Culture** 
 
-Turning Point 
 
-Consequences 
+   **Education** 
 
-Affiliations 
 
-Motivations 
+   **Turning Point** 
 
-Secrets 
 
-Bridge 
+   **Consequences** 
 
-## Equipment
-– kopplat till abilities, vad de faktiskt använder 
 
-## Relationships
-– hur de kopplar till andra i berättelsen 
+   **Affiliations** 
 
-## Events
-– vad som hänt hittills ingame, kräver att man redan känner karaktären 
 
-## Trivia
-– ingame citat, inspirationskällor, ingame Roliga minnen, Namnbetydelse, Alternativa versioner, favorit mat/färg/dricka/osv, Fördomar/åsikter, ovanor, rädslor
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
 
 
