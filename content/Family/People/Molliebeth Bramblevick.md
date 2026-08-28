@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-27
 title: Molliebeth Bramblevick
-img: [[Molliebeth Bramblevick.png]]
+img: "[[Molliebeth Bramblevick.png]]"
 Race:
   - Gnome
   - Dwarf
@@ -12,22 +12,22 @@ Pronouns: She
 Class: Cleric
 Occupation: Field Worker
 Residence: "[[Ambervale]]"
-Origin: 
-- "[[Hamilton]]" 
-- "[[McGlagen]]" 
-- "[[Nollac]]"
+Origin:
+  - "[[Hamilton]]"
+  - "[[McGlagen]]"
+  - "[[Nollac]]"
 Father: "[[Orin Hamilton]]"
 Mother: "[[Gelinda Hamilton]]"
-Siblings: 
-- "[[Valentin Hamilton]]"
-- "[[Fender Hamilton]]"
-- "[[Quinn Hamilton]]"
-- "[[Grizel Hamilton]]"
+Siblings:
+  - "[[Valentin Hamilton]]"
+  - "[[Fender Hamilton]]"
+  - "[[Quinn Hamilton]]"
+  - "[[Grizel Hamilton]]"
 Partner:
 Former Partner: "[[Harrick Fallow]]"
-Children: 
-- "[[Noxie Fallow]]"
-- "[[Caleb Fallow]]"
+Children:
+  - "[[Noxie Fallow]]"
+  - "[[Caleb Fallow]]"
 draft: false
 ---
 <div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 300px;"> 
