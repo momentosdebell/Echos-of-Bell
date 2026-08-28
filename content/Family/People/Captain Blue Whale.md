@@ -1,24 +1,79 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-27
 Birth: 1456
 Death: 1558
+title: Captain Blue Whale
+Img: "[[Captain Blue Whale.jpeg]]"
+Race:
+  - Genasi
+Age:
+Gender: Male
+Class: Bard
+Occupation: Captain
+Residence: "[[Liora]]"
+Origin:
+  - "[[Ikran]]"
+Father: "[[Tsu'tey Ikran]]"
+Mother: "[[Nok'ite Ikran]]"
+Siblings:
+  - "[[Teylu Ikran]]"
+Partner:
+Former Partner:
+Children:
+  - "[[Kitana Greenmoss]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Captain Blue Whale.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Genasi 
-> **Gender:** #Male 
-> **Occupation:** Captain
-> **Residence:** [[Liora]]
-> **Class:** #Bard
->  **Personality:** Compassionate, Gentel and Raw
-> ---
-> **Father:** [[Tsu'tey Ikran]]
-> **Mother:** [[Nok'ite Ikran]]
-> **Siblings:** [[Teylu Ikran]]
-> **Partner:** 
-> **Children:** 
+![[Captain Blue Whale.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
