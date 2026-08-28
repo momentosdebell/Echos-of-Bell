@@ -1,23 +1,78 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 661
 Death: 1592
+title: Li'thanïa Everfall
+Img: "[[Li'thanïa Everfall.jpeg]]"
+Race:
+  - Elf
+  - Dragonborn
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+  - "[[Everfall]]"
+Father: "[[Lord Hilivard Everfall]]"
+Mother: "[[Enya Everfall]]"
+Siblings:
+  - "[[Vilya Dong]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Li'thanïa Everfall.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Everfall]]
-> **Race:** #Elf, #Dragonborn
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** [[Lord Hilivard Everfall]]
-> **Mother:** [[Enya Everfall]]
-> **Siblings:** [[Vilya Dong]]
-> **Partner:** 
-> **Children:** 
+![[Li'thanïa Everfall.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
