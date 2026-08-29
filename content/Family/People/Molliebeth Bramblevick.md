@@ -32,139 +32,86 @@ draft: false
 ---
 ![[Molliebeth Bramblevick.png]]
 <div id="doa-status"></div>
-<script>
-  async function loadDoa() {
-    try {
-      const res = await fetch('/static/contentIndex.json');
-      const index = await res.json();
-      
-      const currentSlug = window.location.pathname.replace(/^\/|\/$/g, '');
-      const page = Object.values(index).find(p => p.slug === currentSlug || currentSlug.endsWith(p.slug));
-      const settings = Object.values(index).find(p => p.slug === 'settings' || p.slug?.toLowerCase().endsWith('/settings'));
-      
-      const year = settings?.frontmatter?.Year ? Number(settings.frontmatter.Year) : 1542;
-      const birth = page?.frontmatter?.Birth;
-      const death = page?.frontmatter?.Death;
-
-      if (birth === undefined) return;
-
-      let status = "";
-      let details = "";
-
-      if (birth > year) {
-        status = "⚫ Not born";
-      } else if (death !== undefined && death < year) {
-        status = "🔴 Dead";
-        details = ` | Died at ${death - birth} y/o | ${year - death} years ago`;
-      } else {
-        status = "🟢 Alive";
-        details = ` | Age: ${year - birth} y/o`;
-      }
-
-      document.getElementById('doa-status').innerHTML = `<a href="/Settings">${status}</a>${details}`;
-    } catch (e) {
-      // Tyst om det misslyckas
-    }
-  }
-  loadDoa();
-</script>
-## 📖 Overview 123
-Molliebeth Bramblevick, known through many names across the world is a wandering humanitarian field worker tied to [[The Circle of the Blooming Table]]. Once a noblewoman of House [[Hamilton]], she now lives outside titles, carrying survival where others bring politics.  
-To some she is a myth. To others, a name whispered in famine zones. To herself, just someone still moving forward.
+## 📖 Overview 
+Molliebeth Bramblevick is a battle-hardened humanitarian and decorated survivor who traded the cold, gilded cage of House Hamilton for a life on the road, dedicating her existence to keeping others alive after losing everything she held dear.
 
 ---
 
-## 🕰️ Early Life
-
-Born into House [[Hamilton]] in [[Ambervale]], Mollie grew up in a polished but emotionally cold noble household. Everything looked perfect on the surface, but love was absent, replaced by status and expectation.
-
-Her real grounding came from [[Family/People/Talia Bramblevick]] at the bakery. There she learned warmth, craft, and what it means to be needed. Not as a title. As a person.
-
-She never truly belonged to her family. She belonged to the kitchen, the earth, and the people who were hungry.
+## Personality
+Molliebeth is deeply compassionate yet profoundly guarded, carrying a quiet resilience forged through early emotional isolation and devastating loss. Despite the cruelty she has suffered, she refuses to turn cold, channeling her own grief into an overwhelming, fierce drive to care for others. She is practical, observant, and entirely unimpressed by status or vanity, preferring the honest labor of the field and kitchen to the hollow halls of nobility. Beneath her gentle, nurturing exterior lies a battle-hardened survivor—someone who can step up to manage impossible crises with absolute calm, even as she quietly carries the heavy ghosts of her past.
 
 ---
+## 🏠 Background
 
-## 🏠 Hearth of Tally
+**Origin**
+House Hamilton of Ambervale was a prominent fixture in the region, known for sweeping stone manors, immaculately kept grounds, and an unyielding grip on local influence. It was an environment defined by cold architecture, polished copper, and the heavy weight of centuries-old expectations, where the surrounding lands bowed to a family name built entirely on status and power.
 
-Her true home was not made of stone or lineage, but flour, heat, and quiet care.  
-At Sourdogh Tally's bakery, [[The Rolling Pin]], she learned that food is not just survival. It is safety. Presence. Love in physical form.
+Yet, amid the cold formalities of her aristocratic world, life took a profoundly brighter turn when she met a young, handsome, and deeply ambitious man. In stark contrast to her own stifling family, he was remarkably warm, deeply loved by those around him, and radiated a genuine kindness. Together, they built what seemed like a perfect life and had two children, bringing a rich layer of warmth and happiness into her world that she had never known within the walls of House Hamilton.
 
-This place shaped her identity more than any noble education ever did. It is where she became Molly.
+**Upbringing**
+Molliebeth grew up surrounded by the quiet, sterile luxury of House Hamilton. On paper, her childhood lacked nothing; every material need was met, and her upbringing was outwardly comfortable and refined. Yet beneath the polished veneer, a profound emptiness lingered. She spent years chasing warmth, acceptance, and genuine affection from a family that treated her more like an asset than a daughter. Though her days were free of hardship, the emotional starvation left her feeling profoundly unmoored, recognizing early on that all the privilege in the world could not replace the love she was constantly denied.
 
+Gelinda, her mother, was adored by everyone—or at least, that was the grand illusion the family projected to the world. In reality, she was rigid and backward-looking, wrapped tightly in propriety and social standing. Her father, Orin, provided the only real warmth in the household; while he never gave her the deep affection she craved, he was pleasant and witty, offering a brief spark of light against the cold backdrop of their noble estate.
 
+Away from the stifling halls of her estate, Molliebeth found her true sanctuary at a nearby bakery. The owner was an incredible woman—warm, grounded, and the absolute antithesis of everything her own family stood for. As Molliebeth grew older, she spent more and more time there alongside the baker's daughter, Talia, who was right around her age. Talia became the genuine light in her life, offering the kind of effortless friendship and warmth she never found at home.
 
-## 👨‍👧 Relationship
+Beyond the bakery, Molliebeth was drawn to the vibrant town square by the harbor. She would spend hours just watching the ebb and flow of the crowds, observing the strangers, and taking in all the new faces, goods, and stories arriving on the incoming ships.
 
-Mollie’s life is defined by two families that broke in opposite ways.
+**Culture**
+From an early age, Molliebeth found herself drawn to the tenets and quiet reverence of the Eternal Roots faith. Its deep-rooted philosophy of connection, stewardship, and enduring life resonated profoundly with her craving for genuine meaning, far away from the shallow prestige of her noble house. This spiritual pull became a defining cornerstone of her worldview, eventually acting as a guiding compass that would lead her far beyond her familiar borders and guide her toward entirely new paths and places later in life.
 
-Her chosen family was [[Harrick Fallow]] and their children, a brief period of warmth that later collapsed into tragedy and betrayal.
+**Education**
+While her formal education was conducted at home by a private tutor who filled her days with the expected aristocratic curriculum, those structured lessons never touched on what truly mattered. The real foundation of her life was forged elsewhere—first at the Rolling Pin bakery alongside Talia, where she discovered a deep-seated love for food and the profound joy of helping people. Later, her education was truly completed through the Circle of the Blooming Table, whose teachings provided the practical framework and philosophy that finally allowed her to put that compassion into action. It was also through her work with the Circle that she earned her first major title, the Keeper of the Winter Table, recognizing her extraordinary efforts in sustaining populations through brutal scarcity.
 
-Her blood family, House [[Hamilton]], turned away from her during her lowest moment. Some ignored her. Some blamed her. None truly stood with her.
+**Turning Point**
+The true turning point in her life arrived with the harrowing ordeal in Rivergold, where she fought fiercely against a devastating epidemic and earned the title Guardian of Gold for her lifesaving medical logistics. But this triumph came at an unbearable cost. While she was away battling the outbreak, her children fell victim to the very same sickness, perishing in her absence. When she finally returned home, she was met with crushing personal devastation: not only had she lost her children, but the man she once loved had completely shattered her world.
 
-The only constant loyalty came from [[Family/People/Talia Bramblevick]], who chose her safety over wealth or power without hesitation.
+**Consequences**
+The aftermath of her return stripped away any lingering illusions about the life she had built. Harrick proved to be a pure monster, turning everyone she knew against her and twisting the narrative entirely to claim that she was the one who had abandoned their children. He sought out sympathy and support, finding a willing ear only in his new partner, Lysandra. The warmth, love, and community she thought she had found were completely wiped away in an instant, revealing that the man she married was entirely different from the kind soul she believed she knew, leaving her utterly isolated and forced onto a solitary, unforgiving path.
 
----
+**Affiliations**
+House Hamilton of Ambervale: Her aristocratic birthright and family lineage, anchoring her to local nobility and high-society politics.
 
-## 🧠 Personality
+The Rolling Pin: Her roots in the local community through the bakery, representing her early sanctuary and closest friendship.
 
-Mollie functions through care. If someone suffers, she moves. If someone is hungry, she feeds them. Rest feels unsafe, like something might break while she is still.
+The Circle of the Blooming Table: The humanitarian and survival organization she trained with, served under, and earned her titles through.
 
-She is calm in crisis, not because she is unshaken, but because she refuses to collapse while others still need her.
+The Eternal Roots: Her spiritual foundation, whose faith and philosophy guided her worldview long before she left home.
 
-Kind, but not fragile. Gentle, but not soft.  
-She can endure almost anything except helplessness in others.
+**Motivations** 
+She is driven by a deep-seated, quiet ache—unsure whether her boundless compassion stems from the desperate lack of love in her own youth, or from the agonizing void left by losing her children. Having known the sting of emotional starvation and the unbearable grief of parental loss, she carries a fierce vulnerability for others, refusing to let anyone else endure the isolation she wakes up with every single day. This profound empathy, coupled with the wreckage left behind in Ambervale, became the catalyst for her travels. Unable to stand still without facing the ghosts of her past and her own unhealed trauma, she now wanders far and wide, dedicating her life to helping anyone she can, wherever she is needed most.
 
-Her deepest pattern is simple.  
-If she is useful, people live.
+**Bridge**
+Molliebeth was standing over her trusty pot in yet another muddy camp, dishing out the exact same root stew to the exact same exhausted faces, when the brutal truth finally hit her: she was stuck on an endless loop. She loved every soul she helped, but the disaster wheel never stopped spinning, and no matter how fast she ran, she was just putting temporary bandaids on a bleeding world. She needed a brand-new door, a radical change of course, and a completely different arena where her hands could build something that actually lasted instead of just surviving day to day.
 
----
-
-## 🔒 Known Secrets
-<details> <summary>Klick here to revile spoilers!</summary>
-She carries three identities that the world does not fully connect:  
-Lady Mollibeth Hamilton, M. Fallow, and The Uncrowned.
-
-She knows her former husband and family shaped the narrative of her loss, but not all details are fully uncovered publicly.
-
-Only she holds full proof connecting her identities and past events in [[Ambervale]].
- </details>
-
----
-
-## 📜 Trivia
-
-- Born into House [[Hamilton]], [[Ambervale]]
-- Raised emotionally distant, found grounding with [[Family/People/Talia Bramblevick]]
-- Joined [[The Circle of the Blooming Table]]
-- Earned title [[Keeper of the Winter Table]] after famine relief success
-- Led major plague response in [[Rivergold]], became [[Guardian of Gold]]
-- Reputation destroyed after childrens death.
-- Exiled and publicly smeared by husband and her own family
-- Abandoned noble identity, became Mollibeth Bramblevick
-- Continued humanitarian work despite isolation and loss
-- Saved the Queen during siege, refused nobility, became [[The Uncrowned]]
+She caught up with the group intentionally after hearing they were breaking trail toward uncharted territory far beyond the usual refugee circuits. It wasn’t about escaping compassion; it was about finding a smarter way to wield it, breaking the exhausting cycle, and turning her stubborn care into real, lasting change alongside people worth laughing with. When the crew piled into the tavern to shake off the road dust and map out their first real step into the unknown, she was right there with them, pouring the drinks, locking in the new direction, and finally stepping through that fresh door.
 
 ---
+## Abilities
+While she is fundamentally a person of peace who strongly prefers to avoid violence, the realities of the road have forced her to adapt. When ambushed during her travels, she relies on calm resourcefulness rather than aggression, often defending herself by tossing small, intricately carved wooden flower petals imbued with the Magic Stone spell.
 
-## 🎯 To DM
-**Ties to the world**
-- Mollie is tied to The Circle of the Blooming Table – if you want to weave the faction's agenda, resources, or enemies into the campaign, this is a natural entry point.
-- House Hamilton is still active as a power player in Ambervale. If you want a political thread to pull on, the family is a ready-made tool — they likely resent her for "tarnishing" the name through fieldwork, and after the smear campaign that exiled her, they may still have motive to keep her discredited.
-- The Circle of the Blooming Table, Rivergold's plague response, and the siege where she saved the Queen all suggest she has standing (or debts) with at least three separate power centers, the Circle, Rivergold's local authorities, and the crown. 
+---
+## Equipment
+ Molliebeth relies on a carefully chosen selection of field gear that blends her passion for cooking with practical survival. Her most trusted companion is the Emberhand Cast Iron Skillet, a versatile tool that not only boasts a handful of handy magical properties when preparing meals but also doubles exceptionally well as a sturdy shield when trouble finds her on the road.
 
-**Loose threads**
-- [[Harrick Fallow]], her former partner, and their dead children Noxie and Caleb Fallow. He's still out there, and still holds a public narrative about what happened. If he ever needs something from her, or if his version of events gets challenged, that's a hook.
-- The children's death is still murky in its details.
-- What happened and destroyed her reputation and triggered the exile.
-- Talia Bramblevick at the bakery was her real emotional anchor growing up, an NPC you're welcome to activate if you want a reason for Mollie to return to where she grew up (though rather not kill her).
-- The titles ("Keeper of the Winter Table," "Guardian of Gold," "The Uncrowned") suggest she's known in different regions for different, unconnected reasons
+ To keep her provisions stocked during long humanitarian journeys, she carries a Pouch of Everfresh—a specialized, miniature bag of holding that functions with the magical properties of a refrigerator to keep ingredients and perishables perfectly preserved.
 
-**Questions I'd like answered**
-- Does saving the Queen during the siege create any standing obligation or tension with the crown now, or was that debt considered settled?
-- Is her family (parents, siblings) still alive? I'd love for their role in the smear campaign to eventually come to light, and for her to get some form of justice.
-- Same goes for Harrick, could there be a path where the truth about the children's death and his role in the exile finally surfaces what ever the truth was?
-- Long-term, I'd like Molly to end up publicly recognized for the titles she's earned (Keeper of the Winter Table, Guardian of Gold, The Uncrowned) rather than staying anonymous forever.
+Alongside it, she utilizes a compact Right Pouch of Holding, a reliable pocket dimension functioning just like a standard bag of holding scaled down for her everyday carry.
 
-**Open for you to change**
-Everything above is this characters truth, what they remembers, believes, and carries with them. It's not necessarily the objective truth of what happened. You're free to reveal that their memory is incomplete, biased, or flat-out wrong about any of it, if it serves the story better.
-Feel free to reshape backstory details, add hidden layers, or contradict what's written here if it fits your narrative, I trust you to build on this rather than treat it as fixed canon.
+---
+## Relationships 
+Is not in an active game yet.
+
+---
+## Events
+Is not in an active game yet
+
+---
+## Trivia 
+• Molly's favorit food to cook and eat is Honey-Garlic Chicken with Roasted Roots. Brown chunks of chicken in the skillet, then set aside. Toss thick-cut potato, carrot, and onion into the pan to roast until tender and caramelized. Tumble the chicken back in, drizzle with honey, crushed garlic, and spices.
+
+• Moliebeth Bramblewick was first Molibeth Hamilton, got married and took Fallow. Then after the divorce took her friends(?) name Bramblewick 
+
+• Molliebeth secretly saved Queen Lilliana from a fatal wound during a siege, leaving behind only half a blood-stained blanket. The Queen definitely saw her in the chaos, but court records bear no name—only the title "The Uncrowned"—as Molly skipped the royal glory, packing up her skillet to outrun the legend and get back to feeding people.
+
+• Molly is based on my own life, stats, thinking, family and some events. All names are change, but in the promt to make members around Molly i described and some times used photos to get the character to look and feel like their real life counterpart.
