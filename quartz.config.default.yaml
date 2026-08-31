@@ -247,7 +247,7 @@ plugins:
     order: 2
     layout:
       position: beforeBody
-      priority: 15
+      priority: 5
       display: mobile-only
 
   - source: "@quartz-community/note-properties"
@@ -277,7 +277,7 @@ plugins:
       position: right
       priority: 20
       display: desktop-only
-      
+
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
