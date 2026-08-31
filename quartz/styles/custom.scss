@@ -79,22 +79,41 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Tvinga artikeln till flex och kasta upp properties först */
+  /* TVINGA PROPERTIES HÖGST UPP: Eftersom Quartz renderar om hela DOM-trädet på mobilen
+     flyttar vi ut hela högerspalten direkt in under .page-title eller sist i .center via flexbox */
+  .center {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  /* Sätt en extrem ordning på högerspalten (där properties ligger) så den hamnar först */
+  .sidebar.right, 
+  div[data-position="right"] {
+    order: -9999 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    position: static !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  /* Själva artikeln hamnar efter */
   article, .page-content {
+    order: 1 !important;
     display: flex !important;
     flex-direction: column !important;
   }
 
   .note-properties {
-    order: -999 !important;
+    order: -9999 !important;
     margin-bottom: 1.5rem !important;
   }
 
-  /* Sök: Visa bara ikonen när den är inaktiv, men låt den fungera normalt när man klickar/öppnar den */
+  /* Sök: Osynlig kant och text när inaktiv, full synlighet vid klick/fokus */
   .search:not(.active):not(:focus-within) {
     border: none !important;
     background: transparent !important;
     box-shadow: none !important;
+    outline: none !important;
     padding: 0 !important;
     width: auto !important;
   }
