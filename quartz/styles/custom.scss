@@ -58,9 +58,9 @@ article img, .center img {
   top: 40px !important;
 }
 
-/* Mobila anpassningar */
+/* --- Mobila anpassningar --- */
 @media (max-width: 768px) {
-  /* Tvinga pageTitle att hålla sig på en rad */
+  /* 1. Titeln på en rad */
   .page-title, .page-title a {
     font-size: clamp(1.2rem, 4vw, 2rem) !important;
     white-space: nowrap !important;
@@ -68,7 +68,7 @@ article img, .center img {
     text-overflow: ellipsis !important;
   }
 
-  /* Dölj graf och backlinks */
+  /* 2. Dölj graf och backlinks */
   .graph-component, 
   .desktop-only.graph, 
   div[class*="graph"], 
@@ -79,36 +79,27 @@ article img, .center img {
     display: none !important;
   }
 
-  /* TVINGA PROPERTIES HÖGST UPP: Eftersom Quartz renderar om hela DOM-trädet på mobilen
-     flyttar vi ut hela högerspalten direkt in under .page-title eller sist i .center via flexbox */
-  .center {
+  /* 3. Gör den gemensamma föräldern (.page / .page-body) till flex för att kasta om ordningen */
+  .page, .page-body, .content-container {
     display: flex !important;
     flex-direction: column !important;
   }
 
-  /* Sätt en extrem ordning på högerspalten (där properties ligger) så den hamnar först */
+  /* Tvinga högerspalten (där properties ligger) att ligga FÖRE brödtexten */
   .sidebar.right, 
   div[data-position="right"] {
-    order: -9999 !important;
+    order: -1 !important;
     display: flex !important;
     flex-direction: column !important;
     position: static !important;
     margin-bottom: 1.5rem !important;
   }
 
-  /* Själva artikeln hamnar efter */
-  article, .page-content {
+  article, .page-content, .center {
     order: 1 !important;
-    display: flex !important;
-    flex-direction: column !important;
   }
 
-  .note-properties {
-    order: -9999 !important;
-    margin-bottom: 1.5rem !important;
-  }
-
-  /* Sök: Osynlig kant och text när inaktiv, full synlighet vid klick/fokus */
+  /* 4. Sök: Helt osynlig kant/bakgrund när inaktiv, synlig vid klick */
   .search:not(.active):not(:focus-within) {
     border: none !important;
     background: transparent !important;
