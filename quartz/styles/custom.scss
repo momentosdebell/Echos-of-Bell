@@ -107,7 +107,7 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Göm allt annat i footern utom länk-knappen */
+  /* Footer-fix: nollställ inte footern så hårt att länken döljs, utan dölj bara barnen individuellt */
   footer {
     position: static !important;
     padding: 0 !important;
@@ -118,8 +118,8 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Klickbar till-toppen-knapp i hörnet */
-  footer a {
+  /* Tvinga fram länken direkt via dess href-attribut för att garantera att den hittas och blir klickbar */
+  footer a[href="#"] {
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
@@ -142,7 +142,7 @@ article img, .center img {
 
 /* Dölj helt på datorer */
 @media (min-width: 851px) {
-  footer a {
+  footer a[href="#"] {
     display: none !important;
   }
 }
