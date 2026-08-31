@@ -76,15 +76,17 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Återställ .center och högerspalten till standardflöde i mobilen */
+  .sidebar.right, 
+  div[data-position="right"] {
+    all: unset !important;
+    display: block !important;
+  }
+
   .center {
     display: block !important;
   }
 
-  .sidebar.right, 
-  div[data-position="right"] {
-    display: block !important;
-    position: static !important;
-    grid-template-columns: none !important;
+  article, .page-content {
+    order: unset !important;
   }
 }
