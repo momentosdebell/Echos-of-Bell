@@ -1,28 +1,25 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1443
 Death: 1823
+title: Talia Bramblevick
+Img: "[[Talia Bramblevick.png]]"
+Race:
+  - Gnome
+Gender: Female
+Class:
+Occupation: "[[The Rolling Pin|Baker]]"
+Residence: "[[Ambervale]]"
+Origin:
+Father: Borum Bramblevick
+Mother: "[[Mellinga Lillibet Bramblevick]]"
+Siblings:
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Talia Bramblevick.png|230]]
-> **Name:** Talia Bramblevick
-> **Origin:** 
-> **Race:** #Gnome
-> **Gender:** #Female 
-> **Occupation:** Baker,  Café Owner
-> **Residence:** [[The Rolling Pin]], [[Ambervale]]
-> **Class:**
-> ---
-> **Father:** Borum Bramblevick
-> **Mother:** [[Mellinga Lillibet Bramblevick]]
-> **Siblings:**
-> **Partner:** 
-> **Children:**
-
-
+![[Talia Bramblevick.png]]
 ## 📖 Overview
 
 Talia Bramblevick, commonly known as **Sourdough Tally**, is a master baker and long-time resident of [[Ambervale]]. She is best known as the owner of **[[The Rolling Pin]]**, one of the town's oldest bakeries, and as the primary mentor figure in the life of [[Molliebeth Bramblevick]].
@@ -110,3 +107,56 @@ The exact details remain private, though some sources suggest her decision was i
 - Considered one of the greatest living bakers within Circle culinary circles.
     
 - The Rolling Pin has been in her family for several centuries.
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

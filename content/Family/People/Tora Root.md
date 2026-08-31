@@ -1,24 +1,76 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 971
 Death: 1065
+title: Tora Root
+Img: "[[Tora Root.jpeg]]"
+Race:
+  - Human
+Gender: Female
+Class:
+Occupation: Farmer
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Fible Root]]"
+Former Partner:
+Children:
+  - "[[Tove Root]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Tora Root.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Human
-> **Gender:** #Female
-> **Occupation:** Farmer
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Fible Root]]
-> **Children:** [[Tove Root]]
+![[Tora Root.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

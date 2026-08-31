@@ -1,23 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1293
 Death: 1380
+title: Triss Hamilton
+Img:
+Race:
+  - Human
+Gender: Female
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Sean Hamilton]]"
+Former Partner:
+Children:
+  - "[[Sean Christopher Hamilton]]"
+  - "[[Fyr Hamilton]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Triss Hamilton.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Hamilton]]
-> **Race:** #Human 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Sean Hamilton]]
-> **Children:** [[Sean Christopher Hamilton]], [[Fyr Hamilton]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

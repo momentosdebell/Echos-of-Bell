@@ -1,23 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1416
 Death: 1530
+title: Tsu'tey Ikran
+Img: "[[Tsu'tey Ikran.jpeg]]"
+Race:
+  - Genasi
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Nok'ite Ikran]]"
+Former Partner:
+Children:
+  - "[[Teylu Ikran]]"
+  - "[[Captain Blue Whale]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Tsu'tey Ikran.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Genasi (Water)
-> **Gender:** #Male
-> **Occupation:** Captain
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Nok'ite Ikran]]
-> **Children:** [[Teylu Ikran]], [[Captain Blue Whale]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

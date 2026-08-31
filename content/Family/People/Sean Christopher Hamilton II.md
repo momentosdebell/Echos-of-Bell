@@ -1,23 +1,80 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1372
 Death: 1460
+title: Sean Christopher Hamilton II
+Img:
+Race:
+Gender: Male
+Class: Artificer
+Occupation: Mechanic
+Residence: "[[Rivergold]]"
+Origin:
+  - "[[Hamilton]]"
+  - "[[Nollac]]"
+Father: "[[Sean Christopher Hamilton]]"
+Mother: "[[Likki Nollac]]"
+Siblings:
+  - "[[Helena Bunkum]]"
+Partner: "[[Arthur Wolfric McGlagen III]]"
+Former Partner:
+Children:
+  - "[[Gelinda Hamilton]]"
+  - "[[Frick Achkook]]"
+  - "[[Sean Christopher Hamilton III]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Sean Christopher Hamilton II.jpeg|230]]
-> **Titel:** Sir
-> **Origin:** [[Hamilton]], [[Nollac]]
-> **Race:** #Human 
-> **Gender:** #Male 
-> **Occupation:** Mechanic
-> **Residence:** [[Rivergold]]
-> **Class:** #Artificer 
-> ---
-> **Father:** [[Sean Christopher Hamilton]]
-> **Mother:** [[Likki Nollac]]
-> **Siblings:** [[Helena Bunkum]]
-> **Partner:** [[Arthur Wolfric McGlagen III]]
-> **Children:** [[Gelinda Hamilton]], [[Frick Achkook]], [[Sean Christopher Hamilton III]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

@@ -1,23 +1,78 @@
 ---
-Updated: 2026-06-08
+Updated: 2026-08-28
 Birth: 624
 Death: 1533
+title: Thalindra De Rivièr
+Img:
+Race:
+  - Elf
+Gender: Female
+Class:
+Occupation: "[[River Royal|Winemaker]]"
+Residence: "[[Liora]]"
+Origin:
+  - "[[De Rivièr]]"
+Father:
+Mother:
+Siblings:
+Partner: "[[Alerion De Rivièr]]"
+Former Partner:
+Children:
+  - "[[Iquique Yllaris Everfall]]"
+  - "[[Elyra De Rivièr]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[De Rivièr]]
-> **Race:** #Elf 
-> **Gender:** #Female 
-> **Occupation:** Winemaker of [[River Royal]]
-> **Residence:** Outside [[Liora]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Alerion De Rivièr]]
-> **Children:** [[Iquique Yllaris Everfall]], [[Elyra De Rivièr]]
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

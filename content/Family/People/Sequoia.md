@@ -1,30 +1,28 @@
 ---
-Updated: 2026-06-06
+Updated: 2026-08-28
 Birth: 1471
-Death: 0
+Death:
+title: Sequoia
+Img: "[[Sequoia.png]]"
+Race:
+  - Warforged
+Gender: Non-Binary
+Class: Druid
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+Father: "[[Flow Windgust]]"
+Mother: "[[Gaganesh Orvil Amon Thorne]]"
+Siblings:
+  - "[[Gustav Ekblad]]"
+  - "[[Gullvi Nimue]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Sequoia-2.png|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Warforged 
-> **Gender:** #Non-Binary 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** #Druid 
-> ---
-> **Father:** [[Flow Windgust]]
-> **Mother:** [[Gaganesh Orvil Amon Thorne]]
-> **Siblings:** [[Gustav Ekblad]], [[Gullvi Nimue]]
-> **Partner:** 
-> **Children:** 
-
-
-## 📖 Overview
 ![[Sequoia.png]]
+## 📖 Overview
 
 ## 🕰️ Early Life
 
@@ -91,3 +89,56 @@ Instead of conjuring a ghostly hand, Sequoia unleashes a wine. It whips out dire
 Safe Eternal Quality Unit Organic Ifusion Apprentice
 
 ![[concept.png]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+
