@@ -90,3 +90,31 @@ article img, .center img {
     margin-bottom: 1.5rem !important;
   }
 }
+@media (max-width: 768px) {
+  /* Förstoring av sökikonen och borttagning av textfältet/rutan */
+  .search {
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    width: auto !important;
+  }
+
+  .search-button, 
+  .search-icon,
+  a[href*="search"] {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0.5rem !important;
+  }
+
+  /* Dölj texten och inputfältet, behåll bara ikonen */
+  .search-text, 
+  .search-space, 
+  .search input,
+  .search p,
+  .search span:not(.search-icon) {
+    display: none !important;
+  }
+}
