@@ -7,8 +7,6 @@ Img: "[[Elyra Fallow.png]]"
 Race:
   - Gnome
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -18,9 +16,6 @@ Father: "[[Harrick Fallow]]"
 Mother: "[[Molliebeth Bramblevick]]"
 Siblings:
   - "[[Caleb Fallow]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Elyra Fallow.png]]
