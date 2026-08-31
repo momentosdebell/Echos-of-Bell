@@ -1,23 +1,80 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1441
 Death: 1744
+title: Wiltor Hamilton
+Img: "[[Wiltor Hamilton.jpeg]]"
+Race:
+  - Halfling
+  - Dwarf
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+  - "[[Hamilton]]"
+  - "[[McGlagen]]"
+  - "[[Nollac]]"
+Father: "[[Sean Christopher Hamilton III]]"
+Mother: "[[Phitra Hamilton]]"
+Siblings:
+  - "[[Sean Christopher Hamilton IV]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Wiltor Hamilton.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Hamilton]], [[McGlagen]], [[Nollac]]
-> **Race:** #Halfling, #Dwarf  
-> **Gender:** #Male 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** [[Sean Christopher Hamilton III]]
-> **Mother:** [[Phitra Hamilton]]
-> **Siblings:** [[Sean Christopher Hamilton IV]]
-> **Partner:** 
-> **Children:** 
+![[Wiltor Hamilton.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

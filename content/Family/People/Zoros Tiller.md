@@ -1,24 +1,77 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1001
 Death: 1497
+title: Zoros Tiller
+Img: "[[Zoros Tiller.jpeg]]"
+Race:
+  - Satyr
+Gender: Male
+Class:
+Occupation:
+Residence: "[[Ever Peak]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner: "[[Kinni Tiller]]"
+Former Partner:
+Children:
+  - "[[Kinto Tiller]]"
+  - "[[Qia Twinkle]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Zoros Tiller.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Satyr
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** [[Ever Peak]]
-> **Class:** 
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** [[Kinni Tiller]]
-> **Children:** [[Kinto Tiller]], [[Qia Twinkle]]
+![[Zoros Tiller.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

@@ -27,7 +27,7 @@ Former Partner:
 Children:
 draft: false
 ---
-![[]]
+![[Valentin Hamilton.png]]
 ## 📜Overview 
 
 ---

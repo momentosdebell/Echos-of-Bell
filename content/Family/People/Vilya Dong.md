@@ -1,23 +1,81 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 320
 Death: 1277
+title: Vilya Dong
+Img: "[[Vilya Dong.jpeg]]"
+Race:
+  - Elf
+  - Dragonborn
+Gender: Female
+Class:
+Occupation:
+Residence: "[[Silvergrove City]]"
+Origin:
+  - evä
+Father: "[[Lord Hilivard Everfall]]"
+Mother: "[[Enya Everfall]]"
+Siblings:
+  - "[[Li'thanïa Everfall]]"
+Partner: "[[Hao Dong]]"
+Former Partner:
+Children:
+  - "[[Eiliss von Je'Den]]"
+  - "[[Kinni Tiller]]"
+  - "[[Hef Dong]]"
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Vilya Dong.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Everfall]]
-> **Race:** #Elf, #Dragonborn
-> **Gender:** #Female
-> **Occupation:** 
-> **Residence:** [[Silvergrove City]]
-> **Class:** 
-> ---
-> **Father:** [[Lord Hilivard Everfall]]
-> **Mother:** [[Enya Everfall]]
-> **Siblings:** [[Li'thanïa Everfall]]
-> **Partner:** [[Hao Dong]]
-> **Children:** [[Eiliss von Je'Den]], [[Kinni Tiller]], [[Hef Dong]]
+![[Vilya Dong.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

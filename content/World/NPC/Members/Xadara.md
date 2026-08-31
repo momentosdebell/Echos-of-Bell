@@ -1,23 +1,25 @@
 ---
-Updated: 2026-06-10
+Updated: 2026-08-28
 Birth: -2788
 Death: -563
+title: Xadara
+Img: "[[Xadara.png]]"
+Race:
+  - Demon
+Gender: Non-Binary
+Class: Litch
+Occupation:
+Residence: Drenmar
+Origin:
+Father:
+Mother:
+Siblings:
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Xadara.png|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Demon (Undead/Fiend)
-> **Gender:** #Non-Binary 
-> **Occupation:** 
-> **Residence:** #Drenmar
-> **Class:** #Litch
-
-
-
+![[Xadara.png]]
 ## 📖 Overview
 Xadara is known by many names. The Dark Lord evil as one can be ruler of the Drenmar. Astrid lost his memories and started from scratch, learned how evil they been and searched for repent.
 
@@ -54,6 +56,60 @@ Cold, calculating, and driven by an insatiable hunger for forbidden knowledge an
 - The magical sword hidden behind the mirror portal in the burning inferno remains completely undiscovered.
 
 - The Wanderer's cultists completely repurposed Xadara's old halls into a staging ground for the Dark Lord's flesh-cocoons.
+
+
+
+
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
 
 
 

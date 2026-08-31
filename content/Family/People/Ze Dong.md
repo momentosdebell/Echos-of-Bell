@@ -1,24 +1,87 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 717
 Death: 753
+title: Ze Dong
+Img: "[[Ze Dong]]"
+Race:
+  - Human
+Gender: Male
+Class:
+Occupation:
+Residence:
+Origin:
+  - "[[Dong]]"
+Father: "[[Gong Dong]]"
+Mother: "[[Fu Dong]]"
+Siblings:
+  - "[[Hao Dong]]"
+  - "[[Du Dong]]"
+  - "[[Song Dong]]"
+  - "[[Xing Dong]]"
+  - "[[Luo Dong]]"
+  - "[[Ye Dong]]"
+  - "[[Me Dong]]"
+  - "[[Fang Dong]]"
+  - "[[Ju Dong]]"
+  - "[[Fa Dong]]"
+  - "[[Jin Dong]]"
+Partner:
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Ze Dong.jpeg|230]]
-> **Titel:** 
-> **Origin:** [[Dong]]
-> **Race:** #Human
-> **Gender:** #Male
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** [[Gong Dong]]
-> **Mother:** [[Fu Dong]]
-> **Siblings:** [[Hao Dong]], [[Du Dong]], [[Song Dong]], [[Xing Dong]], [[Luo Dong]], [[Ye Dong]], [[Me Dong]], [[Fang Dong]], [[Ju Dong]], [[Fa Dong]], [[Jin Dong]]
-> **Partner:** 
-> **Children:** 
+![[Ze Dong.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 

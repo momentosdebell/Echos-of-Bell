@@ -1,42 +1,76 @@
 ---
-Updated: 2026-06-06
+Updated: 2026-08-28
 Birth: 614
 Death: 1793
+title: Gaganesh Orvil Amon Thorne
+Img: "[[Gaganesh Orvil Amon Thorne.png]]"
+Race:
+  - Loxodon
+Gender: Female
+Class: Wizard
+Occupation: "[[Dynamic Office Of Reality|Store Owner]]"
+Residence: "[[Silvergrove City]]"
+Origin:
+Father:
+Mother:
+Siblings:
+Partner:
+Former Partner:
+Children:
+  - "[[Sequoia]]"
+draft: false
 ---
-```dataviewjs
-const year = dv.page("Settings").Year;
-const birth = dv.current().Birth;
-const death = dv.current().Death;
+![[Gaganesh Orvil Amon Thorne.png]]
+## 📜Overview 
 
-let status;
-let age = "";
+---
+## 🎭Personality  
 
-if (birth > year) {
-    status = "⚫ Not born";
-}
-else if (death && death < year) {
-    status = "🔴 Dead";
-    age = ` | Age at death: ${death - birth} y/o`;
-}
-else {
-    status = "🟢 Alive";
-    age = ` | Age: ${year - birth} y/o`;
-}
+---
+## 🏰Background 
 
-dv.span(`[[Settings|${status}]]${age}`);
-```
-> [!infobox]+ Quickies
-> ![[Gaganesh Orvil Amon Thorne.png|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Loxodon
-> **Gender:** #Female 
-> **Occupation:** Store owner, [[Dynamic Office Of Reality]]
-> **Residence:** [[Silvergrove City]]
-> **Class:** #Wizard
-> ---
-> **Father:** 
-> **Mother:** 
-> **Siblings:** 
-> **Partner:** 
-> **Children:** [[Sequoia]]
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
+

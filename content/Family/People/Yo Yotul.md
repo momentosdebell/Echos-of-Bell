@@ -1,25 +1,78 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-28
 Birth: 1375
 Death: 1414
+title: Yo Yotul
+Img: "[[Yo Yotul.jpeg]]"
+Race:
+  - Half-Orc
+  - Goblin
+Gender: Female
+Class:
+Occupation:
+Residence:
+Origin:
+Father: "[[Scratch Yotul]]"
+Mother: "[[Ru Yotul]]"
+Siblings:
+  - "[[Yamek Yotul]]"
+  - "[[Yed'kanari Yotul]]"
+Partner: "[[Yed'kanari Yotul]]"
+Former Partner:
+Children:
+draft: false
 ---
-```dataviewjs
-await dv.view("World/Admin/doa");
-```
-> [!infobox]+ Quickies
-> ![[Yo Yotul.jpeg|230]]
-> **Titel:** 
-> **Origin:** 
-> **Race:** #Half-Orc, #Goblin 
-> **Gender:** #Female 
-> **Occupation:** 
-> **Residence:** 
-> **Class:** 
-> ---
-> **Father:** [[Scratch Yotul]]
-> **Mother:** [[Ru Yotul]]
-> **Siblings:** [[Yamek Yotul]], [[Yed'kanari Yotul]]
-> **Partner:** [[Yed'kanari Yotul]]
-> **Former Partner:** [[Yamek Yotul]] 
-> **Children:** 
+![[Yo Yotul.jpeg]]
+## 📜Overview 
+
+---
+## 🎭Personality  
+
+---
+## 🏰Background 
+
+   **Origin** 
+
+
+   **Upbringing** 
+
+
+   **Culture** 
+
+
+   **Education** 
+
+
+   **Turning Point** 
+
+
+   **Consequences** 
+
+
+   **Affiliations** 
+
+
+   **Motivations** 
+
+
+   **Secrets** 
+
+
+   **Bridge** 
+
+## 💪Abilities
+
+---
+## ⚔️Equipment
+
+---
+## 💞Relationships
+
+---
+## 🗓️Events
+
+---
+## 🍿Trivia
+
+
 
