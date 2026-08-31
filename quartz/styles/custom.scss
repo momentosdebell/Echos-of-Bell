@@ -74,7 +74,7 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Tvinga Quartz huvudsida på mobil till kolumn-grid där högerspalten (properties) hamnar först */
+  /* Layoutstruktur för mobil */
   .page, .page-body {
     display: flex !important;
     flex-direction: column !important;
@@ -92,8 +92,10 @@ article img, .center img {
     order: 1 !important;
   }
 
-  /* Sök: Helt osynlig utan kanten när inaktiv, full synlighet vid klick */
-  .search {
+  /* Sök: Total nollställning av ramar, kanter och bakgrund när inaktiv */
+  .search, 
+  .search button, 
+  .search-button {
     border: none !important;
     background: transparent !important;
     box-shadow: none !important;
@@ -112,6 +114,7 @@ article img, .center img {
   .search:not(.active):not(:focus-within) * {
     border: none !important;
     box-shadow: none !important;
+    background: transparent !important;
   }
 
   .search:not(.active):not(:focus-within) .search-text, 
@@ -121,4 +124,10 @@ article img, .center img {
   .search:not(.active):not(:focus-within) span:not(.search-icon) {
     display: none !important;
   }
+}
+
+/* Förhindra att rubriker läcker ut som rå Markdown (##) */
+article h1, article h2, article h3, 
+.content-text h1, .content-text h2, .content-text h3 {
+  visibility: visible !important;
 }
