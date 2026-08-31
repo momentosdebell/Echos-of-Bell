@@ -10,6 +10,7 @@ configuration:
   baseUrl: momentosdebell.github.io/Echos-of-Bell
   ignorePatterns:
     - Admin
+    - admin
     - private
     - templates
     - .obsidian
