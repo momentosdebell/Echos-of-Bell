@@ -8,35 +8,35 @@
   margin-bottom: 0.5rem;
 }
 
-/* Döljer rader i note-properties som saknar värde */
 .note-property-row:has(.note-property-value:empty),
 div:has(> .note-property-value:not(:has(*)):not(:contains_text)) {
   display: none !important;
 }
 
-/* Gör så att hela högerspalten följer med när man scrollar, utan intern skroll */
-.sidebar.right, 
-div[data-position="right"] {
-  position: static !important;
-  top: unset !important;
-  height: fit-content;
-  max-height: none;
-  overflow-y: visible;
-  display: grid !important;
-  grid-template-columns: 100%;
-  align-content: start;
-  gap: 1.5rem;
+/* Desktop-layout för högerspalten */
+@media (min-width: 769px) {
+  .sidebar.right, 
+  div[data-position="right"] {
+    position: static !important;
+    top: unset !important;
+    height: fit-content;
+    max-height: none;
+    overflow-y: visible;
+    display: grid !important;
+    grid-template-columns: 100%;
+    align-content: start;
+    gap: 1.5rem;
+  }
+
+  .sidebar.right .overflow-container,
+  .sidebar.right details,
+  div[data-position="right"] .overflow-container,
+  div[data-position="right"] details {
+    max-height: none !important;
+    overflow: visible !important;
+  }
 }
 
-.sidebar.right .overflow-container,
-.sidebar.right details,
-div[data-position="right"] .overflow-container,
-div[data-position="right"] details {
-  max-height: none !important;
-  overflow: visible !important;
-}
-
-/* YAML får vars en rad om mer än en propertie */
 .note-properties-separator {
   display: none;
 }
@@ -46,7 +46,6 @@ div[data-position="right"] details {
   flex-direction: column;
 }
 
-/* Main bild */
 article img, .center img {
   float: right !important;
   width: 300px !important;
@@ -58,6 +57,7 @@ article img, .center img {
   top: 40px !important;
 }
 
+/* Mobil-layout */
 @media (max-width: 768px) {
   .page-title, .page-title a {
     font-size: clamp(1.2rem, 4vw, 2rem) !important;
@@ -74,19 +74,5 @@ article img, .center img {
   div[class*="backlinks"], 
   .desktop-only.backlinks {
     display: none !important;
-  }
-
-  .sidebar.right, 
-  div[data-position="right"] {
-    all: unset !important;
-    display: block !important;
-  }
-
-  .center {
-    display: block !important;
-  }
-
-  article, .page-content {
-    order: unset !important;
   }
 }
