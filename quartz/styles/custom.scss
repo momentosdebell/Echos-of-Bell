@@ -107,22 +107,14 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Göm allt annat i footern utom till-toppen-länken */
-  footer {
-    padding: 0 !important;
-    background: transparent !important;
-  }
   
-  footer ul, footer p, footer span, footer div {
-    display: none !important;
-  }
-
-  /* Tvinga fram länken som en fast rund knapp i hörnet */
-  footer a {
+  @media (max-width: 850px) {
+  body::after {
+    content: "↑";
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
-    z-index: 99999 !important;
+    z-index: 999999 !important;
     background-color: var(--secondary) !important;
     color: var(--light) !important;
     width: 45px !important;
@@ -134,7 +126,6 @@ article img, .center img {
     font-size: 1.4rem !important;
     line-height: 1 !important;
     padding-bottom: 2px !important;
-    text-decoration: none !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
   }
 }
