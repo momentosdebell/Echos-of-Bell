@@ -107,8 +107,12 @@ article img, .center img {
     display: none !important;
   }
 
-  
-  @media (max-width: 850px) {
+  /* Göm footern helt på mobil */
+  footer {
+    display: none !important;
+  }
+
+  /* Visuell till-toppen-knapp i hörnet */
   body::after {
     content: "↑";
     position: fixed !important;
@@ -127,13 +131,6 @@ article img, .center img {
     line-height: 1 !important;
     padding-bottom: 2px !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
-  }
-}
-
-/* Dölj helt på datorer */
-@media (min-width: 851px) {
-  footer a {
-    display: none !important;
   }
 }
 
