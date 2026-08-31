@@ -56,7 +56,7 @@ article img, .center img {
 }
 
 /* --- Mobila anpassningar --- */
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .page-title, .page-title a {
     font-size: clamp(1.2rem, 4vw, 2rem) !important;
     white-space: nowrap !important;
@@ -140,7 +140,7 @@ article img, .center img {
 }
 
 /* Dölj helt på datorer */
-@media (min-width: 769px) {
+@media (min-width: 851px) {
   footer a[href="#"] {
     display: none !important;
   }
