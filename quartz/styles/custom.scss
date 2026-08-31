@@ -107,19 +107,19 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Rensa footern så bara länken är kvar */
+  /* Footer: Göm bara ul och p, rör inte div så länken överlever */
   footer {
     position: static !important;
     padding: 0 !important;
     background: transparent !important;
   }
   
-  footer ul, footer p, footer span, footer div {
+  footer ul, footer p, footer span {
     display: none !important;
   }
 
-  /* Exakt träff på länk med #top för att garantera att den syns och fungerar klickbart */
-  footer a[href="#top"] {
+  /* Förvandla länken i footern till en fast rund knapp i hörnet */
+  footer a {
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
@@ -142,7 +142,7 @@ article img, .center img {
 
 /* Dölj helt på datorer */
 @media (min-width: 851px) {
-  footer a[href="#top"] {
+  footer a {
     display: none !important;
   }
 }
