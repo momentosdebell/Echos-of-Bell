@@ -10,7 +10,7 @@ Birth: 1442
 Death: 1844
 Gender: Female
 Class: Cleric
-Occupation: Field Worker
+Occupation: "[[The Circle of the Blooming Table|Field Worker]]"
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
