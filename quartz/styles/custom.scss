@@ -117,18 +117,9 @@ article h2, .content-text h2 {
 article h2::before, .content-text h2::before {
   content: none !important;
 }
-/* "Till toppen"-knapp enbart för mobiler, helt utan script */
-@media (max-width: 768px) {
-  article::after {
-    content: "↑ Till toppen";
-    display: block;
-    text-align: center;
-    margin: 3rem auto 1.5rem auto;
-    padding: 0.8rem 1.5rem;
-    background-color: var(--lightgray);
-    color: var(--dark);
-    border-radius: 6px;
-    font-weight: bold;
-    cursor: pointer;
+@media (min-width: 769px) {
+  /* Dölj toppen-länken i footern på datorer */
+  footer a[href="#"] {
+    display: none !important;
   }
 }
