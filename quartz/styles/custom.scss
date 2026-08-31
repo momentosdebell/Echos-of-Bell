@@ -107,14 +107,19 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Göm footern helt på mobil */
+  /* Göm allt annat i footern utom länk-knappen */
   footer {
+    position: static !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+  
+  footer ul, footer p, footer span, footer div {
     display: none !important;
   }
 
-  /* Visuell till-toppen-knapp i hörnet */
-  body::after {
-    content: "↑";
+  /* Klickbar till-toppen-knapp i hörnet */
+  footer a {
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
@@ -130,7 +135,15 @@ article img, .center img {
     font-size: 1.4rem !important;
     line-height: 1 !important;
     padding-bottom: 2px !important;
+    text-decoration: none !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+  }
+}
+
+/* Dölj helt på datorer */
+@media (min-width: 851px) {
+  footer a {
+    display: none !important;
   }
 }
 

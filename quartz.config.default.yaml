@@ -208,7 +208,7 @@ plugins:
     layout:
       position: footer
       priority: 50
-      display: mobile-only
+      display: all
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
