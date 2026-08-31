@@ -107,7 +107,7 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Footer-fix: nollställ inte footern så hårt att länken döljs, utan dölj bara barnen individuellt */
+  /* Rensa footern så bara länken är kvar */
   footer {
     position: static !important;
     padding: 0 !important;
@@ -118,8 +118,8 @@ article img, .center img {
     display: none !important;
   }
 
-  /* Tvinga fram länken direkt via dess href-attribut för att garantera att den hittas och blir klickbar */
-  footer a[href="#"] {
+  /* Exakt träff på länk med #top för att garantera att den syns och fungerar klickbart */
+  footer a[href="#top"] {
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
@@ -142,7 +142,7 @@ article img, .center img {
 
 /* Dölj helt på datorer */
 @media (min-width: 851px) {
-  footer a[href="#"] {
+  footer a[href="#top"] {
     display: none !important;
   }
 }

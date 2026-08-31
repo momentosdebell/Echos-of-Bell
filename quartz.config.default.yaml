@@ -204,7 +204,7 @@ plugins:
     enabled: true
     options:
       links:
-        "↑": "#"
+        "↑": "#top"
     layout:
       position: footer
       priority: 50
