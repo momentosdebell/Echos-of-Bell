@@ -9,7 +9,7 @@ configuration:
   locale: en-US
   baseUrl: momentosdebell.github.io/Echos-of-Bell
   ignorePatterns:
-    - _Admin
+    - Admin
     - private
     - templates
     - .obsidian
