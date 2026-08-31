@@ -79,13 +79,12 @@ article img, .center img {
     display: none !important;
   }
 
-  /* 3. Gör den gemensamma föräldern (.page / .page-body) till flex för att kasta om ordningen */
+  /* 3. Layoutförälder för ordning */
   .page, .page-body, .content-container {
     display: flex !important;
     flex-direction: column !important;
   }
 
-  /* Tvinga högerspalten (där properties ligger) att ligga FÖRE brödtexten */
   .sidebar.right, 
   div[data-position="right"] {
     order: -1 !important;
@@ -99,7 +98,7 @@ article img, .center img {
     order: 1 !important;
   }
 
-  /* 4. Sök: Helt osynlig kant/bakgrund när inaktiv, synlig vid klick */
+  /* 4. Sök: Osynlig kant när inaktiv */
   .search:not(.active):not(:focus-within) {
     border: none !important;
     background: transparent !important;
@@ -116,4 +115,9 @@ article img, .center img {
   .search:not(.active):not(:focus-within) span:not(.search-icon) {
     display: none !important;
   }
+}
+
+/* Fånga upp om rubriker läcker ut som ren text med ## i början */
+article h2::before, .content-text h2::before {
+  content: "";
 }
