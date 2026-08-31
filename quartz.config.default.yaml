@@ -205,7 +205,7 @@ plugins:
     enabled: true
     options:
       links:
-        "↑ Till toppen": "#"
+        "↑": "#"
     layout:
       position: footer
       priority: 50
