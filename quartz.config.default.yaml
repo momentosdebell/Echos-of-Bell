@@ -247,7 +247,7 @@ plugins:
     order: 2
     layout:
       position: beforeBody
-      priority: 5
+      priority: 25
       display: mobile-only
 
   - source: "@quartz-community/note-properties"
