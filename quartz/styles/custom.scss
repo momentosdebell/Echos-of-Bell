@@ -108,16 +108,12 @@ article img, .center img {
   }
 }
 
-/* Återställ rubrikformat så de inte visas som rå markdown-text */
-article h1, article h2, article h3, article h4,
-.content-text h1, .content-text h2, .content-text h3, .content-text h4,
-.page-content h1, .page-content h2, .page-content h3 {
-  display: block !important;
+/* Återställ rubriker rent */
+article h2, .content-text h2 {
   visibility: visible !important;
   opacity: 1 !important;
 }
 
-article h1::before, article h2::before, article h3::before,
-.content-text h1::before, .content-text h2::before, .content-text h3::before {
+article h2::before, .content-text h2::before {
   content: none !important;
 }

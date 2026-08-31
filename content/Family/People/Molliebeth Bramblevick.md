@@ -30,7 +30,7 @@ Children:
 draft: false
 ---
 ![[Molliebeth Bramblevick.png]]
-<div id="doa-status"></div>
+
 ## 📖 Overview 
 Molliebeth Bramblevick is a battle-hardened humanitarian and decorated survivor who traded the cold, gilded cage of House Hamilton for a life on the road, dedicating her existence to keeping others alive after losing everything she held dear.
 
