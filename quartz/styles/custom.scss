@@ -113,12 +113,12 @@ article img, .center img {
     background: transparent !important;
   }
   
-  footer ul, footer p, footer span {
+  footer ul, footer p, footer span, footer div {
     display: none !important;
   }
 
-  /* Klickbar "Till toppen"-knapp i nedre högra hörnet med centrerad ikon */
-  footer a[href="#"] {
+  /* Tvinga fram länken som en fast rund knapp i hörnet */
+  footer a {
     position: fixed !important;
     bottom: 1.5rem !important;
     right: 1.5rem !important;
@@ -141,7 +141,7 @@ article img, .center img {
 
 /* Dölj helt på datorer */
 @media (min-width: 851px) {
-  footer a[href="#"] {
+  footer a {
     display: none !important;
   }
 }
