@@ -1,13 +1,17 @@
 ---
-Updated: 2026-05-31
+Updated: 2026-08-31
 title: Doublewake Rolling Pin
 Category:
   - Tool
-  - Armor
+  - Weapon
 Item Rarity: Common
 Weight: "3"
-Armor Class: "2"
+Attack Type: Melee
+Range: "5"
+Damage: 1d6
+Damage Type: Bludgeoning
 Properties:
+  - Improvised weapon
   - Light
   - Magical
   - Unbreakable
