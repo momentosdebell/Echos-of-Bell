@@ -23,7 +23,6 @@ Siblings:
   - "[[Fender Hamilton]]"
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
-Partner:
 Former Partner: "[[Harrick Fallow]]"
 Children:
   - "[[Noxie Fallow]]"
