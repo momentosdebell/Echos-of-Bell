@@ -241,6 +241,19 @@ plugins:
         - Partner
         - Former Partner
         - Children
+        - Category
+        - Item Rarity
+        - Value
+        - Weight
+        - Armor Class
+        - Attack Type
+        - Range
+        - Damage
+        - Damage Type
+        - Properties
+        - Attunement
+        - Charges
+        - Requirement
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -269,6 +282,19 @@ plugins:
         - Partner
         - Former Partner
         - Children
+        - Category
+        - Item Rarity
+        - Value
+        - Weight
+        - Armor Class
+        - Attack Type
+        - Range
+        - Damage
+        - Damage Type
+        - Properties
+        - Attunement
+        - Charges
+        - Requirement
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
