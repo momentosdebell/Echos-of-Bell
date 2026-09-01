@@ -22,84 +22,104 @@ function getCurrentYear(): number | undefined {
     return undefined
   }
 
-  return Number(match[1])
+  const year = Number(match[1])
+
+  console.log(`[Age] CurrentYear = ${year}`)
+
+  return Number.isFinite(year) ? year : undefined
 }
 
 export const Age: QuartzTransformerPlugin = () => ({
   name: "Age",
 
-  textTransform(ctx, src) {
+  textTransform(_ctx, src) {
     return src
   },
 
-  markdownPlugins(ctx) {
+  markdownPlugins() {
     return [
       () => {
         return (_tree: any, file: any) => {
-          const filePath = String(file.data?.relativePath ?? "").replaceAll("\\", "/")
+          const filePath = String(
+            file.data?.relativePath ?? "",
+          ).replaceAll("\\", "/")
 
           // Only Family/People
           if (!filePath.startsWith(PEOPLE_PATH + "/")) {
             return
           }
 
+          console.log("[AGE TEST]", {
+            file: filePath,
+            frontmatter: file.data?.frontmatter,
+          })
+
           const frontmatter = file.data?.frontmatter
 
           if (!frontmatter) {
+            console.log("[AGE TEST] No frontmatter")
             return
           }
 
-          // Age must exist in YAML
           if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
+            console.log("[AGE TEST] No Age property")
             return
           }
 
           const birth = Number(frontmatter.Birth)
 
           if (!Number.isFinite(birth)) {
+            console.log("[AGE TEST] Invalid Birth:", frontmatter.Birth)
             return
           }
 
           const currentYear = getCurrentYear()
 
-          if (!Number.isFinite(currentYear)) {
+          if (currentYear === undefined) {
+            console.log("[AGE TEST] No CurrentYear")
             return
           }
+
+          let age: string
 
           if (currentYear < birth) {
-            frontmatter.Age = "Not born yet"
-            return
+            age = "Not born yet"
+          } else {
+            const deathValue = frontmatter.Death
+
+            const hasDeath =
+              deathValue !== undefined &&
+              deathValue !== null &&
+              deathValue !== ""
+
+            if (hasDeath) {
+              const death = Number(deathValue)
+
+              if (!Number.isFinite(death)) {
+                console.log("[AGE TEST] Invalid Death:", deathValue)
+                return
+              }
+
+              if (currentYear >= death) {
+                const ageAtDeath = death - birth
+                const yearsAgo = currentYear - death
+
+                age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+              } else {
+                age = `${currentYear - birth} y/o`
+              }
+            } else {
+              age = `${currentYear - birth} y/o`
+            }
           }
 
-          const deathValue = frontmatter.Death
+          frontmatter.Age = age
 
-          if (
-            deathValue !== undefined &&
-            deathValue !== null &&
-            deathValue !== ""
-          ) {
-            const death = Number(deathValue)
-
-            if (!Number.isFinite(death)) {
-              return
-            }
-
-            if (currentYear >= death) {
-              const ageAtDeath = death - birth
-              const yearsAgo = currentYear - death
-
-              frontmatter.Age =
-                `died at age ${ageAtDeath}, ${yearsAgo} years ago`
-
-              return
-            }
-          }
-
-          frontmatter.Age = `${currentYear - birth} y/o`
+          console.log(`[AGE RESULT] ${filePath} -> ${age}`)
         }
-      }
+      },
     ]
-  }
+  },
 })
 
 export default Age
