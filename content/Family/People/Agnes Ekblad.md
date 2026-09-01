@@ -17,3 +17,4 @@ Children:
   - "[[Princess Wiggles]]"
 draft: false
 ---
+$=let c = dv.current(); let s = dv.page("World/private/Settings.md"); c.Birth ? (c.Death && c.Death != "Alive" && c.Death != "Unknown" ? (c.Death - c.Birth) + " år vid sin död" : (s.CurrentYear - c.Birth) + " år") : "Ingen ålder"
