@@ -7,16 +7,10 @@ Img:
 Race:
   - Human
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
-Father:
-Mother:
-Siblings:
 Partner: "[[Bomona Nallac]]"
-Former Partner:
 Children:
   - "[[Likki Nollac]]"
 draft: false

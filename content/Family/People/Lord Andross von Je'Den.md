@@ -7,16 +7,12 @@ Img: "[[Lord Andross von Je'Den.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[John Von Je'Den]]"
 Mother: "[[Helga Nollac]]"
-Siblings:
 Partner: "[[Eiliss von Je'Den]]"
-Former Partner:
 Children:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"

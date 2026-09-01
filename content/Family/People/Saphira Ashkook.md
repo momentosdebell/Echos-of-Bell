@@ -7,16 +7,8 @@ Img: "[[Saphira Achkook.jpeg]]"
 Race:
   - Dragonborn
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Arman Achkook]]"
 Former Partner: "[[Morgani Achkook]]"
-Children:
 draft: false
 ---
 ![[Saphira Achkook.jpeg]]

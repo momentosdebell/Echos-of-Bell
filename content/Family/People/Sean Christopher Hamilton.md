@@ -17,7 +17,6 @@ Mother: "[[Triss Hamilton]]"
 Siblings:
   - "[[Fyr Hamilton]]"
 Partner: "[[Likki Nollac]]"
-Former Partner:
 Children:
   - "[[Helena Bunkum]]"
   - "[[Sean Christopher Hamilton II]]"

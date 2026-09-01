@@ -7,15 +7,7 @@ Img:
 Race:
   - Human
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Sean Hamilton]]"
-Former Partner:
 Children:
   - "[[Sean Christopher Hamilton]]"
   - "[[Fyr Hamilton]]"

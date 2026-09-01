@@ -7,9 +7,6 @@ Img: "[[Ju Dong.jpeg]]"
 Race:
   - Human
 Gender: Female
-Class:
-Occupation:
-Residence:
 Origin:
   - "[[Dong]]"
 Father: "[[Gong Dong]]"
@@ -26,9 +23,6 @@ Siblings:
   - "[[Fang Dong]]"
   - "[[Fa Dong]]"
   - "[[Jin Dong]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Ju Dong.jpeg]]

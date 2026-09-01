@@ -7,17 +7,12 @@ Img: "[[Gullvi Tealeaf.jpeg]]"
 Race:
   - Firbolg
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ever Peak]]"
-Origin:
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:
   - "[[Gustav Ekblad]]"
 Partner: "[[Pith Nimue]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Gullvi Tealeaf.jpeg]]

@@ -1,21 +1,22 @@
 ---
-
-Updated: 2026-06-06
-
+Updated: 2026-08-31
+title: The Order of the Eternal Roots
+Category:
+  - Religion 
+Deity:
+  - Yggdrasil 
+Alignment: True Natural
+Domain:
+  - Nature
+  - Peace
+  - Life
+Size: Notable
+Symbol: " A tree with three roots, called Eroy"
+draft: false
 ---
 
   
-
-> [!infobox]+ Quickies
-> ![[eroy.png|90]]
-> **Deity:** Though they don't have any the tree Yggdrasil is the closed 
-> **Alignment:** True Neutral
-> **Domains:** Nature, Peace, Life
-> **Symbol:** A tree with roots, called Eroy (Eternal Roots of Yggdrasil)
-> **Followers:** Monks, Druids, Rangers, Healers, Pacifists
-> **Sacred Text:** The Whispers of Mimir
-> **Holy Days:** The Four Great Turnings 
-
+![[eroy.png]]
 ## 🌳The Order of the Eternal Roots
 
 A peaceful faith that rejects traditional gods to revere the Eternal Roots, viewing all souls as interconnected leaves on an infinite cosmic lattice.

@@ -7,16 +7,7 @@ Img:
 Race:
   - Halfling
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Harrick Fallow]]"
-Former Partner:
-Children:
 draft: false
 ---
 

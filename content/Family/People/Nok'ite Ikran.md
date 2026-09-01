@@ -7,15 +7,7 @@ Img: "[[Nok'ite Ikran.jpeg]]"
 Race:
   - Genasi
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Tsu'tey Ikran]]"
-Former Partner:
 Children:
   - "[[Teylu Ikran]]"
   - "[[Captain Blue Whale]]"

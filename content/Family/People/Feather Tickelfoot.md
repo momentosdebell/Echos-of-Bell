@@ -7,17 +7,13 @@ Img: "[[Feather Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Rivergold]]"
-Origin:
 Father: "[[Eldar Tarrintel]]"
 Mother: "[[Andora Tickelfoot]]"
 Siblings:
   - "[[Phitra Hamilton]]"
   - "[[Feather Tickelfoot]]"
 Partner: "[[Wiree Tickelfoot]]"
-Former Partner:
 Children:
   - "[[Ann Tickelfoot]]"
   - "[[Eldana Tickelfoot]]"

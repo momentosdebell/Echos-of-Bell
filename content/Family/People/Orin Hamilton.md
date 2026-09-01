@@ -7,15 +7,9 @@ Img: "[[Orin Hamilton.png]]"
 Race:
   - Gnome
 Gender: Male
-Class:
 Occupation: Mechanic
 Residence: "[[Ambervale]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Gelinda Hamilton]]"
-Former Partner:
 Children:
   - "[[Valentin Hamilton]]"
   - "[[Fender Hamilton]]"

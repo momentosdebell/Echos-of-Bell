@@ -20,9 +20,6 @@ Mother: "[[Eiliss von Je'Den]]"
 Siblings:
   - "[[Pax von Je'Den]]"
   - "[[Gerbera von Je'Den]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Hepzibah Smith.jpeg]]

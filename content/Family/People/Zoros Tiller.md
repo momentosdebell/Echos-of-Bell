@@ -7,15 +7,8 @@ Img: "[[Zoros Tiller.jpeg]]"
 Race:
   - Satyr
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ever Peak]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Kinni Tiller]]"
-Former Partner:
 Children:
   - "[[Kinto Tiller]]"
   - "[[Qia Twinkle]]"

@@ -7,15 +7,9 @@ Img: "[[Jami-Lee Wolfaxe.jpeg]]"
 Race:
   - Half-Elf
 Gender: Male
-Class:
 Occupation: Criminal
 Residence: "[[Rivergold]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Eldana Tickelfoot]]"
-Former Partner:
 Children:
   - "[[Daniela Tickelfoot]]"
   - "[[Dave Tickelfoot]]"

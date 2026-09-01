@@ -4,18 +4,10 @@ Birth: 1349
 Death: 1387
 title: Invisible Paradox
 Img: "[[_Invisible Paradox_.jpeg]]"
-Race:
 Gender: Male
-Class:
 Occupation: Crime Lord
 Residence: "[[Silvergrove City]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Helena Bunkum]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[_Invisible Paradox_.jpeg]]

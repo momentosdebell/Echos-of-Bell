@@ -5,17 +5,12 @@ Death: 1341
 title: Fumlah Winterfrost
 Img:
 Race:
+  - Goliath
 Gender: Female
 Class: Babarian
-Occupation:
-Residence:
 Origin:
   - "[[Winterfrost]]"
-Father:
-Mother:
-Siblings:
 Partner: "[[Arashi Winterfrost]]"
-Former Partner:
 Children:
   - "[[Rami Winterfrost]]"
   - "[[Lolo Winterfrost]]"

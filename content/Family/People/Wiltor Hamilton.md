@@ -8,9 +8,6 @@ Race:
   - Halfling
   - Dwarf
 Gender: Male
-Class:
-Occupation:
-Residence:
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -19,9 +16,6 @@ Father: "[[Sean Christopher Hamilton III]]"
 Mother: "[[Phitra Hamilton]]"
 Siblings:
   - "[[Sean Christopher Hamilton IV]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Wiltor Hamilton.jpeg]]

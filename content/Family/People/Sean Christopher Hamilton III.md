@@ -8,8 +8,6 @@ Race:
   - Dwarf
   - Human
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -19,7 +17,6 @@ Siblings:
   - "[[Gelinda Hamilton]]"
   - "[[Frick Achkook]]"
 Partner: "[[Phitra Hamilton]]"
-Former Partner:
 Children:
   - "[[Sean Christopher Hamilton IV]]"
   - "[[Wiltor Hamilton]]"

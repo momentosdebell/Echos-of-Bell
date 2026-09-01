@@ -7,10 +7,6 @@ Img: "[[Fa Dong.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
 Father: "[[Gong Dong]]"
 Mother: "[[Fu Dong]]"
 Siblings:
@@ -25,9 +21,6 @@ Siblings:
   - "[[Fang Dong]]"
   - "[[Ju Dong]]"
   - "[[Jin Dong]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Fa Dong.jpeg]]

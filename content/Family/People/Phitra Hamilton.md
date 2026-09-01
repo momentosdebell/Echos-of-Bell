@@ -7,8 +7,6 @@ Img:
 Race:
   - Halfling
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Tickelfoot]]"
@@ -18,7 +16,6 @@ Siblings:
   - "[[Unani Niblespirit]]"
   - "[[Feather Tickelfoot]]"
 Partner: "[[Sean Christopher Hamilton III]]"
-Former Partner:
 Children:
   - "[[Sean Christopher Hamilton IV]]"
   - "[[Wiltor Hamilton]]"

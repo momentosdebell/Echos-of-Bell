@@ -7,16 +7,11 @@ Img:
 Race:
   - Elf
 Gender: Female
-Class:
 Occupation: "[[River Royal|Winemaker]]"
 Residence: "[[Liora]]"
 Origin:
   - "[[De Rivièr]]"
-Father:
-Mother:
-Siblings:
 Partner: "[[Alerion De Rivièr]]"
-Former Partner:
 Children:
   - "[[Iquique Yllaris Everfall]]"
   - "[[Elyra De Rivièr]]"

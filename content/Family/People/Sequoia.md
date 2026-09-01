@@ -8,17 +8,12 @@ Race:
   - Warforged
 Gender: Non-Binary
 Class: Druid
-Occupation:
 Residence: "[[Silvergrove City]]"
-Origin:
 Father: "[[Flow Windgust]]"
 Mother: "[[Gaganesh Orvil Amon Thorne]]"
 Siblings:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Sequoia.png]]

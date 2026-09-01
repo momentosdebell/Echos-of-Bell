@@ -19,8 +19,6 @@ Mother: "[[Likki Nollac]]"
 Siblings:
   - "[[Sean Christopher Hamilton II]]"
 Partner: "[[Invisible Paradox]]"
-Former Partner:
-Children:
 draft: false
 ---
 

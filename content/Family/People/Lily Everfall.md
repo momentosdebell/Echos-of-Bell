@@ -7,17 +7,13 @@ Img: "[[Lily Yllaris Everfall.jpg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"
 Father: "[[King Theodemar Yllaris Everfal]]"
 Mother: "[[Queen Lilliana Yllaris Everfall]]"
-Siblings:
 Partner: "[[Iquique Yllaris Everfall]]"
-Former Partner:
 Children:
   - "[[Tove Root]]"
 draft: false

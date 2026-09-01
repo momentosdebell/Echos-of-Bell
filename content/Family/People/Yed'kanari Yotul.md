@@ -8,18 +8,12 @@ Race:
   - Half-Orc
   - Goblin
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
 Father: "[[Scratch Yotul]]"
 Mother: "[[Ru Yotul]]"
 Siblings:
   - "[[Yamek Yotul]]"
   - "[[Yo Yotul]]"
 Partner: "[[Yo Yotul]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Yed'Kanari Yotul.jpg]]

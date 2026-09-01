@@ -7,8 +7,6 @@ Img: "[[Eldena Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Tickelfoot]]"
@@ -17,7 +15,6 @@ Mother: "[[Wiree Tickelfoot]]"
 Siblings:
   - "[[Ann Tickelfoot]]"
 Partner: "[[Jami-Lee Wolfaxe]]"
-Former Partner:
 Children:
   - "[[Daniela Tickelfoot]]"
   - "[[Dave Tickelfoot]]"

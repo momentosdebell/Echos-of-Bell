@@ -1,13 +1,16 @@
 ---
-Updated: 2026-06-06
+Updated: 2026-08-31
+title: Dynamic Office Of Reality
+Type: Magic Store
+Location: "[[Silvergrove City]]"
+Vibe:
+  - Surreal
+  - Breathtaking
+Custodian: "[[Gaganesh Orvil Amon Thorne]]"
+Economy:
+  - 🪙🪙🪙⚪⚪
+draft: false
 ---
-> [!infobox]+ Quickies
-> **Type:** Magic Shop
-> **Owner:** [[Gaganesh Orvil Amon Thorne]]
-> **Location:** [[Silvergrove City]]
-> **Quality:**  High
-> **Price:** 🪙🪙🪙⚪⚪ 
-
 ## 📜 Overview
 A high-end arcane shop based in [[Silvergrove City]], known across the continent for its execptunel well made magical items.
 The shop exists physically in Silvergrove, but it is also partially “elsewhere”.

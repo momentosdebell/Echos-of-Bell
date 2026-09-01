@@ -17,7 +17,6 @@ Mother: "[[Triss Hamilton]]"
 Siblings:
   - "[[Sean Christopher Hamilton]]"
 Partner: "[[Lolo Winterfrost]]"
-Former Partner:
 Children:
   - "[[Bromhilda Winterfrost]]"
 draft: false

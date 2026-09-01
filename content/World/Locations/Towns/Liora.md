@@ -1,20 +1,23 @@
 ---
-Updated: 2026-06-03
+Updated: 2026-08-31
+title: Liora
+Type: City
+Location:
+Vibe:
+  - Mediterranean
+  - Carefree
+Custodian:
+Population: "2800"
+Cityzens:
+  - Human
+  - Halfling
+Economy:
+  - Wine production 
+draft: false
 ---
-> [!infobox]+ Quickies
-   **Population:** ~2 800  
-   **Citizens:** Humans (70%), Halflings (15%), Mixed artisan families (15%)  
-   **Ruler:** Lord Proprietor
-   **Guard:** The Tideward Enforcers
-   **Economy:** Strong, wine makeing  
-   **Industry**: Wine production  
-   **Education:** Low to Moderate
-   **Architecture:** Terracotta plaster mediterranean buildings
-
-## 🌟 City of Liora
+## 🌟 City of Li🌟 
 Liora looks like a calm southern coastal city where life moves at an easy pace. The harbor is busy, but never chaotic, and the vineyards stretch quietly across the hills behind it. Visitors often assume nothing important ever happens here. That assumption is what keeps Liora safe. Nothing feels forced, but almost everything is controlled in some way. The calm is real, but it is also maintained.
-
-## 📜 Overview
+ # 📜 Overview
 Liora is a warm coastal city in the south, shaped by sea trade, vineyards, and everyday life along the shoreline.
 
 The city is calm but active. Ships come and go through the harbor, bringing goods, news, and travelers. Streets are narrow in the old districts and open wider near the sea, where markets and taverns sit close to the docks.

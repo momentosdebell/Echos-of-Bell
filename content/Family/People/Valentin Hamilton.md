@@ -8,8 +8,6 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -22,9 +20,6 @@ Siblings:
   - "[[Molliebeth Bramblevick]]"
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Valentin Hamilton.png]]

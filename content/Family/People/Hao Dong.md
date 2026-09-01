@@ -7,9 +7,6 @@ Img: "[[Hao Dong.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
-Occupation:
-Residence:
 Origin:
   - "[[Dong]]"
 Father: "[[Gong Dong]]"
@@ -27,7 +24,6 @@ Siblings:
   - "[[Fa Dong]]"
   - "[[Jin Dong]]"
 Partner: "[[Vilya Dong]]"
-Former Partner:
 Children:
   - "[[Eiliss von Je'Den]]"
   - "[[Kinni Tiller]]"

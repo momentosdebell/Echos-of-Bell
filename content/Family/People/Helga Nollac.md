@@ -7,8 +7,6 @@ Img: "[[Helga Nollac.jpeg]]"
 Race:
   - Human
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
@@ -17,7 +15,6 @@ Mother: "[[Bomona Nallac]]"
 Siblings:
   - "[[Likki Nollac]]"
 Partner: "[[John Von Je'Den]]"
-Former Partner:
 Children:
   - "[[Lord Andross von Je'Den]]"
 draft: false

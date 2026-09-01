@@ -8,8 +8,6 @@ Race:
   - Human
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
@@ -20,9 +18,6 @@ Mother: "[[Eiliss von Je'Den]]"
 Siblings:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Gerbera von Je'Den.jpg]]

@@ -8,8 +8,6 @@ Race:
   - Halfling
   - Dwarf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -17,9 +15,6 @@ Father: "[[Sean Christopher Hamilton III]]"
 Mother: "[[Phitra Hamilton]]"
 Siblings:
   - "[[Wiltor Hamilton]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 

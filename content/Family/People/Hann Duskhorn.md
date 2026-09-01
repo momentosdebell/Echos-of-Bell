@@ -7,18 +7,11 @@ Img: "[[Hann Duskhorn.jpeg]]"
 Race:
   - Dwarf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Rivergold]]"
 Origin:
   - "[[Duskhorn]]"
-Father:
-Mother:
 Siblings:
   - "[[Toy McGlagen]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Hann Duskhorn.jpeg]]

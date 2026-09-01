@@ -7,17 +7,8 @@ Img: "[[Pym Nimue.jpg]]"
 Race:
   - Ursine
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
 Siblings:
   - "[[Pith Nimue]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Pym Nimue.jpg]]

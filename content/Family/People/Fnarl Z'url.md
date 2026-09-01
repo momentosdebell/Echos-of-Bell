@@ -7,16 +7,9 @@ Img: "[[Fnarl Z'url.jpeg]]"
 Race:
   - Orc
 Gender: Male
-Class:
 Occupation: Florist
 Residence: "[[Rivergold]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Hef Dong]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Fnarl Z'url.jpeg]]

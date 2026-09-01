@@ -7,8 +7,6 @@ Img: "[[Unani Niblespirit.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Rivergold]]"
 Origin:
   - "[[Tickelfoot]]"
@@ -18,7 +16,6 @@ Siblings:
   - "[[Phitra Hamilton]]"
   - "[[Feather Tickelfoot]]"
 Partner: "[[Horvan Niblespirit]]"
-Former Partner:
 Children:
   - "[[Rocksan Tickelfoot]]"
 draft: false

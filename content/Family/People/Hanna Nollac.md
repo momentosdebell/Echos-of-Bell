@@ -18,8 +18,6 @@ Mother: "[[Likki Nollac]]"
 Siblings:
   - "[[Scratch Yotul]]"
 Partner: "[[Bob]]"
-Former Partner:
-Children:
 draft: false
 ---
 

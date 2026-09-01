@@ -7,18 +7,12 @@ Img:
 Race:
   - Dragonborn
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
 Father: "[[Sean Christopher Hamilton II]]"
 Mother: "[[Arthur Wolfric McGlagen III]]"
 Siblings:
   - "[[Gelinda Hamilton]]"
   - "[[Sean Christopher Hamilton III]]"
 Partner: "[[Morgani Achkook]]"
-Former Partner:
-Children:
 draft: false
 ---
 

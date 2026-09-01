@@ -1,5 +1,11 @@
 ---
-Updated: 2026-05-31
+Updated: 2026-08-31
+title: The Bloom of the First Seed
+Category:
+  - Event
+Leader: "[[The Circle of the Blooming Table]]"
+Size: Notable
+draft: false
 ---
 Is the most sacred, rare, and prestigious gathering held by [[The Circle of the Blooming Table]] Occurring only once every one hundred years, this legendary centennial conclave brings together the realm’s finest field chefs, logistic masters, and hedge-wizards to compete in trials of culinary craft, resourcefulness, and miracles of sustenance.
 
@@ -7,12 +13,13 @@ Unlike traditional noble tournaments that celebrate blood sports or destructive 
 
 The victor of the Bloom is awarded the Circle’s most guarded treasures: The Blooming Table Relics, magical artifacts capable of altering the tides of famine, purifying blighted lands, and ensuring that no community under the holder’s watch ever goes hungry.
 
-So far there has been 5 winners of this relics
-1. [[x... Bramblevick]] - [[Doublewake Rolling Pin]]
-2. [[Luo Dong]]  - [[Stillflame Preparation Board]]
-3. [[Toy McGlagen]] - [[Evercold Tankard]]
-4. [[Flow Windgust]] - [[Verdant Reach Salad Bowl]]
+So far there has been 6 winners of this relics
+1. Unknown - [[Bib & Babble Apron]]
+2. [[Mellinga Lillibet Bramblevick]] - [[Doublewake Rolling Pin]]
+3. [[Luo Dong]]  - [[Stillflame Preparation Board]]
+4. .[[Toy McGlagen]] - [[Evercold Tankard]]
 5. [[Molliebeth Bramblevick]] - [[Emberhand Cast Iron Skillet]]
+6. [[Flow Windgust]] - [[Verdant Reach Salad Bowl]]
 ## 📖 Overview
 
 - **Hosting Organization:** [[The Circle of the Blooming Table]] (COBT) 

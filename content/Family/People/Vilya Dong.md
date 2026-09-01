@@ -8,17 +8,14 @@ Race:
   - Elf
   - Dragonborn
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
-  - evä
+  - "[[Dong]]"
 Father: "[[Lord Hilivard Everfall]]"
 Mother: "[[Enya Everfall]]"
 Siblings:
   - "[[Li'thanïa Everfall]]"
 Partner: "[[Hao Dong]]"
-Former Partner:
 Children:
   - "[[Eiliss von Je'Den]]"
   - "[[Kinni Tiller]]"

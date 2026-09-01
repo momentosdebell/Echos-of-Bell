@@ -8,8 +8,6 @@ Race:
   - Human
   - Elf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
@@ -20,9 +18,7 @@ Mother: "[[Eiliss von Je'Den]]"
 Siblings:
   - "[[Hepzibah Smith]]"
   - "[[Gerbera von Je'Den]]"
-Partner:
 Former Partner: "[[Qia Twinkle]]"
-Children:
 draft: false
 ---
 ![[Pax von Je'Den.jpeg]]

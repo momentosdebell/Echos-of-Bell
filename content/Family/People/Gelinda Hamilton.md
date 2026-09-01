@@ -8,8 +8,6 @@ Race:
   - Human
   - Dwarf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -21,7 +19,6 @@ Siblings:
   - "[[Frick Achkook]]"
   - "[[Sean Christopher Hamilton III]]"
 Partner: "[[Orin Hamilton]]"
-Former Partner:
 Children:
   - "[[Valentin Hamilton]]"
   - "[[Fender Hamilton]]"

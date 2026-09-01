@@ -10,12 +10,6 @@ Gender: Female
 Class: Wizard
 Occupation: "[[Dynamic Office Of Reality|Store Owner]]"
 Residence: "[[Silvergrove City]]"
-Origin:
-Father:
-Mother:
-Siblings:
-Partner:
-Former Partner:
 Children:
   - "[[Sequoia]]"
 draft: false

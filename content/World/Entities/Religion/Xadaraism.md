@@ -1,15 +1,24 @@
 ---
-Updated: 2026-08-24
+Updated: 2026-08-31
+title: Xadaraism
+Category:
+  - Religion 
+Deity:
+  - "[[Xadara]]"
+Alignment:
+  - Lawful Good
+  - True Neutral
+  - Neutral Evil
+Domain:
+  - Order
+  - War
+  - Knowledge
+  - Life
+  - Tempest
+Size: Significant
+Symbol: The Open Hands and The Iron Fist
+draft: false
 ---
-> [!infobox]+ Quickies
-> **Deity:**  [[Xadara]]
-> **Alignment:** Lawful Good / True Neutral / Neutral Evil
-> **Domains:** Order, War, Knowledge, Life, Tempest
-> **Symbol:** The Open Hands and The Iron Fist
-> **Followers:** Nobles, merchants, farmers, soldiers, and citizens across the civilized world.
-> **Sacred Text:** 
-> **Holy Days:** 
-
 ## ✨ Xadaraism
 A deeply compassionate and structured faith centered on a single, loving creator who guides humanity toward moral purity, inner peace, and divine grace.
 ### 📖Overview

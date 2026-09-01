@@ -9,17 +9,12 @@ Race:
   - Goblin
 Gender: Male
 Class: Ranger
-Occupation:
-Residence:
-Origin:
 Father: "[[Scratch Yotul]]"
 Mother: "[[Ru Yotul]]"
 Siblings:
   - "[[Yo Yotul]]"
   - "[[Yed'kanari Yotul]]"
-Partner:
 Former Partner: "[[Yo Yotul]]"
-Children:
 draft: false
 ---
 ![[Yamek Yotul.jpeg]]

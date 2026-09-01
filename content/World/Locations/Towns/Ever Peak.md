@@ -1,16 +1,21 @@
 ---
-Updated: 2026-06-04
+Updated: 2026-08-31
+title: Ever Peak
+Type: City
+Location:
+Vibe:
+  - Industrial
+  - Cozy
+Custodian: Lord Proprietor - Kaelen Dravemont
+Population: "13000"
+Cityzens:
+  - Human
+  - Dwarf
+Economy:
+  - Mining
+  - Stone work
+draft: false
 ---
-> [!infobox]+ Quickies
-   **Population:** ~13 000
-   **Citizens:** Humans (55%), Dwarves (25%)
-   **Ruler:** Lord Proprietor - Kaelen Dravemont
-   **Guard:** Iron Crest Elite
-   **Economy:** Stable
-   **Industry**: Mining, stonework
-   **Education:** Low to Moderate
-   **Architecture:** Stone built, terraced, heavy timber, slate roofs
-
 ### 🌟 City of Ever Peak
 Ever Peak doesn’t look like a mining town at first glance.
 

@@ -8,16 +8,13 @@ Race:
   - Firbolg
   - Human
 Gender: Male
-Class:
 Occupation: "[[The Shelf|Innkeeper]]"
 Residence: "[[Ever Peak]]"
-Origin:
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:
   - "[[Gullvi Nimue]]"
 Partner: "[[Agnes Ekblad]]"
-Former Partner:
 Children:
   - "[[Princess Wiggles]]"
 draft: false

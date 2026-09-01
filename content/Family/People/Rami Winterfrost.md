@@ -16,9 +16,6 @@ Father: "[[Arashi Winterfrost]]"
 Mother: "[[Fumlah Winterfrost]]"
 Siblings:
   - "[[Lolo Winterfrost]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 

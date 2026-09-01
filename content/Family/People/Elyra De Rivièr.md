@@ -16,9 +16,6 @@ Father: "[[Alerion De Rivièr]]"
 Mother: "[[Thalindra De Rivièr]]"
 Siblings:
   - "[[Iquique Yllaris Everfall]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Elyra De Rivièr.jpeg]]

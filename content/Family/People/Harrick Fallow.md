@@ -7,13 +7,7 @@ Img: "[[Harrick Fallow.png]]"
 Race:
   - Gnome
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Lysandra Fallow]]"
 Former Partner: "[[Molliebeth Bramblevick]]"
 Children:

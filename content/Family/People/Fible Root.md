@@ -7,15 +7,8 @@ Img: "[[Fible Root.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
 Occupation: Farmer
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Tora Root]]"
-Former Partner:
 Children:
   - "[[Tove Root]]"
 draft: false

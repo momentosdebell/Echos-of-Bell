@@ -6,11 +6,7 @@ title: Du Dong
 Img: "[[Du Dong.jpeg]]"
 Race:
   - Human
-Age:
 Gender: Male
-Class:
-Occupation:
-Residence:
 Origin:
   - "[[Dong]]"
 Father: "[[Gong Dong]]"
@@ -27,9 +23,6 @@ Siblings:
   - "[[Ju Dong]]"
   - "[[Fa Dong]]"
   - "[[Jin Dong]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Du Dong.jpeg]]

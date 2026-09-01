@@ -1,16 +1,20 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-31
+title: Ambervale
+Type: City
+Location:
+Vibe:
+  - Idyllic
+  - Wholesome
+Custodian: Council of Ambervale
+Population: "5000"
+Cityzens:
+  - Gnome
+  - Halfling
+  - Dwarf
+Economy: Trade
+draft: false
 ---
-> [!infobox]+ Quickies
-   **Population:** ~5 000  
-   **Citizens:** Gnomes (42%), Halflings (36%), Dwarves (14%)
-   **Ruler:** Council of Ambervale
-   **Guard:** [[Central Shields]]
-   **Economy:** Fair
-   **Industry**: Trade
-   **Education:** Low
-   **Architecture:** 
-   
 ## 🌟 City of Ambervale
 Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[Rivergold]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
 ## 📜 Overview

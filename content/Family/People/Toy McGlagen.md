@@ -7,17 +7,13 @@ Img:
 Race:
   - Dwarf
 Gender: Female
-Class:
 Occupation: Diplomat
 Residence: "[[Rivergold]]"
 Origin:
   - "[[McGlagen]]"
-Father:
-Mother:
 Siblings:
   - "[[Hann Duskhorn]]"
 Partner: "[[Arthur Wolfric McGlagen II]]"
-Former Partner:
 Children:
   - "[[Arthur Wolfric McGlagen III]]"
 draft: false

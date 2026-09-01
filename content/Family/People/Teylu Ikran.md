@@ -7,17 +7,11 @@ Img: "[[Teylu Ikran.jpeg]]"
 Race:
   - Genasi
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
 Father: "[[Tsu'tey Ikran]]"
 Mother: "[[Nok'ite Ikran]]"
 Siblings:
   - "[[Captain Blue Whale]]"
 Partner: "[[Qia Twinkle]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Teylu Ikran.jpeg]]

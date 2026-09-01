@@ -8,16 +8,11 @@ Race:
   - Human
   - Half-Orc
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
 Father: "[[Mog Yotul]]"
 Mother: "[[Likki Nollac]]"
 Siblings:
   - "[[Hanna Nollac]]"
 Partner: "[[Ru Yotul]]"
-Former Partner:
 Children:
   - "[[Yamek Yotul]]"
   - "[[Yo Yotul]]"

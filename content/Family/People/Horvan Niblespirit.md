@@ -7,16 +7,10 @@ Img: "[[Horvan Niblespirit.jpeg]]"
 Race:
   - Halfling
 Gender: Male
-Class:
 Occupation: Farmer
-Residence:
-Origin:
-Father:
-Mother:
 Siblings:
   - "[[Milo Vindtop]]"
 Partner: "[[Unani Niblespirit]]"
-Former Partner:
 Children:
   - "[[Rocksan Tickelfoot]]"
 draft: false

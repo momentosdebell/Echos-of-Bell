@@ -7,16 +7,8 @@ Img:
 Race:
   - Tiefling
 Gender: Male
-Class:
 Occupation: "[[The Seven Cats Inn]]"
 Residence: "[[Silvergrove City]]"
-Origin:
-Father:
-Mother:
-Siblings:
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 

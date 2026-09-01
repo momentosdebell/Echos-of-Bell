@@ -5,6 +5,7 @@ Death: 1460
 title: Sean Christopher Hamilton II
 Img:
 Race:
+  - Human
 Gender: Male
 Class: Artificer
 Occupation: Mechanic
@@ -17,7 +18,6 @@ Mother: "[[Likki Nollac]]"
 Siblings:
   - "[[Helena Bunkum]]"
 Partner: "[[Arthur Wolfric McGlagen III]]"
-Former Partner:
 Children:
   - "[[Gelinda Hamilton]]"
   - "[[Frick Achkook]]"

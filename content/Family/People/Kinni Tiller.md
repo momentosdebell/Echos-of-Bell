@@ -7,8 +7,6 @@ Img: "[[Kinni Tiller.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ever Peak]]"
 Origin:
   - "[[Everfall]]"
@@ -19,7 +17,6 @@ Siblings:
   - "[[Eiliss von Je'Den]]"
   - "[[Hef Dong]]"
 Partner: "[[Zoros Tiller]]"
-Former Partner:
 Children:
   - "[[Kinto Tiller]]"
   - "[[Qia Twinkle]]"

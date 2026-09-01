@@ -1,14 +1,15 @@
 ---
-Updated: 2026-06-03
+Updated: 2026-08-31
+title: The Circle of the Blooming Table
+Category:
+  - Organisation
+Region: Everywhere
+Leader: "[[Saffron Holt]]"
+Alignment: Good
+Size: Significant
+Symbol: An open palm with a grain of wheat resting above it
+draft: false
 ---
-> [!infobox]+ Quickies  
-**Type:** Humanitarian Organization  
-**Headquarters:** Most bigger citys
-**Leader:** Rotating Council of Senior Hearthmasters  
-**Size:** Massive 
-**Influence:** Extremely high in crisis zones, high diplomatic leverage  
-**Alignment:** Neutral Humanitarian
-**Symbol:** An open palm with a grain of wheat resting above it
 ## 📜 Overview
 The Circle of the Blooming Table (COBT) is a continent wide humanitarian organization focused on famine relief, plague containment, and disaster logistics.  
 It operates without weapons or military force, relying instead on unmatched expertise in food distribution, crisis response, and logistical stabilization.

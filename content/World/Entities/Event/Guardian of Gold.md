@@ -4,7 +4,7 @@ title: Guardian of Gold
 Category:
   - Event
 Region: "[[Rivergold]]"
-draft: true
+draft: false
 Leader: "[[Molliebeth Bramblevick]]"
 ---
 

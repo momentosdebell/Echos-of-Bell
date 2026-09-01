@@ -7,8 +7,6 @@ Img: "[[Hef Dong]]"
 Race:
   - Elf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Rivergold]]"
 Origin:
   - "[[Everfall]]"
@@ -19,8 +17,6 @@ Siblings:
   - "[[Eiliss von Je'Den]]"
   - "[[Kinni Tiller]]"
 Partner: "[[Fnarl Z'url]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Hef Dong.jpeg]]

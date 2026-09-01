@@ -8,7 +8,6 @@ Race:
   - Goliath
 Gender: Female
 Class: Babarian
-Occupation:
 Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
@@ -17,7 +16,6 @@ Mother: "[[Fumlah Winterfrost]]"
 Siblings:
   - "[[Rami Winterfrost]]"
 Partner: "[[Fyr Hamilton]]"
-Former Partner:
 Children:
   - "[[Bromhilda Winterfrost]]"
 draft: false

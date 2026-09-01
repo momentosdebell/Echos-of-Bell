@@ -7,8 +7,6 @@ Img: "[[Iquique Yllaris Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[De Rivièr]]"
@@ -17,7 +15,6 @@ Mother: "[[Thalindra De Rivièr]]"
 Siblings:
   - "[[Elyra De Rivièr]]"
 Partner: "[[Lily Everfall]]"
-Former Partner:
 Children:
   - "[[Tove Root]]"
 draft: false

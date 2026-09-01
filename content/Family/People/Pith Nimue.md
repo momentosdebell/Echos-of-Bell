@@ -8,16 +8,9 @@ Race:
   - Firbolg
 Gender: Male
 Class: Druid
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
 Siblings:
   - "[[Pym Nimue]]"
 Partner: "[[Gullvi Nimue]]"
-Former Partner:
-Children:
 draft: false
 ---
 ![[Pith Tealeaf.jpeg]]

@@ -19,7 +19,6 @@ Siblings:
   - "[[Kinni Tiller]]"
 Partner: "[[Teylu Ikran]]"
 Former Partner: "[[Pax von Je'Den]]"
-Children:
 draft: false
 ---
 ![[Qia Twinkle.jpg]]

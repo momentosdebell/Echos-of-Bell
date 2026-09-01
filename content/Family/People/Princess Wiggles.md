@@ -9,15 +9,9 @@ Race:
   - Dog
 Gender: Female
 Class: Rogue
-Occupation:
-Residence:
-Origin:
+Residence: "[[Ever Peak]]"
 Father: "[[Gustav Ekblad]]"
 Mother: "[[Agnes Ekblad]]"
-Siblings:
-Partner:
-Former Partner:
-Children:
 ---
 ![[Princess Wiggles.jpg]]
 ## 📖 Overview

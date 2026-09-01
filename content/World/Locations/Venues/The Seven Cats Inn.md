@@ -1,9 +1,16 @@
-> [!infobox]+ Quickies
->**Type:** Tavern 
->**Owner:** [[Silas Kade]]
->**Location:** A Chain of Inn across the whole country 
->**Quality:** Mid to high tier  
->**Price:** 🪙🪙🪙🪙🪙 
+---
+Updated: 2026-08-31
+title: The Seven Cats Inn
+Type: Inn
+Location: Everywhere
+Vibe:
+  - Unified
+  - Classy
+Custodian: "[[Silas Kade]]"
+Economy:
+  - 🪙🪙🪙🪙🪙
+draft: false
+---
 ## 📜 Overview
 The Seven Cats Inn is a tavern chain built on the idea that the road should never feel unsafe or unfamiliar. Every branch offers the same core promise: warm food, clean beds, and everyday luxury.
 

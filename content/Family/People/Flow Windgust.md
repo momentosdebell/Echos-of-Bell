@@ -8,14 +8,8 @@ Race:
   - Firbolg
 Gender: Male
 Class: Druid
-Occupation:
 Residence: "[[Ever Peak]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Safir Windgust]]"
-Former Partner:
 Children:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"

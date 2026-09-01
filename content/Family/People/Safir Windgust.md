@@ -7,15 +7,7 @@ Img:
 Race:
   - Human
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Flow Windgust]]"
-Former Partner:
 Children:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"

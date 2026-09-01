@@ -7,15 +7,7 @@ Img: "[[Ru Yotul.jpeg]]"
 Race:
   - Goblin
 Gender: Female
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Scratch Yotul]]"
-Former Partner:
 Children:
   - "[[Yamek Yotul]]"
   - "[[Yo Yotul]]"

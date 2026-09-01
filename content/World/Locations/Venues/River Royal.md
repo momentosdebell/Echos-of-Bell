@@ -1,10 +1,18 @@
-> [!infobox]+ Quickies
-> **Type:** Luxury Vineyard
-> **Owner:**  [[Thalindra De Rivièr]] and [[Alerion De Rivièr]]
-> **Location:** Outside of [[Liora]]
-> **Quality:** Perfection
-> **Price:** 🪙🪙🪙🪙🪙
-
+---
+Updated: 2026-08-31
+title: River Royal
+Type: Winery
+Location: "[[Liora]]"
+Vibe:
+  - Exclusive
+  - Timeless
+Custodian:
+  - "[[Thalindra De Rivièr]]"
+  - "[[Alerion De Rivièr]]"
+Economy:
+  - 🪙🪙🪙🪙🪙
+draft: false
+---
 ## 📜 Overview
 Rivièr Royal is a signature fruit wine produced in the vineyard estates surrounding Liora. It is known for its smooth sweetness, layered berry notes, and a subtle spice finish that varies slightly between vintages. Each batch is carefully controlled, with production overseen by House De Rivièr and licensed vineyard partners.
 

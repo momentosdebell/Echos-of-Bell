@@ -7,15 +7,8 @@ Img: "[[Queen Lilliana Yllaris Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[King Theodemar Yllaris Everfal]]"
-Former Partner:
 Children:
   - "[[Lily Everfall]]"
 draft: false

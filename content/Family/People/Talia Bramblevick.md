@@ -7,16 +7,10 @@ Img: "[[Talia Bramblevick.png]]"
 Race:
   - Gnome
 Gender: Female
-Class:
 Occupation: "[[The Rolling Pin|Baker]]"
 Residence: "[[Ambervale]]"
-Origin:
 Father: Borum Bramblevick
 Mother: "[[Mellinga Lillibet Bramblevick]]"
-Siblings:
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Talia Bramblevick.png]]

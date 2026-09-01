@@ -8,17 +8,12 @@ Race:
 Birth:
 Death:
 Gender: Female
-Class:
 Occupation: Courier
 Residence: "[[Rivergold]]"
 Origin:
   - "[[Ikran]]"
 Father: "[[Captain Blue Whale]]"
 Mother: "[[Runa Greenmoss]]"
-Siblings:
-Partner:
-Former Partner:
-Children:
 ---
 
 ## 📜Overview 

@@ -1,16 +1,29 @@
 ---
-Updated: 2026-08-24
+Updated: 2026-08-31
+title: Sixfold
+Category:
+  - Religion 
+Deity:
+  - Greedmaw
+  - Rainbow 
+  - Thalor
+  - Emberwing
+  - Redwit
+  - Endrift
+Alignment: Gods span the spectrum
+Domain:
+  - Nature
+  - Life
+  - Knowledge
+  - War
+  - Death
+  - Trickery
+  - Tempest
+  - Peace
+Size: Large
+Symbol: A six-pointed ring of interlocking marks, one for each god
+draft: false
 ---
-
-> [!infobox]+ Quickies
-> ![[.png|90]]
-> **Deity:** The six gods, Greedmaw, Rainbow, Thalor, Emberwing, Redwit and Endrift
-> **Alignment:** Individual gods range across the spectrum
-> **Domains:** Nature, Life, Knowledge, War, Death, Trickery, Tempest, Peace
-> **Symbol:** A six-pointed ring of interlocking marks, one for each god, called *The Unbroken Circle*
-> **Followers:** Farmers, sailors, soldiers, healers, artisans, and wanderers.
-> **Sacred Text:** No strict, but recomended The Sayings of Six and The Hall Verses
-> **Holy Days:** Sixnight, Allsign and individual per god
 
 ## 🦊The Sixfold
 

@@ -14,10 +14,6 @@ Origin:
   - "[[Tickelfoot]]"
 Father: "[[Horvan Niblespirit]]"
 Mother: "[[Unani Niblespirit]]"
-Siblings:
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Rocksan Tickelfoot.jpeg]]§

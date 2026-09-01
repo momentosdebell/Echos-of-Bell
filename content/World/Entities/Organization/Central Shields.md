@@ -1,5 +1,13 @@
 ---
-Updated: 2026-06-06
+Updated: 2026-08-31
+title: Central Shields
+Category:
+  - Enforcement 
+Region: Everywhere
+Leader: Dorian Blackwell
+Size: Large
+Symbol: A coin above a road
+draft: false
 ---
 > [!infobox]+ Quickies  
 > **Type:**  City Guard

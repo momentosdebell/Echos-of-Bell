@@ -1,16 +1,21 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-31
+title: Rivergold
+Type: City
+Location:
+Vibe:
+  - Bureaucratic
+  - Regulated
+Custodian: "[[Arthur Wolfric McGlagen II]]"
+Population: "7000"
+Cityzens:
+  - Human
+  - Half-Orc
+  - Half-Elf 
+Economy:
+  - Logistics
+draft: false
 ---
-> [!infobox]+ Quickies  
-> **Population:** ~7 000   
-> **Citizens:** Humans (38%), Half-Orcs (27%), Half-Elf (13%)
-> **Ruler:**  Lord Proprietor - [[Arthur Wolfric McGlagen II]]
-> **Guard:** [[Central Shields]] 
-> **Economy:** Wealthy  
-> **Industry:** Customs  
-> **Education:** High  
-> **Architecture:** Plastered walls and detailed facades
-
 ## 🌟City of Rivergold
 
 Rivergold is a tightly built river trade town where stone walls, narrow streets, and stacked warehouses rise directly from the riverbanks. Barges and cargo ships fill the docks in constant rotation, feeding the city’s role as the main control point between inland trade and downstream export routes. 

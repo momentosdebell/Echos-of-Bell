@@ -8,8 +8,6 @@ Race:
   - Gnome
   - Dwarf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
@@ -22,9 +20,6 @@ Siblings:
   - "[[Fender Hamilton]]"
   - "[[Molliebeth Bramblevick]]"
   - "[[Quinn Hamilton]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Grizel Hamilton.png]]

@@ -8,13 +8,6 @@ Race:
   - Half-Orc
 Gender: Male
 Class: Fighter
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
-Partner:
 Former Partner: "[[Likki Nollac]]"
 Children:
   - "[[Scratch Yotul]]"

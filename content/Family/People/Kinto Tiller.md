@@ -8,8 +8,6 @@ Race:
   - Satyr
   - Elf
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ever Peak]]"
 Origin:
   - "[[Everfall]]"
@@ -18,9 +16,6 @@ Father: "[[Zoros Tiller]]"
 Mother: "[[Kinni Tiller]]"
 Siblings:
   - "[[Qia Twinkle]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Kinto Tiller.jpeg]]

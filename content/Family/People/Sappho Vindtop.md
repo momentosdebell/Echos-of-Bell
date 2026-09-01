@@ -7,17 +7,12 @@ Img:
 Race:
   - Halfling
 Gender: Female
-Class:
 Occupation: Pirate
 Residence: "[[Rivergold]]"
-Origin:
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Calis Vindtop]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 

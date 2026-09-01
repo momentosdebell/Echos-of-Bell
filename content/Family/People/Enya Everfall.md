@@ -7,17 +7,12 @@ Img: "[[Enya Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
-Father:
-Mother:
 Siblings:
   - "[[Melon Everfall]]"
 Partner: "[[Lord Hilivard Everfall]]"
-Former Partner:
 Children:
   - "[[Vilya Dong]]"
   - "[[Li'thanïa Everfall]]"

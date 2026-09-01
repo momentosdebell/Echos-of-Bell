@@ -7,8 +7,6 @@ Img: "[[Eiliss von Je'Den.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
@@ -19,7 +17,6 @@ Siblings:
   - "[[Kinni Tiller]]"
   - "[[Hef Dong]]"
 Partner: "[[Lord Andross von Je'Den]]"
-Former Partner:
 Children:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"

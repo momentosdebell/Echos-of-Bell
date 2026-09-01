@@ -1,16 +1,19 @@
 ---
-Updated: 2026-06-05
+Updated: 2026-08-31
+title: Silvergrove City
+Type: Capital
+Location:
+Vibe:
+  - Magical
+  - Layered
+Custodian: "[[King Theodemar Yllaris Everfall]]"
+Population: "280000"
+Cityzens:
+  - Elf
+Economy:
+  - Bureaucracy
+draft: false
 ---
-> [!infobox]+ Quickies
-   **Population:** ~280 000  
-   **Citizens:** Elves (45%), Humans (30%), Half-Elves (15%)
-   **Ruler:** [[King Theodemar Yllaris Everfall]]
-   **Guard:** [[Central Shields]]
-   **Economy:** Very Wealthy
-   **Industry**: Arcane Research, Enchanting, Education, Banking, Luxury Goods
-   **Education:** Very High
-   **Architecture:** White stone manors, decorative plaster facades, silver roofs, stained glass, elevated gardens, and tree-lined boulevards
-   
  
 ## 🌟 City of Silvergrove
 White stone towers and shining roofs catching the light above the canopy. Elegant bridges, arcane spires, and grand manor houses stretch across the hills, while glowing lanterns and floating crystals illuminate the streets below. Everything feels refined, wealthy, and carefully maintained, as if the city itself was designed to impress long before you ever stepped through its gates.

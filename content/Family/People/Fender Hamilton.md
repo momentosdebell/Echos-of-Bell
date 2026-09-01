@@ -8,9 +8,6 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Class:
-Occupation:
-Residence:
 Origin:
   - "[[Hamilton]]"
 Father: "[[Orin Hamilton]]"
@@ -20,9 +17,6 @@ Siblings:
   - "[[Molliebeth Bramblevick]]"
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Fender Hamilton.png]]

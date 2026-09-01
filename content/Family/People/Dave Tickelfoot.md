@@ -7,10 +7,7 @@ Img: "[[Dave Tickelfoot.jpeg]]"
 Race:
   - Halfling
   - Half-Elf
-Age:
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Ambervale]]"
 Origin:
   - "[[Tickelfoot]]"
@@ -19,9 +16,6 @@ Mother: "[[Eldana Tickelfoot]]"
 Siblings:
   - "[[Daniela Tickelfoot]]"
   - "[[Danny Tickelfoot]]"
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Dave Tickelfoot.jpeg]]

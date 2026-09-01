@@ -8,15 +8,7 @@ Race:
   - Demon
 Gender: Non-Binary
 Class: Litch
-Occupation:
 Residence: Drenmar
-Origin:
-Father:
-Mother:
-Siblings:
-Partner:
-Former Partner:
-Children:
 draft: false
 ---
 ![[Xadara.png]]

@@ -7,17 +7,12 @@ Img: "[[Mellon Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
-Father:
-Mother:
 Siblings:
   - "[[Enya Everfall]]"
 Partner: "[[Theodore Akkar Yllaris]]"
-Former Partner:
 Children:
   - "[[King Theodemar Yllaris Everfall]]"
 draft: false

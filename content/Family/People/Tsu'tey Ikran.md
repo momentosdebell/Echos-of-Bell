@@ -7,15 +7,7 @@ Img: "[[Tsu'tey Ikran.jpeg]]"
 Race:
   - Genasi
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Nok'ite Ikran]]"
-Former Partner:
 Children:
   - "[[Teylu Ikran]]"
   - "[[Captain Blue Whale]]"

@@ -1,12 +1,16 @@
 ---
-Updated: 2026-05-31
+Updated: 2026-08-31
+title: The Rolling Pin
+Type: Bakary
+Location: "[[Ambervale]]"
+Vibe:
+  - Homely
+  - Fresh
+Custodian: "[[Talia Bramblevick]]"
+Economy:
+  - 🪙⚪⚪⚪⚪
+draft: false
 ---
-> [!infobox]+ Quickies  
-**Type:** Bakery / Café  
-**Owner:** [[Old Thom]]  
-**Location:** [[Ambervale]] – Grain District  
-**Quality:** High (consistent, simple craft)  
-**Price:** 🪙🪙⚪⚪⚪ 
 ## 📜 Overview
 The Rolling Pin is best known for its sourdough bread and slow baked grain loaves, and a reputation for staying open when everything else shuts down.
 
@@ -25,7 +29,7 @@ Located in the Grain District of [[Ambervale]], positioned along key local suppl
 ## 🏛️ History
 The Rolling Pin was founded in the early years of modern [[Ambervale]], during a period when the city was still recovering from famine cycles and unstable trade flow along the river.
 
-It began as a modest neighborhood bakery run by [[Old Thom]], a former mill worker who understood grain, hunger, and the fragile line between them better than most. From the start, his philosophy was simple and uncompromising:
+It began as a modest neighborhood bakery run by [[Family/People/Talia Bramblevick]], a former mill worker who understood grain, hunger, and the fragile line between them better than most. From the start, his philosophy was simple and uncompromising:
 
 > “Bread should not stop when everything else does.”
 

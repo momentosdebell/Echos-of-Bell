@@ -7,15 +7,7 @@ Img: "[[Gong Dong.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
-Occupation:
-Residence:
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Fu Dong]]"
-Former Partner:
 Children:
   - "[[Hao Dong]]"
   - "[[Du Dong]]"

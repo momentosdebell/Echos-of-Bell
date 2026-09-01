@@ -7,15 +7,8 @@ Img: "[[John Von Je'Den.jpeg]]"
 Race:
   - Human
 Gender: Male
-Class:
-Occupation:
 Residence: "[[Silvergrove City]]"
-Origin:
-Father:
-Mother:
-Siblings:
 Partner: "[[Helga Nollac]]"
-Former Partner:
 Children:
   - "[[Lord Andross von Je'Den]]"
 draft: false
