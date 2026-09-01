@@ -254,6 +254,19 @@ plugins:
         - Attunement
         - Charges
         - Requirement
+        - Deity
+        - Leader
+        - Alignment
+        - Domain
+        - Size
+        - Symbol
+        - Type
+        - Location
+        - Vibe
+        - Custodian
+        - Population
+        - Cityzens
+        - Economy
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -295,6 +308,19 @@ plugins:
         - Attunement
         - Charges
         - Requirement
+        - Deity
+        - Leader
+        - Alignment
+        - Domain
+        - Size
+        - Symbol
+        - Type
+        - Location
+        - Vibe
+        - Custodian
+        - Population
+        - Cityzens
+        - Economy
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
