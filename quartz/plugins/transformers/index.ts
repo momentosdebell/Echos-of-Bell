@@ -1,16 +1,15 @@
-```ts
 import { QuartzTransformerPlugin } from "../types"
 
-const SETTINGS_PATH = "World/Settings.md"
 const PEOPLE_PATH = "Family/People/"
+const SETTINGS_PATH = "World/Settings.md"
 
-export default Age: QuartzTransformerPlugin = () => {
+let currentYear: number | undefined
+
+export const Age: QuartzTransformerPlugin = () => {
   return {
     name: "Age",
 
     textTransform(ctx, src) {
-      // We only need the source text here.
-      // The actual frontmatter modification happens below in markdownPlugins.
       return src
     },
 
@@ -20,13 +19,23 @@ export default Age: QuartzTransformerPlugin = () => {
           return (tree: any, file: any) => {
             const filePath = file.path ?? ""
 
-            // Only process characters inside Family/People
-            if (!filePath.startsWith(PEOPLE_PATH)) {
+            // Read CurrentYear from World/Settings.md
+            if (filePath === SETTINGS_PATH) {
+              const frontmatter = file.data?.frontmatter
+
+              if (frontmatter?.CurrentYear !== undefined) {
+                const year = Number(frontmatter.CurrentYear)
+
+                if (Number.isFinite(year)) {
+                  currentYear = year
+                }
+              }
+
               return
             }
 
-            // Settings.md is handled separately.
-            if (filePath === SETTINGS_PATH) {
+            // Only process characters in Family/People
+            if (!filePath.startsWith(PEOPLE_PATH)) {
               return
             }
 
@@ -37,24 +46,14 @@ export default Age: QuartzTransformerPlugin = () => {
             }
 
             const birth = Number(frontmatter.Birth)
-            const death =
-              frontmatter.Death !== undefined &&
-              frontmatter.Death !== null &&
-              frontmatter.Death !== ""
-                ? Number(frontmatter.Death)
-                : undefined
 
-            // No valid Birth = nothing to calculate
             if (!Number.isFinite(birth)) {
               return
             }
 
-            // Find CurrentYear from all processed files
-            const currentYear = findCurrentYear(ctx)
-
             if (currentYear === undefined) {
               console.warn(
-                `[Age] Could not find CurrentYear in ${SETTINGS_PATH}`,
+                "[Age] Could not find CurrentYear in World/Settings.md",
               )
               return
             }
@@ -66,19 +65,31 @@ export default Age: QuartzTransformerPlugin = () => {
               age = "Not born yet"
             }
             // Character is dead
-            else if (death !== undefined && currentYear >= death) {
+            else if (
+              frontmatter.Death !== undefined &&
+              frontmatter.Death !== null &&
+              frontmatter.Death !== ""
+            ) {
+              const death = Number(frontmatter.Death)
+
+              if (!Number.isFinite(death)) {
+                return
+              }
+
               const ageAtDeath = death - birth
               const yearsAgo = currentYear - death
 
-              age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+              if (currentYear >= death) {
+                age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+              } else {
+                age = `${currentYear - birth} y/o`
+              }
             }
             // Character is alive
             else {
-              const currentAge = currentYear - birth
-              age = `${currentAge} y/o`
+              age = `${currentYear - birth} y/o`
             }
 
-            // Add calculated Age to the frontmatter data.
             frontmatter.Age = age
           }
         },
@@ -87,26 +98,4 @@ export default Age: QuartzTransformerPlugin = () => {
   }
 }
 
-function findCurrentYear(ctx: any): number | undefined {
-  const settingsFile = ctx.allFiles?.find(
-    (file: string) => file === SETTINGS_PATH,
-  )
-
-  if (!settingsFile) {
-    return undefined
-  }
-
-  // CurrentYear is retrieved from the Settings page during processing.
-  const settingsData = ctx.trie?.findNode(["World", "Settings", "index"])?.data
-
-  const currentYear = settingsData?.frontmatter?.CurrentYear
-
-  if (currentYear === undefined || currentYear === null || currentYear === "") {
-    return undefined
-  }
-
-  const year = Number(currentYear)
-
-  return Number.isFinite(year) ? year : undefined
-}
-```
+export default Age
