@@ -51,6 +51,9 @@ plugins:
         - git
         - filesystem
     order: 10
+  - source: ./quartz/plugins/transformers
+    enabled: true
+    order: 15
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
