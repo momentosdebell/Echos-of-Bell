@@ -2,123 +2,118 @@ import fs from "fs"
 import path from "path"
 import { QuartzTransformerPlugin } from "../types"
 
-const PEOPLE_PATH = "Family/People"
+const PEOPLE_PATH = "Family/People/"
 const SETTINGS_PATH = "World/Settings.md"
 
 function getCurrentYear(): number | undefined {
   const settingsPath = path.resolve(process.cwd(), SETTINGS_PATH)
 
-  console.log(`[Age] Looking for Settings: ${settingsPath}`)
-
   if (!fs.existsSync(settingsPath)) {
-    console.log(`[Age] Settings file NOT FOUND`)
     return undefined
   }
 
   const source = fs.readFileSync(settingsPath, "utf8")
 
-  const match = source.match(/CurrentYear:\s*(\d+)/)
+  const match = source.match(/^\s*CurrentYear:\s*(\d+)\s*$/m)
 
   if (!match) {
-    console.log(`[Age] CurrentYear NOT FOUND`)
     return undefined
   }
 
   const year = Number(match[1])
 
-  console.log(`[Age] CurrentYear = ${year}`)
-
   return Number.isFinite(year) ? year : undefined
+}
+
+function calculateAge(
+  birth: number,
+  death: number | undefined,
+  currentYear: number,
+): string {
+  if (currentYear < birth) {
+    return "Not born yet"
+  }
+
+  if (death !== undefined && currentYear >= death) {
+    const ageAtDeath = death - birth
+    const yearsAgo = currentYear - death
+
+    return `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+  }
+
+  return `${currentYear - birth} y/o`
 }
 
 export const Age: QuartzTransformerPlugin = () => ({
   name: "Age",
 
   textTransform(_ctx, src) {
-    return src
+    // Must have YAML frontmatter
+    if (!src.startsWith("---")) {
+      return src
+    }
+
+    const end = src.indexOf("\n---", 3)
+
+    if (end === -1) {
+      return src
+    }
+
+    const frontmatter = src.slice(3, end)
+
+    // Only files containing an Age property
+    const ageMatch = frontmatter.match(/^Age:\s*(.*)$/m)
+
+    if (!ageMatch) {
+      return src
+    }
+
+    // Only Family/People files.
+    // We cannot get the path from textTransform, so we identify
+    // character files by requiring Birth.
+    const birthMatch = frontmatter.match(/^Birth:\s*(\d+)\s*$/m)
+
+    if (!birthMatch) {
+      return src
+    }
+
+    const birth = Number(birthMatch[1])
+
+    if (!Number.isFinite(birth)) {
+      return src
+    }
+
+    const currentYear = getCurrentYear()
+
+    if (currentYear === undefined) {
+      return src
+    }
+
+    const deathMatch = frontmatter.match(/^Death:\s*(\d+)\s*$/m)
+
+    const death =
+      deathMatch !== null
+        ? Number(deathMatch[1])
+        : undefined
+
+    const age = calculateAge(
+      birth,
+      Number.isFinite(death) ? death : undefined,
+      currentYear,
+    )
+
+    // Replace only the Age value.
+    // The user's "Age:" stays in the YAML.
+    const newFrontmatter = frontmatter.replace(
+      /^Age:\s*.*$/m,
+      `Age: ${age}`,
+    )
+
+    return `---${newFrontmatter}\n---${src.slice(end + 4)}`
   },
 
   markdownPlugins() {
-    return [
-      () => {
-        return (_tree: any, file: any) => {
-          const relativePath = String(
-            file.data?.relativePath ?? "",
-          ).replaceAll("\\", "/")
-
-          // Only Family/People
-          if (!relativePath.startsWith(`${PEOPLE_PATH}/`)) {
-            return
-          }
-
-          const frontmatter = file.data?.frontmatter
-
-          if (!frontmatter) {
-            console.log(`[Age] No frontmatter: ${relativePath}`)
-            return
-          }
-
-          // Age must exist in YAML
-          if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
-            return
-          }
-
-          console.log(`[Age] Processing: ${relativePath}`)
-
-          const birth = Number(frontmatter.Birth)
-
-          if (!Number.isFinite(birth)) {
-            console.log(`[Age] Invalid Birth: ${relativePath}`)
-            return
-          }
-
-          const currentYear = getCurrentYear()
-
-          if (currentYear === undefined) {
-            return
-          }
-
-          let age: string
-
-          // Not born yet
-          if (currentYear < birth) {
-            age = "Not born yet"
-          } else {
-            const deathValue = frontmatter.Death
-
-            const hasDeath =
-              deathValue !== undefined &&
-              deathValue !== null &&
-              deathValue !== ""
-
-            // Dead
-            if (hasDeath) {
-              const death = Number(deathValue)
-
-              if (!Number.isFinite(death)) {
-                return
-              }
-
-              if (currentYear >= death) {
-                const ageAtDeath = death - birth
-                const yearsAgo = currentYear - death
-
-                age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
-              } else {
-                age = `${currentYear - birth} y/o`
-              }
-            } else {
-              // Alive
-              age = `${currentYear - birth} y/o`
-            }
-          }
-
-          frontmatter.Age = age
-
-          console.log(`[Age] ${relativePath} -> ${age}`)
-        }
-      },
-    ]
+    return []
   },
 })
 
