@@ -1,6 +1,5 @@
 import fs from "fs"
 import path from "path"
-import YAML from "yaml"
 import { QuartzTransformerPlugin } from "../types"
 
 const PEOPLE_PATH = "Family/People"
@@ -10,94 +9,97 @@ function getCurrentYear(): number | undefined {
   const settingsPath = path.join(process.cwd(), SETTINGS_PATH)
 
   if (!fs.existsSync(settingsPath)) {
+    console.warn(`[Age] Settings file not found: ${settingsPath}`)
     return undefined
   }
 
   const source = fs.readFileSync(settingsPath, "utf8")
-  const match = source.match(/^CurrentYear:\s*(\d+)\s*$/m)
+
+  const match = source.match(/CurrentYear:\s*(\d+)/)
 
   if (!match) {
+    console.warn("[Age] CurrentYear not found in Settings.md")
     return undefined
   }
 
-  const year = Number(match[1])
-
-  return Number.isFinite(year) ? year : undefined
+  return Number(match[1])
 }
 
 export const Age: QuartzTransformerPlugin = () => ({
   name: "Age",
 
-  textTransform(_ctx, src) {
-    if (!src.startsWith("---")) {
-      return src
-    }
+  textTransform(ctx, src) {
+    return src
+  },
 
-    const end = src.indexOf("\n---", 3)
+  markdownPlugins(ctx) {
+    return [
+      () => {
+        return (_tree: any, file: any) => {
+          const filePath = String(file.data?.relativePath ?? "").replaceAll("\\", "/")
 
-    if (end === -1) {
-      return src
-    }
+          // Only Family/People
+          if (!filePath.startsWith(PEOPLE_PATH + "/")) {
+            return
+          }
 
-    const yamlText = src.slice(3, end)
-    const body = src.slice(end + 4)
+          const frontmatter = file.data?.frontmatter
 
-    let frontmatter: Record<string, any>
+          if (!frontmatter) {
+            return
+          }
 
-    try {
-      frontmatter = YAML.parse(yamlText) ?? {}
-    } catch {
-      return src
-    }
+          // Age must exist in YAML
+          if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
+            return
+          }
 
-    // Age must exist in the character YAML
-    if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
-      return src
-    }
+          const birth = Number(frontmatter.Birth)
 
-    // Birth is required
-    const birth = Number(frontmatter.Birth)
+          if (!Number.isFinite(birth)) {
+            return
+          }
 
-    if (!Number.isFinite(birth)) {
-      return src
-    }
+          const currentYear = getCurrentYear()
 
-    const currentYear = getCurrentYear()
+          if (!Number.isFinite(currentYear)) {
+            return
+          }
 
-    if (currentYear === undefined) {
-      return src
-    }
+          if (currentYear < birth) {
+            frontmatter.Age = "Not born yet"
+            return
+          }
 
-    let age: string
+          const deathValue = frontmatter.Death
 
-    // Not born yet
-    if (currentYear < birth) {
-      age = "Not born yet"
-    } else {
-      const death = Number(frontmatter.Death)
+          if (
+            deathValue !== undefined &&
+            deathValue !== null &&
+            deathValue !== ""
+          ) {
+            const death = Number(deathValue)
 
-      // Dead
-      if (Number.isFinite(death) && currentYear >= death) {
-        const ageAtDeath = death - birth
-        const yearsAgo = currentYear - death
+            if (!Number.isFinite(death)) {
+              return
+            }
 
-        age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
-      } else {
-        // Alive
-        age = `${currentYear - birth} y/o`
+            if (currentYear >= death) {
+              const ageAtDeath = death - birth
+              const yearsAgo = currentYear - death
+
+              frontmatter.Age =
+                `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+
+              return
+            }
+          }
+
+          frontmatter.Age = `${currentYear - birth} y/o`
+        }
       }
-    }
-
-    frontmatter.Age = age
-
-    const newYaml = YAML.stringify(frontmatter).trim()
-
-    return `---\n${newYaml}\n---${body}`
-  },
-
-  markdownPlugins() {
-    return []
-  },
+    ]
+  }
 })
 
 export default Age
