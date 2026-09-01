@@ -1,6 +1,5 @@
 import fs from "fs"
 import path from "path"
-import YAML from "yaml"
 import { QuartzTransformerPlugin } from "../types"
 
 const PEOPLE_PATH = "Family/People/"
@@ -30,98 +29,79 @@ function getCurrentYear(): number | undefined {
 export const Age: QuartzTransformerPlugin = () => ({
   name: "Age",
 
-  textTransform(ctx, src) {
-    const currentYear = getCurrentYear()
+  textTransform(_ctx, src) {
+    return src
+  },
 
-    if (currentYear === undefined) {
-      return src
-    }
+  markdownPlugins(_ctx) {
+    return [
+      () => {
+        return (_tree: any, file: any) => {
+          const filePath = (file.data?.relativePath ?? "").replaceAll("\\", "/")
 
-    if (!src.startsWith("---")) {
-      return src
-    }
+          // Only Family/People
+          if (!filePath.startsWith(PEOPLE_PATH)) {
+            return
+          }
 
-    const end = src.indexOf("\n---", 3)
+          const frontmatter = file.data?.frontmatter
 
-    if (end === -1) {
-      return src
-    }
+          if (!frontmatter) {
+            return
+          }
 
-    const yamlText = src.slice(3, end)
-    const body = src.slice(end + 4)
+          // Only calculate Age when Age exists in the character YAML
+          if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
+            return
+          }
 
-    let frontmatter: Record<string, any>
+          const birth = Number(frontmatter.Birth)
 
-    try {
-      frontmatter = YAML.parse(yamlText) ?? {}
-    } catch {
-      return src
-    }
+          if (!Number.isFinite(birth)) {
+            return
+          }
 
-    // Age must be manually added to the character YAML.
-    // Example:
-    //
-    // Age:
-    //
-    if (!Object.prototype.hasOwnProperty.call(frontmatter, "Age")) {
-      return src
-    }
+          const currentYear = getCurrentYear()
 
-    // Birth is required.
-    if (frontmatter.Birth === undefined || frontmatter.Birth === null) {
-      return src
-    }
+          if (currentYear === undefined) {
+            return
+          }
 
-    const birth = Number(frontmatter.Birth)
+          // Not born yet
+          if (currentYear < birth) {
+            frontmatter.Age = "Not born yet"
+            return
+          }
 
-    if (!Number.isFinite(birth)) {
-      return src
-    }
+          // Dead
+          if (
+            frontmatter.Death !== undefined &&
+            frontmatter.Death !== null &&
+            frontmatter.Death !== ""
+          ) {
+            const death = Number(frontmatter.Death)
 
-    let age: string
+            if (!Number.isFinite(death)) {
+              return
+            }
 
-    // Character has not been born yet.
-    if (currentYear < birth) {
-      age = "Not born yet"
-    } else {
-      const deathValue = frontmatter.Death
+            if (currentYear >= death) {
+              const ageAtDeath = death - birth
+              const yearsAgo = currentYear - death
 
-      const hasDeath =
-        deathValue !== undefined &&
-        deathValue !== null &&
-        deathValue !== ""
+              frontmatter.Age =
+                `died at age ${ageAtDeath}, ${yearsAgo} years ago`
 
-      if (hasDeath) {
-        const death = Number(deathValue)
+              return
+            }
+          }
 
-        if (!Number.isFinite(death)) {
-          return src
+          // Alive
+          frontmatter.Age = `${currentYear - birth} y/o`
         }
-
-        if (currentYear >= death) {
-          const ageAtDeath = death - birth
-          const yearsAgo = currentYear - death
-
-          age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
-        } else {
-          age = `${currentYear - birth} y/o`
-        }
-      } else {
-        age = `${currentYear - birth} y/o`
       }
-    }
-
-    // Replace the existing empty Age: value.
-    frontmatter.Age = age
-
-    const newYaml = YAML.stringify(frontmatter).trim()
-
-    return `---\n${newYaml}\n---${body}`
-  },
-
-  markdownPlugins() {
-    return []
-  },
+    ]
+  }
 })
 
 export default Age
