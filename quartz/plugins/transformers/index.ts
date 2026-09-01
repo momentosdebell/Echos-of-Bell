@@ -1,5 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 
+const PEOPLE_PATH = "Family/People/"
 const SETTINGS_PATH = "World/Settings.md"
 
 let currentYear: number | undefined
@@ -8,22 +9,14 @@ export const Age: QuartzTransformerPlugin = () => {
   return {
     name: "Age",
 
-    textTransform(_ctx, src) {
-      return src
-    },
-
-    markdownPlugins(_ctx) {
+    markdownPlugins() {
       return [
         () => {
-          return (_tree: any, file: any) => {
-            const rawPath = file.path ?? ""
-            const filePath = rawPath.replace(/\\/g, "/")
+          return (tree: any, file: any) => {
+            const filePath = file.path ?? ""
 
-            // Read CurrentYear from World/Settings.md
-            if (
-              filePath === SETTINGS_PATH ||
-              filePath.endsWith(`/${SETTINGS_PATH}`)
-            ) {
+            // World/Settings.md
+            if (filePath === SETTINGS_PATH) {
               const frontmatter = file.data?.frontmatter
 
               if (frontmatter?.CurrentYear !== undefined) {
@@ -37,8 +30,8 @@ export const Age: QuartzTransformerPlugin = () => {
               return
             }
 
-            // Only process markdown files inside Family/People
-            if (!/(^|\/)Family\/People\/.+\.md$/.test(filePath)) {
+            // Bara Family/People
+            if (!filePath.startsWith(PEOPLE_PATH)) {
               return
             }
 
@@ -55,48 +48,41 @@ export const Age: QuartzTransformerPlugin = () => {
             }
 
             if (currentYear === undefined) {
-              console.warn(
-                "[Age] Could not find CurrentYear in World/Settings.md",
-              )
               return
             }
 
-            let age: string
-
-            // Character has not been born yet
+            // Inte född
             if (currentYear < birth) {
-              age = "Not born yet"
-            } else {
-              const hasDeath =
-                frontmatter.Death !== undefined &&
-                frontmatter.Death !== null &&
-                frontmatter.Death !== ""
+              frontmatter.Age = "Not born yet"
+              return
+            }
 
-              // Character has a valid Death year
-              if (hasDeath) {
-                const death = Number(frontmatter.Death)
+            // Har Death
+            if (
+              frontmatter.Death !== undefined &&
+              frontmatter.Death !== null &&
+              frontmatter.Death !== ""
+            ) {
+              const death = Number(frontmatter.Death)
 
-                if (!Number.isFinite(death)) {
-                  return
-                }
+              if (!Number.isFinite(death)) {
+                return
+              }
 
-                // Character is dead
-                if (currentYear >= death) {
-                  const ageAtDeath = death - birth
-                  const yearsAgo = currentYear - death
+              // Personen är död enligt CurrentYear
+              if (currentYear >= death) {
+                const ageAtDeath = death - birth
+                const yearsAgo = currentYear - death
 
-                  age = `died at age ${ageAtDeath}, ${yearsAgo} years ago`
-                } else {
-                  // Death is in the future
-                  age = `${currentYear - birth} y/o`
-                }
-              } else {
-                // Character is alive
-                age = `${currentYear - birth} y/o`
+                frontmatter.Age =
+                  `died at age ${ageAtDeath}, ${yearsAgo} years ago`
+
+                return
               }
             }
 
-            frontmatter.Age = age
+            // Personen lever
+            frontmatter.Age = `${currentYear - birth} y/o`
           }
         },
       ]
@@ -105,4 +91,3 @@ export const Age: QuartzTransformerPlugin = () => {
 }
 
 export default Age
-
