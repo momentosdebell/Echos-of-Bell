@@ -1,1 +1,1 @@
-export {}
+export { Age } from "./age"
