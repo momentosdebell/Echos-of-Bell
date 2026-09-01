@@ -36,10 +36,12 @@ export const Age: QuartzTransformerPlugin = () => {
         () => {
           return (_tree: any, file: any) => {
             const filePath = file.path ?? ""
+            const normalizedPath = filePath.replace(/\\/g, "/")
+            console.log("[Age] Processing:", normalizedPath)
 
             // Only Family/People
-            if (!filePath.startsWith(PEOPLE_PATH)) {
-              return
+                if (!normalizedPath.toLowerCase().startsWith("family/people/")) {
+             return
             }
 
             const frontmatter = file.data?.frontmatter
