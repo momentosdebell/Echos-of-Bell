@@ -1,9 +1,31 @@
+import fs from "fs"
+import path from "path"
 import { QuartzTransformerPlugin } from "../types"
 
 const PEOPLE_PATH = "Family/People/"
 const SETTINGS_PATH = "World/Settings.md"
 
-let currentYear: number | undefined
+function getCurrentYear(): number | undefined {
+  const settingsPath = path.join(process.cwd(), SETTINGS_PATH)
+
+  if (!fs.existsSync(settingsPath)) {
+    console.warn(`[Age] Could not find ${SETTINGS_PATH}`)
+    return undefined
+  }
+
+  const content = fs.readFileSync(settingsPath, "utf8")
+
+  const match = content.match(/^CurrentYear:\s*(\d+)/m)
+
+  if (!match) {
+    console.warn("[Age] Could not find CurrentYear in World/Settings.md")
+    return undefined
+  }
+
+  const year = Number(match[1])
+
+  return Number.isFinite(year) ? year : undefined
+}
 
 export const Age: QuartzTransformerPlugin = () => {
   return {
@@ -12,25 +34,10 @@ export const Age: QuartzTransformerPlugin = () => {
     markdownPlugins() {
       return [
         () => {
-          return (tree: any, file: any) => {
+          return (_tree: any, file: any) => {
             const filePath = file.path ?? ""
 
-            // World/Settings.md
-            if (filePath === SETTINGS_PATH) {
-              const frontmatter = file.data?.frontmatter
-
-              if (frontmatter?.CurrentYear !== undefined) {
-                const year = Number(frontmatter.CurrentYear)
-
-                if (Number.isFinite(year)) {
-                  currentYear = year
-                }
-              }
-
-              return
-            }
-
-            // Bara Family/People
+            // Only Family/People
             if (!filePath.startsWith(PEOPLE_PATH)) {
               return
             }
@@ -47,17 +54,19 @@ export const Age: QuartzTransformerPlugin = () => {
               return
             }
 
+            const currentYear = getCurrentYear()
+
             if (currentYear === undefined) {
               return
             }
 
-            // Inte född
+            // Not born yet
             if (currentYear < birth) {
               frontmatter.Age = "Not born yet"
               return
             }
 
-            // Har Death
+            // Dead
             if (
               frontmatter.Death !== undefined &&
               frontmatter.Death !== null &&
@@ -69,7 +78,6 @@ export const Age: QuartzTransformerPlugin = () => {
                 return
               }
 
-              // Personen är död enligt CurrentYear
               if (currentYear >= death) {
                 const ageAtDeath = death - birth
                 const yearsAgo = currentYear - death
@@ -81,7 +89,7 @@ export const Age: QuartzTransformerPlugin = () => {
               }
             }
 
-            // Personen lever
+            // Alive
             frontmatter.Age = `${currentYear - birth} y/o`
           }
         },
