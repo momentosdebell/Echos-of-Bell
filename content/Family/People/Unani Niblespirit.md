@@ -21,56 +21,6 @@ Children:
 draft: false
 ---
 ![[Unani Niblespirit.jpeg]]
-## 📜Overview 
-
----
-## 🎭Personality  
-
----
-## 🏰Background 
-
-   **Origin** 
-
-
-   **Upbringing** 
-
-
-   **Culture** 
-
-
-   **Education** 
-
-
-   **Turning Point** 
-
-
-   **Consequences** 
-
-
-   **Affiliations** 
-
-
-   **Motivations** 
-
-
-   **Secrets** 
-
-
-   **Bridge** 
-
-## 💪Abilities
-
----
-## ⚔️Equipment
-
----
-## 💞Relationships
-
----
-## 🗓️Events
-
----
-## 🍿Trivia
 
 
 
