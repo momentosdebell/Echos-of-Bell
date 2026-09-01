@@ -17,6 +17,7 @@ Children:
   - "[[Princess Wiggles]]"
 draft: false
 ---
+```dataview
 const currentYear = dv.page("World/private/Settings.md")?.CurrentYear ?? 0;
 
 dv.table(["Karaktär", "Född", "Status / Ålder"],
@@ -34,3 +35,4 @@ dv.table(["Karaktär", "Född", "Status / Ålder"],
           return [p.file.link, p.Birth, ageOrDeath];
       })
 );
+```
