@@ -42,6 +42,9 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: ./quartz/plugins/transformers
+    enabled: true
+    order: 15
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
