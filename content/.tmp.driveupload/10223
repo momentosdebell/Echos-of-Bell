@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef27052a84ed94da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "8730d2b860d81cb7",
             "type": "leaf",
             "state": {
@@ -37,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family/People/Molliebeth Bramblevick.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molliebeth Bramblevick"
+              "title": "index"
             }
           },
           {
@@ -59,7 +49,8 @@
               "title": "NPC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +105,7 @@
               "title": "Bokmärken"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef27052a84ed94da",
+  "active": "eca3e9ba8dd47eb5",
   "lastOpenFiles": [
+    "World/Settings.md",
     "World/Locations/Towns/Ever Peak.md",
     "Family/People/Agnes Ekblad.md",
-    "World/Settings.md",
     "World/private/Templates/Entities.md",
     "World/private/Templates/Locations.md",
     "World/private/Templates/Items.md",
