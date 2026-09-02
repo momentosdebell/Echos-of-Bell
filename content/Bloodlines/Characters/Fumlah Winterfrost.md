@@ -10,8 +10,9 @@ Gender: Female
 Class: Babarian
 Origin:
   - "[[Winterfrost]]"
-Partner: "[[Arashi Winterfrost]]"
+Partner: "[[Samo Winterfrost]]"
 Children:
+  - "[[Sami Winterfrost]]"
   - "[[Rami Winterfrost]]"
   - "[[Lolo Winterfrost]]"
 draft: false

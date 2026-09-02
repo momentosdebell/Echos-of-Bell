@@ -44,7 +44,7 @@ It is infrastructure.
 - Professor Aldric Wren - Renowned scholar of magical history
 - Mirabelle Frost - Influential banking house director
 - Varyn Hollowbrook - Master Enchanter of the Silver Spire Consortium
-- [[Gaganesh Orvil Amon Thorne]] - Owner of [[Dynamic Office Of Reality]]
+- [[Gaganesh Thorne]] - Owner of [[Dynamic Office Of Reality]]
 ## 🗺️ Geography
 Silvergrove City rises among rolling hills covered in ancient silver barked trees whose shimmering leaves give the city its name.
 

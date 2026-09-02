@@ -11,9 +11,10 @@ Class: Babarian
 Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
-Father: "[[Arashi Winterfrost]]"
+Father: "[[Samo Winterfrost]]"
 Mother: "[[Fumlah Winterfrost]]"
 Siblings:
+  - "[[Sami Winterfrost]]"
   - "[[Rami Winterfrost]]"
 Partner: "[[Fyr Hamilton]]"
 Children:

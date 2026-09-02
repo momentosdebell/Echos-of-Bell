@@ -29,7 +29,7 @@ Located in the Grain District of [[Ambervale]], positioned along key local suppl
 ## 🏛️ History
 The Rolling Pin was founded in the early years of modern [[Ambervale]], during a period when the city was still recovering from famine cycles and unstable trade flow along the river.
 
-It began as a modest neighborhood bakery run by [[Family/People/Talia Bramblevick]], a former mill worker who understood grain, hunger, and the fragile line between them better than most. From the start, his philosophy was simple and uncompromising:
+It began as a modest neighborhood bakery run by [[Talia Bramblevick]], a former mill worker who understood grain, hunger, and the fragile line between them better than most. From the start, his philosophy was simple and uncompromising:
 
 > “Bread should not stop when everything else does.”
 

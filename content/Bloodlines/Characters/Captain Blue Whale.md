@@ -1,5 +1,5 @@
 ---
-Updated: 2026-08-27
+Updated: 2026-08-28
 Birth: 1456
 Death: 1558
 title: Captain Blue Whale
@@ -19,5 +19,6 @@ Siblings:
 Children:
   - "[[Kitana Greenmoss]]"
 draft: false
+Former Partner: "[[Runa Greenmoss]]"
 ---
 ![[Captain Blue Whale.jpeg]]

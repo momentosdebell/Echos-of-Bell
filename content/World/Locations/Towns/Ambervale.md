@@ -26,7 +26,7 @@ Arcane magic is uncommon here, showing up mostly in small, unpredictable ways an
 
 Security is steady but not militarized. Guards are visible around markets, docks, and major roads, but the city relies more on community structure and guild influence than heavy force. Merchant routes are protected mainly because the economy depends on them, not because of strict authority.
 ## 🎭NPCs
-- [[Family/People/Talia Bramblevick]] - Cafe owner
+- [[Talia Bramblevick]] - Cafe owner
 - Bram Kettle - Harbormaster
 
 ## 🗺️ Geography 

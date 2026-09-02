@@ -30,7 +30,7 @@ The night the roof gave out during the autumn gale, most gnomes would have packe
 ---
 
 ## 👨‍👧 Relationship
-Nilly shares a fierce, unbreakable bond with her daughter [[Family/People/Talia Bramblevick]]. Her relationship with her husband is a constant love-hate dynamic where his obsession with order clashes daily with her chaotic knack for upending it. She is also endlessly fond of [[Molliebeth Bramblevick]], always ready to drag the former noblewoman into whatever ridiculous scheme she has just cooked up.
+Nilly shares a fierce, unbreakable bond with her daughter [[Talia Bramblevick]]. Her relationship with her husband is a constant love-hate dynamic where his obsession with order clashes daily with her chaotic knack for upending it. She is also endlessly fond of [[Molliebeth Bramblevick]], always ready to drag the former noblewoman into whatever ridiculous scheme she has just cooked up.
 
 ---
 
@@ -46,5 +46,5 @@ Nilly’s notoriously chaotic energy and constant stream of pranks are actually 
 
 ## 📜 Trivia
 
-- She von the [[Doublewake Rolling Pin]] later hand it over to [[Family/People/Talia Bramblevick]]
+- She von the [[Doublewake Rolling Pin]] later hand it over to [[Talia Bramblevick]]
 

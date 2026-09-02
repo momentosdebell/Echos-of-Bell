@@ -6,7 +6,7 @@ Location: "[[Silvergrove City]]"
 Vibe:
   - Surreal
   - Breathtaking
-Custodian: "[[Gaganesh Orvil Amon Thorne]]"
+Custodian: "[[Gaganesh Thorne]]"
 Economy:
   - 🪙🪙🪙⚪⚪
 draft: false

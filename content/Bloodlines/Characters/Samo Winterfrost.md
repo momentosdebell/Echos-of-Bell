@@ -10,6 +10,8 @@ Gender: Male
 Class: Babarian
 Partner: "[[Fumlah Winterfrost]]"
 Children:
+  - "[[Sami Winterfrost]]"
   - "[[Rami Winterfrost]]"
+  - "[[Lolo Winterfrost]]"
 draft: false
 ---

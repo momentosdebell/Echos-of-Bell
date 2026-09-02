@@ -1,21 +1,19 @@
 ---
 Updated: 2026-08-28
-Birth: 1330
-Death: 1360
-title: Rami Winterfrost
+title: Sami Winterfrost
 Img:
 Race:
   - Goliath
+Birth: 1328
+Death: 1365
 Gender: Male
-Class: Bard
-Occupation: Musician
-Residence: "[[Ever Peak]]"
+Class: Babarian
 Origin:
   - "[[Winterfrost]]"
-Father: "[[Arashi Winterfrost]]"
+Father: "[[Samo Winterfrost]]"
 Mother: "[[Fumlah Winterfrost]]"
 Siblings:
+  - "[[Rami Winterfrost]]"
   - "[[Lolo Winterfrost]]"
 draft: false
 ---
-
