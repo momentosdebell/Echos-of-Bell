@@ -3,4 +3,4 @@ Updated: 2026-08-27
 title: NPC's
 draft: false
 ---
-Her you'll find everything that you need to know about this campaign, when i get into one.
+Most of my characters i build isnt NPCs, but some needs to be to powerful, some needs a story not told by me, and some is old characters i played.

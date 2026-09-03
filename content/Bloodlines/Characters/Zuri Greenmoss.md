@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Su Bogsong
+title: Zuri Greenmoss
 Img:
 Race:
   - Grung

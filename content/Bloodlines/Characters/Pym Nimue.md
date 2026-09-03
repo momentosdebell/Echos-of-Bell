@@ -10,6 +10,7 @@ Gender: Male
 Siblings:
   - "[[Pith Nimue]]"
 draft: false
+Former Partner: "[[Gertrude Rook]]"
 ---
 ![[Pym Nimue.jpg]]
 

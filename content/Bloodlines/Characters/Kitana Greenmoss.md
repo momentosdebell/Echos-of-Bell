@@ -14,6 +14,6 @@ Origin:
   - "[[Ikran]]"
 Father: "[[Captain Blue Whale]]"
 Mother: "[[Runa Greenmoss]]"
-Partner: "[[Su Bogsong]]"
+Partner: "[[Zuri Greenmoss]]"
 ---
 
