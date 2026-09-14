@@ -10,7 +10,7 @@ Gender: Female
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
-Father: "[[Pax Nollac]]"
+Father: "[[Lucy Nollac]]"
 Mother: "[[Bomona Nallac]]"
 Siblings:
   - "[[Likki Nollac]]"

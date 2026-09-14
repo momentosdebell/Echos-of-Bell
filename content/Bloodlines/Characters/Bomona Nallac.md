@@ -10,7 +10,7 @@ Gender: Female
 Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
-Partner: "[[Pax Nollac]]"
+Partner: "[[Lucy Nollac]]"
 Children:
   - "[[Likki Nollac]]"
 draft: false

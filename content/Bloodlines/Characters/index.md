@@ -11,6 +11,6 @@ I played a few of characters in different campaigns and one-shots. And so far, t
 [[Flow Windgust]] - Played him in a homebrew campaign. He and his friends ended up destroying the world economy by creating lots and lots of food.
 [[Helena Bunkum]] - Cheese is the key to everything in this one-shot that lasted for a couple of months. Murder hobo that got filthy rich.
 [[Zuri Greenmoss]] - Played her when testing Daggerheart for the first time. Really fun and helpful to all, never took any credit.
-[[Qia Twinkle]] - Cutey, not much i remember, how ever she was one hell of a directive, sleeping around with anything that moved.
+[[Qia Twinkle]] - Cutey, not much i remember, how ever she was one hell of a ditective, sleeping around with anything that moved.
 [[Sean Christopher Hamilton II]] - A side character in a homebrew campaign i played when not everyone att the table was present. He didnt end up like i would like to in that game though.
 [[Xadara]] - A fun one, for this character i didnt know anything, no stats, no name, no history, said to dm "the floor is yours". Apparently i wasnt an bearded male Elf called Astrid.
