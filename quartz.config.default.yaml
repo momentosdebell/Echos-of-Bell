@@ -258,6 +258,7 @@ plugins:
         - Attunement
         - Charges
         - Requirement
+        - Region
         - Deity
         - Leader
         - Alignment
@@ -318,6 +319,7 @@ plugins:
         - Attunement
         - Charges
         - Requirement
+        - Region
         - Deity
         - Leader
         - Alignment
