@@ -143,6 +143,7 @@ plugins:
       showFileCounts: true
       folderClickBehavior: link
       useSavedState: true
+      folderDefaultState: collapsed
     layout:
       position: left
       priority: 50
