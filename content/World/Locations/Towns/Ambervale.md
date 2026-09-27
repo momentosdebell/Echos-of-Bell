@@ -15,6 +15,7 @@ Cityzens:
 Economy: Trade
 draft: false
 ---
+![[Ambervale.png]]
 ## 🌟 City of Ambervale
 Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[World/Locations/Towns/Rivergold]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
 ## 📜 Overview
@@ -49,26 +50,6 @@ A dense commoner district built around movement between key roads. Busy, practic
 The harbor district, shaped by trade and arrival. Known for its markets, docks, and a scenic central square facing the water.
 #### Grain District
 The first district, seen when entering from the far side of the river. Farmland surrounds it, and it is known for its harvest trade and a famous local bakery [[World/Locations/Venues/The Rolling Pin]].
-
-```leaflet
-id: leaflet-map
-image: [[Ambervale.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 8
-unit: meters
-scale: 1700
-marker: Bakery, -1.75, 2.9, [[The Rolling Pin]]
-marker: Tavern, -2.3324, 2.5415, [[The Seven Cats Inn]]
-marker: Tavern, -2.5354, 2.8547, Shear Bliss Inn
-marker: Tavern, -1.7133, 1.2935, The Rabbit & Rest
-marker: Tavern, -2.6898, 1.2954, Field of Snores
-marker: Harbor, -2.4073, 2.8108, River Square Harbor
-marker: Bridge, -2.0186, 2.6653, River Road Bridge
-```
 
 ---
 #### 🍺Lodge
