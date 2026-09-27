@@ -207,6 +207,7 @@ plugins:
     enabled: true
     options:
       links:
+        "Created with Obsidian": "https://obsidian.md"
         "↑": "#top"
     layout:
       position: footer
