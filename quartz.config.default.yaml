@@ -134,8 +134,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/explorer"
+ - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      showFileCounts: true   
     layout:
       position: left
       priority: 50
