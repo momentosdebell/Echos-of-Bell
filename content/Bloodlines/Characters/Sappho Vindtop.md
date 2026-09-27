@@ -8,14 +8,14 @@ Race:
   - Halfling
 Gender: Female
 Occupation: Pirate
-Residence: "[[World/Locations/Towns/Rivergold]]"
+Residence: "[[Rivergold]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Calis Vindtop]]"
 draft: false
 ---
-![[Sappho Vindtop.png]]
+
 • She has frustrated conversations with her **weapons**.
 • Incurable **optimist**. When everything is going wrong and about to collapse, she beams.
 • If a **seagull** squawks three times, you have to whisper "Not my ear!".
