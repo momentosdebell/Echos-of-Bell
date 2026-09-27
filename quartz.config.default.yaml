@@ -207,9 +207,6 @@ plugins:
     enabled: true
     options:
       links:        
-        "By Isabelle Linden": "https://www.instagram.com/momentos.de.bell/"
-        "Powered by Quartz": "https://quartz.obsidian.md"
-        "and Obsidian": "https://obsidian.md"
     layout:
       position: footer
       priority: 50
