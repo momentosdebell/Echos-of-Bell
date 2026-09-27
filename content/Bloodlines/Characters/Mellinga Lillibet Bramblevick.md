@@ -7,7 +7,7 @@ Img:
 Race:
   - Gnome
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Partner: Borum Bramblevick
 Children:
   - "[[Talia Bramblevick]]"

@@ -8,7 +8,7 @@ Race:
   - Gnome
 Gender: Male
 Occupation: Mechanic
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Partner: "[[Gelinda Hamilton]]"
 Children:
   - "[[Valentin Hamilton]]"

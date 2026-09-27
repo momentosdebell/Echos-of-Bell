@@ -8,7 +8,7 @@ Race:
   - Dragonborn
 Age:
 Gender: Male
-Residence: "[[Silvergrove City]]"
+Residence: "[[World/Locations/Towns/Silvergrove City]]"
 Partner: "[[Saphira Ashkook]]"
 Children:
   - "[[Morgani Achkook]]"

@@ -7,7 +7,7 @@ Img: "[[Hann Duskhorn.jpeg]]"
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Origin:
   - "[[Duskhorn]]"
 Siblings:

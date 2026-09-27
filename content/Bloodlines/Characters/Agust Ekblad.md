@@ -7,7 +7,7 @@ Race:
   - Human
 Gender: Male
 Occupation: Viking
-Residence: "[[Ever Peak]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 Partner: "[[Bromhilda Winterfrost]]"
 Children:
   - "[[Aurora]]"

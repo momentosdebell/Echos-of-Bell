@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Dynamic Office Of Reality
 Type: Magic Store
-Location: "[[Silvergrove City]]"
+Location: "[[World/Locations/Towns/Silvergrove City]]"
 Vibe:
   - Surreal
   - Breathtaking
@@ -12,7 +12,7 @@ Economy:
 draft: false
 ---
 ## 📜 Overview
-A high-end arcane shop based in [[Silvergrove City]], known across the continent for its execptunel well made magical items.
+A high-end arcane shop based in [[World/Locations/Towns/Silvergrove City]], known across the continent for its execptunel well made magical items.
 The shop exists physically in Silvergrove, but it is also partially “elsewhere”.
 At irregular intervals, the same extravagant door appears in other cities, always identical in design. The problem is that there is a slight chans that you dosent exit where you entered. 
 

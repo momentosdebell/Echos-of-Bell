@@ -7,7 +7,7 @@ Img: "[[Gullvi Tealeaf.jpeg]]"
 Race:
   - Firbolg
 Gender: Female
-Residence: "[[Ever Peak]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:

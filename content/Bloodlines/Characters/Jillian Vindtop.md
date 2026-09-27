@@ -7,7 +7,7 @@ Img: "[[Jillian Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Partner: "[[Milo Vindtop]]"
 Children:
   - "[[Sappho Vindtop]]"

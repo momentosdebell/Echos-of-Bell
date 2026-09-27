@@ -22,7 +22,7 @@ Rivergold is a tightly built river trade town where stone walls, narrow streets,
 The city feels structured and controlled, shaped by contracts, customs, and logistics. Bells, ledgers, and dock signals set the rhythm of daily life, and the river itself feels less like nature and more like infrastructure.
 ## 📜 Overview
 
-Rivergold is a prosperous river trade town built around movement, contracts, and commerce. Sitting downstream from [[Ambervale]], it serves as the primary customs and distribution hub for goods moving through the region. While smaller than many trade cities, its strategic location gives it influence far beyond its size.
+Rivergold is a prosperous river trade town built around movement, contracts, and commerce. Sitting downstream from [[World/Locations/Towns/Ambervale]], it serves as the primary customs and distribution hub for goods moving through the region. While smaller than many trade cities, its strategic location gives it influence far beyond its size.
 
 It is structured and deliberate. Goods are counted, records are kept, and nearly every shipment passing through town leaves behind a fee, signature, or tax stamp. The town feels busy, organized, and constantly in motion.
 
@@ -93,7 +93,7 @@ marker: Sights, -2.0237, 2.1614, Tidegate
 ---
 
 #### 🍺 Lodge
-- [[The Seven Cats Inn]] - Tavern Chain, by the school
+- [[World/Locations/Venues/The Seven Cats Inn]] - Tavern Chain, by the school
   🪙🪙🪙🪙🪙
 - Ledger & Lantern - By the docks
     🪙🪙🪙⚪⚪

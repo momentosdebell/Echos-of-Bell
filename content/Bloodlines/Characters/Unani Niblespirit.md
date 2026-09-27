@@ -7,7 +7,7 @@ Img: "[[Unani Niblespirit.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Eldar Tarrintel]]"

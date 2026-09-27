@@ -8,7 +8,7 @@ Race:
   - Halfling
   - Dwarf
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Sean Christopher Hamilton III]]"

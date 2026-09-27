@@ -15,9 +15,9 @@ When you write your own backstory, you need names, places, lore. Here you'll fin
 - [[Feather Tickelfoot]] - expert mechanic.
 - [[Sappho Vindtop|Sappho the black]] - known pirate.
 #### Famous landmarks
-- [[River Royal]] - vinjard that produce vine for centuries.
-- [[Dynamic Office Of Reality]] - the best Magic shop in the Kingdom. 
-- [[The Seven Cats Inn]] - Country spread concern inn, first of its kind. 
-- Great Peak Gate in [[Ever Peak]] - Land mark
-- Moonhall Gardens in [[Silvergrove City]] - An extra ordinarie garden.
-- Eternal Archive in [[Silvergrove City]] - the oldest library in the country.
+- [[World/Locations/Venues/River Royal]] - vinjard that produce vine for centuries.
+- [[World/Locations/Venues/Dynamic Office Of Reality]] - the best Magic shop in the Kingdom. 
+- [[World/Locations/Venues/The Seven Cats Inn]] - Country spread concern inn, first of its kind. 
+- Great Peak Gate in [[World/Locations/Towns/Ever Peak]] - Land mark
+- Moonhall Gardens in [[World/Locations/Towns/Silvergrove City]] - An extra ordinarie garden.
+- Eternal Archive in [[World/Locations/Towns/Silvergrove City]] - the oldest library in the country.

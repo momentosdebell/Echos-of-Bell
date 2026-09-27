@@ -8,7 +8,7 @@ Race:
   - Halfling
 Gender: Female
 Occupation: Pirate
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:

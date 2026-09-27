@@ -7,7 +7,7 @@ Img: "[[Hef Dong]]"
 Race:
   - Elf
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

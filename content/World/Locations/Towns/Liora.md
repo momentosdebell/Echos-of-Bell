@@ -27,11 +27,11 @@ Life in Liora moves at a steady pace. People work, trade, eat well when they can
 Liora is not a city of extremes. It is a place that continues forward quietly, even when the wider world changes around it.
 
 ## 💰 Economy
-- [[River Royal]] wine export (core industry)  
+- [[World/Locations/Venues/River Royal]] wine export (core industry)  
 - Small scale fishing and coastal food trade  
 
 ## 🎭 NPCs
-- [[Thalindra De Rivièr]] - Head of [[River Royal]] 
+- [[Thalindra De Rivièr]] - Head of [[World/Locations/Venues/River Royal]] 
 - Captain Jorren Vale - Harbor Wardens commander  
 
 ## 🗺️ Geography
@@ -60,10 +60,10 @@ marker: Sights, -1.9705, 2.6704, The Glassvine House
 ---
 
 #### 🍺 Lodge
-- [[The Seven Cats Inn]] - In middle of the town
+- [[World/Locations/Venues/The Seven Cats Inn]] - In middle of the town
    🪙🪙🪙🪙🪙
 #### 🏛️ Landmarks
-- Rivièr Cellars - origin of [[River Royal]] wine  
+- Rivièr Cellars - origin of [[World/Locations/Venues/River Royal]] wine  
 - Painted Steps - mural staircase, painted by [[Elyra De Rivièr]]  
 - Moonfoam Shore - A pale sand beach where waves break into soft glowing foam at night.
 - The Glassvine House - main vine hall and merchant meeting point 

@@ -8,7 +8,7 @@ Race:
   - Human
 Age:
 Gender: Female
-Residence: "[[Ever Peak]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
   - "[[Hamilton]]"

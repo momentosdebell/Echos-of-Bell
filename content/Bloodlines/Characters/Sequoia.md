@@ -8,7 +8,7 @@ Race:
   - Warforged
 Gender: Non-Binary
 Class: Druid
-Residence: "[[Silvergrove City]]"
+Residence: "[[World/Locations/Towns/Silvergrove City]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Gaganesh Thorne]]"
 Siblings:

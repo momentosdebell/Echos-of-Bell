@@ -7,7 +7,7 @@ Img:
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Origin:
   - "[[McGlagen]]"
 Partner: "[[Toy McGlagen]]"

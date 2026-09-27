@@ -8,8 +8,8 @@ Race:
   - Firbolg
   - Human
 Gender: Male
-Occupation: "[[The Shelf|Innkeeper]]"
-Residence: "[[Ever Peak]]"
+Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:

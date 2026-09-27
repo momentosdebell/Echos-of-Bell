@@ -7,7 +7,7 @@ Img: "[[Wiree Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Rivergold]]"
+Residence: "[[World/Locations/Towns/Rivergold]]"
 Partner: "[[Feather Tickelfoot]]"
 Children:
   - "[[Ann Tickelfoot]]"

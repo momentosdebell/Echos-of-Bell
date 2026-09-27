@@ -7,7 +7,7 @@ Img:
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Eldar Tarrintel]]"

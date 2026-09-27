@@ -7,7 +7,7 @@ Img: "[[Andorra Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Origin:
   - "[[Tickelfoot]]"
 Partner: "[[Eldar Tarrintel]]"

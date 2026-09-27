@@ -8,8 +8,8 @@ Race:
   - Loxodon
 Gender: Female
 Class: Wizard
-Occupation: "[[Dynamic Office Of Reality|Store Owner]]"
-Residence: "[[Silvergrove City]]"
+Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Owner]]"
+Residence: "[[World/Locations/Towns/Silvergrove City]]"
 Children:
   - "[[Sequoia]]"
 draft: false

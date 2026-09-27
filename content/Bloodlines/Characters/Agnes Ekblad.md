@@ -7,8 +7,8 @@ Age:
 Race:
   - Human
 Gender: Female
-Occupation: "[[The Shelf|Innkeeper]]"
-Residence: "[[Ever Peak]]"
+Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 Father: "[[Agust Ekblad]]"
 Mother: "[[Bromhilda Winterfrost]]"
 Siblings:

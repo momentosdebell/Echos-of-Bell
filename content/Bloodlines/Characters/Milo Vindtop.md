@@ -7,7 +7,7 @@ Img: "[[Milo Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[World/Locations/Towns/Ambervale]]"
 Siblings:
   - "[[Horvan Niblespirit]]"
 Partner: "[[Jillian Vindtop]]"

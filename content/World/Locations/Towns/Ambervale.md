@@ -16,7 +16,7 @@ Economy: Trade
 draft: false
 ---
 ## 🌟 City of Ambervale
-Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[Rivergold]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
+Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[World/Locations/Towns/Rivergold]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
 ## 📜 Overview
 Trade is the backbone, but Ambervale’s real strength is its reputation for reliability. Goods from here are expected to be consistent, durable, and honest in quality, which makes them highly valued.
 
@@ -48,7 +48,7 @@ A dense commoner district built around movement between key roads. Busy, practic
 #### Saltwake
 The harbor district, shaped by trade and arrival. Known for its markets, docks, and a scenic central square facing the water.
 #### Grain District
-The first district, seen when entering from the far side of the river. Farmland surrounds it, and it is known for its harvest trade and a famous local bakery [[The Rolling Pin]].
+The first district, seen when entering from the far side of the river. Farmland surrounds it, and it is known for its harvest trade and a famous local bakery [[World/Locations/Venues/The Rolling Pin]].
 
 ```leaflet
 id: leaflet-map
@@ -72,7 +72,7 @@ marker: Bridge, -2.0186, 2.6653, River Road Bridge
 
 ---
 #### 🍺Lodge
-- [[The Seven Cats Inn]] - Tavern Chain, right by the town square
+- [[World/Locations/Venues/The Seven Cats Inn]] - Tavern Chain, right by the town square
   🪙🪙🪙🪙🪙
 - Shear Bliss Inn - Small tavern, by the harbor
   🪙🪙🪙⚪⚪
@@ -81,7 +81,7 @@ marker: Bridge, -2.0186, 2.6653, River Road Bridge
 - Field of Snores - Small tavern in the outskirts of town
   🪙⚪⚪⚪⚪ 
 #### 🏛️Landmarks
-- [[The Rolling Pin]] - Cafe famus for their sourdough bread
+- [[World/Locations/Venues/The Rolling Pin]] - Cafe famus for their sourdough bread
 - River Square Harbor - Town square and small river trade harbor in one open hub
 - Great Field Ring - surrounding farmland shaping the town’s identity
 - River Road Bridge - main crossing toward Rivergold trade route

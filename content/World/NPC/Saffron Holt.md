@@ -8,6 +8,6 @@ Birth:
 Death:
 Gender: Female
 Occupation: "[[The Circle of the Blooming Table]]"
-Residence: "[[Ever Peak]]"
+Residence: "[[World/Locations/Towns/Ever Peak]]"
 draft: false
 ---

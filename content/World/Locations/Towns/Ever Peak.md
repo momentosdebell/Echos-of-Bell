@@ -95,7 +95,7 @@ marker: Sights, -1.1822, 2.3931, The Granite Steps
 
 ---
 #### 🍺 Lodge
-- [[The Seven Cats Inn]] - Overlooking the wally
+- [[World/Locations/Venues/The Seven Cats Inn]] - Overlooking the wally
   🪙🪙🪙🪙🪙
 - The Shelf - On the highest point
   🪙⚪⚪⚪⚪

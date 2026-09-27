@@ -7,7 +7,7 @@ Img: "[[Queen Lilliana Yllaris Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[World/Locations/Towns/Silvergrove City]]"
 Partner: "[[King Theodemar Yllaris Everfal]]"
 Children:
   - "[[Lily Everfall]]"

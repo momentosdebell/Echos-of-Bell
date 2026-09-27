@@ -3,7 +3,7 @@ Updated: 2026-08-31
 title: Keeper of the Winter Table
 Category:
   - Event
-Region: "[[Ambervale]]"
+Region: "[[World/Locations/Towns/Ambervale]]"
 Leader: "[[Molliebeth Bramblevick]]"
 draft: false
 ---
@@ -14,7 +14,7 @@ It is not a rank of command.
 
 It is a recognition of **impossible efficiency under collapse conditions**, where food supply should have failed, but did not.
 
-[[Molliebeth Bramblevick]] received the title after the **[[Ambervale]] Winter Operation**, where famine conditions were reversed through unconventional ration extension, restructuring of food flow, and rapid field adaptation beyond standard Circle doctrine.
+[[Molliebeth Bramblevick]] received the title after the **[[World/Locations/Towns/Ambervale]] Winter Operation**, where famine conditions were reversed through unconventional ration extension, restructuring of food flow, and rapid field adaptation beyond standard Circle doctrine.
 
 ---
 

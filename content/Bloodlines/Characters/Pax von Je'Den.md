@@ -8,7 +8,7 @@ Race:
   - Human
   - Elf
 Gender: Male
-Residence: "[[Silvergrove City]]"
+Residence: "[[World/Locations/Towns/Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
   - "[[Everfall]]"

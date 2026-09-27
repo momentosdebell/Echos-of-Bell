@@ -39,12 +39,12 @@ It is infrastructure.
 ## 🎭 NPCs
 - [[King Theodemar Yllaris Everfall]] - King
 - Lucien Evercrest - Archmage, Master of the Grand Arcane Academy
-- [[Silas Kade]] - Merchant and owner of [[The Seven Cats Inn]] network
+- [[Silas Kade]] - Merchant and owner of [[World/Locations/Venues/The Seven Cats Inn]] network
 - Commander Elowen Thorne - Captain General of the Silver Wardens
 - Professor Aldric Wren - Renowned scholar of magical history
 - Mirabelle Frost - Influential banking house director
 - Varyn Hollowbrook - Master Enchanter of the Silver Spire Consortium
-- [[Gaganesh Thorne]] - Owner of [[Dynamic Office Of Reality]]
+- [[Gaganesh Thorne]] - Owner of [[World/Locations/Venues/Dynamic Office Of Reality]]
 ## 🗺️ Geography
 Silvergrove City rises among rolling hills covered in ancient silver barked trees whose shimmering leaves give the city its name.
 
@@ -105,7 +105,7 @@ marker: Shop, -6.4778, 5.8381, [[Dynamic Office Of Reality]]
 ```
 ---
 #### 🍺 Lodge
-- [[The Seven Cats Inn]] - Five inn's spread out in the city   
+- [[World/Locations/Venues/The Seven Cats Inn]] - Five inn's spread out in the city   
     🪙🪙🪙🪙🪙
 - The Scholar's Rest - Popular with professors and students  
     🪙🪙🪙⚪⚪
@@ -114,7 +114,7 @@ marker: Shop, -6.4778, 5.8381, [[Dynamic Office Of Reality]]
 - Silverspire Tower - Center of magical research and regulation
 - Hall of Ledgers - Headquarters of major banking houses
 - Moonhall Gardens - Famous public gardens illuminated by enchantments
-- Seven Cats Central House - Administrative headquarters of [[The Seven Cats Inn]] network
+- Seven Cats Central House - Administrative headquarters of [[World/Locations/Venues/The Seven Cats Inn]] network
 - Crystal Plaza - Wealthy commercial and financial district
 - Eternal Archive - An grand and old Library
 ## 👥Citizen            
