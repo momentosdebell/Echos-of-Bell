@@ -1,5 +1,5 @@
 ---
-Updated: 2026-08-31
+Updated: 2026-09-27
 title: Rivergold
 Type: City
 Location:
@@ -16,6 +16,7 @@ Economy:
   - Logistics
 draft: false
 ---
+![[Rivergold.png]]
 ## 🌟City of Rivergold
 
 Rivergold is a tightly built river trade town where stone walls, narrow streets, and stacked warehouses rise directly from the riverbanks. Barges and cargo ships fill the docks in constant rotation, feeding the city’s role as the main control point between inland trade and downstream export routes. 
@@ -70,26 +71,6 @@ The oldest surviving part of Rivergold. A blend of early settlement homes and ol
 #### Cinderlane
 A residential district filled with vacation homes, and long-stay visitors. Many wealthy merchants and foreign families keep secondary homes here, giving it a quiet but constantly shifting population.
 
-
-```leaflet
-id: rivergold
-image: [[Rivergold.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 8
-unit: feat
-scale: 1700
-marker: Tavern, -2.6165, 1.9739, [[The Seven Cats Inn]]
-marker: Tavern, -1.5403, 1.7678,Ledger & Lantern
-marker: Tavern, -2.0247, 0.6829,The Wet Coin
-marker: Sights, -1.6165, 1.6448, Hall of Contracts
-marker: School, -2.7112, 2.0461, Trade Academy
-marker: Sights, -1.5553, 1.9517, Customs Hall
-marker: Sights, -2.0237, 2.1614, Tidegate
-```
 ---
 
 #### 🍺 Lodge
@@ -104,51 +85,3 @@ marker: Sights, -2.0237, 2.1614, Tidegate
 - Trade Academy - the region's most respected merchant school
 - Customs Hall - where cargo is inspected and taxed
 - Tidegate - massive canal locks controlling river flow
-## 👥Citizen
-```dataview
-TABLE
-([[Settings]].Year - Birth) AS "Age",
-default(
-    filter(file.tags, (t) => contains(list("#Male", "#Female", "#Non-Binary"), t))[0],
-    "Not known"
-) AS "Gender",
-default(
-    filter(file.tags, (t) => contains(list(
-        "#Human",
-        "#Half-Elf",
-        "#Half-Orc",
-        "#Goliath",
-        "#Firbolg",
-        "#Aasimar",
-        "#Genasi",
-        "#Kalshtar",
-        "#Tabaxi",
-        "#Triton",
-        "#Lizardfolk",
-        "#Tortle",
-        "#Kenku",
-        "#Aarakocra",
-        "#Goblin",
-        "#Hobgoblin",
-        "#Bugbear",
-        "#Grung",
-        "#Changeling",
-        "#Shifter",
-        "#Elf",
-        "#Dwarf",
-        "#Warforged",
-        "#Halfling",
-        "#Orc",
-        "#Gnome",
-        "#Satyr",
-        "#Loxodon",
-        "#Tiefling"
-    ), t))[0],
-    "Not known"
-) AS "Race"
-FROM ("World/NPC/Members" OR "Family/Members")
-WHERE contains(file.outlinks, [[World/Towns/Rivergold]])
-AND Birth <= [[Settings]].Year
-AND (!Death OR Death >= [[Settings]].Year)
-SORT Birth ASC
-```

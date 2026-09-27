@@ -14,7 +14,7 @@ Economy:
   - Bureaucracy
 draft: false
 ---
- 
+![[silvergrove ci]] 
 ## 🌟 City of Silvergrove
 White stone towers and shining roofs catching the light above the canopy. Elegant bridges, arcane spires, and grand manor houses stretch across the hills, while glowing lanterns and floating crystals illuminate the streets below. Everything feels refined, wealthy, and carefully maintained, as if the city itself was designed to impress long before you ever stepped through its gates.
 ## 📜 Overview
@@ -65,44 +65,6 @@ The city feels wealthy, controlled, and quietly powerful.
 #### Kingsgrove
 #### Elmward
 #### Birchfield 
-
-
-```leaflet
-id: silvergrove
-image: [[Silvergrove City.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 8
-unit: feat
-scale: 1700
-marker: Tavern, -7.4832, 5.4543, [[The Seven Cats Inn]]
-marker: Tavern, -3.0578, 4.5479, [[The Seven Cats Inn]]
-marker: Tavern, -6.0465, 7.1313, [[The Seven Cats Inn]]
-marker: Tavern, -1.7926, 3.7231, [[The Seven Cats Inn]]
-marker: Tavern, -6.3096, 3.6643, [[The Seven Cats Inn]]
-marker: Tavern, -3.875, 3.0725, The Scholar's Rest 
-marker: School, -3.5244, 3.3206, Grand Arcane Academy
-marker: Sights, -6.8877, 5.6077, Silverspire Tower
-marker: Business, -5.6719, 2.3989, Hall of Ledgers
-marker: Sights, -4.8691, 2.3235, Moonhall Gardens
-marker: Business, -6.3848, 2.6956, Seven Cats Central House
-marker: Sights, -4.6211, 6.8643, Crystal Plaza
-marker: Library, -3.4668, 4.8442, Eternal Archive
-marker: Shop, -6.4778, 5.8381, [[Dynamic Office Of Reality]]
-
- 
-
-
-
-
-
-
-
-
-```
 ---
 #### 🍺 Lodge
 - [[World/Locations/Venues/The Seven Cats Inn]] - Five inn's spread out in the city   
@@ -117,52 +79,3 @@ marker: Shop, -6.4778, 5.8381, [[Dynamic Office Of Reality]]
 - Seven Cats Central House - Administrative headquarters of [[World/Locations/Venues/The Seven Cats Inn]] network
 - Crystal Plaza - Wealthy commercial and financial district
 - Eternal Archive - An grand and old Library
-## 👥Citizen            
-```dataview
-TABLE
-([[Settings]].Year - Birth) AS "Age",
-default(
-    filter(file.tags, (t) => contains(list("#Male", "#Female", "#Non-Binary"), t))[0],
-    "Not known"
-) AS "Gender",
-default(
-    filter(file.tags, (t) => contains(list(
-        "#Human",
-        "#Half-Elf",
-        "#Half-Orc",
-        "#Goliath",
-        "#Firbolg",
-        "#Aasimar",
-        "#Genasi",
-        "#Kalshtar",
-        "#Tabaxi",
-        "#Triton",
-        "#Lizardfolk",
-        "#Tortle",
-        "#Kenku",
-        "#Aarakocra",
-        "#Goblin",
-        "#Hobgoblin",
-        "#Bugbear",
-        "#Grung",
-        "#Changeling",
-        "#Shifter",
-        "#Elf",
-        "#Dwarf",
-        "#Warforged",
-        "#Halfling",
-        "#Orc",
-        "#Gnome",
-        "#Satyr",
-        "#Loxodon",
-        "#Tiefling"
-    ), t))[0],
-    "Not known"
-) AS "Race"
-FROM ("World/NPC/Members" OR "Family/Members")
-WHERE contains(file.outlinks, [[World/Towns/Silvergrove City]])
-AND Birth <= [[Settings]].Year
-AND (!Death OR Death >= [[Settings]].Year)
-SORT Birth ASC
-```
-
