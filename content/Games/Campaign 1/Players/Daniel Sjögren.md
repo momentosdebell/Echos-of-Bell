@@ -1,5 +1,6 @@
 ---
-Updated: 2026-08-28
+Updated: 2026-09-27
 title: Daniel Sjögren
 draft: false
 ---
+### As Dungeon Master
