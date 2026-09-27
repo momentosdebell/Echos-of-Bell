@@ -1,12 +1,11 @@
 ---
 Updated: 2026-08-28
-title:
+title: Kevin
 Img: "[[Madox.jpeg]]"
-Playing:
+Playing: Madox
 Race: Aasimar
-Age:
 Gender: Male
 Class: Warlock
-draft: true
+draft: false
 ---
 ![[Madox.jpeg]]

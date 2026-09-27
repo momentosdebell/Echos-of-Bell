@@ -1,12 +1,11 @@
 ---
 Updated: 2026-08-28
-title:
+title: Sammy
 Img: "[[Madox.jpeg]]"
-Playing:
+Playing: Justin Case
 Race: Half-Elf
-Age:
 Gender: Male
 Class: Bard
-draft: true
+draft: false
 ---
 ![[Justin Case.jpeg]]
