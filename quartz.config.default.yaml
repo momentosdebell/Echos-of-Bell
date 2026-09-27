@@ -137,7 +137,8 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      showFileCounts: true   
+      folderDefaultState: collapsed
+      showFolderCount: true
     layout:
       position: left
       priority: 50
