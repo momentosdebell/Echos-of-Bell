@@ -15,6 +15,7 @@ Economy:
   - Wine production 
 draft: false
 ---
+![[Liora.png]]
 ## 🌟 City of Li🌟 
 Liora looks like a calm southern coastal city where life moves at an easy pace. The harbor is busy, but never chaotic, and the vineyards stretch quietly across the hills behind it. Visitors often assume nothing important ever happens here. That assumption is what keeps Liora safe. Nothing feels forced, but almost everything is controlled in some way. The calm is real, but it is also maintained.
  # 📜 Overview
@@ -39,24 +40,6 @@ Liora is built along a warm coastline with vineyards and shallow protected water
 
 The coastline naturally protects the harbor, making it one of the safest trade ports in the region.
 
-```leaflet
-id: liora
-image: [[Liora.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 8
-unit: meters
-scale: 1700
-marker: Vineyard, -0.1464, 1.4954, [[River Royal]]
-marker: Tavern, -1.6131, 1.7661, [[The Seven Cats Inn]]
-marker: Sights, -0.7206, 2.054, Rivièr Cellars
-marker: Sights, -1.6814, 1.9868, Painted Steps
-marker: Sights, -2.5191, 1.6689, Moonfoam Shore
-marker: Sights, -1.9705, 2.6704, The Glassvine House
-```
 ---
 
 #### 🍺 Lodge
@@ -67,52 +50,3 @@ marker: Sights, -1.9705, 2.6704, The Glassvine House
 - Painted Steps - mural staircase, painted by [[Elyra De Rivièr]]  
 - Moonfoam Shore - A pale sand beach where waves break into soft glowing foam at night.
 - The Glassvine House - main vine hall and merchant meeting point 
-
-## 👥 Citizen
-```dataview
-TABLE
-([[Settings]].Year - Birth) AS "Age",
-default(
-    filter(file.tags, (t) => contains(list("#Male", "#Female", "#Non-Binary"), t))[0],
-    "Not known"
-) AS "Gender",
-default(
-    filter(file.tags, (t) => contains(list(
-        "#Human",
-        "#Half-Elf",
-        "#Half-Orc",
-        "#Goliath",
-        "#Firbolg",
-        "#Aasimar",
-        "#Genasi",
-        "#Kalshtar",
-        "#Tabaxi",
-        "#Triton",
-        "#Lizardfolk",
-        "#Tortle",
-        "#Kenku",
-        "#Aarakocra",
-        "#Goblin",
-        "#Hobgoblin",
-        "#Bugbear",
-        "#Grung",
-        "#Changeling",
-        "#Shifter",
-        "#Elf",
-        "#Dwarf",
-        "#Warforged",
-        "#Halfling",
-        "#Orc",
-        "#Gnome",
-        "#Satyr",
-        "#Loxodon",
-        "#Tiefling"
-    ), t))[0],
-    "Not known"
-) AS "Race"
-FROM ("World/NPC/Members" OR "Family/Members")
-WHERE contains(file.outlinks, [[World/Towns/Liora]])
-AND Birth <= [[Settings]].Year
-AND (!Death OR Death >= [[Settings]].Year)
-SORT Birth ASC
-```
