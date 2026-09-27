@@ -1,3 +1,16 @@
+---
+Updated: 2026-08-28
+title: test
+Img:
+Playing:
+Age:
+Gender:
+Class:
+Occupation:
+Residence:
+Origin:
+draft: false
+---
 ```mermaid
 graph TD
     %% Familjekopplingar (förälder --> barn)
