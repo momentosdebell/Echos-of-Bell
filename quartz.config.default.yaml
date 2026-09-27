@@ -141,6 +141,8 @@ plugins:
     options:
       showFolderCount: true
       showFileCounts: true
+      folderClickBehavior: link
+      useSavedState: true
     layout:
       position: left
       priority: 50
