@@ -16,6 +16,7 @@ Economy:
   - Stone work
 draft: false
 ---
+![[Ever Peak.png]]
 ### 🌟 City of Ever Peak
 Ever Peak doesn’t look like a mining town at first glance.
 
@@ -73,26 +74,6 @@ A dense residential and storage district built within reinforced stone chambers.
 #### Hammerdeep
 The working heart of Ever Peak. Mines, forges, and excavation sites stretch deep into the mountain, where stone is broken, shaped, and extracted daily.
 
-```leaflet
-id: ever-peak
-image: [[Ever Peak.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 8
-unit: meters
-scale: 1700
-marker: Tavern, -0.1607, 1.6646, [[The Shelf]]
-marker: Tavern, -2.1652, 1.5635, [[The Seven Cats Inn]]
-marker: Sights, -1.0813, 1.844, The Great Peak Gate
-marker: Sights, -1.5266, 2.4778, The Upper Forges
-marker: Sights, -0.4495, 2.4905, Stonevein Mines
-marker: Sights, -0.5904, 2.2837, Windwatch Spire
-marker: Sights, -1.1822, 2.3931, The Granite Steps
-```
-
 ---
 #### 🍺 Lodge
 - [[World/Locations/Venues/The Seven Cats Inn]] - Overlooking the wally
@@ -105,57 +86,3 @@ marker: Sights, -1.1822, 2.3931, The Granite Steps
 - Stonevein Mines - deep, layered mining network
 - Windwatch Spire - signal tower and storm lookout
 - The Granite Steps - ancient carved stairway connecting all districts
-## 👥Citizen
-```dataview
-TABLE
-([[Settings]].Year - Birth) AS "Age",
-default(
-    filter(file.tags, (t) => contains(list("#Male", "#Female", "#Non-Binary"), t))[0],
-    "Not known"
-) AS "Gender",
-default(
-    filter(file.tags, (t) => contains(list(
-        "#Human",
-        "#Half-Elf",
-        "#Half-Orc",
-        "#Goliath",
-        "#Firbolg",
-        "#Aasimar",
-        "#Genasi",
-        "#Kalshtar",
-        "#Tabaxi",
-        "#Triton",
-        "#Lizardfolk",
-        "#Tortle",
-        "#Kenku",
-        "#Aarakocra",
-        "#Goblin",
-        "#Hobgoblin",
-        "#Bugbear",
-        "#Grung",
-        "#Changeling",
-        "#Shifter",
-        "#Elf",
-        "#Dwarf",
-        "#Warforged",
-        "#Halfling",
-        "#Orc",
-        "#Gnome",
-        "#Satyr",
-        "#Loxodon",
-        "#Tiefling"
-    ), t))[0],
-    "Not known"
-) AS "Race"
-FROM ("World/NPC/Members" OR "Family/Members")
-WHERE contains(file.outlinks, [[World/Towns/Ever Peak]])
-AND Birth <= [[Settings]].Year
-AND (!Death OR Death >= [[Settings]].Year)
-SORT Birth ASC
-```
-
-
-
-
-
-
