@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-27
 title: Dragon of Stormwreck Isle
-DM: Daniel Sjögren
+DM: "[[Dungeon Master|Daniel Sjögren]]"
 draft: false
 ---
 ![Dragons of Stormwreck Isle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o1s8QIFJzdV38iiBPEdD5U8bk6wrbca8jOCONGLnJ6ADManofYm0z7ju&s=10)
