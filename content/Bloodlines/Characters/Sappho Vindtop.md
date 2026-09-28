@@ -47,7 +47,13 @@ Sap was more of an adventure girl, she ran far and as wide she could, but still 
 If you ask her parents, she got work on a fishing boat, so she could both see the world and not run away. She on the other hand found a crew of pirates, Captain [[Adoot Ironneck]] and his crew, Iron Bolts.
 
    **Culture** 
-Some times she just sat in a tree West of [[Rivergold]], watching over the trade rute road. It was somewhere around here she started to pick up the word of [[Sixfold]]. Just something passing by att first, but then it stick to her. And even she found out about Endrift of Sixfold, it was just meant to be.
+Some times she just sat in a tree West of [[Rivergold]], watching over the trade rute road. Sap was fiddling with a button on her jacket when it slipped from her fingers, disappearing into the thick moss and tall grass below. Seconds later, a traveling priest stopped directly under her branch, proclaiming loudly to his companions about Endrift of [[Sixfold]] and how faith keeps a soul steady through the storm.
+
+Sap, realizing what she had just done, froze in dread: "Oh no, that freakin button..."
+
+Right on cue, the heavy branch gave way with a sharp snap. Sap went crashing down, landing flat on her face right in front of the startled priest. Her ankle twisted badly and her knee hit the ground with a painful thud, the bad luck had struck instantly.
+
+But as the priest helped her to her feet and spoke a blessing in Endrift’s name, the sharp pain almost immediately began to fade. Sap knew right then that none of this was a coincidence. The fall proved her superstitions were dead right, but Endrift was the power that saved her from them.
 
    **Education** 
 She wasnt that most on a boat, her father [[Milo Vindtop]], been a fisherman too, his whole life. So it came naturally to spend alot of time on a big boat like the Old-Hag, it was considerably bigger than dads, it has 2 big sails, and 19 crew members.
@@ -58,13 +64,21 @@ And even if it wasnt a real education, some of her sisters yapping stock.
 One time when Iron Bolts stopped at [[Rivergold]], she just had to go and say hi to her parents, nothing strange. But they didnt know Sap was a pirate, and sometimes word spread fast, and her parents heard that there were some pirates in town, she went allowed to go back, to protect her. One thing led to another and she missed her boat, she lost her crew, nothing dramatic or so she just couldnt reach them. So now she jumps from boat to boat to hopefully run in to her crew again. Its not like she missed them badly, sometimes there way was abot to rough for even Sap.
 
    **Consequences**
-Yes she is a pirate, and in some places known as Sap the Black, and she has a reputation of a firce warrior and a crazy woman blowing things up, infact her name "the Black" comes from when she singel handadly saved her whole crew from being captured. She is smal and when pepole here "pirate" they dont imagen a smal girl, she is sweet and nice, but dont get fooled, when shits hit the fan she can be dangerus. That time they all got captured, braught ombord of coast guards vesel, she w
+Yes she is a pirate, and in some places known as Sap the Black, and she has a reputation of a firce warrior and a crazy woman blowing things up, infact her name "the Black" comes from when she singel handadly saved her whole crew from being captured. She is smal and when pepole here "pirate" they dont imagen a smal girl, she is sweet and nice, but dont get fooled, when shits hit the fan she can be dangerus. That time they all got captured, braught ombord of coast guards vesel. If you were on that boat and survived, yould say: 
+	-"In the middle of the night a black ghost appared and bread fire on the ship, the black ghost blew up the ship and crew and only toothpicks were left."
+The truth anit that dramatic though, she were just one in many and got away in the deep storeage, she hid, covered in sot, dirt and gunpowder. One night when she ran to not get caught she simply nocked over a oil lamp and yeah, the trail of gunpowder from her body led the fire straight to the storeage. 
+From that day she was called Sap the Black, and to be unest she aint that dangerus.
 
    **Affiliations** 
 Her Captain, - [[Adoot Ironneck]] and his Iron Bolts on the boat Sea-Hag.
 
    **Secrets** 
 Her parents dont know that alot of people run when they hear that Sappho the Black is after them. Not even her sister knows.
+
+   **Bridge**
+After months of dead ends, empty promises, and leaping from one deck to another, Sap finally struck gold in a dimly lit harbor tavern. A weathered sailor, heavy with ale, slipped her a tantalizing piece of news: Captain Adoot Ironneck and the crew of the Sea-Hag were recently sighted dropping anchor near the jagged, fog-shrouded shores of Stormwreck Isle.
+
+The lead was solid, but it came with a catch, Stormwreck Isle is notorious for its treacherous reefs, unpredictable squalls, and ancient, lurking dangers. No merchant captain in their right mind would sail anywhere near it, and no lone pirate passenger could afford to hire a ship for a suicide run. Sap needed a way onto the island, and more importantly, she needed allies capable of surviving what lay beyond the shore.
 ## ⚔️Equipment
 Sure she really loves black powder and her pistol Roxi, fun fact its acctuallt her cosin [[Rocksan Tickelfoot]] that made her that pistol, she works at her uncle [[Feather Tickelfoot]] store called [[Dont Tickel My Foot]], in secrect. Rocksan is a kind of a smal rebble and fully know what and who Sap was/is.
 
