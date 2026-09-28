@@ -25,3 +25,5 @@ Me, im playing a Halfling Paladin [[Sappho Vindtop]]
 Linus, playing a Human Monk [[Edgar Mcgee]]
 Zammy, playing a Half-Elf Bard [[Justin Case]]
 Kevin, playing a Gobling Fighter [[Madox]]
+
+---

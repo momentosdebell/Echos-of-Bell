@@ -21,3 +21,4 @@ When you write your own backstory, you need names, places, lore. Here you'll fin
 - Great Peak Gate in [[World/Locations/Towns/Ever Peak]] - Land mark
 - Moonhall Gardens in [[World/Locations/Towns/Silvergrove City]] - An extra ordinarie garden.
 - Eternal Archive in [[World/Locations/Towns/Silvergrove City]] - the oldest library in the country.
+---
