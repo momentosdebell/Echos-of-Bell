@@ -4,9 +4,9 @@ title: Campaign 1
 DM: "[[Dungun Master]]"
 Players:
   - Me
-  - Linus
-  - Zammy
-  - Kevin
+  - "[[Edgar Mcgee|Linus]]"
+  - "[[Justin Case|Zammy]]"
+  - "[[Madox|Kevin]]"
 draft: false
 ---
 ![Dragons of Stormwreck Isle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o1s8QIFJzdV38iiBPEdD5U8bk6wrbca8jOCONGLnJ6ADManofYm0z7ju&s=10)
