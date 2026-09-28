@@ -3,7 +3,7 @@ Updated: 2026-09-27
 title: DoSI
 DM: "[[Games/DoSI/Players/index|Daniel Sjögren]]"
 Players:
-  - Me
+  - "[[Sappho Vindtop|Me]]"
   - "[[Games/DoSI/Players/Edgar Mcgee|Linus]]"
   - "[[Games/DoSI/Players/Justin Case|Zammy]]"
   - "[[Games/DoSI/Players/Madox|Kevin]]"
