@@ -1,7 +1,7 @@
 ---
 Updated: 2026-09-27
 title: Quests
-draft: false
+draft: true
 Emoji: |-
   🔴 
   🟢
