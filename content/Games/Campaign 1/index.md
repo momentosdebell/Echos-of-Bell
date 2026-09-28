@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Campaign 1
+title: DoSI
 DM: "[[Dungun Master]]"
 Players:
   - Me
