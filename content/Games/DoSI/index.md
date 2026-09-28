@@ -1,12 +1,12 @@
 ---
 Updated: 2026-09-27
 title: DoSI
-DM: "[[Dungun Master]]"
+DM: "[[Games/DoSI/Players/index|Daniel Sjögren]]"
 Players:
   - Me
-  - "[[Edgar Mcgee|Linus]]"
-  - "[[Justin Case|Zammy]]"
-  - "[[Madox|Kevin]]"
+  - "[[Games/DoSI/Players/Edgar Mcgee|Linus]]"
+  - "[[Games/DoSI/Players/Justin Case|Zammy]]"
+  - "[[Games/DoSI/Players/Madox|Kevin]]"
 draft: false
 ---
 ![Dragons of Stormwreck Isle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o1s8QIFJzdV38iiBPEdD5U8bk6wrbca8jOCONGLnJ6ADManofYm0z7ju&s=10)
