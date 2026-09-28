@@ -9,11 +9,14 @@ Race:
 Gender: Female
 Occupation: Pirate
 Residence: "[[Rivergold]]"
+Origin:
+  - "[[Tickelfoot]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Calis Vindtop]]"
-draft: false
+draft: true
+Class:
 ---
 ![[Sappho Vindtop.png]]
 ## 📜Overview 
