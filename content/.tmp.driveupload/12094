@@ -69,7 +69,7 @@ Yes she is a pirate, and in some places known as Sap the Black, and she has a re
 The truth anit that dramatic though, she were just one in many and got away in the deep storeage, she hid, covered in sot, dirt and gunpowder. One night when she ran to not get caught she simply nocked over a oil lamp and yeah, the trail of gunpowder from her body led the fire straight to the storeage. 
 From that day she was called Sap the Black, and to be unest she aint that dangerus.
 
-![[ironbolts.jpeg]]
+![[ironbolts.jpeg|180]]
    **Affiliations** 
 Her Captain, - [[Adoot Ironneck]] and his Iron Bolts on the boat Sea-Hag.
 
