@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "World/private/IMG/noimg.png"
+                "file": "World/NPC/Img/noimg.png"
               },
               "icon": "lucide-image",
               "title": "noimg"
@@ -204,7 +204,7 @@
   "lastOpenFiles": [
     "World/private/IMG/eroy.png",
     "Games/DoSI/Party/Cerersio.md",
-    "World/private/IMG/noimg.png",
+    "World/NPC/Img/noimg.png",
     "Games/DoSI/Party/index.md",
     "Games/DoSI/index.md",
     "World/private/Templates/Stat Block.md",
