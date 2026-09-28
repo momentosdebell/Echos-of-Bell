@@ -14,3 +14,5 @@ I played a few of characters in different campaigns and one-shots. And so far, t
 [[Qia Twinkle]] - Cutey, not much i remember, how ever she was one hell of a ditective, sleeping around with anything that moved.
 [[Sean Christopher Hamilton II]] - A side character in a homebrew campaign i played when not everyone att the table was present. He didnt end up like i would like to in that game though.
 [[Xadara]] - A fun one, for this character i didnt know anything, no stats, no name, no history, said to dm "the floor is yours". Apparently i wasnt an bearded male Elf called Astrid.
+
+---
