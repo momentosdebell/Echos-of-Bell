@@ -1,10 +1,10 @@
 ---
 Updated: 2026-08-28
 title: Justin Case
-Img: "[[Madox.jpeg]]"
-Playing: Zammy
-Race: Half-Elf
+Img:
+Player: Zammy
 Gender: Male
+Race: Half-Elf
 Class: Bard
 draft: false
 ---
