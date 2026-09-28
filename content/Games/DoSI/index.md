@@ -6,7 +6,7 @@ Players:
   - "[[Sappho Vindtop|Me]]"
   - "[[Edgar Mcgee|Linus]]"
   - "[[Justin Case|Zammy]]"
-  - "[[Madox|Kevin]]"
+  - "[[Cerersio|Kevin]]"
 draft: false
 ---
 ![Dragons of Stormwreck Isle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o1s8QIFJzdV38iiBPEdD5U8bk6wrbca8jOCONGLnJ6ADManofYm0z7ju&s=10)
@@ -24,6 +24,6 @@ draft: false
 Me, im playing a Halfling Paladin [[Sappho Vindtop]]
 Linus, playing a Human Monk [[Edgar Mcgee]]
 Zammy, playing a Half-Elf Bard [[Justin Case]]
-Kevin, playing a Gobling Fighter [[Madox]]
+Kevin, playing a Gobling Fighter [[Cerersio]]
 
 ---
