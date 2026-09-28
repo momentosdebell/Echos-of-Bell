@@ -8,7 +8,6 @@ Class: Monk
 draft: false
 ---
 <style>
-  /* CSS som bara gäller på den här specifika sidan */
   .dnd-statblock-stream {
     background: #f4f0ea;
     border: 2px solid #5c4033;
@@ -19,7 +18,6 @@ draft: false
     font-family: sans-serif;
     max-width: 100%;
   }
-
   .dnd-statblock-stream .stat-header {
     display: flex;
     justify-content: space-between;
@@ -28,59 +26,25 @@ draft: false
     padding-bottom: 8px;
     margin-bottom: 12px;
   }
-
   .dnd-statblock-stream .name {
     font-size: 1.2rem;
     font-weight: bold;
   }
-
-  .dnd-statblock-stream .ac-badge {
-    background: #5c4033;
-    color: #f4f0ea;
-    padding: 4px 12px;
-    border-radius: 4px;
-    font-size: 1.1rem;
-    font-weight: bold;
-  }
-
-  .dnd-statblock-stream .stat-combat-row {
-    display: flex;
-    gap: 16px;
+  .dnd-statblock-stream .top-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
     margin-bottom: 12px;
+    text-align: center;
   }
-
-  .dnd-statblock-stream .hp-section {
-    flex: 1;
+  .dnd-statblock-stream .top-stat-box {
     background: rgba(0, 0, 0, 0.03);
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 4px;
-    padding: 8px;
-  }
-
-  .dnd-statblock-stream .hp-labels {
+    padding: 6px;
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 4px;
-    font-size: 0.85rem;
+    flex-direction: column;
   }
-
-  .dnd-statblock-stream .hp-bar-container {
-    height: 12px;
-    background: #ddd;
-    border-radius: 2px;
-    overflow: hidden;
-  }
-
-  .dnd-statblock-stream .hp-bar {
-    height: 100%;
-  }
-
-  .dnd-statblock-stream .speed-section {
-    display: flex;
-    gap: 8px;
-    min-width: 120px;
-  }
-
   .dnd-statblock-stream .token-section {
     background: rgba(0, 0, 0, 0.03);
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -89,37 +53,19 @@ draft: false
     margin-bottom: 12px;
     text-align: center;
   }
-
-  .dnd-statblock-stream .token-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
-  }
-
   .dnd-statblock-stream .stat-portrait {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid #5c4033;
   }
-
-  .dnd-statblock-stream .stat-token {
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
-    border-radius: 4px;
-    border: 1px solid #5c4033;
-  }
-
   .dnd-statblock-stream .stat-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
     gap: 6px;
     text-align: center;
   }
-
   .dnd-statblock-stream .stat-item {
     background: rgba(0, 0, 0, 0.03);
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -128,56 +74,32 @@ draft: false
     display: flex;
     flex-direction: column;
   }
-
   .dnd-statblock-stream .label {
     font-size: 0.75rem;
     font-weight: bold;
     letter-spacing: 1px;
     opacity: 0.8;
   }
-
   .dnd-statblock-stream .val {
     font-size: 1rem;
     font-weight: bold;
   }
 </style>
 
-<!-- Själva statblocken direkt efter -->
 <div class="dnd-statblock-stream">
   <div class="stat-header">
     <span class="name">Karaktärsnamn</span>
-    <span class="ac-badge">AC 16</span>
   </div>
   
-  <div class="stat-combat-row">
-    <div class="hp-section">
-      <div class="hp-labels">
-        <span class="label">HIT POINTS</span>
-        <span class="val">45 / 52</span>
-      </div>
-      <div class="hp-bar-container">
-        <div class="hp-bar" style="width: 86%; background-color: #73c273;"></div>
-      </div>
-    </div>
-    
-    <div class="speed-section">
-      <div class="stat-item" style="flex:1;">
-        <span class="label">SPEED</span>
-        <span class="val">30ft</span>
-      </div>
-      <div class="stat-item" style="flex:1;">
-        <span class="label">INIT</span>
-        <span class="val">+3</span>
-      </div>
-    </div>
+  <div class="top-stats-grid">
+    <div class="top-stat-box"><span class="label">AC</span><span class="val">16</span></div>
+    <div class="top-stat-box"><span class="label">MAX HP</span><span class="val">52</span></div>
+    <div class="top-stat-box"><span class="label">SPEED</span><span class="val">30ft</span></div>
+    <div class="top-stat-box"><span class="label">INIT</span><span class="val">+3</span></div>
   </div>
 
   <div class="token-section">
-    <div class="label" style="margin-bottom: 6px;">TOKENS & PORTRÄTT</div>
-    <div class="token-container">
-      <img src="DIN_BILDLÄNK_HÄR" class="stat-portrait" alt="Porträtt">
-      <img src="DIN_TOKEN_LÄNK_HÄR" class="stat-token" alt="Token">
-    </div>
+    <img src="DIN_BILDLÄNK_HÄR" class="stat-portrait" alt="Porträtt">
   </div>
   
   <div class="stat-grid">
