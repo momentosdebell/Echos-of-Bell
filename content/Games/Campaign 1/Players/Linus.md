@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-28
 title: Linus
-Playing:
+Playing: Edgar Mcgee
 Race: Human
 Gender: Male
 Class: Monk

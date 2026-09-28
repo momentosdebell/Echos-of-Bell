@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Sammy
+title: Zammy
 Img: "[[Madox.jpeg]]"
 Playing: Justin Case
 Race: Half-Elf
