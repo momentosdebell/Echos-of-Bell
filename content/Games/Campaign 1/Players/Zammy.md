@@ -8,4 +8,3 @@ Gender: Male
 Class: Bard
 draft: false
 ---
-![[Justin Case.jpeg]]

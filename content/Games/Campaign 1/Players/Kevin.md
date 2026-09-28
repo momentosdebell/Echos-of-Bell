@@ -8,4 +8,3 @@ Gender: Male
 Class: Warlock
 draft: false
 ---
-![[Madox.jpeg]]
