@@ -25,33 +25,33 @@ draft: false
 				<span class="label">SPEED</span>
 				<span class="val">30ft</span>
 			</div><div class="top-stat-box">
-				<span class="label">INIT</span>
+				<span class="label">Initiative</span>
 				<span class="val">+3</span>
 			</div>
 		</div>
 	</div>
 	<div class="stat-grid"><div class="stat-item">
 			<span class="label">STR</span>
-			<span class="val">10</span>
+			<span class="val">14</span>
 		</div><div class="stat-item">
 			<span class="label">DEX</span>
 			<span class="val">16</span>
 		</div>
 		<div class="stat-item">
 			<span class="label">CON</span>
-			<span class="val">14</span>
+			<span class="val">16</span>
 		</div>
 		<div class="stat-item">
 			<span class="label">INT</span>
-			<span class="val">12</span>
+			<span class="val">10</span>
 		</div>
 		<div class="stat-item">
 			<span class="label">WIS</span>
-			<span class="val">13</span>
+			<span class="val">12</span>
 		</div>
 		<div class="stat-item">
 			<span class="label">CHA</span>
-			<span class="val">18</span>
+			<span class="val">19</span>
 		</div>
 	</div>
 </div>
