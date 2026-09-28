@@ -283,6 +283,7 @@ plugins:
         - Campaign
         - DM
         - Players
+        - Player
         - Playing
       excludedProperties: []
       hidePropertiesView: false
@@ -344,6 +345,7 @@ plugins:
         - Campaign
         - DM
         - Players
+        - Player
         - Playing
       excludedProperties: []
       hidePropertiesView: false

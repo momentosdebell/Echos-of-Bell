@@ -2,6 +2,11 @@
 Updated: 2026-09-27
 title: Campaign 1
 DM: "[[Daniel Sjögren]]"
+Players:
+  - Me
+  - Linus
+  - Zammy
+  - Kevin
 draft: false
 ---
 ![Dragons of Stormwreck Isle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o1s8QIFJzdV38iiBPEdD5U8bk6wrbca8jOCONGLnJ6ADManofYm0z7ju&s=10)
@@ -15,3 +20,8 @@ draft: false
 - **Tone:** Classic high fantasy, heroic exploration, and draconic mystery.
 - **Level:** Designed for levels 1 to 3 (ideal for beginners or short mini-campaigns).
 - **Pacing:** Balanced mix of roleplay/investigation at the cloister and dungeon crawling across the island.
+### Players
+Me, im playing a Halfling Paladin [[Sappho Vindtop]]
+Linus, playing a Human Monk [[Edgar Mcgee]]
+Zammy, playing a Half-Elf Bard [[Justin Case]]
+Kevin, playing a Gobling Fighter [[Madox]]

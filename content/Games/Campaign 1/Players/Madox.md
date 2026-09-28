@@ -1,10 +1,10 @@
 ---
 Updated: 2026-08-28
-title: Zammy
+title: Madox
 Img: "[[Madox.jpeg]]"
-Playing: Justin Case
-Race: Half-Elf
+Player: Kevin
+Race: Goblin
 Gender: Male
-Class: Bard
+Class: Fighter
 draft: false
 ---
