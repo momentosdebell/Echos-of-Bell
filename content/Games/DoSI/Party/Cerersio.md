@@ -13,7 +13,7 @@ draft: false
 <div class="dnd-statblock-stream">
 	<div class="middle-row">
 		<div class="token-box">
-			<img src="DIN_BILDLÄNK_HÄR" class="stat-portrait" alt="Porträtt"></div>
+			<img src="https://momentosdebell.github.io/Echos-of-Bell/world/npc/img/noimg.png" class="stat-portrait" alt="Porträtt"></div>
 			<div class="top-stats-grid"><div class="top-stat-box">
 				<span class="label">AC</span>
 				<span class="val">13</span>
