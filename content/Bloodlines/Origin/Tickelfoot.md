@@ -7,17 +7,14 @@ draft: true
 ---
 ```mermaid
 graph TD
-    %% Familjekopplingar (förälder --> barn)
-	Eldar["Eldar Tarrintel"] --- Marriage[" "] --- Andora["Andora Tickelfoot"] 
-	
-	%%Barnen kopplade under dem Marriage --> 
-	PrincessC["Prinsessan Lyra"] Marriage --> 
-	Syskonen2["Ett till barn (t.ex. syskon)"]
-    
+    %% Slå ihop föräldrarna i en enda nod för att garantera att de sitter ihop
+    Parents["Eldar Tarrintel & Andora Tickelfoot"] --> PrincessC["Prinsessan Lyra"]
+    Parents --> Syskon["Andra barnet"]
+
+    %% Övriga kopplingar
     PrinceB --> HeirD["Kronprins Alaric"]
     PrinceB --> SecretE["Okänd arvinge"]
 
-    %% Klickbara länkar till andra sidor (byt ut till dina egna filnamn)
+    %% Klickbara länkar
     click Milo "Bloodline/Characters/Milo Vindtop"
-    
 ```
