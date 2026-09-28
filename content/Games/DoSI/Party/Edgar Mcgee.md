@@ -25,7 +25,7 @@ draft: false
   align-items: stretch;
 }
 .dnd-statblock-stream .token-box {
-  flex: 0 0 110px;
+  flex: 0 0 190px;
   height: 110px;
   background: rgba(0, 0, 0, 0.03);
   border: 1px solid rgba(0, 0, 0, 0.1);
@@ -84,4 +84,48 @@ draft: false
 }
 </style>
 
-<div class="dnd-statblock-stream"><div class="middle-row"><div class="token-box"><img src="DIN_BILDLÄNK_HÄR" class="stat-portrait" alt="Porträtt"></div><div class="top-stats-grid"><div class="top-stat-box"><span class="label">AC</span><span class="val">16</span></div><div class="top-stat-box"><span class="label">MAX HP</span><span class="val">52</span></div><div class="top-stat-box"><span class="label">SPEED</span><span class="val">30ft</span></div><div class="top-stat-box"><span class="label">INIT</span><span class="val">+3</span></div></div></div><div class="stat-grid"><div class="stat-item"><span class="label">STR</span><span class="val">10</span></div><div class="stat-item"><span class="label">DEX</span><span class="val">16</span></div><div class="stat-item"><span class="label">CON</span><span class="val">14</span></div><div class="stat-item"><span class="label">INT</span><span class="val">12</span></div><div class="stat-item"><span class="label">WIS</span><span class="val">13</span></div><div class="stat-item"><span class="label">CHA</span><span class="val">18</span></div></div></div>
+<div class="dnd-statblock-stream">
+	<div class="middle-row">
+		<div class="token-box">
+			<img src="DIN_BILDLÄNK_HÄR" class="stat-portrait" alt="Porträtt"></div>
+			<div class="top-stats-grid"><div class="top-stat-box">
+				<span class="label">AC</span>
+				<span class="val">16</span>
+			</div>
+			<div class="top-stat-box">
+				<span class="label">MAX HP</span>
+				<span class="val">52</span>
+			</div><div class="top-stat-box">
+				<span class="label">SPEED</span>
+				<span class="val">30ft</span>
+			</div><div class="top-stat-box">
+				<span class="label">INIT</span>
+				<span class="val">+3</span>
+			</div>
+		</div>
+	</div>
+	<div class="stat-grid"><div class="stat-item">
+			<span class="label">STR</span>
+			<span class="val">10</span>
+		</div><div class="stat-item">
+			<span class="label">DEX</span>
+			<span class="val">16</span>
+		</div>
+		<div class="stat-item">
+			<span class="label">CON</span>
+			<span class="val">14</span>
+		</div>
+		<div class="stat-item">
+			<span class="label">INT</span>
+			<span class="val">12</span>
+		</div>
+		<div class="stat-item">
+			<span class="label">WIS</span>
+			<span class="val">13</span>
+		</div>
+		<div class="stat-item">
+			<span class="label">CHA</span>
+			<span class="val">18</span>
+		</div>
+	</div>
+</div>
