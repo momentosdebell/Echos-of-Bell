@@ -15,6 +15,7 @@ Children:
   - "[[Gullvi Nimue]]"
   - "[[Sequoia]]"
 draft: false
+Occupation: Arch Druid
 ---
 
 

@@ -6,7 +6,7 @@ Location:
 Vibe:
   - Magical
   - Layered
-Custodian: "[[King Theodemar Yllaris Everfall]]"
+Custodian: "[[Theodemar Yllaris Everfall]]"
 Population: "280000"
 Cityzens:
   - Elf
@@ -36,7 +36,7 @@ Magic is not a rarity here.
 
 It is infrastructure.
 ## 🎭 NPCs
-- [[King Theodemar Yllaris Everfall]] - King
+- [[Theodemar Yllaris Everfall]] - King
 - Lucien Evercrest - Archmage, Master of the Grand Arcane Academy
 - [[Silas Kade]] - Merchant and owner of [[World/Locations/Venues/The Seven Cats Inn]] network
 - Commander Elowen Thorne - Captain General of the Silver Wardens

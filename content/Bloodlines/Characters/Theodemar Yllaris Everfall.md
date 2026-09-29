@@ -14,7 +14,7 @@ Origin:
   - "[[Yllaris]]"
 Father: "[[Theodore Akkar Yllaris]]"
 Mother: "[[Melon Everfall]]"
-Partner: "[[Queen Lilliana Yllaris Everfall]]"
+Partner: "[[Lilliana Yllaris Everfall]]"
 Children:
   - "[[Lily Everfall]]"
 draft: false

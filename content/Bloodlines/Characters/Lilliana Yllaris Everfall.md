@@ -12,6 +12,7 @@ Partner: "[[King Theodemar Yllaris Everfal]]"
 Children:
   - "[[Lily Everfall]]"
 draft: false
+Occupation: Queen
 ---
 ![[Queen Lilliana Yllaris Everfall.jpeg]]
 

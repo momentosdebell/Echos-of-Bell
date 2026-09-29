@@ -6,7 +6,7 @@ Category:
 Leader: "[[Molliebeth Bramblevick]]"
 draft: false
 ---
-The title **The Uncrowned** is a royal designation granted by the crown in recognition of an unidentified woman who assisted the [[Queen Lilliana Yllaris Everfall]] in a fetal wond, struck by raiders during a seege.
+The title **The Uncrowned** is a royal designation granted by the crown in recognition of an unidentified woman who assisted the [[Lilliana Yllaris Everfall]] in a fetal wond, struck by raiders during a seege.
 
 It is the rarest royal honors in the kingdom, because it is not granted for service to the state.
 

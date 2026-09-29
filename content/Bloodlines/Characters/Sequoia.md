@@ -15,6 +15,7 @@ Siblings:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"
 draft: false
+Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Employ]]"
 ---
 ![[Sequoia.png]]
 ## 📖 Overview

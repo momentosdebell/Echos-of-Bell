@@ -13,6 +13,7 @@ Children:
   - "[[Kinto Tiller]]"
   - "[[Qia Twinkle]]"
 draft: false
+Occupation: Politician
 ---
 ![[Zoros Tiller.jpeg]]
 

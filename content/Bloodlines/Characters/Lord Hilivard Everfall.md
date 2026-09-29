@@ -13,6 +13,7 @@ Children:
   - "[[Vilya Dong]]"
   - "[[Li'thanïa Everfall]]"
 draft: false
+Occupation: Noble
 ---
 ![[Lord Hilivard Everfall.jpeg]]
 

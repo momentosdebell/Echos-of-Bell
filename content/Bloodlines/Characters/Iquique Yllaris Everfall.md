@@ -18,6 +18,7 @@ Partner: "[[Lily Everfall]]"
 Children:
   - "[[Tove Root]]"
 draft: false
+Occupation: Bartender
 ---
 ![[Iquique Yllaris Everfall.jpeg]]
 

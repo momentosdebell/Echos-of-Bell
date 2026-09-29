@@ -14,8 +14,9 @@ Siblings:
   - "[[Enya Everfall]]"
 Partner: "[[Theodore Akkar Yllaris]]"
 Children:
-  - "[[King Theodemar Yllaris Everfall]]"
+  - "[[Theodemar Yllaris Everfall]]"
 draft: false
+Occupation: Former Queen
 ---
 ![[Mellon Everfall.jpeg]]
 

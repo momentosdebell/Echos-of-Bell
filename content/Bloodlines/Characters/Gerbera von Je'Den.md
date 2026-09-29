@@ -8,7 +8,7 @@ Race:
   - Human
   - Elf
 Gender: Female
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
   - "[[Everfall]]"
@@ -19,6 +19,7 @@ Siblings:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
 draft: false
+Occupation: Adventurer
 ---
 ![[Gerbera von Je'Den.jpg]]
 

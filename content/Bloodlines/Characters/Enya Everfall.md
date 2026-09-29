@@ -17,6 +17,7 @@ Children:
   - "[[Vilya Dong]]"
   - "[[Li'thanïa Everfall]]"
 draft: false
+Occupation: Noble
 ---
 ![[Enya Everfall.jpeg]]
 

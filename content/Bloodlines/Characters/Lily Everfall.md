@@ -12,11 +12,12 @@ Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"
 Father: "[[King Theodemar Yllaris Everfal]]"
-Mother: "[[Queen Lilliana Yllaris Everfall]]"
+Mother: "[[Lilliana Yllaris Everfall]]"
 Partner: "[[Iquique Yllaris Everfall]]"
 Children:
   - "[[Tove Root]]"
 draft: false
+Occupation: Weaver
 ---
 ![[Lily Yllaris Everfall.jpg]]
 

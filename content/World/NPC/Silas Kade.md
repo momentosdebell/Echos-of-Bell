@@ -7,8 +7,8 @@ Img:
 Race:
   - Tiefling
 Gender: Male
-Occupation: "[[World/Locations/Venues/The Seven Cats Inn]]"
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Occupation: "[[The Seven Cats Inn]]"
+Residence: "[[Silvergrove City]]"
 draft: false
 ---
 

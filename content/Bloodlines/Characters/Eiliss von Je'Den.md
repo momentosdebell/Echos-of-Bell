@@ -22,5 +22,6 @@ Children:
   - "[[Pax von Je'Den]]"
   - "[[Gerbera von Je'Den]]"
 draft: false
+Occupation: Noble
 ---
 ![[Eiliss von Je'Den.jpeg]]

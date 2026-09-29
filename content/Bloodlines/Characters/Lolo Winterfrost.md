@@ -20,6 +20,7 @@ Partner: "[[Fyr Hamilton]]"
 Children:
   - "[[Bromhilda Winterfrost]]"
 draft: false
+Occupation: Adventurer
 ---
 
 
