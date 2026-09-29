@@ -156,3 +156,14 @@ article h2, .content-text h2 {
 article h2::before, .content-text h2::before {
   content: none !important;
 }
+/* Låt baser fylla hela sidans bredd och undvik skräpscroll */
+.bases-container, .dataview, table {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto; /* Om tabellen är gigantisk vill man oftast ha scroll i djupled på mobilen, men ta bort om du vill tvinga in allt */
+}
+
+/* Om basen renderas som ett kort- eller grid-system */
+.bases-view-container {
+  width: 100%;
+}

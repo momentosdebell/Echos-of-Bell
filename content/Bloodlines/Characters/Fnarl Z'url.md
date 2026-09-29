@@ -8,7 +8,7 @@ Race:
   - Orc
 Gender: Male
 Occupation: Florist
-Residence: "[[World/Locations/Towns/Rivergold]]"
+Residence: "[[Rivergold]]"
 Partner: "[[Hef Dong]]"
 draft: false
 ---
