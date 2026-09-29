@@ -8,7 +8,7 @@ Race:
   - Elf
 Gender: Male
 Occupation: King
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"

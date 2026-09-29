@@ -9,7 +9,7 @@ Race:
 Gender: Male
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[World/Locations/Towns/Rivergold]]"
+Residence: "[[Rivergold]]"
 Origin:
   - "[[Hamilton]]"
   - "[[Nollac]]"

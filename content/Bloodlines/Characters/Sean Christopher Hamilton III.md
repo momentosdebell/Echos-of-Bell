@@ -8,7 +8,7 @@ Race:
   - Dwarf
   - Human
 Gender: Male
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Sean Christopher Hamilton II]]"

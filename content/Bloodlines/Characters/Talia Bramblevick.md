@@ -8,7 +8,7 @@ Race:
   - Gnome
 Gender: Female
 Occupation: "[[World/Locations/Venues/The Rolling Pin|Baker]]"
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Father: Borum Bramblevick
 Mother: "[[Mellinga Lillibet Bramblevick]]"
 draft: false

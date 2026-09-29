@@ -8,7 +8,7 @@ Race:
   - Elf
 Gender: Female
 Occupation: "[[World/Locations/Venues/River Royal|Winemaker]]"
-Residence: "[[World/Locations/Towns/Liora]]"
+Residence: "[[Liora]]"
 Origin:
   - "[[De Rivièr]]"
 Partner: "[[Alerion De Rivièr]]"

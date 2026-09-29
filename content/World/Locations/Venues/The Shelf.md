@@ -3,7 +3,7 @@ Updated: 2026-08-31
 draft: false
 title: The Shelf
 Type: Tavern
-Location: "[[World/Locations/Towns/Ever Peak]]"
+Location: "[[Ever Peak]]"
 Vibe:
   - Cramped
   - Cozy

@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: River Royal
 Type: Winery
-Location: "[[World/Locations/Towns/Liora]]"
+Location: "[[Liora]]"
 Vibe:
   - Exclusive
   - Timeless

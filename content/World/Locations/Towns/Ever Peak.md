@@ -78,7 +78,7 @@ The working heart of Ever Peak. Mines, forges, and excavation sites stretch deep
 
 ---
 #### 🍺 Lodge
-- [[World/Locations/Venues/The Seven Cats Inn]] - Overlooking the wally
+- [[The Seven Cats Inn]] - Overlooking the wally
   🪙🪙🪙🪙🪙
 - The Shelf - On the highest point
   🪙⚪⚪⚪⚪

@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: The Rolling Pin
 Type: Bakary
-Location: "[[World/Locations/Towns/Ambervale]]"
+Location: "[[Ambervale]]"
 Vibe:
   - Homely
   - Fresh
@@ -24,10 +24,10 @@ It is not wealthy or politically important, but it is deeply reliable, which mak
 - Respected more for consistency than scale or wealth
 
 ## 🗺️ Location 
-Located in the Grain District of [[World/Locations/Towns/Ambervale]], positioned along key local supply and market routes.
+Located in the Grain District of [[Ambervale]], positioned along key local supply and market routes.
 
 ## 🏛️ History
-The Rolling Pin was founded in the early years of modern [[World/Locations/Towns/Ambervale]], during a period when the city was still recovering from famine cycles and unstable trade flow along the river.
+The Rolling Pin was founded in the early years of modern [[Ambervale]], during a period when the city was still recovering from famine cycles and unstable trade flow along the river.
 
 It began as a modest neighborhood bakery run by [[Talia Bramblevick]], a former mill worker who understood grain, hunger, and the fragile line between them better than most. From the start, his philosophy was simple and uncompromising:
 
