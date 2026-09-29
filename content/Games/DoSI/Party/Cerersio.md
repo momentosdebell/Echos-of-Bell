@@ -14,7 +14,7 @@ draft: false
   <div class="dnd-stat-hdr">Fighter 1</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
-      <img src="img/cerersio.jpeg" alt="Porträtt">
+      <img src="img/cerersio.jpeg" alt="Token">
     </div>
     <div class="dnd-stat-topgrid">
       <div class="dnd-stat-box"><span class="dnd-stat-lbl">AC</span><span class="dnd-stat-val">13</span></div>
