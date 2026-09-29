@@ -5,6 +5,6 @@ draft: false
 DM: Daniel Sjögren
 ---
 ## 📜Overview
-In this campain Daniel Sjögren was the Dungeon Master. An experienced DM.
+In this campaign Daniel Sjögren is the Dungeon Master. 
 
 ---
