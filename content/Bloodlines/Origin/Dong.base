@@ -10,5 +10,5 @@ views:
       - Father
       - Mother
     sort:
-      - property: file.name
+      - property: Father
         direction: ASC

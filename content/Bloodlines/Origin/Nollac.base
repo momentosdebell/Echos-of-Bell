@@ -9,3 +9,6 @@ views:
       - Gender
       - Father
       - Mother
+    sort:
+      - property: Father
+        direction: ASC
