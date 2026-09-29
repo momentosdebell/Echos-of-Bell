@@ -2,7 +2,7 @@
 Updated: 2026-08-28
 Birth: 624
 Death: 1599
-title: King Theodemar Yllaris Everfall
+title: Theodemar Yllaris Everfall
 Img: "[[King Theodemar Yllaris Everfall.jpeg]]"
 Race: Elf
 Gender: Male
