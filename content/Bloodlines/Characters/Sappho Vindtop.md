@@ -8,6 +8,8 @@ Race: Halfling
 Gender: Female
 Occupation: Pirate
 Residence: "[[Rivergold]]"
+Origin:
+  - "[[Tickelfoot]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:

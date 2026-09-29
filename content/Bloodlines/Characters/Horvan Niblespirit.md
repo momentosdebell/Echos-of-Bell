@@ -8,6 +8,8 @@ Race:
   - Halfling
 Gender: Male
 Occupation: Farmer
+Origin:
+  - "[[Tickelfoot]]"
 Siblings:
   - "[[Milo Vindtop]]"
 Partner: "[[Unani Niblespirit]]"
