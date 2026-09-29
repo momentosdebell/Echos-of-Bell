@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-02
-title: Welcome to Akaria
+title: Games
 draft: false
 ---
 ## 📜Overview 
