@@ -152,8 +152,8 @@ draft: false
     <div class="dnd-stat-item"><span class="dnd-stat-lbl">STR</span><span class="dnd-stat-val">10</span></div>
     <div class="dnd-stat-item"><span class="dnd-stat-lbl">DEX</span><span class="dnd-stat-val">14</span></div>
     <div class="dnd-stat-item"><span class="dnd-stat-lbl">CON</span><span class="dnd-stat-val">16</span></div>
-    <div class="dnd-stat-item"><span class="dnd-stat-lbl">INT</span><span class="dnd-stat-val">10</span></div>
-    <div class="dnd-stat-item"><span class="dnd-stat-lbl">WIS</span><span class="dnd-stat-val">12</span></div>
+    <div class="dnd-stat-item"><span class="dnd-stat-lbl">INT</span><span class="dnd-stat-val">12</span></div>
+    <div class="dnd-stat-item"><span class="dnd-stat-lbl">WIS</span><span class="dnd-stat-val">14</span></div>
     <div class="dnd-stat-item"><span class="dnd-stat-lbl">CHA</span><span class="dnd-stat-val">19</span></div>
   </div>
 </div>
