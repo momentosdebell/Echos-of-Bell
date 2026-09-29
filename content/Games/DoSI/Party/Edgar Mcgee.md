@@ -135,7 +135,7 @@ draft: false
 </style>
 
 <div class="dnd-stat">
-  <div class="dnd-stat-hdr">Monk 1</div>
+  <div class="dnd-stat-hdr">Monk Level 1</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
       <img src="img/edgar_mcgee.jpeg" alt="Token">
