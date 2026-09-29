@@ -4,8 +4,7 @@ Birth: 1445
 Death: 1544
 title: Sappho Vindtop
 Img: "[[Sappho Vindtop.png]]"
-Race:
-  - Halfling
+Race: Halfling
 Gender: Female
 Occupation: Pirate
 Residence: "[[Rivergold]]"
@@ -220,10 +219,11 @@ From that day she was called Sap the Black, and to be unest she aint that danger
 
 ![[ironbolts.jpeg|180]]
    **Affiliations** 
-Her Captain, - [[Adoot Ironneck]] and his Iron Bolts on the boat Sea-Hag.
+ [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat Sea-Hag.
+ [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
 
    **Secrets** 
-Her parents dont know that alot of people run when they hear that Sappho the Black is after them. Not even her sister knows.
+Her parents dont know that alot of people run when they hear that Sap the Black is after them. Not even her sister knows.
 
    **Bridge**
 After months of dead ends, empty promises, and leaping from one deck to another, Sap finally struck gold in a dimly lit harbor tavern. A weathered sailor, heavy with ale, slipped her a tantalizing piece of news: Captain Adoot Ironneck and the crew of the Sea-Hag were recently sighted dropping anchor near the jagged, fog-shrouded shores of Stormwreck Isle.
