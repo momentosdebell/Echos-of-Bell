@@ -3,76 +3,102 @@ Updated: 2026-08-31
 title: Tickelfoot
 Category:
   - Family Tree
-draft: true
+draft: false
 ---
 ```mermaid
----
-
-config:
-
-  layout: fixed
-
----
-
 flowchart TB
 
-    Eldar["Eldar"] --- Andorra["Andorra"] & EmA[" "]
+    1["Eldar Tarrintel"] --- 1+2["Married"]
 
-    EmA --> Phitra["Phitra"] & Feather["Feather"] & Unani["Unani"]
+    2["Andora Tickelfoot"] --- 1+2
 
-    Phitra --- SeanIII["SeanIII"]
+    1+2 --> 3["Phitra Hamilton"] & 7["Unani Niblespirit"] & 14["Feather Tickelfoot"]
 
-    PmS[" "] --> Wiltor["Wiltor"] & SeanIIII["SeanIIII"]
+    3 --- 3+4["Married"]
 
-    Unani --- Horvan["Horvan"]
+    4["Sean Christopher Hamilton III"] --- 3+4
 
-    UmH[" "] --> Rocksan["Rocksan"]
+    3+4 --> 5["Sean Christopher Hamilton IIII"] & 6["Wiltor Hamilton"]
 
-    Niblespirit["Niblespirit"] --> Horvan & Milo["Milo"]
+    7 --- 7+8["Married"]
 
-    Milo --- Jillian["Jillian"]
+    8["Horvan Niblespirit"] --- 7+8
 
-    MmJ[" "] --> Sappho["Sappho"] & Calis["Calis"]
+    7+8 --> 9["Rocksan Tickelfoot"]
+
+    9+10["Niblespirit"] --> 8 & 10["Milo Vindtop"]
+
+    10 --- 10+11["Merried"]
+
+    11["Jillian Vindtop"] --- 10+11
+
+    10+11 --> 12["Sappho Vindtop"] & 13["Calis Vindtop"]
+
+    14 --- 14+15["Married"]
+
+    15["Wiree Tickelfoot"] --- 14+15
+
+    14+15 --> 16["Ann Tickelfoot"] & 17["Eldana Tickelfoot"]
+
+    17 --- 17+18["Married"]
+
+    18["Jami-Lee Wolfaxe"] --- 17+18
+
+    17+18 --> 19["Daniela Tickelfoot"] & 20["Dave Tickelfoot"] & 21["Danny Tickelfoot"]
 
   
 
-    EmA@{ shape: text}
+    1+2@{ shape: text}
 
-    PmS@{ shape: text}
+    3+4@{ shape: text}
 
-    UmH@{ shape: text}
+    7+8@{ shape: text}
 
-    MmJ@{ shape: text}
+    10+11@{ shape: text}
 
-    style Eldar fill:#BBDEFB,stroke:#333,stroke-width:2px
+    14+15@{ shape: text}
 
-    style Andorra fill:#E1BEE7
+    17+18@{ shape: text}
 
-    style EmA stroke-width:0px,stroke-dasharray:0,fill:transparent
+    style 1 stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB,color:#BBDEFB
 
-    style Phitra fill:#E1BEE7
+    style 2 stroke:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,color:#E1BEE7
 
-    style Feather fill:#BBDEFB
+    style 3 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
 
-    style Unani fill:#E1BEE7
+    style 7 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
 
-    style SeanIII fill:#BBDEFB
+    style 14 stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB,color:#BBDEFB
 
-    style PmS fill:transparent,stroke-width:0px,stroke-dasharray:0
+    style 4 color:#BBDEFB,stroke:#BBDEFB,stroke-width:4px,stroke-dasharray: 0
 
-    style Wiltor fill:#BBDEFB
+    style 5 color:#BBDEFB,stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB
 
-    style SeanIIII fill:#BBDEFB
+    style 6 color:#BBDEFB,stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB
 
-    style Horvan fill:#BBDEFB
+    style 8 stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB,color:#BBDEFB
 
-    style Rocksan fill:#E1BEE7
+    style 9 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
 
-    style Milo fill:#BBDEFB
+    style 10 stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB,color:#BBDEFB
 
-    style Jillian fill:#E1BEE7
+    style 11 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
 
-    style Sappho fill:#E1BEE7
+    style 12 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
 
-    style Calis fill:#E1BEE7
+    style 13 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
+
+    style 15 stroke:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,color:#E1BEE7
+
+    style 16 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
+
+    style 17 color:#E1BEE7,stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7
+
+    style 18 color:#BBDEFB,stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB
+
+    style 19 stroke-width:4px,stroke-dasharray: 0,stroke:#E1BEE7,color:#E1BEE7
+
+    style 20 color:#BBDEFB,stroke:#BBDEFB,stroke-width:4px,stroke-dasharray: 0
+
+    style 21 color:#BBDEFB,stroke-width:4px,stroke-dasharray: 0,stroke:#BBDEFB
 ```
