@@ -3,12 +3,9 @@ views:
     name: Table
     filters:
       and:
-        - Origin.contains(link("Tickelfoot"))
+        - Origin.contains(link("Everfall"))
     order:
       - file.name
       - Gender
       - Father
       - Mother
-    sort:
-      - property: Father
-        direction: ASC
