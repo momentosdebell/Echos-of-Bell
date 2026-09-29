@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("Tickelfoot")
+        - Origin == ["[[Tickelfoot]]"]
     order:
       - file.name
       - Gender
