@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Tickelfoot")
+    order:
+      - file.name
+      - Gender
+      - Father
+      - Mother
+    sort:
+      - property: Father
+        direction: ASC

@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Family/Members"
+        - file.hasLink("World/Towns/Ever Peak")
