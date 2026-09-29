@@ -8,7 +8,7 @@ Race:
   - Human
   - Dwarf
 Gender: Female
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -26,6 +26,7 @@ Children:
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
 draft: false
+Occupation: Politician
 ---
 ![[Gelinda Hamilton.png]]
 

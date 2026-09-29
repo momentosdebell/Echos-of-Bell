@@ -14,5 +14,6 @@ Children:
   - "[[Unani Niblespirit]]"
   - "[[Feather Tickelfoot]]"
 draft: false
+Occupation: Scholar
 ---
 ![[Eldar Tarrintel.jpeg]]

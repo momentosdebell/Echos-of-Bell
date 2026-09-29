@@ -17,5 +17,6 @@ Siblings:
   - "[[Daniela Tickelfoot]]"
   - "[[Dave Tickelfoot]]"
 draft: false
+Occupation: Student
 ---
 ![[Danny Tickelfoot.jpeg]]

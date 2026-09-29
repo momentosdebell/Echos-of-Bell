@@ -50,9 +50,9 @@ Yet, amid the cold formalities of her aristocratic world, life took a profoundly
 **Upbringing**
 Molliebeth grew up surrounded by the quiet, sterile luxury of House Hamilton. On paper, her childhood lacked nothing; every material need was met, and her upbringing was outwardly comfortable and refined. Yet beneath the polished veneer, a profound emptiness lingered. She spent years chasing warmth, acceptance, and genuine affection from a family that treated her more like an asset than a daughter. Though her days were free of hardship, the emotional starvation left her feeling profoundly unmoored, recognizing early on that all the privilege in the world could not replace the love she was constantly denied.
 
-Gelinda, her mother, was adored by everyone—or at least, that was the grand illusion the family projected to the world. In reality, she was rigid and backward-looking, wrapped tightly in propriety and social standing. Her father, Orin, provided the only real warmth in the household; while he never gave her the deep affection she craved, he was pleasant and witty, offering a brief spark of light against the cold backdrop of their noble estate.
+Gelinda, her mother, was adored by everyone, or at least, that was the grand illusion the family projected to the world. In reality, she was rigid and backward-looking, wrapped tightly in propriety and social standing. Her father, Orin, provided the only real warmth in the household; while he never gave her the deep affection she craved, he was pleasant and witty, offering a brief spark of light against the cold backdrop of their noble estate.
 
-Away from the stifling halls of her estate, Molliebeth found her true sanctuary at a nearby bakery. The owner was an incredible woman—warm, grounded, and the absolute antithesis of everything her own family stood for. As Molliebeth grew older, she spent more and more time there alongside the baker's daughter, Talia, who was right around her age. Talia became the genuine light in her life, offering the kind of effortless friendship and warmth she never found at home.
+Away from the stifling halls of her estate, Molliebeth found her true sanctuary at a nearby bakery. The owner was an incredible woman, warm, grounded, and the absolute antithesis of everything her own family stood for. As Molliebeth grew older, she spent more and more time there alongside the baker's daughter, Talia, who was right around her age. Talia became the genuine light in her life, offering the kind of effortless friendship and warmth she never found at home.
 
 Beyond the bakery, Molliebeth was drawn to the vibrant town square by the harbor. She would spend hours just watching the ebb and flow of the crowds, observing the strangers, and taking in all the new faces, goods, and stories arriving on the incoming ships.
 
@@ -78,7 +78,7 @@ The Circle of the Blooming Table: The humanitarian and survival organization she
 The Eternal Roots: Her spiritual foundation, whose faith and philosophy guided her worldview long before she left home.
 
 **Motivations** 
-She is driven by a deep-seated, quiet ache—unsure whether her boundless compassion stems from the desperate lack of love in her own youth, or from the agonizing void left by losing her children. Having known the sting of emotional starvation and the unbearable grief of parental loss, she carries a fierce vulnerability for others, refusing to let anyone else endure the isolation she wakes up with every single day. This profound empathy, coupled with the wreckage left behind in Ambervale, became the catalyst for her travels. Unable to stand still without facing the ghosts of her past and her own unhealed trauma, she now wanders far and wide, dedicating her life to helping anyone she can, wherever she is needed most.
+She is driven by a deep-seated, quiet ache, unsure whether her boundless compassion stems from the desperate lack of love in her own youth, or from the agonizing void left by losing her children. Having known the sting of emotional starvation and the unbearable grief of parental loss, she carries a fierce vulnerability for others, refusing to let anyone else endure the isolation she wakes up with every single day. This profound empathy, coupled with the wreckage left behind in Ambervale, became the catalyst for her travels. Unable to stand still without facing the ghosts of her past and her own unhealed trauma, she now wanders far and wide, dedicating her life to helping anyone she can, wherever she is needed most.
 
 **Bridge**
 Molliebeth was standing over her trusty pot in yet another muddy camp, dishing out the exact same root stew to the exact same exhausted faces, when the brutal truth finally hit her: she was stuck on an endless loop. She loved every soul she helped, but the disaster wheel never stopped spinning, and no matter how fast she ran, she was just putting temporary bandaids on a bleeding world. She needed a brand-new door, a radical change of course, and a completely different arena where her hands could build something that actually lasted instead of just surviving day to day.
@@ -93,7 +93,7 @@ While she is fundamentally a person of peace who strongly prefers to avoid viole
 ## Equipment
  Molliebeth relies on a carefully chosen selection of field gear that blends her passion for cooking with practical survival. Her most trusted companion is the Emberhand Cast Iron Skillet, a versatile tool that not only boasts a handful of handy magical properties when preparing meals but also doubles exceptionally well as a sturdy shield when trouble finds her on the road.
 
- To keep her provisions stocked during long humanitarian journeys, she carries a Pouch of Everfresh—a specialized, miniature bag of holding that functions with the magical properties of a refrigerator to keep ingredients and perishables perfectly preserved.
+ To keep her provisions stocked during long humanitarian journeys, she carries a Pouch of Everfresh, a specialized, miniature bag of holding that functions with the magical properties of a refrigerator to keep ingredients and perishables perfectly preserved.
 
 Alongside it, she utilizes a compact Right Pouch of Holding, a reliable pocket dimension functioning just like a standard bag of holding scaled down for her everyday carry.
 
@@ -111,6 +111,6 @@ Is not in an active game yet
 
 • Moliebeth Bramblewick was first Molibeth Hamilton, got married and took Fallow. Then after the divorce took her friends(?) name Bramblewick 
 
-• Molliebeth secretly saved Queen Lilliana from a fatal wound during a siege, leaving behind only half a blood-stained blanket. The Queen definitely saw her in the chaos, but court records bear no name—only the title "The Uncrowned"—as Molly skipped the royal glory, packing up her skillet to outrun the legend and get back to feeding people.
+• Molliebeth secretly saved Queen Lilliana from a fatal wound during a siege, leaving behind only half a blood-stained blanket. The Queen definitely saw her in the chaos, but court records bear no name, only the title "The Uncrowned", as Molly skipped the royal glory, packing up her skillet to outrun the legend and get back to feeding people.
 
 • Molly is based on my own life, stats, thinking, family and some events. All names are change, but in the promt to make members around Molly i described and some times used photos to get the character to look and feel like their real life counterpart.

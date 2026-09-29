@@ -8,7 +8,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Orin Hamilton]]"
@@ -19,6 +19,7 @@ Siblings:
   - "[[Molliebeth Bramblevick]]"
   - "[[Grizel Hamilton]]"
 draft: false
+Occupation: Trade
 ---
 ![[Quinn Hamilton.png]]
 

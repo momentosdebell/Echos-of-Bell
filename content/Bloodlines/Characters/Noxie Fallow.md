@@ -17,6 +17,7 @@ Mother: "[[Molliebeth Bramblevick]]"
 Siblings:
   - "[[Caleb Fallow]]"
 draft: false
+Occupation: Student
 ---
 ![[Elyra Fallow.png]]
 

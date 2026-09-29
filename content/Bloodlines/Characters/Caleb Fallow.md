@@ -7,7 +7,8 @@ Img: "[[Caleb Fallow.png]]"
 Race:
   - Gnome
 Gender: Male
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
+Occupation: Student
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

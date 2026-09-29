@@ -13,6 +13,7 @@ Children:
   - "[[Sappho Vindtop]]"
   - "[[Calis Vindtop]]"
 draft: false
+Occupation: Farmer
 ---
 ![[Jillian Vindtop.jpeg]]
 

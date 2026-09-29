@@ -7,12 +7,13 @@ Img: "[[Calis Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Sappho Vindtop]]"
 draft: false
+Occupation: Store Employ
 ---
 ![[Calis Vindtop.jpeg]]
 

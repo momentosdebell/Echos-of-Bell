@@ -17,6 +17,7 @@ Children:
   - "[[Sappho Vindtop]]"
   - "[[Calis Vindtop]]"
 draft: false
+Occupation: Fisherman
 ---
 ![[Milo Vindtop.jpeg]]
 
