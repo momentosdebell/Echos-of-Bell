@@ -1,0 +1,19 @@
+formulas:
+  Untitled: |-
+    LIST
+    FROM "World/NPC"
+    WHERE !contains(text, "🔴 Dead")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Residence.contains(link("Ambervale"))
+    order:
+      - file.name
+      - Gender
+      - Occupation
+      - Race
+    sort:
+      - property: file.name
+        direction: ASC

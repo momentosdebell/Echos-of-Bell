@@ -51,6 +51,9 @@ The harbor district, shaped by trade and arrival. Known for its markets, docks, 
 #### Grain District
 The first district, seen when entering from the far side of the river. Farmland surrounds it, and it is known for its harvest trade and a famous local bakery [[The Rolling Pin]].
 
+## 👥 Citizens
+![[Ambervale.base]]
+
 ---
 #### 🍺Lodge
 - [[The Seven Cats Inn]] - Tavern Chain, right by the town square

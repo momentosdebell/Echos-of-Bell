@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Residence.contains(link("Ever Peak"))
+    order:
+      - file.name
+      - Gender
+      - Occupation
+      - Race
