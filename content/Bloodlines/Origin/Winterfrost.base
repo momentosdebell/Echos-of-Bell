@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - Origin.contains(link("Hamilton"))
+        - Origin.contains(link("Winterfrost"))
     order:
       - file.name
       - Gender
