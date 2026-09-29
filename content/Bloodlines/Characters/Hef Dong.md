@@ -4,10 +4,9 @@ Birth: 692
 Death: 1754
 title: Hef Dong
 Img: "[[Hef Dong]]"
-Race:
-  - Elf
+Race: Elf
 Gender: Male
-Residence: "[[World/Locations/Towns/Rivergold]]"
+Residence: "[[Rivergold]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"
