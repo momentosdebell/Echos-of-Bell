@@ -154,7 +154,7 @@ draft: false
 
 <div class="dnd-statblock-stream">
   <div class="stat-header">
-    <div class="char-title">Karaktärsnamn (Level 5)</div>
+    <div class="char-title">Level 1 Monk</div>
   </div>
 
   <div class="middle-row">
