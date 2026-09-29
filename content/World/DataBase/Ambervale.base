@@ -6,9 +6,5 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - file.hasLink("World/Towns/Ambervale")
-        - file.folder == "Family/Members"
     order:
       - file.name
