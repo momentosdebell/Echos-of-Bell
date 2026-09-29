@@ -121,12 +121,13 @@ draft: false
 @media(max-width:600px) { 
   .dnd-stat-row { 
     flex-direction: column; 
-    align-items: center; 
+    align-items: stretch; 
   } 
   .dnd-stat-token { 
-    flex: 0 0 180px; 
-    width: 180px; 
-    height: 180px; 
+    flex: none; 
+    width: 100%; 
+    height: auto;
+    aspect-ratio: 1 / 1; /* Håller den strikt 1x1 oavsett mobilskärmens bredd */
   } 
   .dnd-stat-topgrid { 
     width: 100%; 
