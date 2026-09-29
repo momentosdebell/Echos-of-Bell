@@ -8,7 +8,7 @@ Race:
   - Human
 Age:
 Gender: Female
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
   - "[[Hamilton]]"
@@ -17,6 +17,7 @@ Mother: "[[Bromhilda Winterfrost]]"
 Siblings:
   - "[[Agnes Ekblad]]"
 draft: false
+Occupation: Priest
 ---
 ![[Aurora.jpeg]]
 
