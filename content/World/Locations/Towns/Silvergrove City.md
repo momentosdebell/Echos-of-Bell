@@ -14,7 +14,6 @@ Economy:
   - Bureaucracy
 draft: false
 ---
-![[silvergrove ci]] 
 ## 🌟 City of Silvergrove
 White stone towers and shining roofs catching the light above the canopy. Elegant bridges, arcane spires, and grand manor houses stretch across the hills, while glowing lanterns and floating crystals illuminate the streets below. Everything feels refined, wealthy, and carefully maintained, as if the city itself was designed to impress long before you ever stepped through its gates.
 ## 📜 Overview
@@ -65,6 +64,9 @@ The city feels wealthy, controlled, and quietly powerful.
 #### Kingsgrove
 #### Elmward
 #### Birchfield 
+## 👥 Citizens
+![[Silvergrove City.base]]
+
 ---
 #### 🍺 Lodge
 - [[World/Locations/Venues/The Seven Cats Inn]] - Five inn's spread out in the city   

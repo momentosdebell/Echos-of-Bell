@@ -40,6 +40,9 @@ Liora is built along a warm coastline with vineyards and shallow protected water
 
 The coastline naturally protects the harbor, making it one of the safest trade ports in the region.
 
+## 👥 Citizens
+![[Liora.base]]
+
 ---
 
 #### 🍺 Lodge

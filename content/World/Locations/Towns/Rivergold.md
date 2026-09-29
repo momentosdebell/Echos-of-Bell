@@ -70,6 +70,8 @@ The outer agricultural and residential expansion zone. Larger plots, slower life
 The oldest surviving part of Rivergold. A blend of early settlement homes and old trade paths, still active but layered with history.
 #### Cinderlane
 A residential district filled with vacation homes, and long-stay visitors. Many wealthy merchants and foreign families keep secondary homes here, giving it a quiet but constantly shifting population.
+## 👥 Citizens
+![[Rivergold.base]]
 
 ---
 

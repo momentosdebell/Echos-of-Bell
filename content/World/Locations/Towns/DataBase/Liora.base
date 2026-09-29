@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Residence.contains(link("Liora"))
+    order:
+      - file.name
+      - Gender
+      - Occupation
+      - Race

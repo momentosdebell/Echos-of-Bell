@@ -73,6 +73,8 @@ The outermost living layer of Ever Peak. Exposed to harsher conditions, it house
 A dense residential and storage district built within reinforced stone chambers. Known for its tight living conditions and constant industry pressure.
 #### Hammerdeep
 The working heart of Ever Peak. Mines, forges, and excavation sites stretch deep into the mountain, where stone is broken, shaped, and extracted daily.
+## 👥 Citizens
+![[Ever Peak.base]]
 
 ---
 #### 🍺 Lodge
