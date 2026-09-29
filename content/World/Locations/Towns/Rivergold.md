@@ -74,12 +74,14 @@ A residential district filled with vacation homes, and long-stay visitors. Many 
 ---
 
 #### 🍺 Lodge
-- [[World/Locations/Venues/The Seven Cats Inn]] - Tavern Chain, by the school
-  🪙🪙🪙🪙🪙
+- [[The Seven Cats Inn]] - Tavern Chain, by the school
+	🪙🪙🪙🪙🪙
 - Ledger & Lantern - By the docks
     🪙🪙🪙⚪⚪
 - The Wet Coin - Main road in to the docks
     🪙🪙⚪⚪⚪
+- [[Dont Tickel My Foot]] - Arteficer and mechanic shop, located at The Broken Wharf
+	🪙🪙⚪⚪⚪
 #### 🏛️ Landmarks
 - Hall of Contracts - city hall
 - Trade Academy - the region's most respected merchant school
