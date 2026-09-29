@@ -4,8 +4,7 @@ Birth: 624
 Death: 1599
 title: King Theodemar Yllaris Everfall
 Img: "[[King Theodemar Yllaris Everfall.jpeg]]"
-Race:
-  - Elf
+Race: Elf
 Gender: Male
 Occupation: King
 Residence: "[[Silvergrove City]]"
