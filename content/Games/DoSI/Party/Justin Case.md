@@ -139,7 +139,7 @@ draft: false
   <div class="dnd-stat-hdr">Bard Level 1</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
-      <img src="img/justin_case.jpeg" alt="Token">
+      <img src="img/justin_case.png" alt="Token">
     </div>
     <div class="dnd-stat-topgrid">
       <div class="dnd-stat-box"><span class="dnd-stat-lbl">AC</span><span class="dnd-stat-val">13</span></div>
