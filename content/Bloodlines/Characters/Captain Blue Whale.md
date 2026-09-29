@@ -9,7 +9,7 @@ Race:
 Gender: Male
 Class: Bard
 Occupation: Captain
-Residence: "[[World/Locations/Towns/Liora]]"
+Residence: "[[Liora]]"
 Origin:
   - "[[Ikran]]"
 Father: "[[Tsu'tey Ikran]]"

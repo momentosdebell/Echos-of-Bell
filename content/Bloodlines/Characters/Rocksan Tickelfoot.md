@@ -9,7 +9,7 @@ Race:
 Gender: Female
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[World/Locations/Towns/Rivergold]]"
+Residence: "[[Rivergold]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Horvan Niblespirit]]"

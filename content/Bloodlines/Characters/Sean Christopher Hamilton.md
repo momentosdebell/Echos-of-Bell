@@ -9,7 +9,7 @@ Race:
 Gender: Male
 Class: Fighter
 Occupation: Soldier
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Sean Hamilton]]"

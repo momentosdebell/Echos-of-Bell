@@ -8,7 +8,7 @@ Race:
   - Goliath
 Gender: Female
 Class: Babarian
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
 Father: "[[Samo Winterfrost]]"

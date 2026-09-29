@@ -9,7 +9,7 @@ Death:
 Gender: Female
 Class: Paladin.
 Occupation: Pirate
-Residence: "[[World/Locations/Towns/Liora]]"
+Residence: "[[Liora]]"
 draft: false
 ---
 

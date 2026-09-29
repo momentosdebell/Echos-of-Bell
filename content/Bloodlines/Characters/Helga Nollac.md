@@ -7,7 +7,7 @@ Img: "[[Helga Nollac.jpeg]]"
 Race:
   - Human
 Gender: Female
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Lucy Nollac]]"

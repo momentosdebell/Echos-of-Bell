@@ -7,7 +7,7 @@ Img: "[[Iquique Yllaris Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Male
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[De Rivièr]]"
 Father: "[[Alerion De Rivièr]]"

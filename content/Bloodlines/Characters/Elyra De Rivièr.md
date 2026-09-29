@@ -9,7 +9,7 @@ Race:
 Gender: Female
 Class: Sorcerer
 Occupation: Artist
-Residence: "[[World/Locations/Towns/Liora]]"
+Residence: "[[Liora]]"
 Origin:
   - "[[De Rivièr]]"
 Father: "[[Alerion De Rivièr]]"

@@ -8,7 +8,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Female
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

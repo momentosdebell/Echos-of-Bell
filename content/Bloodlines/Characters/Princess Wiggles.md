@@ -9,7 +9,7 @@ Race:
   - Dog
 Gender: Female
 Class: Rogue
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Father: "[[Gustav Ekblad]]"
 Mother: "[[Agnes Ekblad]]"
 ---

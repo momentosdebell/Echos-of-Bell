@@ -8,7 +8,7 @@ Race:
   - Satyr
   - Elf
 Gender: Male
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

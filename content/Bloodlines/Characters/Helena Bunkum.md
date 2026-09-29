@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Rogue
 Occupation: Assasin
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
   - "[[Hamilton]]"

@@ -7,7 +7,7 @@ Img: "[[Lord Andross von Je'Den.jpeg]]"
 Race:
   - Human
 Gender: Male
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[John Von Je'Den]]"

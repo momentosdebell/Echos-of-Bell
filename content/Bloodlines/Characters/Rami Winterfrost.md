@@ -9,7 +9,7 @@ Race:
 Gender: Male
 Class: Bard
 Occupation: Musician
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
 Father: "[[Samo Winterfrost]]"

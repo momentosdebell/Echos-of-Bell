@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-02
-title:
+title: Welcome to Akaria
 draft: false
 ---
 ## 📜Overview 

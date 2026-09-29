@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Fighter
 Occupation: Viking
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak]]"
 Origin:
   - "[[Winterfrost]]"
   - "[[Hamilton]]"

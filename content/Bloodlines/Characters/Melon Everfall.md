@@ -7,7 +7,7 @@ Img: "[[Mellon Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City]]"
 Origin:
   - "[[Everfall]]"
 Siblings:
