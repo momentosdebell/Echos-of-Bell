@@ -8,7 +8,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[World/Locations/Towns/Ambervale]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -21,6 +21,7 @@ Siblings:
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
 draft: false
+Occupation: Politician
 ---
 ![[Valentin Hamilton.png]]
 

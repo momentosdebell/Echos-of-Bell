@@ -19,7 +19,7 @@ Siblings:
   - "[[Molliebeth Bramblevick]]"
   - "[[Grizel Hamilton]]"
 draft: false
-Occupation: Trade
+Occupation: Warehouse Master
 ---
 ![[Quinn Hamilton.png]]
 
