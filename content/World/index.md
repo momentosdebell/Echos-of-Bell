@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-02
-title: Games
+title: World
 draft: false
 ---
 ## 📜Overview 
@@ -43,8 +43,7 @@ flowchart TB
     style AA1476 fill:#FFCDD2
     style AA1488 fill:#FFF9C4
     style AA1505 fill:#E1BEE7
-    
-    click BA432 href "World/Locations/Venues/River-Royal"
+   
 ```
 
 ---
