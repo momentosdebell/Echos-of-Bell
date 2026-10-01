@@ -169,7 +169,7 @@ draft: false
 ## 📜Overview 
 **Sappho Vindtop** known in darker circles as _Sap the Black_ - is an incurable optimist, former fisherman's daughter, and accidentally stranded pirate.
 
-Armed with her twin scimitars (_First Move_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _Sea-Hag_, a minor scheduling conflict in her hometown of [[Rivergold]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
+Armed with her twin scimitars (_First Kiss_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _Sea-Hag_, a minor scheduling conflict in her hometown of [[Rivergold]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
 
 To her parents, she's still the adventurous girl working an honest fishing job. To anyone who recognizes her pirate moniker... she's someone you run from.
 
@@ -234,7 +234,7 @@ The lead was solid, but it came with a catch, Stormwreck Isle is notorious for i
 ## ⚔️Equipment
 Sure she really loves black powder and her pistol Roxi, fun fact its acctuallt her cosin [[Rocksan Tickelfoot]] that made her that pistol, she works at her uncle [[Feather Tickelfoot]] store called [[Dont Tickel My Foot]], in secrect. Rocksan is a kind of a smal rebble and fully know what and who Sap was/is.
 
-The other two weapons she use is her trusted Scimitars First Move and Last Dance. They are not anny fancy swords at all or have no sentimental valu, she just love to name her weapons. 
+The other two weapons she use is her trusted Scimitars First Kiss and Last Dance. They are not anny fancy swords at all or have no sentimental valu, she just love to name her weapons. 
 
 ---
 ## 💞Relationships
