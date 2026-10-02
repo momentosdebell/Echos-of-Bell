@@ -159,4 +159,4 @@ draft: false
 </div>
 
 ## 📜Overview 
-A rugged goblin clad in chainmail and a horned helmet, armed with a trident after escaping the fighting pits of Menzoberranzan. 
+A rugged goblin clad in chainmail and a horned helmet, armed with a trident after escaping the fighting pits of [[Menzoberranzan]]. 
