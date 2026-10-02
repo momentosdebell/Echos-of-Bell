@@ -50,3 +50,6 @@ Neverwinter, also known as the _Jewel of the North_, is a major coastal city-sta
 - **Castle Never**: The historic seat of Neverwinter's rulers, currently standing partially ruined following past cataclysms.
 - **The Protector's Enclave**: The central, safest, and most fully restored district of the city, serving as the hub for trade and government.
 - **The Hall of Justice**: A massive temple dedicated to Tyr, serving as a landmark of law and governance in the city center.
+
+---
+## 📖 Lore
