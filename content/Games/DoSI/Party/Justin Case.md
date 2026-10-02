@@ -157,3 +157,5 @@ draft: false
     <div class="dnd-stat-item"><span class="dnd-stat-lbl">CHA</span><span class="dnd-stat-val">19</span></div>
   </div>
 </div>
+## 📜Overview 
+A hyper-vigilant, paranoid human traveler, who prefers caution over conversation.
