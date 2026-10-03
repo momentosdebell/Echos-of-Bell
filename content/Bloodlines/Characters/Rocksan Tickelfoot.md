@@ -17,3 +17,4 @@ Mother: "[[Unani Niblespirit]]"
 draft: false
 ---
 ![[Rocksan Tickelfoot.jpeg]]
+Build a gun to [[Sappho Vindtop]] by buying schimatics on [[Sunday Market]]

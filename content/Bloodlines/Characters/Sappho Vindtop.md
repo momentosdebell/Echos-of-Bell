@@ -191,7 +191,7 @@ Sap grow up in a quiet little settlement just outside of [[Rivergold]] with both
 They are twins, but so unlike each other. Cal was/is a book worm and Sap hade to bribe her sister whit "we'll go to the book store after" ALOT! And they did most of the time. 
 
    **Upbringing** 
-Cal got an aprentis job and eventually startade to work in that same bookstore, Beyond the Margin.
+Cal got an aprentis job and eventually startade to work in that same bookstore, [[Beyond the Margin]].
 
 Sap was more of an adventure girl, she ran far and as wide she could, but still be home after a couple of days. 
 If you ask her parents, she got work on a fishing boat, so she could both see the world and not run away. She on the other hand found a crew of pirates, Captain [[Adoot Ironneck]] and his crew, Iron Bolts.
@@ -223,6 +223,8 @@ From that day she was called Sap the Black, and to be unest she aint that danger
    **Affiliations** 
  [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat Sea-Hag.
  [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
+ [[Sunday Market]] - The source of her black powder.
+ [[Fogline]] - The smuggler network she uses to hitch rides across the coast while searching for her crew.
 
    **Secrets** 
 Her parents dont know that alot of people run when they hear that Sap the Black is after them. Not even her sister knows.
