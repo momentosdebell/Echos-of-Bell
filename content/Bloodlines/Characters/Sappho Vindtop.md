@@ -211,7 +211,9 @@ She wasnt that most on a boat, her father [[Milo Vindtop]], been a fisherman too
 And even if it wasnt a real education, some of her sisters yapping stock.
 
    **Turning Point** 
-One time when Iron Bolts stopped at [[Rivergold]], she just had to go and say hi to her parents, nothing strange. But they didnt know Sap was a pirate, and sometimes word spread fast, and her parents heard that there were some pirates in town, she went allowed to go back, to protect her. One thing led to another and she missed her boat, she lost her crew, nothing dramatic or so she just couldnt reach them. So now she jumps from boat to boat to hopefully run in to her crew again. Its not like she missed them badly, sometimes there way was abot to rough for even Sap.
+One time when Iron Bolts stopped at [[Rivergold]], she just had to go and say hi to her parents, nothing strange. But they didnt know Sap was a pirate, and sometimes word spread fast, and her parents heard that there were some pirates in town, she werent allowed to go back, to protect her. One thing led to another and she missed her boat, she lost her crew, nothing dramatic or so she just couldnt reach them. 
+
+So now she jumps from boat to boat to hopefully run in to her crew again. To track down her crew, Sap relies heavily on **[[Fogline]]** the shadowy coastal smuggler network. Hopping from one smuggler cutter to another, the captains let her ride along partly out of fear of "Sap the Black" and partly because they think her weird sea-superstitions actually keep coastal patrols away.
 
    **Consequences**
 Yes she is a pirate, and in some places known as Sap the Black, and she has a reputation of a firce warrior and a crazy woman blowing things up, infact her name "the Black" comes from when she singel handadly saved her whole crew from being captured. She is smal and when pepole here "pirate" they dont imagen a smal girl, she is sweet and nice, but dont get fooled, when shits hit the fan she can be dangerus. That time they all got captured, braught ombord of coast guards vesel. If you were on that boat and survived, yould say: 
