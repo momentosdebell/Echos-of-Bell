@@ -21,7 +21,14 @@ Full disclosure: because of my dyslexia and xenofobi, asking me to read out loud
 When we are in voice, beware of my voice that sounds to deep for a woman, its a medical problem i hade since birth, is called "BITWG" (born in the wrong gender). Im still a she/her though.
 
 ---
+## Campaigns
+Here are the D&D campaigns I’d most like to play, ranked:
+1. Call of the Netherdeep
+2. c
+3. Curse of Strahd
+4. A Curriculum of Chaos
 
+---
 ## Rule of Cool
 This is my thoughts on some table rules.
 
