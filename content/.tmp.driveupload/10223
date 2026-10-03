@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Lore/Religion/Xadaraism.md",
+                "file": "World/Lore/Organization/Darkane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xadaraism"
+              "title": "Darkane"
             }
           },
           {
@@ -204,6 +204,8 @@
   },
   "active": "74705959e2317eb2",
   "lastOpenFiles": [
+    "World/Lore/Organization/Central Shields.md",
+    "World/Lore/Religion/Xadaraism.md",
     "World/Lore/Religion/Sixfold.md",
     "World/Lore/Religion/Eternal Roots.md",
     "World/Lore/Organization/The Circle of the Blooming Table.md",
@@ -216,7 +218,6 @@
     "World/Lore/Organization/Glass Eye.md",
     "World/Lore/Organization/Fogline.md",
     "World/Lore/Organization/Darkane.md",
-    "World/Lore/Organization/Central Shields.md",
     "World/Lore/Event/The Uncrowned.md",
     "World/Lore/Event/The Bloom of the First Seed.md",
     "World/Lore/Event/Keeper of the Winter Table.md",
@@ -229,7 +230,6 @@
     "World/Locations/Venues/Dynamic Office Of Reality.md",
     "World/Locations/Venues/Dont Tickel My Foot.md",
     "World/Locations/Towns/Silvergrove City.md",
-    "World/Locations/Towns/Rivergold.md",
     "World/Locations/Maps/Ambervale.png",
     "Bloodlines/Origin/De Rivièr.base",
     "Games/DoSI/Img/Cerersio.png",
