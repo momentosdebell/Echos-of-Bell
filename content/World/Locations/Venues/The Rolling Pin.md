@@ -11,7 +11,7 @@ Economy:
   - 🪙⚪⚪⚪⚪
 draft: false
 ---
-![[RollinPin.jpg]][[RollinPin.jpg]] & [[RollinPin_2nd_floor.jpg]]
+![[RollinPin.jpg]]
 ## 📜 Overview
 The Rolling Pin is best known for its sourdough bread and slow baked grain loaves, and a reputation for staying open when everything else shuts down.
 
@@ -26,6 +26,7 @@ It is not wealthy or politically important, but it is deeply reliable, which mak
 
 ## 🗺️ Location 
 Located in the Grain District of [[Ambervale]], positioned along key local supply and market routes.
+[[RollinPin.jpg]] & [[RollinPin_2nd_floor.jpg]]
 
 ## 🏛️ History
 The Rolling Pin was founded in the early years of modern [[Ambervale]], during a period when the city was still recovering from famine cycles and unstable trade flow along the river.
