@@ -23,10 +23,12 @@ When we are in voice, beware of my voice that sounds to deep for a woman, its a 
 ---
 ## Campaigns
 Here are the D&D campaigns I’d most like to play, ranked:
-1. Call of the Netherdeep
-2. c
-3. Curse of Strahd
-4. A Curriculum of Chaos
+1. **Call of the Netherdeep**
+2. **Dragon Heist + Dungeon of the Mad Mage**
+3. **Curse of Strahd**
+4. **A Curriculum of Chaos**
+5. **Descent into Avernus**
+6. **Icecrown Citadel**
 
 ---
 ## Rule of Cool
