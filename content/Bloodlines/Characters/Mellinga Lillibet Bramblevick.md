@@ -28,12 +28,13 @@ Not much is known actually about Nilly's early years, save for the rumors traded
 ---
 
 ## 🏠 Founding of the Rolling Pin
-The night the roof gave out during the autumn gale, most gnomes would have packed their bags and cursed their luck. Nilly instead dragged in a battered oak table, lit three tallow candles, and declared it the grand opening. When the town guard dropped by the next morning to slap a condemnation notice on the rotting door, she shoved a still-warm, flour-dusted rye bun into his helmet and asked if he could help her nail up a sign that read Rolling Pin. By midday, she had baked four loaves in a smoking brick oven that everyone swore was a fire hazard, and by sundown, the place was packed. She didn't have a license, a ledger, or a clue how to run a business, she just had an unstoppable laugh, a mountain of dough, and a knack for making a ruined shack feel like home.
+The night the roof gave out during the autumn gale, most gnomes would have packed their bags and cursed their luck. Nilly instead dragged in a battered oak table, lit three tallow candles, and declared it the grand opening. When the town guard dropped by the next morning to slap a condemnation notice on the rotting door, she shoved a still-warm, flour-dusted rye bun into her
+helmet and asked if he could help her nail up a sign that read Rolling Pin. By midday, she had baked four loaves in a smoking brick oven that everyone swore was a fire hazard, and by sundown, the place was packed. She didn't have a license, a ledger, or a clue how to run a business, she just had an unstoppable laugh, a mountain of dough, and a knack for making a ruined shack feel like home.
 
 ---
 
 ## 👨‍👧 Relationship
-Nilly shares a fierce, unbreakable bond with her daughter [[Talia Bramblevick]]. Her relationship with her husband is a constant love-hate dynamic where his obsession with order clashes daily with her chaotic knack for upending it. She is also endlessly fond of [[Molliebeth Bramblevick]], always ready to drag the former noblewoman into whatever ridiculous scheme she has just cooked up.
+Nilly shares a fierce, unbreakable bond with her daughter [[Talia Bramblevick]]. Her relationship with her husband is a constant love-hate dynamic where her obsession with order clashes daily with her chaotic knack for upending it. She is also endlessly fond of [[Molliebeth Bramblevick]], always ready to drag the former noblewoman into whatever ridiculous scheme she has just cooked up.
 
 ---
 
