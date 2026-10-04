@@ -1,5 +1,5 @@
 ---
-Age: Dead: 668 years ago at 92
+Age: Dead 668 years ago at 92
 Updated: 2026-08-28
 Birth: 707
 Death: 799

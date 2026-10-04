@@ -1,5 +1,5 @@
 ---
-Age: Dead: 190 years ago at 957
+Age: Dead 190 years ago at 957
 Updated: 2026-08-28
 Birth: 320
 Death: 1277

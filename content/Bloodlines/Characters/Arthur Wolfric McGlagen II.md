@@ -3,7 +3,7 @@ Updated: 2026-08-27
 Birth: 1075
 Death: 1497
 title: Arthur Wolfric McGlagen II
-Age: Alive: 392y/o
+Age: Alive 392y/o
 Img:
 Race:
   - Dwarf

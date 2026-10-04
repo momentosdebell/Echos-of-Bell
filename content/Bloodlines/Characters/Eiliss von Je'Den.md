@@ -1,5 +1,5 @@
 ---
-Age: Alive: 791y/o
+Age: Alive 791y/o
 Updated: 2026-08-28
 Birth: 676
 Death: 1560
