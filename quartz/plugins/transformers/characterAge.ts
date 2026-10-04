@@ -10,16 +10,15 @@ const CalculateCharacterAge: QuartzTransformerPlugin = () => {
             const frontmatter = file.data.frontmatter
             if (!frontmatter) return
 
-            // Check if Age exists in YAML (even if empty, ?, or space)
+            // Kör om Age eller age finns i YAML (oavsett om det står "?", är tomt eller har fnuttar)
             const hasAgeProperty = "Age" in frontmatter || "age" in frontmatter
             if (!hasAgeProperty) return
 
             const birth = Number(frontmatter.Birth ?? frontmatter.birth)
             if (isNaN(birth)) return
 
-            // Read currentYear from quartz.config
-            const currentYear = Number(ctx.cfg.configuration.currentYear)
-            if (isNaN(currentYear)) return
+            // Hämta currentYear från config (standard 1542 om det saknas)
+            const currentYear = Number(ctx.cfg.configuration.currentYear) || 1542
 
             const rawDeath = frontmatter.Death ?? frontmatter.death
             const death = rawDeath !== undefined && rawDeath !== null && rawDeath !== "" 
@@ -47,7 +46,7 @@ const CalculateCharacterAge: QuartzTransformerPlugin = () => {
               ageText = `${age}y/o`
             }
 
-            // Tvinga uppdatering på alla ställen Quartz läser ifrån
+            // Skriv över på alla ställen Quartz läser ifrån
             frontmatter.Age = ageText
             frontmatter.age = ageText
           }
