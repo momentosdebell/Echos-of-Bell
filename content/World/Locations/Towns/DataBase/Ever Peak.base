@@ -11,3 +11,6 @@ views:
       - Occupation
       - Race
       - Age
+    sort:
+      - property: Age
+        direction: ASC

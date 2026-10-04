@@ -12,5 +12,5 @@ views:
       - Race
       - Age
     sort:
-      - property: file.name
+      - property: Age
         direction: ASC
