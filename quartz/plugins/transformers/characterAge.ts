@@ -7,17 +7,19 @@ const CalculateCharacterAge: QuartzTransformerPlugin = () => {
       return [
         () => {
           return (tree, file) => {
+            // Hämta frontmatter från filens data
             const frontmatter = file.data.frontmatter
             if (!frontmatter) return
 
-            // Kör om Age eller age finns i YAML (oavsett om det står "?", är tomt eller har fnuttar)
-            const hasAgeProperty = "Age" in frontmatter || "age" in frontmatter
+            // Kontrollera om Age/age finns definierat i YAML
+            const hasAgeProperty = Object.prototype.hasOwnProperty.call(frontmatter, "Age") || 
+                                   Object.prototype.hasOwnProperty.call(frontmatter, "age")
             if (!hasAgeProperty) return
 
             const birth = Number(frontmatter.Birth ?? frontmatter.birth)
             if (isNaN(birth)) return
 
-            // Hämta currentYear från config (standard 1542 om det saknas)
+            // Hämta currentYear från konfigurationen (standard 1542 om det saknas)
             const currentYear = Number(ctx.cfg.configuration.currentYear) || 1542
 
             const rawDeath = frontmatter.Death ?? frontmatter.death
@@ -46,9 +48,11 @@ const CalculateCharacterAge: QuartzTransformerPlugin = () => {
               ageText = `${age}y/o`
             }
 
-            // Skriv över på alla ställen Quartz läser ifrån
-            frontmatter.Age = ageText
-            frontmatter.age = ageText
+            // Tvinga in värdet direkt i frontmatter-objektet
+            frontmatter["Age"] = ageText
+            if (frontmatter["age"] !== undefined) {
+              frontmatter["age"] = ageText
+            }
           }
         },
       ]
