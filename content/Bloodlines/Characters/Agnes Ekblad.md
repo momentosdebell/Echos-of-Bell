@@ -4,8 +4,7 @@ Birth: 1394
 Death: 1477
 title: Agnes Ekblad
 Age:
-Race:
-  - Human
+Race: Human
 Gender: Female
 Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
 Residence: "[[Ever Peak]]"
@@ -18,4 +17,5 @@ Children:
   - "[[Princess Wiggles]]"
 draft: false
 Type: Character
+
 ---

@@ -2,6 +2,7 @@
 configuration:
   pageTitle: Echos of Bell 
   pageTitleSuffix: " - Echos of Bell"
+  currentYear: 1542
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -42,6 +43,9 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: ./quartz/plugins/transformers/characterAge
+    enabled: true
+    order: 0
   - source: ./quartz/plugins/transformers
     enabled: true
     order: 1
