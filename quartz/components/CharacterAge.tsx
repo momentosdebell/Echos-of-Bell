@@ -18,8 +18,8 @@ export const CharacterAge: QuartzTransformerPlugin = () => {
             const birth = Number(rawBirth)
             const death = rawDeath !== undefined && rawDeath !== null ? Number(rawDeath) : undefined
             
-            // Hämtar currentYear från configuration (1542 i din fil)
-            const currentYear = ctx.cfg.configuration.currentYear ?? 1542
+            // Läser currentYear från config (default 1542)
+            const currentYear = (ctx.cfg.configuration as any)?.currentYear ?? 1542
 
             if (isNaN(birth)) return
 
@@ -49,7 +49,7 @@ export const CharacterAge: QuartzTransformerPlugin = () => {
               ageText = `${age}y/o`
             }
 
-            // Sätter automatiskt Age-fältet i frontmatter!
+            // Sätt Age direkt i frontmatter
             frontmatter.Age = ageText
           }
         },
@@ -57,3 +57,5 @@ export const CharacterAge: QuartzTransformerPlugin = () => {
     },
   }
 }
+
+export default CharacterAge
