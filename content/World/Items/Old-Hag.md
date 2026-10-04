@@ -12,12 +12,12 @@ Damage: 3d10 + 5
 Damage Type: Bludgeoning
 Range: 1200ft
 Properties:
-  - Damage Threshold 15.
-  - Sails, AC 12, 100 HP (-15 ft speed per 25 HP dmg).
-  - Helm, AC 18, 50 HP.
+  - Damage Threshold 15
+  - Sails, AC 12, 100 HP
+  - Helm, AC 18, 50 HP
 Crew:
   - "[[Adoot Ironneck]]"
   - "[[Sappho Vindtop]]"
 draft: false
 ---
-
+![[old_hag.jpg]]
