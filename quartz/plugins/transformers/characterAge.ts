@@ -10,13 +10,14 @@ export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
             const frontmatter = file.data.frontmatter
             if (!frontmatter) return
 
-            // Kör enbart om "Age" eller "age" uttryckligen finns i YAML-blocket
+            // Kör om Age/age finns i YAML
             const hasAgeProperty = "Age" in frontmatter || "age" in frontmatter
             if (!hasAgeProperty) return
 
             const birth = Number(frontmatter.Birth ?? frontmatter.birth)
             if (isNaN(birth)) return
 
+            // Hämta currentYear från config
             const currentYear = Number(ctx.cfg.configuration.currentYear)
             if (isNaN(currentYear)) return
 
@@ -46,7 +47,7 @@ export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
               ageText = `${age}y/o`
             }
 
-            // Sätter värdet i minnet under bygget
+            // Tilldela åldern i minnet för NoteProperties
             frontmatter.Age = ageText
           }
         },
@@ -54,3 +55,5 @@ export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
     },
   }
 }
+
+export default CalculateCharacterAge

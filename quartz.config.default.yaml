@@ -43,7 +43,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: "./transformers/characterAge.ts"
+  - source: CalculateCharacterAge
     enabled: true
     order: 1
   - source: "@quartz-community/created-modified-date"
