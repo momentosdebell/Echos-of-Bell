@@ -16,3 +16,4 @@ I played a few of characters in different campaigns and one-shots. And so far, t
 [[Xadara]] - A fun one, for this character i didnt know anything, no stats, no name, no history, said to dm "the floor is yours". Apparently i wasnt an bearded male Elf called Astrid.
 
 ---
+

@@ -18,6 +18,7 @@ Siblings:
   - "[[Sean Christopher Hamilton IV]]"
 draft: false
 
-Age: "Died at 303y/o"---
+---
 ![[Wiltor Hamilton.jpeg]]
+
 

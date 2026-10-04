@@ -13,5 +13,6 @@ Children:
   - "[[Aurora]]"
   - "[[Agnes Ekblad]]"
 draft: false
+Age:
+---
 
-Age: "Died 140 years ago at 33y/o"---

@@ -16,7 +16,7 @@ Siblings:
   - "[[Calis Vindtop]]"
 draft: false
 
-Age: "Died at 99y/o"---
+---
 <style>
 .dnd-stat { 
   --bg: #fdf1dc; 
@@ -250,6 +250,7 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 ---
 ## 🍿Trivia
 - The name Sappho comes from the female Greek song writer Sappho, who had alot of female friends. And it was a missunderstanding and people taught they where her lovers. She lived on an island called Lesbos and that is where we get the word lesbian from.
+
 
 
 

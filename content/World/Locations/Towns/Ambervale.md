@@ -69,3 +69,4 @@ The first district, seen when entering from the far side of the river. Farmland 
 - River Square Harbor - Town square and small river trade harbor in one open hub
 - Great Field Ring - surrounding farmland shaping the town’s identity
 - River Road Bridge - main crossing toward Rivergold trade route
+

@@ -54,3 +54,4 @@ The Rat Ring exists anywhere stone is laid over dirt.
 The Rat Ring began centuries ago during a prolonged siege of a major capital, when a group of sewer workers and street urchins began moving food, messages, and escapees through the city's drainage pipes for coin.
 
 When the siege ended, the workers realized they held more power and knowledge about the city's underbelly than the rulers above ever would. They expanded their reach, unified the tunnel gangs across regions, and built the continent's most resilient neutral network.
+

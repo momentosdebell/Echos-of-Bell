@@ -15,6 +15,7 @@ Children:
 draft: false
 Occupation: Farmer
 
-Age: "Died at 209y/o"---
+---
 ![[Jillian Vindtop.jpeg]]
+
 

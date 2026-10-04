@@ -22,6 +22,7 @@ Siblings:
   - "[[Quinn Hamilton]]"
 draft: false
 
-Age: "Died at 375y/o"---
+---
 ![[Grizel Hamilton.png]]
+
 

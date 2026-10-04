@@ -13,6 +13,7 @@ Children:
   - "[[Tove Root]]"
 draft: false
 
-Age: "Died 477 years ago at 94y/o"---
+---
 ![[Tora Root.jpeg]]
+
 

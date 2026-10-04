@@ -55,3 +55,4 @@ Darkane was born in the wake of the cataclysm of [[The Great Storm of Valanor]],
 
 What began as a desperate resistance movement slowly evolved into a cold, highly organized, and brutal inquisitorial machine spanning the entire continent.
 tory 
+

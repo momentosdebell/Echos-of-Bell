@@ -17,8 +17,9 @@ Children:
   - "[[Rocksan Tickelfoot]]"
 draft: false
 
-Age: "Died 98 years ago at 29y/o"---
+---
 ![[Horvan Niblespirit.jpeg]]
+
 
 
 

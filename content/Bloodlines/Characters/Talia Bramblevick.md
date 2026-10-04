@@ -13,7 +13,7 @@ Father: Borum Bramblevick
 Mother: "[[Mellinga Lillibet Bramblevick]]"
 draft: false
 
-Age: "Died at 380y/o"---
+---
 ![[Talia Bramblevick.png]]
 ## 📖 Overview
 
@@ -102,4 +102,5 @@ The exact details remain private, though some sources suggest her decision was i
 - Considered one of the greatest living bakers within Circle culinary circles.
     
 - The Rolling Pin has been in her family for several centuries.
+
 

@@ -14,5 +14,5 @@ Partner: "[[Lucy Nollac]]"
 Children:
   - "[[Likki Nollac]]"
 draft: false
+---
 
-Age: "Died 160 years ago at 78y/o"---

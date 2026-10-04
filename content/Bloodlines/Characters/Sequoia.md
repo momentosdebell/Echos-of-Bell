@@ -17,7 +17,7 @@ Siblings:
 draft: false
 Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Employ]]"
 
-Age: "71y/o"---
+---
 ![[Sequoia.png]]
 ## 📖 Overview
 
@@ -67,4 +67,5 @@ Sequoia hardens his natural sap into a dense, crystallized projectile. He hurls 
 
 **Chill Touch now Venomous Root**
 Instead of conjuring a ghostly hand, Sequoia unleashes a wine. It whips out directly from his wrist toward the target. 
+
 

@@ -6,7 +6,7 @@ title: Arman Achkook
 Img: "[[Arman Achkook.jpeg]]"
 Race:
   - Dragonborn
-Age: "Died 72 years ago at 91y/o"
+
 Gender: Male
 Residence: "[[Silvergrove City]]"
 Partner: "[[Saphira Ashkook]]"
@@ -15,4 +15,5 @@ Children:
 draft: false
 ---
 ![[Arman Achkook.jpeg]]
+
 

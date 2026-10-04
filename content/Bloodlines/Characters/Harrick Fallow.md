@@ -15,6 +15,7 @@ Children:
   - "[[Caleb Fallow]]"
 draft: false
 
-Age: "Died at 390y/o"---
+---
 ![[Harrick Fallow.png]]
+
 

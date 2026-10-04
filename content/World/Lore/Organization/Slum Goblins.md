@@ -54,3 +54,4 @@ The Slum Goblins exist anywhere poverty, overpopulation, and weak law enforcemen
 The Slum Goblins emerged from the utter neglect of city rulers who walled off ruined, overcrowded districts after plague and war. Left to starve in the filth, fragmented street gangs, war orphans, and desperate outcasts banded together under the strongest gang leaders to fight the city guards and each other for survival.
 
 Over generations, what started as desperate survival mutated into a proud, violent gang culture that wears its gutter roots as a badge of honor.
+

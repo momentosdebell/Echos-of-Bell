@@ -21,7 +21,8 @@ Children:
   - "[[Bromhilda Winterfrost]]"
 draft: false
 
-Age: "Died 137 years ago at 86y/o"---
+---
 ![[Fyr Hamilton.jpg]]
+
 
 

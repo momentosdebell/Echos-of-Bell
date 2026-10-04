@@ -21,5 +21,6 @@ Children:
   - "[[Danny Tickelfoot]]"
 draft: false
 
-Age: "Died at 99y/o"---
+---
 ![[Eldena Tickelfoot.jpeg]]
+

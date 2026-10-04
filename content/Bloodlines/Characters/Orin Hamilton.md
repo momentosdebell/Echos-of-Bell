@@ -18,6 +18,7 @@ Children:
   - "[[Grizel Hamilton]]"
 draft: false
 
-Age: "Died at 477y/o"---
+---
 ![[Orin Hamilton.png]]
+
 

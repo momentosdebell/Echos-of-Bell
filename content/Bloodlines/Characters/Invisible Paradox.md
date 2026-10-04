@@ -10,6 +10,7 @@ Residence: "[[Silvergrove City]]"
 Partner: "[[Helena Bunkum]]"
 draft: false
 
-Age: "Died 155 years ago at 38y/o"---
+---
 ![[_Invisible Paradox_.jpeg]]
+
 

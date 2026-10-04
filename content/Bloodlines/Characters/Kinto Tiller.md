@@ -18,6 +18,7 @@ Siblings:
   - "[[Qia Twinkle]]"
 draft: false
 
-Age: "Died 22 years ago at 487y/o"---
+---
 ![[Kinto Tiller.jpeg]]
+
 

@@ -11,5 +11,6 @@ Occupation: "[[The Seven Cats Inn]]"
 Residence: "[[Silvergrove City]]"
 draft: false
 
-Age: "Died at 113y/o"---
+---
+
 

@@ -16,6 +16,6 @@ Father: "[[Horvan Niblespirit]]"
 Mother: "[[Unani Niblespirit]]"
 draft: false
 
-Age: "Died at 153y/o"---
+---
 ![[Rocksan Tickelfoot.jpeg]]
 Build a gun to [[Sappho Vindtop]] by buying schimatics on [[Sunday Market]]

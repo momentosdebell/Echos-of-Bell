@@ -88,3 +88,4 @@ The working heart of Ever Peak. Mines, forges, and excavation sites stretch deep
 - Stonevein Mines - deep, layered mining network
 - Windwatch Spire - signal tower and storm lookout
 - The Granite Steps - ancient carved stairway connecting all districts
+

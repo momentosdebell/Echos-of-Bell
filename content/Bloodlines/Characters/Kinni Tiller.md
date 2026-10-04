@@ -22,6 +22,7 @@ Children:
   - "[[Qia Twinkle]]"
 draft: false
 
-Age: "Died at 929y/o"---
+---
 ![[Kinni Tiller.jpeg]]
+
 

@@ -55,3 +55,4 @@ The 42nd moves constantly across borderlands, war-torn regions, and outer provin
 The legion was originally the 42nd Royal Infantry, deployed to hold a desperate mountain pass during a bloody war. When their commanding noble intentionally withheld rations, reinforcements, and winter supplies to let them die for a political distraction, the unit's officers chose survival over blind obedience.
 
 They turned their weapons on the corrupt command tent, marched out of the camp together, and swore never to hold a shield for a crown again. Since that night, "The 42nd" has marched under their own scarred banner.
+

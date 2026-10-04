@@ -19,5 +19,6 @@ Siblings:
 draft: false
 Occupation: Student
 
-Age: "Died at 116y/o"---
+---
 ![[Danny Tickelfoot.jpeg]]
+

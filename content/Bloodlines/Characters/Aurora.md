@@ -6,7 +6,7 @@ title: Aurora
 Img: "[[Aurora.jpeg]]"
 Race:
   - Human
-Age: "Died 123 years ago at 29y/o"
+
 Gender: Female
 Residence: "[[Ever Peak]]"
 Origin:
@@ -20,4 +20,5 @@ draft: false
 Occupation: Priest
 ---
 ![[Aurora.jpeg]]
+
 

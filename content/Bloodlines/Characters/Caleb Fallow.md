@@ -19,6 +19,7 @@ Siblings:
   - "[[Noxie Fallow]]"
 draft: false
 
-Age: "Died 65 years ago at 8y/o"---
+---
 ![[Caleb Fallow.png]]
+
 

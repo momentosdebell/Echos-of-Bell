@@ -14,8 +14,9 @@ Children:
   - "[[Sequoia]]"
 draft: false
 
-Age: "Died at 1179y/o"---
+---
 ![[Gaganesh Orvil Amon Thorne.png]]
+
 
 
 

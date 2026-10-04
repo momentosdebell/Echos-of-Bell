@@ -11,7 +11,7 @@ Class: Litch
 Residence: Drenmar
 draft: false
 
-Age: "Died 2105 years ago at 2225y/o"---
+---
 ![[Xadara.png]]
 ## 📖 Overview
 Xadara is known by many names. The Dark Lord evil as one can be ruler of the Drenmar. Astrid lost his memories and started from scratch, learned how evil they been and searched for repent.
@@ -49,6 +49,7 @@ Cold, calculating, and driven by an insatiable hunger for forbidden knowledge an
 - The magical sword hidden behind the mirror portal in the burning inferno remains completely undiscovered.
 
 - The Wanderer's cultists completely repurposed Xadara's old halls into a staging ground for the Dark Lord's flesh-cocoons.
+
 
 
 

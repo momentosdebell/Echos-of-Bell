@@ -24,5 +24,6 @@ Children:
 draft: false
 Occupation: Noble
 
-Age: "Died at 884y/o"---
+---
 ![[Eiliss von Je'Den.jpeg]]
+

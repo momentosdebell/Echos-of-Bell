@@ -10,5 +10,6 @@ Gender: Female
 Partner: "[[Harrick Fallow]]"
 draft: false
 
-Age: "Died at 347y/o"---
+---
+
 

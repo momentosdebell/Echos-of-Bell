@@ -55,3 +55,4 @@ Silk Needle operates in major capitals, royal courts, and wealthy trade hubs acr
 Silk Needle was founded by a rogue order of royal arcane weavers who originally crafted enchanted garments for nobility. When a tyrannical monarch executed their grandmaster over a minor dispute, the weavers used their magical looms to weave invisible garrottes and strangled the king in his own bedchamber.
 
 Realizing their craft was far more lucrative and potent in the dark, they dissolved their public guild and built Silk Needle into the continent's premier assassination network.
+

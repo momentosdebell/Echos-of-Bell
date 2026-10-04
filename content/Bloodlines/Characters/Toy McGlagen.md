@@ -18,5 +18,6 @@ Children:
   - "[[Arthur Wolfric McGlagen III]]"
 draft: false
 
-Age: "Died 40 years ago at 468y/o"---
+---
+
 

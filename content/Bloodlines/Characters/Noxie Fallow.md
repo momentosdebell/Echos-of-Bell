@@ -19,7 +19,8 @@ Siblings:
 draft: false
 Occupation: Student
 
-Age: "Died 65 years ago at 12y/o"---
+---
 ![[Elyra Fallow.png]]
+
 
 

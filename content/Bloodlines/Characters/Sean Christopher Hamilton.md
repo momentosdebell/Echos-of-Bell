@@ -22,5 +22,6 @@ Children:
   - "[[Sean Christopher Hamilton II]]"
 draft: false
 
-Age: "Died 143 years ago at 77y/o"---
+---
+
 

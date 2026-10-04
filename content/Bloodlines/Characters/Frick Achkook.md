@@ -15,5 +15,6 @@ Siblings:
 Partner: "[[Morgani Achkook]]"
 draft: false
 
-Age: "Died 76 years ago at 66y/o"---
+---
+
 

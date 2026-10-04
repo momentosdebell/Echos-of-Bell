@@ -14,6 +14,7 @@ Siblings:
 Partner: "[[Qia Twinkle]]"
 draft: false
 
-Age: "Died at 117y/o"---
+---
 ![[Teylu Ikran.jpeg]]
+
 

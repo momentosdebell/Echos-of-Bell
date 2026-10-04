@@ -13,6 +13,7 @@ Siblings:
 Partner: "[[Gullvi Nimue]]"
 draft: false
 
-Age: "Died at 945y/o"---
+---
 ![[Pith Tealeaf.jpeg]]
+
 

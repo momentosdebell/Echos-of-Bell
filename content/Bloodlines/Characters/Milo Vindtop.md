@@ -19,6 +19,7 @@ Children:
 draft: false
 Occupation: Fisherman
 
-Age: "Died at 189y/o"---
+---
 ![[Milo Vindtop.jpeg]]
+
 

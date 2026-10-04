@@ -18,6 +18,7 @@ Siblings:
   - "[[Iquique Yllaris Everfall]]"
 draft: false
 
-Age: "Died at 979y/o"---
+---
 ![[Elyra De Rivièr.jpeg]]
 Elyra De Rivièr, known as Elli, hails from the estate just outside the warm coastal city of Liora. Born into the influential De Rivièr family, famous for their exclusive Rivièr Royal wine, a sweet fruit wine with notes of raspberry, subtle vanilla, and a dash of black pepper, her upbringing was filled with formal galas, strict expectations, and quiet isolation. Despite being surrounded by luxury and art, she felt stifled by high-society rules and possessed a naive worldview regarding money, along with a blunt outspokenness that ruffled feathers. Eventually, she convinced her understanding parents to let her explore the wider world for artistic inspiration. Though many of her endeavors fail, Elli keeps her chin high, dreaming only of finding the muse that will truly spark her painting. She considers herself entirely unmagical, completely unaware that her paintbrushes always seem to magically mix the exact right colors on their own.
+

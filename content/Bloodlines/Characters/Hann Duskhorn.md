@@ -15,6 +15,7 @@ Siblings:
   - "[[Toy McGlagen]]"
 draft: false
 
-Age: "Died 29 years ago at 498y/o"---
+---
 ![[Hann Duskhorn.jpeg]]
+
 

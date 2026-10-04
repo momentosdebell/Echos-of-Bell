@@ -18,6 +18,7 @@ Children:
 draft: false
 Occupation: Former Queen
 
-Age: "Died 510 years ago at 808y/o"---
+---
 ![[Mellon Everfall.jpeg]]
+
 

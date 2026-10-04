@@ -15,6 +15,7 @@ Children:
 draft: false
 Occupation: Politician
 
-Age: "Died 45 years ago at 496y/o"---
+---
 ![[Zoros Tiller.jpeg]]
+
 

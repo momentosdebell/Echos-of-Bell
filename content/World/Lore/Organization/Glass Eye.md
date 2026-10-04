@@ -53,3 +53,4 @@ Glass Eye operates anywhere high politics, immense wealth, and diplomacy exist.
 Glass Eye was born during the "Decade of the Black Veil," a period of intense royal succession wars where half a dozen noble houses fought openly for the crown. Realizing that military force was far too expensive and public, a group of rival court scribes and advisors secretly pooled their intelligence network to sell information to the highest bidder.
 
 By the end of the war, they had amassed enough leverage over every surviving noble house to make themselves untouchable. They abandoned their old allegiance to individual lords and formed Glass Eye to ensure that who ever sits on the throne, the syndicate always holds the true leash.
+

@@ -20,7 +20,7 @@ Children:
   - "[[Frick Achkook]]"
   - "[[Sean Christopher Hamilton III]]"
 draft: false
-
-Age: "Died at 433y/o"---
+---
 ![[Arthur Wolfric McGlagen III.jpg]]
+
 

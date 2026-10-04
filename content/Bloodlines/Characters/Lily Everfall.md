@@ -19,6 +19,7 @@ Children:
 draft: false
 Occupation: Weaver
 
-Age: "Died at 977y/o"---
+---
 ![[Lily Yllaris Everfall.jpg]]
+
 

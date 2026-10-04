@@ -11,3 +11,4 @@ Class: Rogue
 Partner: "[[Kitana Greenmoss]]"
 draft: false
 ---
+

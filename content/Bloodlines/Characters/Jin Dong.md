@@ -23,7 +23,8 @@ Siblings:
   - "[[Fa Dong]]"
 draft: false
 
-Age: "Died 779 years ago at 42y/o"---
+---
 ![[Jin Dong.jpeg]]
+
 
 

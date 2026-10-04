@@ -15,4 +15,5 @@ Children:
   - "[[Lolo Winterfrost]]"
 draft: false
 
-Age: "Died 184 years ago at 52y/o"---
+---
+

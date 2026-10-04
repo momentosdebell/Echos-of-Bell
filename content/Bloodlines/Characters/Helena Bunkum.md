@@ -21,5 +21,6 @@ Siblings:
 Partner: "[[Invisible Paradox]]"
 draft: false
 
-Age: "Died 137 years ago at 36y/o"---
+---
+
 

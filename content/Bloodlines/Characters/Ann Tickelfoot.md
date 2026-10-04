@@ -16,7 +16,7 @@ Mother: "[[Wiree Tickelfoot]]"
 Siblings:
   - "[[Eldana Tickelfoot]]"
 draft: false
-
-Age: "Died at 188y/o"---
+---
 ![[Ann Tickelfoot.jpeg]]
+
 

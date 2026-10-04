@@ -14,6 +14,7 @@ Children:
 draft: false
 Occupation: Queen
 
-Age: "Died at 955y/o"---
+---
 ![[Queen Lilliana Yllaris Everfall.jpeg]]
+
 

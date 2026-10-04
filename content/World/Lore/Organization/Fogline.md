@@ -54,3 +54,4 @@ Fog Line dominates every major coastline, river delta, and port city.
 Fog Line was formed during a brutal naval blockade imposed by a warlord who sought to starve a coastal province into submission. A dozen independent merchant captains and fishermen banded together, using their intimate knowledge of the local reefs and morning fogs to slip food into the city night after night.
 
 After the war ended, the captains realized their shared network was far too valuable to dissolve. They formalized the alliance under the name Fog Line and expanded their reach across the entire continent's waterways.
+

@@ -210,3 +210,4 @@ Every soul passes into Everhall, a single realm holding six great halls, drawn t
 - **Endrift's Tide** for sailors, wanderers, and those who lived by time and change; an endless drifting sea beneath shifting lights.
 
 Those who lived entirely outside the faith and refused the Six are granted no hall of their own. Instead, they are bound to Everhall as eternal servants and thralls, forced to haul the hoard, stitch the banners, and tend the fires for masters they never chose to see.
+

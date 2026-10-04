@@ -13,5 +13,6 @@ Children:
   - "[[Fyr Hamilton]]"
 draft: false
 
-Age: "Died 162 years ago at 87y/o"---
+---
+
 

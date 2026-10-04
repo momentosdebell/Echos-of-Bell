@@ -18,6 +18,7 @@ Siblings:
 Partner: "[[Fnarl Z'url]]"
 draft: false
 
-Age: "Died at 1062y/o"---
+---
 ![[Hef Dong.jpeg]]
+
 

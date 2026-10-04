@@ -21,7 +21,8 @@ Siblings:
 draft: false
 Occupation: Warehouse Master
 
-Age: "Died at 373y/o"---
+---
 ![[Quinn Hamilton.png]]
+
 
 

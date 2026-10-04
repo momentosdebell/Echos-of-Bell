@@ -12,6 +12,7 @@ Residence: "[[Rivergold]]"
 Partner: "[[Hef Dong]]"
 draft: false
 
-Age: "Died 8 years ago at 78y/o"---
+---
 ![[Fnarl Z'url.jpeg]]
+
 

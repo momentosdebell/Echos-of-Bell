@@ -22,6 +22,7 @@ Siblings:
   - "[[Gerbera von Je'Den]]"
 draft: false
 
-Age: "Died 1 years ago at 129y/o"---
+---
 ![[Hepzibah Smith.jpeg]]
+
 

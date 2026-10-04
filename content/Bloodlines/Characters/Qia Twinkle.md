@@ -21,6 +21,7 @@ Partner: "[[Teylu Ikran]]"
 Former Partner: "[[Pax von Je'Den]]"
 draft: false
 
-Age: "Died at 455y/o"---
+---
 ![[Qia Twinkle.jpg]]
+
 

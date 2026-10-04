@@ -15,8 +15,9 @@ Siblings:
 draft: false
 Occupation: Store Employ
 
-Age: "Died at 185y/o"---
+---
 ![[Calis Vindtop.jpeg]]
+
 
 
 

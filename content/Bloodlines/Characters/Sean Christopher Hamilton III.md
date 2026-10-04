@@ -22,6 +22,7 @@ Children:
   - "[[Wiltor Hamilton]]"
 draft: false
 
-Age: "Died 15 years ago at 126y/o"---
+---
 ![[Sean Christopher Hamilton III.jpeg]]
+
 

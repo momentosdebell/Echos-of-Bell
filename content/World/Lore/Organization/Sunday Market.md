@@ -46,3 +46,4 @@ The Sunday Market moves continuously across every major province and trade hub o
 The Sunday Market began centuries ago during the "Great Tax Riots," when a greedy emperor banned all independent trade and levied crippling tariffs on basic goods. Merchant families began meeting in secret at midnight on Sundays, the one day guards rotated shifts, to trade freely in the dark.
 
 Over time, as bans shifted from basic goods to magic and contraband, the tradition grew from a survival tactic into the continent's most powerful, untouchable black-market institution.
+

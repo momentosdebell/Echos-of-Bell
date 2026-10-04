@@ -15,6 +15,7 @@ Father: "[[Fible Root]]"
 Mother: "[[Tora Root]]"
 draft: false
 
-Age: "Died at 982y/o"---
+---
 ![[Tove Root (Queen to be, Tiaela Yllaris Everfall).jpeg]]
+
 
