@@ -3,8 +3,7 @@ Updated: 2026-08-27
 Birth: 1369
 Death: 1402
 title: Agust Ekblad
-Race:
-  - Human
+Race: Human
 Gender: Male
 Occupation: Viking
 Residence: "[[Ever Peak]]"
@@ -13,6 +12,6 @@ Children:
   - "[[Aurora]]"
   - "[[Agnes Ekblad]]"
 draft: false
-Age:
+Age: "?"
 ---
 
