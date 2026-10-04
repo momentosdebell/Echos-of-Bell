@@ -5,8 +5,7 @@ Birth: 968
 Death: 1541
 title: Mellinga Lillibet Bramblevick
 Img:
-Race:
-  - Gnome
+Race: Gnome
 Gender: Female
 Residence: "[[Ambervale]]"
 Partner: Borum Bramblevick
@@ -14,7 +13,6 @@ Children:
   - "[[Talia Bramblevick]]"
 draft: false
 Occupation: "[[World/Locations/Venues/The Rolling Pin|Baker]]"
-
 ---
 ## 📖 Overview
 Mellinga Lillibet Bramblevick, known across Ambervale as the chaotic spark behind [[Rolling Pin Inn]], is a retired baker and winner of [[Doublewake Rolling Pin]] from [[The Bloom of the First Seed]]. Once a stubborn trespasser squatting in a leaking ruin, she now lives entirely outside of sensible rules, carrying warm bread where others bring bureaucracy.

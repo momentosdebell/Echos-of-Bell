@@ -6,7 +6,9 @@ Location: "[[Ambervale]]"
 Vibe:
   - Homely
   - Fresh
-Custodian: "[[Talia Bramblevick]]"
+Custodian:
+  - "[[Talia Bramblevick]]"
+  - "[[Mellinga Lillibet Bramblevick]]"
 Economy:
   - 🪙⚪⚪⚪⚪
 draft: false
