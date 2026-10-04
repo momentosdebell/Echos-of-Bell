@@ -283,6 +283,9 @@ plugins:
         - Players
         - Player
         - Playing
+        - Hit Points 
+        - Speed
+        - Crew
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -345,6 +348,9 @@ plugins:
         - Players
         - Player
         - Playing
+        - Hit Points 
+        - Speed
+        - Crew
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

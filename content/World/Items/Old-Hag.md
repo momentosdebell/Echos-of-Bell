@@ -1,21 +1,21 @@
 ---
 Updated: 2026-05-31
-title:
+title: Old-Hag
 Img:
 Category:
   - Boat
-Item Rarity:
-Value:
-Weight:
-Armor Class:
-Attack Type:
-Range:
-Damage:
-Damage Type:
+Weight: 200 ton
+Armor Class: "15"
+Hit Points: "276"
+Speed: 65ft.
+Damage: 3d10 + 5
+Damage Type: Bludgeoning
+Range: 1200ft
 Properties:
-Attunement:
-Charges:
-Requirement:
-draft: true
+  - Damage Threshold 15
+  - Sails, AC 12, 100 HP (-15 ft speed per 25 HP skada)
+  - Helm, AC 18, 50 HP
+Crew:
+draft: false
 ---
 
