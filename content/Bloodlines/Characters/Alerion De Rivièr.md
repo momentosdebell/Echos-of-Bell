@@ -1,9 +1,9 @@
 ---
+Age: 912y/o
 Updated: 2026-08-27
 Birth: 630
 Death: 1844
 title: Alerion De Rivièr
-Age: 912y/o
 Img:
 Race: Elf
 Gender: Male

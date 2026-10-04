@@ -3,6 +3,7 @@ Updated: 2026-08-27
 Birth: 1477
 Death: 1593
 title: Danny Tickelfoot
+Age: 65y/o
 Img: "[[Danny Tickelfoot.jpeg]]"
 Race:
   - Halfling
@@ -18,7 +19,6 @@ Siblings:
   - "[[Dave Tickelfoot]]"
 draft: false
 Occupation: Student
-
 ---
 ![[Danny Tickelfoot.jpeg]]
 

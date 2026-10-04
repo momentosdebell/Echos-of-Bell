@@ -1,4 +1,5 @@
 ---
+Age: 179y/o
 Updated: 2026-08-27
 Birth: 1363
 Death: 1574
@@ -17,6 +18,5 @@ Children:
   - "[[Unani Niblespirit]]"
   - "[[Feather Tickelfoot]]"
 draft: false
-Age: 179y/o
 ---
 ![[Andorra Tickelfoot.jpeg]] 
