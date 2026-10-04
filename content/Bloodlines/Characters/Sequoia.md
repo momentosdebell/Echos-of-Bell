@@ -1,5 +1,5 @@
 ---
-Age: 71y/o
+Age: 4y before they were born
 Updated: 2026-08-28
 Birth: 1471
 Death:

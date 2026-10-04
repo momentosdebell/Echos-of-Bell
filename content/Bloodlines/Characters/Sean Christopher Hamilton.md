@@ -1,5 +1,5 @@
 ---
-Age: Died 143y ago at 77y/o
+Age: Died 68y ago at 77y/o
 Updated: 2026-08-28
 Birth: 1322
 Death: 1399

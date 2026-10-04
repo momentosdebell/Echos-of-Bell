@@ -1,5 +1,5 @@
 ---
-Age: Died 41y ago at 33y/o
+Age: 1y before they were born
 Updated: 2026-08-28
 Birth: 1468
 Death: 1501
