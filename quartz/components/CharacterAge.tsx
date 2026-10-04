@@ -1,61 +1,53 @@
-import { QuartzTransformerPlugin } from "../types"
+// quartz/components/CharacterAge.tsx
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export const CharacterAge: QuartzTransformerPlugin = () => {
-  return {
-    name: "CharacterAge",
-    markdownPlugins(ctx) {
-      return [
-        () => {
-          return (tree, file) => {
-            const frontmatter = file.data.frontmatter
-            if (!frontmatter) return
+export default (() => {
+  const CharacterAge: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
+    const rawBirth = fileData.frontmatter?.Birth
+    const rawDeath = fileData.frontmatter?.Death
 
-            const rawBirth = frontmatter.Birth
-            const rawDeath = frontmatter.Death
+    if (rawBirth === undefined || rawBirth === null) return null
 
-            if (rawBirth === undefined || rawBirth === null) return
+    const birth = Number(rawBirth)
+    const death = rawDeath !== undefined && rawDeath !== null ? Number(rawDeath) : undefined
+    
+    // Läser currentYear från din yaml-config (1542)
+    const currentYear = (cfg.configuration as any)?.currentYear ?? 1542
 
-            const birth = Number(rawBirth)
-            const death = rawDeath !== undefined && rawDeath !== null ? Number(rawDeath) : undefined
-            
-            // Läser currentYear från config (default 1542)
-            const currentYear = (ctx.cfg.configuration as any)?.currentYear ?? 1542
+    if (isNaN(birth)) return null
 
-            if (isNaN(birth)) return
+    let statusText = ""
 
-            let ageText = ""
+    // 1. Ej född
+    if (birth > currentYear) {
+      const yearsUntilBirth = birth - currentYear
+      statusText = `${yearsUntilBirth}y before they were born`
+    }
+    // 2. Död
+    else if (death !== undefined && !isNaN(death)) {
+      const ageAtDeath = death - birth
+      const yearsAgo = currentYear - death
 
-            // 1. Ej född
-            if (birth > currentYear) {
-              const yearsUntilBirth = birth - currentYear
-              ageText = `${yearsUntilBirth}y before they were born`
-            }
-            // 2. Död
-            else if (death !== undefined && !isNaN(death)) {
-              const ageAtDeath = death - birth
-              const yearsAgo = currentYear - death
+      if (yearsAgo < 0) {
+        statusText = `Died at ${ageAtDeath}y/o`
+      } else if (yearsAgo === 0) {
+        statusText = `Died this year at ${ageAtDeath}y/o`
+      } else {
+        statusText = `Died ${yearsAgo} years ago at ${ageAtDeath}y/o`
+      }
+    }
+    // 3. Levande
+    else {
+      const age = currentYear - birth
+      statusText = `${age}y/o`
+    }
 
-              if (yearsAgo < 0) {
-                ageText = `Died at ${ageAtDeath}y/o`
-              } else if (yearsAgo === 0) {
-                ageText = `Died this year at ${ageAtDeath}y/o`
-              } else {
-                ageText = `Died ${yearsAgo} years ago at ${ageAtDeath}y/o`
-              }
-            }
-            // 3. Levande
-            else {
-              const age = currentYear - birth
-              ageText = `${age}y/o`
-            }
-
-            // Sätt Age direkt i frontmatter
-            frontmatter.Age = ageText
-          }
-        },
-      ]
-    },
+    return (
+      <div className="character-age-status" style={{ fontStyle: "italic", opacity: 0.85, marginTop: "0.2rem" }}>
+        <span>{statusText}</span>
+      </div>
+    )
   }
-}
 
-export default CharacterAge
+  return CharacterAge
+}) satisfies QuartzComponentConstructor

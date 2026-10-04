@@ -13,4 +13,4 @@ export type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps 
 
 export { Head, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender }
 
-export { CharacterAge } from "./characterAge"
+export { default as CharacterAge } from "./CharacterAge"

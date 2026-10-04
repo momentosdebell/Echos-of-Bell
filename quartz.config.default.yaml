@@ -43,12 +43,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: ./quartz/plugins/transformers/characterAge
-    enabled: true
-    order: 0
-  - source: ./quartz/plugins/transformers
-    enabled: true
-    order: 1
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -174,6 +168,11 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
+  - source: "./quartz/components/CharacterAge"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 15
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
