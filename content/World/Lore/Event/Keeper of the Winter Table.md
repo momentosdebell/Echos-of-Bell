@@ -1,4 +1,5 @@
 ---
+Status: Happened 6 years ago
 Updated: 2026-08-31
 title: Keeper of the Winter Table
 Category:
@@ -6,6 +7,7 @@ Category:
 Region: "[[Ambervale]]"
 Leader: "[[Molliebeth Bramblevick]]"
 draft: false
+Event-Date: "1461"
 ---
 
 The title **Keeper of the Winter Table** is an official honor granted by [[The Circle of the Blooming Table]] to Molliebeth Hamilton ([[Molliebeth Bramblevick]]) for demonstrate extraordinary achievement in sustaining populations through extreme winter scarcity.

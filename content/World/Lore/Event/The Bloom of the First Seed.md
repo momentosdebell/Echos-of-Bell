@@ -1,4 +1,5 @@
 ---
+Status: Happened 468 years ago
 Updated: 2026-08-31
 title: The Bloom of the First Seed
 Category:
@@ -6,6 +7,7 @@ Category:
 Leader: "[[The Circle of the Blooming Table]]"
 Size: Notable
 draft: false
+Start: "999"
 ---
 Is the most sacred, rare, and prestigious gathering held by [[The Circle of the Blooming Table]] Occurring only once every one hundred years, this legendary centennial conclave brings together the realm’s finest field chefs, logistic masters, and hedge-wizards to compete in trials of culinary craft, resourcefulness, and miracles of sustenance.
 

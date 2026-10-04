@@ -1,10 +1,12 @@
 ---
+Status: 74 years before its time
 Updated: 2026-08-31
 title: The Uncrowned
 Category:
   - Event
 Leader: "[[Molliebeth Bramblevick]]"
 draft: false
+Event-Date: "1541"
 ---
 The title **The Uncrowned** is a royal designation granted by the crown in recognition of an unidentified woman who assisted the [[Lilliana Yllaris Everfall]] in a fetal wond, struck by raiders during a seege.
 
