@@ -3,8 +3,8 @@ Updated: 2026-08-27
 Birth: 630
 Death: 1844
 title: Alerion De Rivièr
-Img:
 Age: Died at 1214y/o
+Img:
 Race: Elf
 Gender: Male
 Occupation: "[[World/Locations/Venues/River Royal|Winemaker]]"

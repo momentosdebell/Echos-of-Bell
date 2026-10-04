@@ -3,6 +3,7 @@ Updated: 2026-08-27
 Birth: 1363
 Death: 1574
 title: Andora Tickelfoot
+Age: Died at 211y/o
 Img: "[[Andorra Tickelfoot.jpeg]]"
 Race:
   - Halfling
@@ -17,6 +18,5 @@ Children:
   - "[[Unani Niblespirit]]"
   - "[[Feather Tickelfoot]]"
 draft: false
-Age: Died at 211y/o
 ---
 ![[Andorra Tickelfoot.jpeg]] 
