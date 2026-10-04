@@ -4,8 +4,7 @@ Birth: 630
 Death: 1844
 title: Alerion De Rivièr
 Img:
-Race:
-  - Elf
+Race: Elf
 Gender: Male
 Occupation: "[[World/Locations/Venues/River Royal|Winemaker]]"
 Residence: "[[Liora]]"
