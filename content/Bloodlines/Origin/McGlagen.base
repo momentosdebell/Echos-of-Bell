@@ -9,8 +9,7 @@ views:
       - Gender
       - Father
       - Mother
-      - Birth
-      - Death
+      - Age
     sort:
       - property: Death
         direction: ASC
