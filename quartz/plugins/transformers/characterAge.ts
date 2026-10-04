@@ -1,6 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 
-export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
+const CalculateCharacterAge: QuartzTransformerPlugin = () => {
   return {
     name: "CalculateCharacterAge",
     markdownPlugins(ctx) {
@@ -10,14 +10,13 @@ export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
             const frontmatter = file.data.frontmatter
             if (!frontmatter) return
 
-            // Kör om Age/age finns i YAML
+            // Kör enbart om Age/age existerar i YAML
             const hasAgeProperty = "Age" in frontmatter || "age" in frontmatter
             if (!hasAgeProperty) return
 
             const birth = Number(frontmatter.Birth ?? frontmatter.birth)
             if (isNaN(birth)) return
 
-            // Hämta currentYear från config
             const currentYear = Number(ctx.cfg.configuration.currentYear)
             if (isNaN(currentYear)) return
 
@@ -47,7 +46,7 @@ export const CalculateCharacterAge: QuartzTransformerPlugin = () => {
               ageText = `${age}y/o`
             }
 
-            // Tilldela åldern i minnet för NoteProperties
+            // Tilldela åldern i minnet för note-properties
             frontmatter.Age = ageText
           }
         },
