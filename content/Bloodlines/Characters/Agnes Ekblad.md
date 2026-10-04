@@ -17,4 +17,5 @@ Partner: "[[Gustav Ekblad]]"
 Children:
   - "[[Princess Wiggles]]"
 draft: false
+Type: Character
 ---
