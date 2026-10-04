@@ -1,15 +1,15 @@
 ---
 Updated: 2026-08-28
-title: Whisper
+title: Bee
 Img:
-Race: Grung
-Age: 20y/o
+Race: Kalashtar
+Age: 38y/o
 Gender: Female
 Occupation:
-  - Ship Caster
+  - Chief Harpooner
 Residence: "[[Old-Hag]]"
 draft: false
-Birth: 1447
+Birth: 1429
 Death:
 ---
-![[whisper.jpeg]]
+![[bee.jpeg]]
