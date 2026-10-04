@@ -43,10 +43,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  transformers:
-  - source: ./quartz/plugins/transformers/characterAge.ts
-    enabled: true
-    order: 1
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

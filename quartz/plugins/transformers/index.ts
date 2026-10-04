@@ -43,4 +43,3 @@ function calculateAge(
 
   return `${currentYear - birth} y/o`
 }
-export { CalculateCharacterAge } from "./characterAge"
