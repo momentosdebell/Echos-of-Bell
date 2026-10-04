@@ -17,6 +17,6 @@ Children:
   - "[[Unani Niblespirit]]"
   - "[[Feather Tickelfoot]]"
 draft: false
-Age: Died at 211y/o
+Age: 179y/o
 ---
 ![[Andorra Tickelfoot.jpeg]] 

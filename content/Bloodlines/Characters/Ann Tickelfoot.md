@@ -4,6 +4,7 @@ Birth: 1451
 Death: 1639
 title: Ann Tickelfoot
 Img: "[[Ann Tickelfoot.jpeg]]"
+Age: 91y/o
 Race:
   - Halfling
 Gender: Female
@@ -16,7 +17,6 @@ Mother: "[[Wiree Tickelfoot]]"
 Siblings:
   - "[[Eldana Tickelfoot]]"
 draft: false
-Age: Died at 188y/o
 ---
 ![[Ann Tickelfoot.jpeg]]
 
