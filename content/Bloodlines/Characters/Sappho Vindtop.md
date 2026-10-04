@@ -171,7 +171,7 @@ draft: false
 ## 📜Overview 
 **Sappho Vindtop** known in darker circles as _Sap the Black_ - is an incurable optimist, former fisherman's daughter, and accidentally stranded pirate.
 
-Armed with her twin scimitars (_First Kiss_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _Sea-Hag_, a minor scheduling conflict in her hometown of [[Rivergold]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
+Armed with her twin scimitars (_First Kiss_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _[[Old-Hag]]_, a minor scheduling conflict in her hometown of [[Rivergold]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
 
 To her parents, she's still the adventurous girl working an honest fishing job. To anyone who recognizes her pirate moniker... she's someone you run from.
 
@@ -225,7 +225,7 @@ From that day she was called Sap the Black, and to be unest she aint that danger
 
 ![[ironbolts.jpeg|180]]
    **Affiliations** 
- [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat Sea-Hag.
+ [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat [[Old-Hag]].
  [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
  [[Sunday Market]] - The source of her black powder.
  [[Fogline]] - The smuggler network she uses to hitch rides across the coast while searching for her crew.
@@ -234,7 +234,7 @@ From that day she was called Sap the Black, and to be unest she aint that danger
 Her parents dont know that alot of people run when they hear that Sap the Black is after them. Not even her sister knows.
 
    **Bridge**
-After months of dead ends, empty promises, and leaping from one deck to another, Sap finally struck gold in a dimly lit harbor tavern. A weathered sailor, heavy with ale, slipped her a tantalizing piece of news: Captain Adoot Ironneck and the crew of the Sea-Hag were recently sighted dropping anchor near the jagged, fog-shrouded shores of Stormwreck Isle.
+After months of dead ends, empty promises, and leaping from one deck to another, Sap finally struck gold in a dimly lit harbor tavern. A weathered sailor, heavy with ale, slipped her a tantalizing piece of news: Captain Adoot Ironneck and the crew of the [[Old-Hag]] were recently sighted dropping anchor near the jagged, fog-shrouded shores of Stormwreck Isle.
 
 The lead was solid, but it came with a catch, Stormwreck Isle is notorious for its treacherous reefs, unpredictable squalls, and ancient, lurking dangers. No merchant captain in their right mind would sail anywhere near it, and no lone pirate passenger could afford to hire a ship for a suicide run. Sap needed a way onto the island, and more importantly, she needed allies capable of surviving what lay beyond the shore.
 ## ⚔️Equipment

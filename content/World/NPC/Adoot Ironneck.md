@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title:
+title: Captain Adoot Ironneck
 Img: "[[Adoot Ironneck.jpg]]"
 Race: Human
 Birth:
