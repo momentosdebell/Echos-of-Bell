@@ -14,6 +14,7 @@ Siblings:
   - "[[Gustav Ekblad]]"
 Partner: "[[Pith Nimue]]"
 draft: false
----
+
+Age: "Died at 226y/o"---
 ![[Gullvi Tealeaf.jpeg]]
 

@@ -11,7 +11,8 @@ Residence: "[[Silvergrove City]]"
 Father: "[[Arman Achkook]]"
 Mother: "[[Saphira Ashkook]]"
 draft: false
----
+
+Age: "Died 78 years ago at 61y/o"---
 ![[Morgani Achkook.jpeg]]
 
 

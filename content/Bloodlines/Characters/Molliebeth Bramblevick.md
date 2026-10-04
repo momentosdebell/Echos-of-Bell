@@ -28,7 +28,8 @@ Children:
   - "[[Noxie Fallow]]"
   - "[[Caleb Fallow]]"
 draft: false
----
+
+Age: "Died at 402y/o"---
 ![[Molliebeth Bramblevick.png]]
 
 ## 📖 Overview 

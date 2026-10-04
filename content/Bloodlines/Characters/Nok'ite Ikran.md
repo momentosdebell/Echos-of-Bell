@@ -12,6 +12,7 @@ Children:
   - "[[Teylu Ikran]]"
   - "[[Captain Blue Whale]]"
 draft: false
----
+
+Age: "Died at 126y/o"---
 ![[Nok'ite Ikran.jpeg]]
 

@@ -14,5 +14,6 @@ Partner: "[[Bomona Nallac]]"
 Children:
   - "[[Likki Nollac]]"
 draft: false
----
+
+Age: "Died 163 years ago at 78y/o"---
 

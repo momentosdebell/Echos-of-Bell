@@ -11,6 +11,7 @@ Occupation: Monk
 Residence: "[[Ever Peak]]"
 Partner: "[[Hanna Nollac]]"
 draft: false
----
+
+Age: "1542y/o"---
 ![[Bob.jpeg]]
 

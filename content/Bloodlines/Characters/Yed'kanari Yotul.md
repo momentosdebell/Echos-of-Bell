@@ -15,6 +15,7 @@ Siblings:
   - "[[Yo Yotul]]"
 Partner: "[[Yo Yotul]]"
 draft: false
----
+
+Age: "Died 133 years ago at 32y/o"---
 ![[Yed'Kanari Yotul.jpg]]
 

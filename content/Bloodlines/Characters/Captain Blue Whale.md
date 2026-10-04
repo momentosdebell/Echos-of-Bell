@@ -20,5 +20,6 @@ Children:
   - "[[Kitana Greenmoss]]"
 draft: false
 Former Partner: "[[Runa Greenmoss]]"
----
+
+Age: "Died at 102y/o"---
 ![[Captain Blue Whale.jpeg]]

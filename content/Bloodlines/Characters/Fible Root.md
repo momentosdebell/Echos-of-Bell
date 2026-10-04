@@ -12,7 +12,8 @@ Partner: "[[Tora Root]]"
 Children:
   - "[[Tove Root]]"
 draft: false
----
+
+Age: "Died 499 years ago at 77y/o"---
 ![[Fible Root.jpeg]]
 
 

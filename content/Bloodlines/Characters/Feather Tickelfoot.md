@@ -18,6 +18,7 @@ Children:
   - "[[Eldana Tickelfoot]]"
 draft: false
 Occupation: "[[Dont Tickel My Foot|Store Owner]]"
----
+
+Age: "Died at 211y/o"---
 ![[Feather Tickelfoot.jpeg]]
 

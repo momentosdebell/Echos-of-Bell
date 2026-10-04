@@ -16,6 +16,7 @@ Mother: "[[Enya Everfall]]"
 Siblings:
   - "[[Vilya Dong]]"
 draft: false
----
+
+Age: "Died at 931y/o"---
 ![[Li'thanïa Everfall.jpeg]]
 

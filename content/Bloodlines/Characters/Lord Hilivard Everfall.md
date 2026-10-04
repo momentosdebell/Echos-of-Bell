@@ -14,6 +14,7 @@ Children:
   - "[[Li'thanïa Everfall]]"
 draft: false
 Occupation: Noble
----
+
+Age: "Died 905 years ago at 71y/o"---
 ![[Lord Hilivard Everfall.jpeg]]
 

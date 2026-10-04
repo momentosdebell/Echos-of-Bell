@@ -16,6 +16,7 @@ Children:
   - "[[Sequoia]]"
 draft: false
 Occupation: Arch Druid
----
+
+Age: "Died at 689y/o"---
 
 

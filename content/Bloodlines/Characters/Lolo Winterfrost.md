@@ -21,6 +21,7 @@ Children:
   - "[[Bromhilda Winterfrost]]"
 draft: false
 Occupation: Adventurer
----
+
+Age: "Died 164 years ago at 46y/o"---
 
 

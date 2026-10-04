@@ -18,5 +18,6 @@ Siblings:
   - "[[Dave Tickelfoot]]"
   - "[[Danny Tickelfoot]]"
 draft: false
----
+
+Age: "Died at 349y/o"---
 ![[Daniela Tickelfoot.jpeg]]

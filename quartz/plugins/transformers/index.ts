@@ -116,5 +116,3 @@ export const Age: QuartzTransformerPlugin = () => ({
     return []
   },
 })
-
-export default Age

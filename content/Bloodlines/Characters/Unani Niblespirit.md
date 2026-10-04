@@ -20,7 +20,8 @@ Partner: "[[Horvan Niblespirit]]"
 Children:
   - "[[Rocksan Tickelfoot]]"
 draft: false
----
+
+Age: "Died 98 years ago at 27y/o"---
 ![[Unani Niblespirit.jpeg]]
 
 

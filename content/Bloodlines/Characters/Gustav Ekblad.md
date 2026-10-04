@@ -18,6 +18,7 @@ Partner: "[[Agnes Ekblad]]"
 Children:
   - "[[Princess Wiggles]]"
 draft: false
----
+
+Age: "Died 71 years ago at 77y/o"---
 
 

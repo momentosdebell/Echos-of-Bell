@@ -18,6 +18,7 @@ Siblings:
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
 draft: false
----
+
+Age: "Died at 400y/o"---
 ![[Fender Hamilton.png]]
 

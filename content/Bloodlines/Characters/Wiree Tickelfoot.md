@@ -13,6 +13,7 @@ Children:
   - "[[Ann Tickelfoot]]"
   - "[[Eldana Tickelfoot]]"
 draft: false
----
+
+Age: "Died at 208y/o"---
 ![[Wiree Tickelfoot.jpeg]]
 

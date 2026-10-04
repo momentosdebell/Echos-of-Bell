@@ -16,5 +16,6 @@ Children:
   - "[[Iquique Yllaris Everfall]]"
   - "[[Elyra De Rivièr]]"
 draft: false
----
+
+Age: "Died 9 years ago at 909y/o"---
 

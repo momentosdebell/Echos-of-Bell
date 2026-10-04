@@ -22,6 +22,7 @@ Children:
   - "[[Fa Dong]]"
   - "[[Jin Dong]]"
 draft: false
----
+
+Age: "Died 762 years ago at 99y/o"---
 ![[Gong Dong.jpeg]]
 

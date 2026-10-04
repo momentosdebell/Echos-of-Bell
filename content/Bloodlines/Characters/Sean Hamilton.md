@@ -14,5 +14,6 @@ Children:
   - "[[Sean Christopher Hamilton]]"
   - "[[Fyr Hamilton]]"
 draft: false
----
+
+Age: "Died 177 years ago at 76y/o"---
 

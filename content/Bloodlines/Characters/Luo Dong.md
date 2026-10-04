@@ -24,6 +24,7 @@ Siblings:
   - "[[Fa Dong]]"
   - "[[Jin Dong]]"
 draft: false
----
+
+Age: "Died 721 years ago at 108y/o"---
 ![[Luo Dong.jpg]]
 

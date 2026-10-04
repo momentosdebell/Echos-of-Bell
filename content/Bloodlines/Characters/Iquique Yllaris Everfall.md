@@ -19,6 +19,7 @@ Children:
   - "[[Tove Root]]"
 draft: false
 Occupation: Bartender
----
+
+Age: "Died at 956y/o"---
 ![[Iquique Yllaris Everfall.jpeg]]
 

@@ -24,6 +24,7 @@ Children:
   - "[[Scratch Yotul]]"
   - "[[Hanna Nollac]]"
 draft: false
----
+
+Age: "Died 150 years ago at 62y/o"---
 ![[Likki Nollacc.jpeg]]
 

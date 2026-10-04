@@ -29,6 +29,7 @@ Children:
   - "[[Kinni Tiller]]"
   - "[[Hef Dong]]"
 draft: false
----
+
+Age: "Died 730 years ago at 107y/o"---
 ![[Hao Dong.jpeg]]
 

@@ -15,7 +15,8 @@ Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Calis Vindtop]]"
 draft: false
----
+
+Age: "Died at 99y/o"---
 <style>
 .dnd-stat { 
   --bg: #fdf1dc; 

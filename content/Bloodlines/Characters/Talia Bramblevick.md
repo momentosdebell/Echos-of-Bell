@@ -12,7 +12,8 @@ Residence: "[[Ambervale]]"
 Father: Borum Bramblevick
 Mother: "[[Mellinga Lillibet Bramblevick]]"
 draft: false
----
+
+Age: "Died at 380y/o"---
 ![[Talia Bramblevick.png]]
 ## 📖 Overview
 

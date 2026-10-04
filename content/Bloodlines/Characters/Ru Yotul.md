@@ -13,6 +13,7 @@ Children:
   - "[[Yo Yotul]]"
   - "[[Yed'kanari Yotul]]"
 draft: false
----
+
+Age: "Died 118 years ago at 68y/o"---
 ![[Ru Yotul.jpeg]]
 

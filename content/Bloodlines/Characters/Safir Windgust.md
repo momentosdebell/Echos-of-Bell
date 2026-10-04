@@ -12,7 +12,8 @@ Children:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"
 draft: false
----
+
+Age: "Died 109 years ago at 69y/o"---
 
 
 

@@ -19,6 +19,7 @@ Children:
   - "[[Gerbera von Je'Den]]"
 draft: false
 Occupation: Noble
----
+
+Age: "Died 103 years ago at 68y/o"---
 ![[Lord Andross von Je'Den.jpeg]]
 

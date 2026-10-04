@@ -22,7 +22,8 @@ Siblings:
   - "[[Grizel Hamilton]]"
 draft: false
 Occupation: Politician
----
+
+Age: "Died at 400y/o"---
 ![[Valentin Hamilton.png]]
 
 

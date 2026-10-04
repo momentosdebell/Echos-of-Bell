@@ -20,5 +20,6 @@ Children:
   - "[[Sean Christopher Hamilton IV]]"
   - "[[Wiltor Hamilton]]"
 draft: false
----
+
+Age: "Died at 134y/o"---
 

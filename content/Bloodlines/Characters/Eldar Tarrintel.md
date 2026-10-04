@@ -15,5 +15,6 @@ Children:
   - "[[Feather Tickelfoot]]"
 draft: false
 Occupation: Scholar
----
+
+Age: "Died at 207y/o"---
 ![[Eldar Tarrintel.jpeg]]

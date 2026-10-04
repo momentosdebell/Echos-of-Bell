@@ -20,7 +20,8 @@ Siblings:
   - "[[Pax von Je'Den]]"
 draft: false
 Occupation: Adventurer
----
+
+Age: "Died at 150y/o"---
 ![[Gerbera von Je'Den.jpg]]
 
 

@@ -12,7 +12,8 @@ Class: Rogue
 Residence: "[[Ever Peak]]"
 Father: "[[Gustav Ekblad]]"
 Mother: "[[Agnes Ekblad]]"
----
+
+Age: "Died 41 years ago at 33y/o"---
 ![[Princess Wiggles.jpg]]
 ## 📖 Overview
 Princess Wiggles, living at [[The Shelf,]] an inn in the mountain settlement of [[World/Locations/Towns/Ever Peak]] run by [[Gustav Ekblad]] and [[Agnes Ekblad]]. To the tavern patrons, she is just a remarkably opinionated dog; to herself, she is an ancient soul who has seen empires rise and fall, and who now prefers a warm hearth, good food, and zero nonsense.

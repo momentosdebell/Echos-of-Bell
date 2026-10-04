@@ -15,6 +15,7 @@ Children:
   - "[[Dave Tickelfoot]]"
   - "[[Danny Tickelfoot]]"
 draft: false
----
+
+Age: "Died 62 years ago at 26y/o"---
 ![[Jami-Lee Wolfaxe.jpeg]]
 

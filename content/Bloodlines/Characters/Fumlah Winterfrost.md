@@ -16,5 +16,6 @@ Children:
   - "[[Rami Winterfrost]]"
   - "[[Lolo Winterfrost]]"
 draft: false
----
+
+Age: "Died 201 years ago at 41y/o"---
 

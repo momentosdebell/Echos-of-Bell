@@ -20,7 +20,8 @@ Siblings:
   - "[[Gerbera von Je'Den]]"
 Former Partner: "[[Qia Twinkle]]"
 draft: false
----
+
+Age: "Died 7 years ago at 116y/o"---
 ![[Pax von Je'Den.jpeg]]
 
 

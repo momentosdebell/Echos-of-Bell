@@ -21,6 +21,7 @@ Children:
   - "[[Kinni Tiller]]"
   - "[[Hef Dong]]"
 draft: false
----
+
+Age: "Died 265 years ago at 957y/o"---
 ![[Vilya Dong.jpeg]]
 

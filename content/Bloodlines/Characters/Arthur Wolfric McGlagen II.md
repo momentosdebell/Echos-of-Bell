@@ -15,4 +15,5 @@ Partner: "[[Toy McGlagen]]"
 Children:
   - "[[Arthur Wolfric McGlagen III]]"
 draft: false
----
+
+Age: "Died 45 years ago at 422y/o"---

@@ -16,7 +16,8 @@ Siblings:
   - "[[Gullvi Nimue]]"
 draft: false
 Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Employ]]"
----
+
+Age: "71y/o"---
 ![[Sequoia.png]]
 ## 📖 Overview
 

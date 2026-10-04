@@ -13,7 +13,8 @@ Children:
   - "[[Scratch Yotul]]"
   - "[[Hanna Nollac]]"
 draft: false
----
+
+Age: "Died 182 years ago at 31y/o"---
 ![[Mog Yotul.jpeg]]
 
 

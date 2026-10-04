@@ -16,6 +16,7 @@ Siblings:
   - "[[Yed'kanari Yotul]]"
 Former Partner: "[[Yo Yotul]]"
 draft: false
----
+
+Age: "Died 132 years ago at 36y/o"---
 ![[Yamek Yotul.jpeg]]
 

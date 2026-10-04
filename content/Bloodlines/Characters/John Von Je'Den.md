@@ -12,6 +12,7 @@ Partner: "[[Helga Nollac]]"
 Children:
   - "[[Lord Andross von Je'Den]]"
 draft: false
----
+
+Age: "Died 129 years ago at 75y/o"---
 ![[John Von Je'Den.jpeg]]
 

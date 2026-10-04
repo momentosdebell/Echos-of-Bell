@@ -17,7 +17,8 @@ Partner: "[[Lilliana Yllaris Everfall]]"
 Children:
   - "[[Lily Everfall]]"
 draft: false
----
+
+Age: "Died at 975y/o"---
 ![[King Theodemar Yllaris Everfall.jpeg]]
 ## 📜Overview 
 King Theodemar Yllaris Everfall is a steady and widely respected ruler known for balance, patience, and long term thinking in matters of the realm. His reign is shaped by stability over conquest, often favoring diplomacy and structure over force. He follows the faith of **[[Eternal Roots]]**, a belief centered on cycles of life, consequence, and the deep connections between all living things.

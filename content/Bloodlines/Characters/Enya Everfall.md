@@ -18,6 +18,7 @@ Children:
   - "[[Li'thanïa Everfall]]"
 draft: false
 Occupation: Noble
----
+
+Age: "Died 388 years ago at 948y/o"---
 ![[Enya Everfall.jpeg]]
 

@@ -10,6 +10,7 @@ Gender: Female
 Partner: "[[Arman Achkook]]"
 Former Partner: "[[Morgani Achkook]]"
 draft: false
----
+
+Age: "Died 78 years ago at 85y/o"---
 ![[Saphira Achkook.jpeg]]
 

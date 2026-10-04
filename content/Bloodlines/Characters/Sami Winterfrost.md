@@ -16,4 +16,5 @@ Siblings:
   - "[[Rami Winterfrost]]"
   - "[[Lolo Winterfrost]]"
 draft: false
----
+
+Age: "Died 177 years ago at 37y/o"---

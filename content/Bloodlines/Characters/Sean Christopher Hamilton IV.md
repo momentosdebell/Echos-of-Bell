@@ -16,5 +16,6 @@ Mother: "[[Phitra Hamilton]]"
 Siblings:
   - "[[Wiltor Hamilton]]"
 draft: false
----
+
+Age: "Died at 297y/o"---
 

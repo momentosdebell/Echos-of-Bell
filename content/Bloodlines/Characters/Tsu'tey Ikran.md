@@ -12,5 +12,6 @@ Children:
   - "[[Teylu Ikran]]"
   - "[[Captain Blue Whale]]"
 draft: false
----
+
+Age: "Died 12 years ago at 114y/o"---
 

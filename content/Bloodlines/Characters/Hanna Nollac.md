@@ -19,5 +19,6 @@ Siblings:
   - "[[Scratch Yotul]]"
 Partner: "[[Bob]]"
 draft: false
----
+
+Age: "Died 115 years ago at 72y/o"---
 

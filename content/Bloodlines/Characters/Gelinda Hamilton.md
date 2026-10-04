@@ -27,6 +27,7 @@ Children:
   - "[[Grizel Hamilton]]"
 draft: false
 Occupation: Politician
----
+
+Age: "Died at 189y/o"---
 ![[Gelinda Hamilton.png]]
 
