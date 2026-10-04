@@ -5,6 +5,9 @@ views:
       or:
         - file.folder == "Bloodlines/Characters"
         - file.folder == "World/NPC"
+    groupBy:
+      property: Age
+      direction: ASC
     order:
       - file.name
       - Race
