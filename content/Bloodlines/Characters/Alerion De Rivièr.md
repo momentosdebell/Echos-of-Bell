@@ -3,6 +3,7 @@ Updated: 2026-08-27
 Birth: 630
 Death: 1844
 title: Alerion De Rivièr
+Age: Died at 1214y/o
 Img:
 Race: Elf
 Gender: Male
@@ -15,6 +16,5 @@ Children:
   - "[[Iquique Yllaris Everfall]]"
   - "[[Elyra De Rivièr]]"
 draft: false
-Age: Died at 1214y/o
 ---
 
