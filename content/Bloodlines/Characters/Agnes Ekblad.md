@@ -15,5 +15,6 @@ Partner: "[[Gustav Ekblad]]"
 Children:
   - "[[Princess Wiggles]]"
 draft: false
+Age: Died 65 years ago at 83y/o
 ---
 
