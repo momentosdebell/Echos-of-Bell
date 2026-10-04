@@ -1,9 +1,9 @@
 ---
 Updated: 2026-08-27
 Birth: 1363
-Death: 1574
+Death: 1500
 title: Andora Tickelfoot
-Age: Died at 211y/o
+Age: Died 42y ago at 137y/o
 Img: "[[Andorra Tickelfoot.jpeg]]"
 Race:
   - Halfling
