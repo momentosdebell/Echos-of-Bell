@@ -1,5 +1,5 @@
 ---
-Age: 2y before they were born
+Age: 2 years before they were born
 Updated: 2026-08-27
 Birth: 1469
 Death: 1477

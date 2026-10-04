@@ -1,5 +1,5 @@
 ---
-Age: 3y before they were born
+Age: 3 years before they were born
 Updated: 2026-08-27
 Birth: 1470
 Death: 1819
