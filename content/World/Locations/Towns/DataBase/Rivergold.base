@@ -4,8 +4,10 @@ views:
     filters:
       and:
         - Residence.contains(link("Rivergold"))
+        - Age.contains("y/o")
     order:
       - file.name
       - Gender
       - Occupation
       - Race
+      - Age

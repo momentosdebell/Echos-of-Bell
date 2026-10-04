@@ -3,7 +3,7 @@ Updated: 2026-08-27
 Birth: 1365
 Death: 1402
 title: Bromhilda Winterfrost
-Age: Died 65y ago at 37y/o
+Age: Died 65 years ago at 37
 Img:
 Race:
   - Goliath

@@ -4,11 +4,13 @@ views:
     filters:
       and:
         - Residence.contains(link("Silvergrove City"))
+        - Age.contains("y/o")
     order:
       - file.name
       - Gender
       - Occupation
       - Race
+      - Age
     sort:
       - property: file.name
         direction: ASC

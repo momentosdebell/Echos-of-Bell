@@ -9,11 +9,13 @@ views:
     filters:
       and:
         - Residence.contains(link("Ambervale"))
+        - Age.contains("y/o")
     order:
       - file.name
       - Gender
       - Occupation
       - Race
+      - Age
     sort:
       - property: file.name
         direction: ASC
