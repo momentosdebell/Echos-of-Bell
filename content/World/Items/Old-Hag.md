@@ -19,7 +19,7 @@ Crew:
   - "[[Adoot Ironneck|Captain Ironneck]]"
   - "[[Gideon Vane|Quartermaster, Salt-Grip]]"
   - "[[Maelis Vex|Chief Navigator, Two-Times Vex]]"
-  - "[[Vesper Cross|Helmsman, Nightinggale]]"
+  - "[[Vesper Vane|Helmsman, Nightingale]]"
   - "[[Maeve O'Reilly|Master Gunner, Moody]]"
   - "[[Martha|Chief Boarder, Pawn-Shop]]"
   - "[[Barnacle Barnaby|Shipwright, Barnacle Barnaby]]"
