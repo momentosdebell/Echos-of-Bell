@@ -16,8 +16,28 @@ Properties:
   - Sails, AC 12, 100 HP
   - Helm, AC 18, 50 HP
 Crew:
-  - "[[Adoot Ironneck]]"
-  - "[[Sappho Vindtop]]"
+  - "[[Adoot Ironneck|Captain Adoot Ironneck]]"
+  - "[[Sappho Vindtop|Powder Monky, Sap the Black]]"
+  - "[[Gideon Vane|Quartermaster, Salt-Grip]]"
+  - "[[Barnacle Barnaby|Shipwright, Barnacle Barnaby]]"
+  - "[[Maelis Vex|Navigator, Two-Times]]"
+  - "[[Silas Finch|Surgeon & Cook, Doc]]"
+  - "[[Gunnar Thrum|Master Gunner, Powder-Keg]]"
+  - "[[Jesper Kross|Lookout, Stitch]]"
+  - "[[Pip|Cabin Boy, Slippy]]"
+  - "[[Balthazar Vance|Helmsman, Red-Tide]]"
+  - "[[Tobias Briggs|Rigger, No-Thumb McGee]]"
+  - "[[Corvus Malakor|Able Seaman, Crow]]"
+  - "[[Ludo Vance|Bard, The Lark]]"
+  - "[[Grendel|Cargo Master, Biggy]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
+  - "[[|]]"
 draft: false
 ---
 ![[old_hag.jpg]]
