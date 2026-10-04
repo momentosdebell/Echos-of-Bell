@@ -16,6 +16,8 @@ Properties:
   - Sails, AC 12, 100 HP (-15 ft speed per 25 HP skada)
   - Helm, AC 18, 50 HP
 Crew:
+  - "[[Adoot Ironneck]]"
+  - "[[Sappho Vindtop]]"
 draft: false
 ---
 
