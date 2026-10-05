@@ -5,6 +5,7 @@ Img:
 Race: Drow
 Age: 344y/o
 Gender: Male
+Class: Bard
 Occupation: Quartermaster
 Residence: "[[Old-Hag]]"
 draft: false

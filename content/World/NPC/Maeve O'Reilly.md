@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Moody
 Img:
 Race: Goblin
+Class: Ranger
 Age: 58y/o
 Gender: Female
 Occupation: Master Gunner

@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Whisp
 Img:
 Race: Halfling
+Class: Artificer
 Age: 100y/o
 Gender: Male
 Occupation:

@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Doc
 Img:
 Race: Human
+Class: Fighter
 Age: 24y/o
 Gender: Male
 Occupation:
