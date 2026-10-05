@@ -47,7 +47,7 @@ The scouting party, checking ahead and gathering provisions:
 
 **BP (Beauty Pageant)** 
 The first landing party, checking for danger and other setbacks:
-[[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Beatrice|Bee]]
+[[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time Vex]]
 
 **Main Event**
 The primary landing party, bringing the full authority, muscle, and final say:
@@ -56,6 +56,10 @@ The primary landing party, bringing the full authority, muscle, and final say:
 **Skeleton Crew**
 Rearly leaves the boat:
 [[Grendel|Biggy]], [[Newt Mercer|Whisp]], [[Barnacle Barnaby]] and [[Gideon Vane|Saltgrip]]
+
+**Scramble**
+The rowdy backbone who handle the heavy gear, secure the perimeter, and clean up the leftovers:
+[[Beatrice|Bee]], [[Reepicheep|Pip]] and [[Tobias Briggs|Mr T]]
 
 ## ⚓ Ship Log
 #### Day 98
