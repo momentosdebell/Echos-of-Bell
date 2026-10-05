@@ -31,11 +31,10 @@ Crew:
   - "[[Jesper Kross|Lookout]]"
   - "[[Trixie|Scout]]"
   - "[[Skag Finch|Boarding Specialist]]"
-  - "[[Sappho Vindtop|Swashbuckler]]"
   - "[[Tobias Briggs|Rigger]]"
   - "[[Corvus Malakor|Seaman]]"
-  - "[[Grendel|Deckhand]]"
-  - "[[Bram|Deckhand]]"
+  - "[[Grendel|Havy Deckhand]]"
+  - "[[Sappho Vindtop|Deckhand]]"
   - "[[Ludo Vance|Ship's Bard]]"
   - "[[Reepicheep|Cabin Girl]]"
 draft: false
