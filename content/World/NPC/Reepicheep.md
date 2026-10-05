@@ -8,7 +8,7 @@ Gender: Female
 Occupation:
   - Cabin Girl
 Residence: "[[Old-Hag]]"
-draft: true
+draft: false
 Birth: 1440
 Death:
 ---

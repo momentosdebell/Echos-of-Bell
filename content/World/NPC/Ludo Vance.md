@@ -8,7 +8,7 @@ Gender: Male
 Class: Bard
 Occupation: Bard
 Residence: "[[Old-Hag]]"
-draft: true
+draft: false
 Birth: 1440
 Death:
 ---

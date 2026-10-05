@@ -1,14 +1,14 @@
 ---
 Updated: 2026-08-28
-title: Mr T
+title: Biggy
 Img:
-Race:
-Age:
+Race: Tabaxi
+Age: 23y/o
 Gender: Male
-Occupation: Rigger
+Occupation: Deckhand
 Residence: "[[Old-Hag]]"
 draft: false
-Birth:
+Birth: 1444
 Death:
 ---
-
+![[biggy.jpeg]]
