@@ -1,8 +1,9 @@
 ---
 Updated: 2026-08-28
-title: Lucky
+title: Ozy
 Img:
 Race: Human
+Class: Cleric
 Age: 32y/o
 Gender: Non-Binary
 Occupation: Scout

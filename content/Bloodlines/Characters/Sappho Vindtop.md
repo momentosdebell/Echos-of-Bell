@@ -8,7 +8,9 @@ Img: "[[Sappho Vindtop.png]]"
 Race: Halfling
 Gender: Female
 Occupation: Pirate
-Residence: "[[Rivergold]]"
+Residence:
+  - "[[Rivergold]]"
+  - "[[Old-Hag]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Milo Vindtop]]"
@@ -16,7 +18,6 @@ Mother: "[[Jillian Vindtop]]"
 Siblings:
   - "[[Calis Vindtop]]"
 draft: false
-
 ---
 <style>
 .dnd-stat { 
@@ -244,6 +245,10 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 
 ---
 ## 💞Relationships
+- [[Jesper Kross|Stitch]] - In crow's nest, he's always the one watching her back from above. Sap frequently yells up to him to check if he's about to violate a sea-superstition.
+- [[Ozymandias|Ozy]]
+- [[Corvus Malakor|Crow]]
+- [[Orios Finch|Doc]]
 
 ---
 ## 🗓️Events
