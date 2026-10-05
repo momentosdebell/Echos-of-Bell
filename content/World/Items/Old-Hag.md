@@ -41,13 +41,13 @@ draft: false
 ---
 ![[old_hag.jpg]]
 ## 🏝️Landing Parties
-**DC (Disaster Crew)**
-The scouting party, checking ahead and gathering provisions:
-[[Sappho Vindtop|Sap]], [[Jesper Kross|Stitch]] , [[Ozymandias|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
-
 **BP (Beauty Pageant)** 
 The first landing party, checking for danger and other setbacks:
 [[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time Vex]]
+
+**DC (Disaster Crew)**
+The scouting party, checking ahead and gathering provisions:
+[[Sappho Vindtop|Sap]], [[Jesper Kross|Stitch]] , [[Ozymandias|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
 
 **Main Event**
 The primary landing party, bringing the full authority, muscle, and final say:
