@@ -2,13 +2,14 @@
 Updated: 2026-08-28
 title: Pip
 Img:
-Race:
-Age:
+Race: Grung
+Age: 27y/o
 Gender: Female
 Occupation:
+  - Cabin Girl
 Residence: "[[Old-Hag]]"
 draft: true
-Birth:
+Birth: 1440
 Death:
 ---
-
+![[pip.jpeg]]

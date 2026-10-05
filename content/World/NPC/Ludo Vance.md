@@ -2,14 +2,14 @@
 Updated: 2026-08-28
 title: Dodo
 Img:
-Race: Human
-Age:
+Race: Aarakocra
+Age: 27y/o
 Gender: Male
 Class: Bard
 Occupation: Bard
 Residence: "[[Old-Hag]]"
 draft: true
-Birth:
+Birth: 1440
 Death:
 ---
-
+![[dodo.jpeg]]

@@ -16,7 +16,7 @@ Properties:
   - Sails, AC 12, 100 HP
   - Helm, AC 18, 50 HP
 Crew:
-  - "[[Adoot Ironneck|Captain Ironneck]]"
+  - "[[Adoot Ironneck|Captain]]"
   - "[[Gideon Vane|Quartermaster]]"
   - "[[Maelis Vex|Navigator]]"
   - "[[Vesper Vane|Helmsman]]"
@@ -24,18 +24,19 @@ Crew:
   - "[[Martha|Boarder]]"
   - "[[Barnacle Barnaby|Shipwright]]"
   - "[[Silas Finch|Surgeon & Cook]]"
-  - "[[Yvaine|Ship's Caster]]"
+  - "[[Newt Mercer|Quartermaster's Mate]]"
   - "[[Beatrice|Harpooner]]"
-  - "[[Gunnar Thrum|Cannoneer]]"
   - "[[Balthazar Vance|Cargo Master]]"
+  - "[[Gunnar Thrum|Cannoneer]]"
   - "[[Jesper Kross|Lookout]]"
   - "[[Trixie|Scout]]"
-  - "[[Sappho Vindtop|Swashbuckler]]"
   - "[[Skag Finch|Boarding Specialist]]"
+  - "[[Sappho Vindtop|Swashbuckler]]"
   - "[[Tobias Briggs|Rigger]]"
   - "[[Corvus Malakor|Seaman]]"
-  - "[[Ludo Vance|Ship's Bard]]"
   - "[[Grendel|Deckhand]]"
+  - "[[Bram|Deckhand]]"
+  - "[[Ludo Vance|Ship's Bard]]"
   - "[[Reepicheep|Cabin Girl]]"
 draft: false
 ---

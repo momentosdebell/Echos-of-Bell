@@ -7,7 +7,7 @@ Age:
 Gender: Male
 Occupation: Rigger
 Residence: "[[Old-Hag]]"
-draft: true
+draft: false
 Birth:
 Death:
 ---
