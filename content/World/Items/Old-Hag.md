@@ -40,6 +40,19 @@ Crew:
 draft: false
 ---
 ![[old_hag.jpg]]
+## 🏝️Landing Parties
+**DC (Disaster Crew)**
+The scouting party, checking ahead and gathering provisions:
+[[Sappho Vindtop|Sap]], [[Jesper Kross|Stitch]] , [[Ozymandias|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
+
+**BP (Beauty Pageant)** 
+The first landing party, checking for danger and other setbacks:
+[[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Beatrice|Bee]]
+
+**Skeleton Crew**
+Rearly leaves the boat:
+[[Grendel]], [[Newt Mercer]], [[Barnacle Barnaby]] and [[]]
+
 ## ⚓ Ship Log
 #### Day 98
 Salt eats the paint and the mainmast creaks like an old crone’s bones. Ironneck thought she sounded too refined. The crew had a good laugh and took a vote around the rum barrel. As of tonight, she is officially the Old Hag. It suits her better, she refuses to sink no matter what the seas throw at her.
