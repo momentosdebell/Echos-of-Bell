@@ -65,5 +65,5 @@ Dropped anchor near [[Rivergold]] to load up on fresh water and [[Sunday Market]
 #### Day 1180 
 Sap missed the boat. Literally. We waited as long as we dared, but with navy cutters patrolling the harbor, Ironneck had to give the order to weigh anchor. Saltgrip left a word with the local [[Fogline]] smugglers to keep an eye on her. She's a smart kid, she'll find a way back to us eventually.
 
-#### Day 1202 
-21 of us aboard now, missing our little black-powder powerhouse. We're cutting through the heavy squalls toward the jagged shores of Stormwreck Isle. Dangerous waters, ancient ruins, and heavy reefs ahead. If Sap is half as sharp as her superstitions suggest, she'll track the Old Hag down before we drop anchor.
+#### Day 1302 
+20 of us aboard now, missing our little black-powder powerhouse. We're cutting through the heavy squalls toward the jagged shores of Stormwreck Isle. Dangerous waters, ancient ruins, and heavy reefs ahead. If Sap is half as sharp as her superstitions suggest, she'll track the Old Hag down before we drop anchor.
