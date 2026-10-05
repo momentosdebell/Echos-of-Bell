@@ -49,9 +49,13 @@ The scouting party, checking ahead and gathering provisions:
 The first landing party, checking for danger and other setbacks:
 [[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Beatrice|Bee]]
 
+**Main Event**
+The primary landing party, bringing the full authority, muscle, and final say:
+[[Adoot Ironneck|Captain Ironneck]], [[Ludo Vance|Dodo]], [[Gunnar Thrum|Powderkeg]], [[Skag Finch|Sharks]] and [[Balthazar Vance|Bally]]
+
 **Skeleton Crew**
 Rearly leaves the boat:
-[[Grendel]], [[Newt Mercer]], [[Barnacle Barnaby]] and [[]]
+[[Grendel|Biggy]], [[Newt Mercer|Whisp]], [[Barnacle Barnaby]] and [[Gideon Vane|Saltgrip]]
 
 ## ⚓ Ship Log
 #### Day 98
