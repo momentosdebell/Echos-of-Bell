@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Sharks
 Img:
 Race: Dragonborn
+Class: Fighter
 Age: 35y/o
 Gender: Male
 Occupation: Boarding Specialist

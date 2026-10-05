@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Biggy
 Img:
 Race: Tabaxi
+Class: Babarian
 Age: 23y/o
 Gender: Male
 Occupation: Deckhand

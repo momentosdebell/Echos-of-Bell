@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Powder Keg
 Img:
 Race: Dwarf
+Class: Fighter
 Age: 252y/o
 Gender: Male
 Occupation:

@@ -3,7 +3,7 @@ Updated: 2026-08-28
 title: Nightingale
 Img:
 Race: Drow
-Class: Rogue
+Class: Fighter
 Age: 336y/o
 Gender: Female
 Occupation: Helmsman

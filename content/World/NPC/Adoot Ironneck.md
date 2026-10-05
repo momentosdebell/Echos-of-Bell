@@ -10,7 +10,7 @@ Death:
 Residence: "[[Old-Hag]]"
 Gender: Male
 Occupation: Pirate
-draft: true
+draft: false
 ---
 
 ![[Adoot Ironneck.jpeg]]

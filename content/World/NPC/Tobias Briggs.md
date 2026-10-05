@@ -3,6 +3,7 @@ Updated: 2026-08-28
 title: Mr T
 Img:
 Race: Half-Orc
+Class: Monk
 Age: 26y/o
 Gender: Male
 Occupation: Rigger
