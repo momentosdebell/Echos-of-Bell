@@ -14,7 +14,6 @@ draft: false
 Birth: 1443
 Death:
 ---
-![[doc.jpeg]]
 <style>
 .dnd-stat { 
   --bg: #fdf1dc; 
@@ -146,7 +145,7 @@ Death:
   <div class="dnd-stat-hdr">Fighter 1</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
-      <img src="img/cerersio.jpeg" alt="Token">
+      <img src="img/doc.jpeg" alt="Token">
     </div>
     <div class="dnd-stat-topgrid">
       <div class="dnd-stat-box"><span class="dnd-stat-lbl">AC</span><span class="dnd-stat-val">16</span></div>
