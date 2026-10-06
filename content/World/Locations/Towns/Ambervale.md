@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-title: Ambervale (Daggerford in faerun )
+title: Ambervale (Selgaunt in faerun )
 Type: City
 Location:
 Vibe:
