@@ -47,7 +47,7 @@ Ever since they been in Sea of Fallen Stars, around everywhere basically.
 
 The crew picked up a treasure map, a map of a place no one tutched [[Games/DoSI/index|Stormwreck Isle]]. But it was the same hard travel he once did, but to west this time. Just right before they stoped at [[Rivergold (Selgaunt)]], to stuck up food and water, they lost [[Sappho Vindtop]], due to a scheduling miss. 
 
-So they headed out, traveling Telvanlu, upp the river to Wyverhunt though the Sunset Mounitins all the way to Scornudel and Baldurs Gate and finaly the Sword Coast
+So they headed out, traveling Telvanlu, upp the river to Wyverhunt though the Sunset Mounitins all the way to Scornudel and Baldurs Gate and finaly the Sword Coast.
 
 ## 🏝️Landing Parties
 [[old_hag.jpg|Battlemap]]
