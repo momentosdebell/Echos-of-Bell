@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Cleric
 Occupation: Spy
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Lucy Nollac]]"
@@ -25,7 +25,6 @@ Children:
   - "[[Scratch Yotul]]"
   - "[[Hanna Nollac]]"
 draft: false
-
 ---
 ![[Likki Nollacc.jpeg]]
 

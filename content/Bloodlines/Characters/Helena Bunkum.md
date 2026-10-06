@@ -11,7 +11,7 @@ Race:
 Gender: Female
 Class: Rogue
 Occupation: Assasin
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Nollac]]"
   - "[[Hamilton]]"
@@ -21,7 +21,6 @@ Siblings:
   - "[[Sean Christopher Hamilton II]]"
 Partner: "[[Invisible Paradox]]"
 draft: false
-
 ---
 
 

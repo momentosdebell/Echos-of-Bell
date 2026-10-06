@@ -8,7 +8,7 @@ Img: "[[Lily Yllaris Everfall.jpg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"
@@ -19,7 +19,6 @@ Children:
   - "[[Tove Root]]"
 draft: false
 Occupation: Weaver
-
 ---
 ![[Lily Yllaris Everfall.jpg]]
 

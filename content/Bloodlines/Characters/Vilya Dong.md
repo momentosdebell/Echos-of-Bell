@@ -9,7 +9,7 @@ Race:
   - Elf
   - Dragonborn
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Dong]]"
 Father: "[[Lord Hilivard Everfall]]"
@@ -22,7 +22,6 @@ Children:
   - "[[Kinni Tiller]]"
   - "[[Hef Dong]]"
 draft: false
-
 ---
 ![[Vilya Dong.jpeg]]
 

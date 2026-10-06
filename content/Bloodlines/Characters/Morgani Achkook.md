@@ -8,11 +8,10 @@ Img: "[[Morgani Achkook.jpeg]]"
 Race:
   - Dragonborn
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Father: "[[Arman Achkook]]"
 Mother: "[[Saphira Ashkook]]"
 draft: false
-
 ---
 ![[Morgani Achkook.jpeg]]
 

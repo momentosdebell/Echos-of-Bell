@@ -8,7 +8,7 @@ Img: "[[Helga Nollac.jpeg]]"
 Race:
   - Human
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Lucy Nollac]]"
@@ -19,7 +19,6 @@ Partner: "[[John Von Je'Den]]"
 Children:
   - "[[Lord Andross von Je'Den]]"
 draft: false
-
 ---
 ![[Helga Nollac.jpeg]]
 

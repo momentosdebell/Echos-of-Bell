@@ -9,7 +9,7 @@ Race:
   - Elf
   - Dragonborn
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Everfall]]"
 Father: "[[Lord Hilivard Everfall]]"
@@ -17,7 +17,6 @@ Mother: "[[Enya Everfall]]"
 Siblings:
   - "[[Vilya Dong]]"
 draft: false
-
 ---
 ![[Li'thanïa Everfall.jpeg]]
 

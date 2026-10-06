@@ -8,7 +8,7 @@ Img: "[[Enya Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Everfall]]"
 Siblings:
@@ -19,7 +19,6 @@ Children:
   - "[[Li'thanïa Everfall]]"
 draft: false
 Occupation: Noble
-
 ---
 ![[Enya Everfall.jpeg]]
 

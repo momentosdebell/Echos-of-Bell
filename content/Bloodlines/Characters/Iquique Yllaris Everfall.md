@@ -8,7 +8,7 @@ Img: "[[Iquique Yllaris Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Male
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[De Rivièr]]"
 Father: "[[Alerion De Rivièr]]"
@@ -20,7 +20,6 @@ Children:
   - "[[Tove Root]]"
 draft: false
 Occupation: Bartender
-
 ---
 ![[Iquique Yllaris Everfall.jpeg]]
 

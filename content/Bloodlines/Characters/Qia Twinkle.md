@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Monk
 Occupation: Bounty Hunter
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"
@@ -21,7 +21,6 @@ Siblings:
 Partner: "[[Teylu Ikran]]"
 Former Partner: "[[Pax von Je'Den]]"
 draft: false
-
 ---
 ![[Qia Twinkle.jpg]]
 

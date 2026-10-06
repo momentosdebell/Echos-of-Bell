@@ -10,11 +10,10 @@ Race:
 Gender: Female
 Class: Wizard
 Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Owner]]"
-Residence: "[[World/Locations/Towns/Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Children:
   - "[[Sequoia]]"
 draft: false
-
 ---
 ![[Gaganesh Orvil Amon Thorne.png]]
 

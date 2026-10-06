@@ -8,14 +8,13 @@ Img: "[[Lord Hilivard Everfall.jpeg]]"
 Race:
   - Dragonborn
 Gender: Male
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Partner: "[[Enya Everfall]]"
 Children:
   - "[[Vilya Dong]]"
   - "[[Li'thanïa Everfall]]"
 draft: false
 Occupation: Noble
-
 ---
 ![[Lord Hilivard Everfall.jpeg]]
 

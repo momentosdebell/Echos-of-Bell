@@ -9,7 +9,7 @@ Race:
   - Warforged
 Gender: Non-Binary
 Class: Druid
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Gaganesh Thorne]]"
 Siblings:
@@ -17,7 +17,6 @@ Siblings:
   - "[[Gullvi Nimue]]"
 draft: false
 Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Employ]]"
-
 ---
 ![[Sequoia.png]]
 ## 📖 Overview

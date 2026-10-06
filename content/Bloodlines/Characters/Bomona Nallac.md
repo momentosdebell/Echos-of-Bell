@@ -8,7 +8,7 @@ Img:
 Race:
   - Human
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Nollac]]"
 Partner: "[[Lucy Nollac]]"

@@ -11,7 +11,7 @@ Race:
 Gender: Female
 Class: Cleric
 Occupation: Priest
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Nollac]]"
   - "[[Everfall]]"

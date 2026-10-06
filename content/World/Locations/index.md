@@ -19,6 +19,6 @@ When you write your own backstory, you need names, places, lore. Here you'll fin
 - [[World/Locations/Venues/Dynamic Office Of Reality]] - the best Magic shop in the Kingdom. 
 - [[World/Locations/Venues/The Seven Cats Inn]] - Country spread concern inn, first of its kind. 
 - Great Peak Gate in [[World/Locations/Towns/Ever Peak]] - Land mark
-- Moonhall Gardens in [[World/Locations/Towns/Silvergrove City]] - An extra ordinarie garden.
-- Eternal Archive in [[World/Locations/Towns/Silvergrove City]] - the oldest library in the country.
+- Moonhall Gardens in [[Silvergrove City (Evereska)]] - An extra ordinarie garden.
+- Eternal Archive in [[Silvergrove City (Evereska)]] - the oldest library in the country.
 ---

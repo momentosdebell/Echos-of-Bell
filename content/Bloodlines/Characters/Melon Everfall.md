@@ -8,7 +8,7 @@ Img: "[[Mellon Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Everfall]]"
 Siblings:
@@ -18,7 +18,6 @@ Children:
   - "[[Theodemar Yllaris Everfall]]"
 draft: false
 Occupation: Former Queen
-
 ---
 ![[Mellon Everfall.jpeg]]
 

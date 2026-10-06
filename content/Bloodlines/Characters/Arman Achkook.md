@@ -8,7 +8,7 @@ Img: "[[Arman Achkook.jpeg]]"
 Race:
   - Dragonborn
 Gender: Male
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Partner: "[[Saphira Ashkook]]"
 Children:
   - "[[Morgani Achkook]]"

@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Fighter
 Occupation: Soldier
-Residence: "[[Silvergrove City]]"
+Residence: "[[Silvergrove City (Evereska)]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Sean Hamilton]]"
@@ -22,7 +22,6 @@ Children:
   - "[[Helena Bunkum]]"
   - "[[Sean Christopher Hamilton II]]"
 draft: false
-
 ---
 
 
