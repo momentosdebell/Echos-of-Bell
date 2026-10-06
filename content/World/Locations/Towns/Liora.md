@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Liora
+title: Liora (Citadel Adbar in faerun)
 Type: City
 Location:
 Vibe:

@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-title: Ever Peak
+title: Ever Peak (Citadel Adbar in faerun)
 Type: City
 Location:
 Vibe:
