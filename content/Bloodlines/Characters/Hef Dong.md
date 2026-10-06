@@ -7,7 +7,7 @@ title: Hef Dong
 Img: "[[Hef Dong]]"
 Race: Elf
 Gender: Male
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

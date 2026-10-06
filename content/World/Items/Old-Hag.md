@@ -82,7 +82,7 @@ Doc has officially stopped complaining about having to stitch up flesh wounds an
 Moody and Powder Keg loaded the cannons in thick fog. Sap was first over the bulwarks alongside Sharks and Pawnshop, firing pistol with one hand and swinging sword with the other. You can't tell if she's smiling because she loves the fight or because she's terrified of her own superstitions. We took three chests of silver and two casks of salt beef.
 
 #### Day 1178
-Dropped anchor near [[Rivergold (Archenbridge)]] to load up on fresh water and [[Sunday Market]] black powder. Sap went ashore to "say a quick hi" to her folks and pick up supplies from her cousin [[Rocksan Tickelfoot| Rocksan]]. We gave her a strict deadline before the tide turned. Local guards started snooping around the docks looking for pirates, so we had to cast off fast.
+Dropped anchor near [[Rivergold (Selgaunt)]] to load up on fresh water and [[Sunday Market]] black powder. Sap went ashore to "say a quick hi" to her folks and pick up supplies from her cousin [[Rocksan Tickelfoot| Rocksan]]. We gave her a strict deadline before the tide turned. Local guards started snooping around the docks looking for pirates, so we had to cast off fast.
 
 #### Day 1180 
 Sap missed the boat. Literally. We waited as long as we dared, but with navy cutters patrolling the harbor, Ironneck had to give the order to weigh anchor. Saltgrip left a word with the local [[Fogline]] smugglers to keep an eye on her. She's a smart kid, she'll find a way back to us eventually.

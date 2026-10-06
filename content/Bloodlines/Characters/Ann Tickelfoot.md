@@ -9,7 +9,7 @@ Race:
   - Halfling
 Gender: Female
 Occupation: Mechanic
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Feather Tickelfoot]]"

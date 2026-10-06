@@ -9,7 +9,7 @@ Race:
   - Dwarf
 Gender: Female
 Occupation: Diplomat
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Origin:
   - "[[McGlagen]]"
 Siblings:

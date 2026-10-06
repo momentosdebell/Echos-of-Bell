@@ -9,7 +9,7 @@ Race:
   - Orc
 Gender: Male
 Occupation: Florist
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Partner: "[[Hef Dong]]"
 draft: false
 ---

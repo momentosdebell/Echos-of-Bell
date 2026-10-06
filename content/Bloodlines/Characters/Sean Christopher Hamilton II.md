@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[Nollac]]"

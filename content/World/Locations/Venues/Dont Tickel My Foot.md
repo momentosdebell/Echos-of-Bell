@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Dont Tickel My Foot
 Type: Shop
-Location: "[[Rivergold (Archenbridge)]]"
+Location: "[[Rivergold (Selgaunt)]]"
 Vibe:
   - Wierd
   - Intresting

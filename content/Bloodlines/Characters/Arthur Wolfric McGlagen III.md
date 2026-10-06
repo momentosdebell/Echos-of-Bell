@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Rogue
 Occupation: Entrepreneur
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Origin:
   - "[[McGlagen]]"
 Father: "[[Arthur Wolfric McGlagen II]]"

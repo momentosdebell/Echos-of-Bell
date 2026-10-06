@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Liora (Velen in faerun)
+title: Liora (Velen)
 Type: City
 Location:
 Vibe:

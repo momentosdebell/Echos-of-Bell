@@ -4,7 +4,7 @@ Status: 10 years before its time
 title: Guardian of Gold
 Category:
   - Event
-Region: "[[Rivergold (Archenbridge)]]"
+Region: "[[Rivergold (Selgaunt)]]"
 draft: false
 Leader: "[[Molliebeth Bramblevick]]"
 Event-Date: "1477"
@@ -12,7 +12,7 @@ Event-Date: "1477"
 
 The **Guardian of Gold** is a high trust humanitarian title within **[[The Circle of the Blooming Table]]**, granted to Molly Fallow ([[Molliebeth Bramblevick]]) who demonstrate extraordinary control over **medicine flow, treatment access, and lifesaving resource distribution during plague or epidemic collapse events**.
 
-Despite the name, the “gold” refers not to wealth, but to **the town [[Rivergold (Archenbridge)]]**.
+Despite the name, the “gold” refers not to wealth, but to **the town [[Rivergold (Selgaunt)]]**.
 
 In [[The Circle of the Blooming Table]] doctrine, medicine is treated as a resource that becomes “heavier than gold” during outbreaks.
 

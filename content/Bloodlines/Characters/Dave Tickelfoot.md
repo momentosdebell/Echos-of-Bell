@@ -9,7 +9,7 @@ Race:
   - Halfling
   - Half-Elf
 Gender: Male
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Jami-Lee Wolfaxe]]"

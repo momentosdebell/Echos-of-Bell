@@ -68,6 +68,6 @@ The Central Shields were formed during a period of repeated trade collapse betwe
 
 Early market guilds and transport cooperatives created localized protection groups to prevent theft and route failure. Over time, these groups were standardized into a unified force funded through trade tariffs and municipal agreements.
 
-As cities like [[Rivergold (Archenbridge)]] expanded into major distribution centers, the Central Shields evolved into a formalized security network responsible for maintaining economic stability across entire regions.
+As cities like [[Rivergold (Selgaunt)]] expanded into major distribution centers, the Central Shields evolved into a formalized security network responsible for maintaining economic stability across entire regions.
 
 The nickname **“Coin Stalkers”** originated from dockworkers, referring to how the guards seemed to “follow the flow of money” through every transaction, inspection, and shipment route.

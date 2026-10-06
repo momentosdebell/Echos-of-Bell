@@ -8,7 +8,7 @@ Img: "[[Unani Niblespirit.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Occupation: Farmer
 Origin:
   - "[[Tickelfoot]]"

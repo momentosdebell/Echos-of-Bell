@@ -8,7 +8,7 @@ Img:
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Occupation: Politician
 Origin:
   - "[[McGlagen]]"

@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-title: Silvergrove City (Evereska in faerun)
+title: Silvergrove City (Evereska)
 Type: Capital
 Location:
 Vibe:

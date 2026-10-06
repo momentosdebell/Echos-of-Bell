@@ -8,7 +8,7 @@ Img: "[[Milo Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Male
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Origin:
   - "[[Tickelfoot]]"
 Siblings:

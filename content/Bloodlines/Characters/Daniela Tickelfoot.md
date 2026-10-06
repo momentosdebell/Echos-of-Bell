@@ -9,7 +9,7 @@ Race:
   - Halfling
   - Half-Elf
 Gender: Female
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Occupation: Student
 Origin:
   - "[[Tickelfoot]]"

@@ -9,7 +9,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Orin Hamilton]]"

@@ -8,7 +8,7 @@ Img: "[[Eldena Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Feather Tickelfoot]]"

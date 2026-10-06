@@ -8,7 +8,7 @@ Img: "[[Eldar Tarrintel.jpeg]]"
 Race:
   - Gnome
 Gender: Male
-Residence: "[[Ambervale (Selgaunt)]]"
+Residence: "[[Ambervale (Archenbridge)]]"
 Partner: "[[Andora Tickelfoot]]"
 Children:
   - "[[Phitra Hamilton]]"

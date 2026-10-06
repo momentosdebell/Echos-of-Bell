@@ -9,7 +9,7 @@ Birth:
 Death:
 Gender: Female
 Occupation: Courier
-Residence: "[[Rivergold (Archenbridge)]]"
+Residence: "[[Rivergold (Selgaunt)]]"
 Origin:
   - "[[Ikran]]"
 Father: "[[Captain Blue Whale]]"

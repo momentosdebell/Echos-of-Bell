@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Rivergold (Archenbridge in faerun)
+title: Rivergold (Selgaunt)
 Type: City
 Location:
 Vibe:
@@ -17,13 +17,13 @@ Economy:
 draft: false
 ---
 ![[Rivergold.png]]
-## 🌟City of Rivergold ([Archenbridge](https://forgottenrealms.fandom.com/wiki/Archenbridge) i Faerûn)
+## 🌟City of Rivergold ([Selgaunt](https://forgottenrealms.fandom.com/wiki/Selgaunt) i Faerûn)
 
 Rivergold is a tightly built river trade town where stone walls, narrow streets, and stacked warehouses rise directly from the riverbanks. Barges and cargo ships fill the docks in constant rotation, feeding the city’s role as the main control point between inland trade and downstream export routes. 
 The city feels structured and controlled, shaped by contracts, customs, and logistics. Bells, ledgers, and dock signals set the rhythm of daily life, and the river itself feels less like nature and more like infrastructure.
 ## 📜 Overview
 
-Rivergold is a prosperous river trade town built around movement, contracts, and commerce. Sitting downstream from [[Ambervale (Selgaunt)]], it serves as the primary customs and distribution hub for goods moving through the region. While smaller than many trade cities, its strategic location gives it influence far beyond its size.
+Rivergold is a prosperous river trade town built around movement, contracts, and commerce. Sitting downstream from [[Ambervale (Archenbridge)]], it serves as the primary customs and distribution hub for goods moving through the region. While smaller than many trade cities, its strategic location gives it influence far beyond its size.
 
 It is structured and deliberate. Goods are counted, records are kept, and nearly every shipment passing through town leaves behind a fee, signature, or tax stamp. The town feels busy, organized, and constantly in motion.
 
