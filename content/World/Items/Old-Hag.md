@@ -40,6 +40,15 @@ Crew:
 draft: false
 ---
 ![[old-hag-crew.png]]
+## 📜 Overview
+Along time ago Seahag started its sailing in the Shining Sea, working its way up to Lake of Steam, where there wernt much to do, [[Adoot Ironneck|Ironneck]] heard that there were some locrative island just north of Shipwrek Neck, what he then didnt know it was a hell lot of land between and wasnt able to sail there. So the boat went on land and traveled on land for 62 miles, took sveral weeks. 
+However that wasnt even close to where he wanted to go, still needed another 2 weeks on narrow rivers before a bigger lake, Vilhon Reach. From there it was mainly "down hill".
+Ever since they been in Sea of Fallen Stars, around everywhere basically. 
+
+The crew picked up a treasure map, a map of a place no one tutched [[Games/DoSI/index|Stormwreck Isle]]. But it was the same hard travel he once did, but to west this time. Just right before they stoped at [[Rivergold (Selgaunt)]], to stuck up food and water, they lost [[Sappho Vindtop]], due to a scheduling miss. 
+
+So they headed out, traveling Telvanlu, upp the river to Wyverhunt though the Sunset Mounitins all the way to Scornudel and Baldurs Gate and finaly the Sword Coast
+
 ## 🏝️Landing Parties
 [[old_hag.jpg|Battlemap]]
 **BP (Beauty Pageant)** 
