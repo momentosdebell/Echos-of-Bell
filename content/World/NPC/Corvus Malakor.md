@@ -1,10 +1,10 @@
 ---
 Updated: 2026-08-28
+Age: 56y/o
 title: Crow
 Img:
 Race: Human
 Class: Rogue
-Age: 56y/o
 Gender: Male
 Occupation: Seaman
 Residence: "[[Old-Hag]]"
