@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-title: Silvergrove City ([Evereska](https://forgottenrealms.fandom.com/wiki/Evereska) in faerun)
+title: Silvergrove City (Evereska)
 Type: Capital
 Location:
 Vibe:
@@ -14,7 +14,7 @@ Economy:
   - Bureaucracy
 draft: false
 ---
-## 🌟 City of Silvergrove
+## 🌟 City of Silvergrove ([Evereska](https://forgottenrealms.fandom.com/wiki/Evereska) in faerun)
 White stone towers and shining roofs catching the light above the canopy. Elegant bridges, arcane spires, and grand manor houses stretch across the hills, while glowing lanterns and floating crystals illuminate the streets below. Everything feels refined, wealthy, and carefully maintained, as if the city itself was designed to impress long before you ever stepped through its gates.
 ## 📜 Overview
 Silvergrove City is one of the wealthiest and most educated cities of its region. Built among ancient silver barked groves and carefully maintained parks, it combines natural beauty with magical innovation. Scholars, artificers, mages, and wealthy merchants fill its streets, creating an atmosphere where knowledge is often valued as highly as gold.
