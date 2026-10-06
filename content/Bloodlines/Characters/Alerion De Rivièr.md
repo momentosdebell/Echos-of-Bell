@@ -8,7 +8,7 @@ Img:
 Race: Elf
 Gender: Male
 Occupation: "[[World/Locations/Venues/River Royal|Winemaker]]"
-Residence: "[[Liora]]"
+Residence: "[[Liora (Velen)]]"
 Origin:
   - "[[De Rivièr]]"
 Partner: "[[Thalindra De Rivièr]]"

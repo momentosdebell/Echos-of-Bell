@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Rivergold (Archenbridge)
+title: Rivergold (Archenbridge in faerun)
 Type: City
 Location:
 Vibe:

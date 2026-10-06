@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Bard
 Occupation: Captain
-Residence: "[[Liora]]"
+Residence: "[[Liora (Velen)]]"
 Origin:
   - "[[Ikran]]"
 Father: "[[Tsu'tey Ikran]]"
@@ -21,7 +21,6 @@ Children:
   - "[[Kitana Greenmoss]]"
 draft: false
 Former Partner: "[[Runa Greenmoss]]"
-
 ---
 ![[Captain Blue Whale.jpeg]]
 
