@@ -225,7 +225,7 @@ The truth anit that dramatic though, she were just one in many and got away in t
 From that day she was called Sap the Black, and to be unest she aint that dangerus.
 
 ![[ironbolts.jpeg|180]]
-   **Affiliations** 
+    **Affiliations** 
  - [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat [[Old-Hag]].
  - [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
  - [[Sunday Market]] - The source of her black powder.
@@ -235,10 +235,10 @@ From that day she was called Sap the Black, and to be unest she aint that danger
 - [[Corvus Malakor|Crow]] - My partner-in-crime and older-brother figure. Crow is the one who carves small wooden trinkets for me to carry as good-luck charms, and he always buys me sweet pastries whenever we hit a port town.
 - [[Orios Finch|Doc]] - My gentle giant. Sap fiercely protects him, and in return, Doc gives the warmest, bone-crushing hugs whenever she needs grounding.
 
-   **Secrets** 
+**Secrets** 
 Her parents dont know that alot of people run when they hear that Sap the Black is after them. Not even her sister knows.
 
-   **Bridge**
+**Bridge**
 After months of dead ends, empty promises, and leaping from one deck to another, Sap finally struck gold in a dimly lit harbor tavern. A weathered sailor, heavy with ale, slipped her a tantalizing piece of news: Captain Adoot Ironneck and the crew of the [[Old-Hag]] were recently sighted dropping anchor near the jagged, fog-shrouded shores of Stormwreck Isle.
 
 The lead was solid, but it came with a catch, Stormwreck Isle is notorious for its treacherous reefs, unpredictable squalls, and ancient, lurking dangers. No merchant captain in their right mind would sail anywhere near it, and no lone pirate passenger could afford to hire a ship for a suicide run. Sap needed a way onto the island, and more importantly, she needed allies capable of surviving what lay beyond the shore.
