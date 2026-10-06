@@ -17,7 +17,7 @@ Economy:
 draft: false
 ---
 ![[Rivergold.png]]
-## 🌟City of Rivergold [Archenbridge](https://forgottenrealms.fandom.com/wiki/Archenbridge) i Faerûn
+## 🌟City of Rivergold ([Archenbridge](https://forgottenrealms.fandom.com/wiki/Archenbridge) i Faerûn)
 
 Rivergold is a tightly built river trade town where stone walls, narrow streets, and stacked warehouses rise directly from the riverbanks. Barges and cargo ships fill the docks in constant rotation, feeding the city’s role as the main control point between inland trade and downstream export routes. 
 The city feels structured and controlled, shaped by contracts, customs, and logistics. Bells, ledgers, and dock signals set the rhythm of daily life, and the river itself feels less like nature and more like infrastructure.
