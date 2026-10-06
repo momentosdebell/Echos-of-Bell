@@ -23,7 +23,7 @@ Crew:
   - "[[Maeve O'Reilly|Gunner]]"
   - "[[Martha von Je'Den|Boarder]]"
   - "[[Barnacle Barnaby|Shipwright]]"
-  - "[[Orios Finchs|Surgeon & Cook]]"
+  - "[[Orios Finch|Surgeon & Cook]]"
   - "[[Newt Mercer|Quartermaster's Mate]]"
   - "[[Malla Tri|Harpooner]]"
   - "[[Balthazar Stone|Cargo Master]]"
@@ -39,15 +39,16 @@ Crew:
   - "[[Reepicheep|Cabin Girl]]"
 draft: false
 ---
-![[old_hag.jpg]]
+![[old-hag-crew.png]]
 ## 🏝️Landing Parties
+[[old_hag.jpg|Battlemap]]
 **BP (Beauty Pageant)** 
 The first landing party, checking for danger and other setbacks:
 [[Vesper Vane|Nightingale]], [[Martha von Je'Den|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time]]
 
 **DC (Disaster Crew)**
 The scouting party, checking ahead and gathering provisions:
-[[Sappho Vindtop|Sap]], [[Jesper Kross|Biggie]] , [[Ozymandias Dimond|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finchs|Doc]]
+[[Sappho Vindtop|Sap]], [[Jesper Kross|Biggie]] , [[Ozymandias Dimond|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
 
 **Main Event**
 The primary landing party, bringing the full authority, muscle, and final say:

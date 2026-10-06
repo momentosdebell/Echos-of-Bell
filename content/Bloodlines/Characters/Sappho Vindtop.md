@@ -248,7 +248,7 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 - [[Jesper Kross|Biggie]] - My rooftop confidant. Late at night, when the ship is quiet, I climb up to the crow's nest where Biggie shares his secretly hoarded dried fruit and listens to me talk about [[Calis Vindtop|Cal]] without ever getting tired of it.
 - [[Ozymandias Dimond|Ozy]] - My quiet safe haven. Ozy never laughs at my superstitious rituals, he just calmly steps in to help me finish them, offering a reassuring pat on the shoulder when my anxiety takes over.
 - [[Corvus Malakor|Crow]] - My partner-in-crime and older-brother figure. Crow is the one who carves small wooden trinkets for me to carry as good-luck charms, and he always buys me sweet pastries whenever we hit a port town.
-- [[Orios Finchs|Doc]] - My gentle giant. Sap fiercely protects him, and in return, Doc gives the warmest, bone-crushing hugs whenever she needs grounding.
+- [[Orios Finch|Doc]] - My gentle giant. Sap fiercely protects him, and in return, Doc gives the warmest, bone-crushing hugs whenever she needs grounding.
 
 ---
 ## 🗓️Events
