@@ -4,7 +4,7 @@ title: Moody
 Img:
 Race: Goblin
 Class: Ranger
-Age: 57y/o
+Age: 58y/o
 Gender: Female
 Occupation: Master Gunner
 Residence: "[[Old-Hag]]"

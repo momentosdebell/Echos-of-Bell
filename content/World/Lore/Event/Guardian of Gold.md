@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-Status: 11 years before its time
+Status: 10 years before its time
 title: Guardian of Gold
 Category:
   - Event

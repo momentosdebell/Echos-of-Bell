@@ -4,7 +4,7 @@ title: Whisp
 Img:
 Race: Halfling
 Class: Artificer
-Age: 99y/o
+Age: 100y/o
 Gender: Male
 Occupation:
   - Quartermaster's Mate

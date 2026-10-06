@@ -1,5 +1,5 @@
 ---
-Age: Died 101 years ago at 37
+Age: Died 102 years ago at 37
 Updated: 2026-08-28
 title: Sami Winterfrost
 Img:

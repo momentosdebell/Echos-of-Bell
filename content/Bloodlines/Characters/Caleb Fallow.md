@@ -1,5 +1,5 @@
 ---
-Age: Unborn 3 years before there time
+Age: Unborn 2 years before there time
 Updated: 2026-08-27
 Birth: 1469
 Death: 1477

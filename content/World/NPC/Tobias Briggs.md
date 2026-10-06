@@ -4,7 +4,7 @@ title: Mr T
 Img:
 Race: Half-Orc
 Class: Monk
-Age: 25y/o
+Age: 26y/o
 Gender: Male
 Occupation: Rigger
 Residence: "[[Old-Hag]]"

@@ -2,7 +2,7 @@
 Updated: 2026-08-28
 title: Captain Adoot Ironneck
 Img: "[[Adoot Ironneck.jpg]]"
-Age: 43y/o
+Age: 44y/o
 Race: Human
 Class: Monk
 Birth: 1423

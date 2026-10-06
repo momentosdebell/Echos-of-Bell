@@ -1,5 +1,5 @@
 ---
-Status: 75 years before its time
+Status: 74 years before its time
 Updated: 2026-08-31
 title: The Uncrowned
 Category:

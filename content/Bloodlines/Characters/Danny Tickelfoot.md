@@ -3,7 +3,7 @@ Updated: 2026-08-27
 Birth: 1477
 Death: 1593
 title: Danny Tickelfoot
-Age: Unborn 11 years before there time
+Age: Unborn 10 years before there time
 Img: "[[Danny Tickelfoot.jpeg]]"
 Race:
   - Halfling

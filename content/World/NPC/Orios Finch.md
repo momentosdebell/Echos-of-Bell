@@ -4,7 +4,7 @@ title: Doc
 Img:
 Race: Human
 Class: Fighter
-Age: 23y/o
+Age: 24y/o
 Gender: Male
 Occupation:
   - Cook
