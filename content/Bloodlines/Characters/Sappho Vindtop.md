@@ -226,10 +226,14 @@ From that day she was called Sap the Black, and to be unest she aint that danger
 
 ![[ironbolts.jpeg|180]]
    **Affiliations** 
- [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat [[Old-Hag]].
- [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
- [[Sunday Market]] - The source of her black powder.
- [[Fogline]] - The smuggler network she uses to hitch rides across the coast while searching for her crew.
+ - [[Adoot Ironneck]] - Her Captain, and his Iron Bolts on the boat [[Old-Hag]].
+ - [[Rocksan Tickelfoot]] - Cusin and make of her gun Roxi
+ - [[Sunday Market]] - The source of her black powder.
+ - [[Fogline]] - The smuggler network she uses to hitch rides across the coast while searching for her crew.
+ - [[Jesper Kross|Biggie]] - My rooftop confidant. Late at night, when the ship is quiet, I climb up to the crow's nest where Biggie shares his secretly hoarded dried fruit and listens to me talk about [[Calis Vindtop|Cal]] without ever getting tired of it.
+- [[Ozymandias Dimond|Ozy]] - My quiet safe haven. Ozy never laughs at my superstitious rituals, he just calmly steps in to help me finish them, offering a reassuring pat on the shoulder when my anxiety takes over.
+- [[Corvus Malakor|Crow]] - My partner-in-crime and older-brother figure. Crow is the one who carves small wooden trinkets for me to carry as good-luck charms, and he always buys me sweet pastries whenever we hit a port town.
+- [[Orios Finch|Doc]] - My gentle giant. Sap fiercely protects him, and in return, Doc gives the warmest, bone-crushing hugs whenever she needs grounding.
 
    **Secrets** 
 Her parents dont know that alot of people run when they hear that Sap the Black is after them. Not even her sister knows.
@@ -245,10 +249,6 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 
 ---
 ## 💞Relationships
-- [[Jesper Kross|Biggie]] - My rooftop confidant. Late at night, when the ship is quiet, I climb up to the crow's nest where Biggie shares his secretly hoarded dried fruit and listens to me talk about [[Calis Vindtop|Cal]] without ever getting tired of it.
-- [[Ozymandias Dimond|Ozy]] - My quiet safe haven. Ozy never laughs at my superstitious rituals, he just calmly steps in to help me finish them, offering a reassuring pat on the shoulder when my anxiety takes over.
-- [[Corvus Malakor|Crow]] - My partner-in-crime and older-brother figure. Crow is the one who carves small wooden trinkets for me to carry as good-luck charms, and he always buys me sweet pastries whenever we hit a port town.
-- [[Orios Finch|Doc]] - My gentle giant. Sap fiercely protects him, and in return, Doc gives the warmest, bone-crushing hugs whenever she needs grounding.
 
 ---
 ## 🗓️Events
