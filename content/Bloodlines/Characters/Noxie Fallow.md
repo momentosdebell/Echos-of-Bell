@@ -8,7 +8,7 @@ Img: "[[Elyra Fallow.png]]"
 Race:
   - Gnome
 Gender: Female
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

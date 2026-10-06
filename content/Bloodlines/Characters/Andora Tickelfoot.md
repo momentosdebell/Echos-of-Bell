@@ -8,7 +8,7 @@ Img: "[[Andorra Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Occupation: Scholar
 Origin:
   - "[[Tickelfoot]]"

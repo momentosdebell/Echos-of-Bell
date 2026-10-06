@@ -8,7 +8,7 @@ Img: "[[Hann Duskhorn.jpeg]]"
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold (Selgaunt)]]"
+Residence: "[[Rivergold (Myratma)]]"
 Occupation: Military
 Origin:
   - "[[Duskhorn]]"

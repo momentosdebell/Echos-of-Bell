@@ -9,7 +9,7 @@ Race:
   - Dwarf
 Gender: Female
 Occupation: Diplomat
-Residence: "[[Rivergold (Selgaunt)]]"
+Residence: "[[Rivergold (Myratma)]]"
 Origin:
   - "[[McGlagen]]"
 Siblings:

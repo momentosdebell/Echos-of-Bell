@@ -9,7 +9,7 @@ Race:
   - Human
   - Dwarf
 Gender: Female
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

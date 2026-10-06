@@ -9,7 +9,7 @@ Race:
   - Half-Elf
 Gender: Male
 Occupation: Criminal
-Residence: "[[Rivergold (Selgaunt)]]"
+Residence: "[[Rivergold (Myratma)]]"
 Partner: "[[Eldana Tickelfoot]]"
 Children:
   - "[[Daniela Tickelfoot]]"

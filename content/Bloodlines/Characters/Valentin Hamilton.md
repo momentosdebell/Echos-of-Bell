@@ -9,7 +9,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

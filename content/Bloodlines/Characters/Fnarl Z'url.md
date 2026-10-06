@@ -9,7 +9,7 @@ Race:
   - Orc
 Gender: Male
 Occupation: Florist
-Residence: "[[Rivergold (Selgaunt)]]"
+Residence: "[[Rivergold (Myratma)]]"
 Partner: "[[Hef Dong]]"
 draft: false
 ---

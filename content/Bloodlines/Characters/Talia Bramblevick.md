@@ -9,7 +9,7 @@ Race:
   - Gnome
 Gender: Female
 Occupation: "[[World/Locations/Venues/The Rolling Pin|Baker]]"
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Father: Borum Bramblevick
 Mother: "[[Mellinga Lillibet Bramblevick]]"
 draft: false
@@ -17,7 +17,7 @@ draft: false
 ![[Talia Bramblevick.png]]
 ## 📖 Overview
 
-Talia Bramblevick, commonly known as **Sourdough Tally**, is a master baker and long-time resident of [[Ambervale (Archenbridge)]]. She is best known as the owner of **[[The Rolling Pin]]**, one of the town's oldest bakeries, and as the primary mentor figure in the life of [[Molliebeth Bramblevick]].
+Talia Bramblevick, commonly known as **Sourdough Tally**, is a master baker and long-time resident of [[Ambervale]]. She is best known as the owner of **[[The Rolling Pin]]**, one of the town's oldest bakeries, and as the primary mentor figure in the life of [[Molliebeth Bramblevick]].
 
 Though never formally holding a leadership position within [[The Circle of the Blooming Table]], Tally is widely respected for her previous humanitarian work, culinary expertise, and contributions to famine relief efforts throughout the region.
 

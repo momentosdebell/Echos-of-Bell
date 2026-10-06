@@ -8,7 +8,7 @@ Img: "[[Calis Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale (Archenbridge)]]"
+Residence: "[[Ambervale]]"
 Father: "[[Milo Vindtop]]"
 Mother: "[[Jillian Vindtop]]"
 Siblings:

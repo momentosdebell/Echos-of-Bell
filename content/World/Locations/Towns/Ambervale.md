@@ -1,8 +1,8 @@
 ---
 Updated: 2026-08-31
-title: Ambervale (Archenbridge)
+title: Ambervale
 Type: City
-Location:
+Location: Tethyr on Ith River
 Vibe:
   - Idyllic
   - Wholesome
@@ -16,8 +16,8 @@ Economy: Trade
 draft: false
 ---
 ![[Ambervale.png]]
-## 🌟 City of Ambervale ([Archenbridge](https://forgottenrealms.fandom.com/wiki/Archenbridge) i Faerûn)
-Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[Rivergold (Selgaunt)]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
+## 🌟 City of Ambervale
+Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[Rivergold (Myratma)]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
 ## 📜 Overview
 Trade is the backbone, but Ambervale’s real strength is its reputation for reliability. Goods from here are expected to be consistent, durable, and honest in quality, which makes them highly valued.
 
