@@ -4,7 +4,7 @@ title: Sharks
 Img:
 Race: Dragonborn
 Class: Fighter
-Age: 35y/o
+Age: 34y/o
 Gender: Male
 Occupation: Boarding Specialist
 Residence: "[[Old-Hag]]"

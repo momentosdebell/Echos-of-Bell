@@ -4,7 +4,7 @@ title:
 Img: Crow
 Race: Human
 Class: Rogue
-Age: 56y/o
+Age: 55y/o
 Gender: Male
 Occupation: Seaman
 Residence: "[[Old-Hag]]"

@@ -1,5 +1,5 @@
 ---
-Age: Unborn 6 years before there time
+Age: Unborn 7 years before there time
 Updated: 2026-08-27
 Birth: 1473
 Death: 1687

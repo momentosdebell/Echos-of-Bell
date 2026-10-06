@@ -4,7 +4,7 @@ title: B B
 Img:
 Race: Vanara
 Class: Cleric
-Age: 38y/o
+Age: 37y/o
 Gender: Male
 Occupation: Shipwright
 Residence: "[[Old-Hag]]"

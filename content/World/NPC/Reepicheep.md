@@ -4,7 +4,7 @@ title: Pip
 Img:
 Race: Grung
 Class: Rogue
-Age: 27y/o
+Age: 26y/o
 Gender: Female
 Occupation:
   - Cabin Girl

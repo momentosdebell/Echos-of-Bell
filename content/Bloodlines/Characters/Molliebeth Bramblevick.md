@@ -1,5 +1,5 @@
 ---
-Age: 25y/o
+Age: 24y/o
 Updated: 2026-08-28
 title: Molliebeth Bramblevick
 img: "[[Molliebeth Bramblevick.png]]"

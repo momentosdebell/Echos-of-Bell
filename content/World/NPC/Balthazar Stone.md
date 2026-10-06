@@ -4,7 +4,7 @@ title: Bally
 Img:
 Race: Firbolg
 Class: Fighter
-Age: 79y/o
+Age: 78y/o
 Gender: Male
 Occupation:
   - Cargo Master

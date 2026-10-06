@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-Age: 336y/o
+Age: 335y/o
 title: Nightingale
 Img:
 Race: Drow

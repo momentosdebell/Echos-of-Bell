@@ -1,5 +1,5 @@
 ---
-Age: 13y/o
+Age: 12y/o
 Updated: 2026-08-28
 Birth: 1454
 Death: 1829

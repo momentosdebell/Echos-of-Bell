@@ -6,7 +6,7 @@ Race:
   - Human
   - Elf
 Class: Barbarian
-Age: 42y/o
+Age: 41y/o
 Gender: Female
 Occupation: Chief Boarder
 Residence: "[[Old-Hag]]"
