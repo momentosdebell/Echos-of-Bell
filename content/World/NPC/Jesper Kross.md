@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Stitch
+title: Biggie
 Img:
 Race: Simic Hybrid
 Class: Sorcerer

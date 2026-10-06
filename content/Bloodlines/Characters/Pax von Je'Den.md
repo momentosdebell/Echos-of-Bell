@@ -19,9 +19,9 @@ Mother: "[[Eiliss von Je'Den]]"
 Siblings:
   - "[[Hepzibah Smith]]"
   - "[[Gerbera von Je'Den]]"
+  - "[[Martha von Je'Den]]"
 Former Partner: "[[Qia Twinkle]]"
 draft: false
-
 ---
 ![[Pax von Je'Den.jpeg]]
 

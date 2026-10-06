@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Bee
+title: Harp
 Img:
 Race: Kalashtar
 Class: Ranger

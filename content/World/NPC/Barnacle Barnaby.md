@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Barnacle Barnaby
+title: B B
 Img:
 Race: Vanara
 Class: Cleric

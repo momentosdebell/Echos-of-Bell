@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Biggy
+title: Stitch
 Img:
 Race: Tabaxi
 Class: Babarian

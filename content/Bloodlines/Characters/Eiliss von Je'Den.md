@@ -22,9 +22,9 @@ Children:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
   - "[[Gerbera von Je'Den]]"
+  - "[[Martha von Je'Den]]"
 draft: false
 Occupation: Noble
-
 ---
 ![[Eiliss von Je'Den.jpeg]]
 

@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-title: Two Time Vex
+title: Two Time
 Img:
 Race: Githyanki
 Class: Warlock

@@ -1,17 +1,18 @@
 ---
-Age: 55y/o
 Updated: 2026-08-28
-Birth: 1412
-Death: 1541
-title: Hepzibah Smith
-Img: "[[Hepzibah Smith.jpeg]]"
+title: Pawnshop
+Img:
 Race:
   - Human
   - Elf
+Class: Barbarian
+Age: 42y/o
 Gender: Female
-Class: Cleric
-Occupation: Priest
-Residence: "[[Silvergrove City]]"
+Occupation: Chief Boarder
+Residence: "[[Old-Hag]]"
+draft: false
+Birth: 1425
+Death:
 Origin:
   - "[[Nollac]]"
   - "[[Everfall]]"
@@ -19,11 +20,8 @@ Origin:
 Father: "[[Lord Andross von Je'Den]]"
 Mother: "[[Eiliss von Je'Den]]"
 Siblings:
+  - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
   - "[[Gerbera von Je'Den]]"
-  - "[[Martha von Je'Den]]"
-draft: false
 ---
-![[Hepzibah Smith.jpeg]]
-
-
+![[pawn-shop.jpeg]]

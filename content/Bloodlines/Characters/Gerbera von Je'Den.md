@@ -19,9 +19,9 @@ Mother: "[[Eiliss von Je'Den]]"
 Siblings:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
+  - "[[Martha von Je'Den]]"
 draft: false
 Occupation: Adventurer
-
 ---
 ![[Gerbera von Je'Den.jpg]]
 

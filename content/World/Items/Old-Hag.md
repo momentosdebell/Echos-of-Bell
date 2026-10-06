@@ -21,19 +21,19 @@ Crew:
   - "[[Maelis Vex|Navigator]]"
   - "[[Vesper Vane|Helmsman]]"
   - "[[Maeve O'Reilly|Gunner]]"
-  - "[[Martha|Boarder]]"
+  - "[[Martha von Je'Den|Boarder]]"
   - "[[Barnacle Barnaby|Shipwright]]"
   - "[[Orios Finch|Surgeon & Cook]]"
   - "[[Newt Mercer|Quartermaster's Mate]]"
-  - "[[Beatrice|Harpooner]]"
-  - "[[Balthazar Vance|Cargo Master]]"
+  - "[[Malla Tri|Harpooner]]"
+  - "[[Balthazar Stone|Cargo Master]]"
   - "[[Gunnar Thrum|Cannoneer]]"
   - "[[Jesper Kross|Lookout]]"
-  - "[[Ozymandias|Scout]]"
+  - "[[Ozymandias Dimond|Scout]]"
   - "[[Skag Finch|Boarding Specialist]]"
   - "[[Tobias Briggs|Rigger]]"
   - "[[Corvus Malakor|Seaman]]"
-  - "[[Grendel|Havy Deckhand]]"
+  - "[[Grendel Stish|Havy Deckhand]]"
   - "[[Sappho Vindtop|Deckhand]]"
   - "[[Ludo Vance|Ship's Bard]]"
   - "[[Reepicheep|Cabin Girl]]"
@@ -43,23 +43,23 @@ draft: false
 ## 🏝️Landing Parties
 **BP (Beauty Pageant)** 
 The first landing party, checking for danger and other setbacks:
-[[Vesper Vane|Nightingale]], [[Martha|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time Vex]]
+[[Vesper Vane|Nightingale]], [[Martha von Je'Den|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time]]
 
 **DC (Disaster Crew)**
 The scouting party, checking ahead and gathering provisions:
-[[Sappho Vindtop|Sap]], [[Jesper Kross|Stitch]] , [[Ozymandias|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
+[[Sappho Vindtop|Sap]], [[Jesper Kross|Biggie]] , [[Ozymandias Dimond|Ozy]], [[Corvus Malakor|Crow]] and [[Orios Finch|Doc]]
 
 **Main Event**
 The primary landing party, bringing the full authority, muscle, and final say:
-[[Adoot Ironneck|Captain Ironneck]], [[Ludo Vance|Dodo]], [[Gunnar Thrum|Powderkeg]], [[Skag Finch|Sharks]] and [[Balthazar Vance|Bally]]
+[[Adoot Ironneck|Captain Ironneck]], [[Ludo Vance|Dodo]], [[Gunnar Thrum|Powderkeg]], [[Skag Finch|Sharks]] and [[Balthazar Stone|Bally]]
 
 **Skeleton Crew**
 Rearly leaves the boat:
-[[Grendel|Biggy]], [[Newt Mercer|Whisp]], [[Barnacle Barnaby]] and [[Gideon Vane|Saltgrip]]
+[[Grendel Stish|Stitch]], [[Newt Mercer|Whisp]], [[Barnacle Barnaby|B B]] and [[Gideon Vane|Saltgrip]]
 
 **Scramble**
 The rowdy backbone who handle the heavy gear, secure the perimeter, and clean up the leftovers:
-[[Beatrice|Bee]], [[Reepicheep|Pip]] and [[Tobias Briggs|Mr T]]
+[[Malla Tri|Harp]], [[Reepicheep|Pip]] and [[Tobias Briggs|Mr T]]
 
 ## ⚓ Ship Log
 #### Day 98

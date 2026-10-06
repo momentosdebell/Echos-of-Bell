@@ -18,9 +18,9 @@ Children:
   - "[[Hepzibah Smith]]"
   - "[[Pax von Je'Den]]"
   - "[[Gerbera von Je'Den]]"
+  - "[[Martha von Je'Den]]"
 draft: false
 Occupation: Noble
-
 ---
 ![[Lord Andross von Je'Den.jpeg]]
 
