@@ -7,7 +7,7 @@ title: Feather Tickelfoot
 Img: "[[Feather Tickelfoot.jpeg]]"
 Race: Halfling
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Father: "[[Eldar Tarrintel]]"
 Mother: "[[Andora Tickelfoot]]"
 Siblings:
@@ -19,7 +19,6 @@ Children:
   - "[[Eldana Tickelfoot]]"
 draft: false
 Occupation: "[[Dont Tickel My Foot|Store Owner]]"
-
 ---
 ![[Feather Tickelfoot.jpeg]]
 

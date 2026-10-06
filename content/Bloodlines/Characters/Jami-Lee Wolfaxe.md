@@ -9,14 +9,13 @@ Race:
   - Half-Elf
 Gender: Male
 Occupation: Criminal
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Partner: "[[Eldana Tickelfoot]]"
 Children:
   - "[[Daniela Tickelfoot]]"
   - "[[Dave Tickelfoot]]"
   - "[[Danny Tickelfoot]]"
 draft: false
-
 ---
 ![[Jami-Lee Wolfaxe.jpeg]]
 

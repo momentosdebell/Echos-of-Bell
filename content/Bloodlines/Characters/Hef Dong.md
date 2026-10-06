@@ -7,7 +7,7 @@ title: Hef Dong
 Img: "[[Hef Dong]]"
 Race: Elf
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"
@@ -18,7 +18,6 @@ Siblings:
   - "[[Kinni Tiller]]"
 Partner: "[[Fnarl Z'url]]"
 draft: false
-
 ---
 ![[Hef Dong.jpeg]]
 

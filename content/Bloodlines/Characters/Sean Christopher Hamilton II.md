@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[Nollac]]"
@@ -24,7 +24,6 @@ Children:
   - "[[Frick Achkook]]"
   - "[[Sean Christopher Hamilton III]]"
 draft: false
-
 ---
 
 

@@ -9,7 +9,7 @@ Race:
   - Dwarf
 Gender: Female
 Occupation: Diplomat
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Origin:
   - "[[McGlagen]]"
 Siblings:
@@ -18,7 +18,6 @@ Partner: "[[Arthur Wolfric McGlagen II]]"
 Children:
   - "[[Arthur Wolfric McGlagen III]]"
 draft: false
-
 ---
 
 

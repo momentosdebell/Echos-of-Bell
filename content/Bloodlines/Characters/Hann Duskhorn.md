@@ -8,14 +8,13 @@ Img: "[[Hann Duskhorn.jpeg]]"
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Occupation: Military
 Origin:
   - "[[Duskhorn]]"
 Siblings:
   - "[[Toy McGlagen]]"
 draft: false
-
 ---
 ![[Hann Duskhorn.jpeg]]
 

@@ -8,7 +8,7 @@ Img: "[[Unani Niblespirit.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Occupation: Farmer
 Origin:
   - "[[Tickelfoot]]"
@@ -21,7 +21,6 @@ Partner: "[[Horvan Niblespirit]]"
 Children:
   - "[[Rocksan Tickelfoot]]"
 draft: false
-
 ---
 ![[Unani Niblespirit.jpeg]]
 

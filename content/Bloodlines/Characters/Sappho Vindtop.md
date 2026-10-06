@@ -9,7 +9,7 @@ Race: Halfling
 Gender: Female
 Occupation: Pirate
 Residence:
-  - "[[Rivergold]]"
+  - "[[Rivergold (Archenbridge)]]"
   - "[[Old-Hag]]"
 Origin:
   - "[[Tickelfoot]]"
@@ -172,7 +172,7 @@ draft: false
 ## 📜Overview 
 **Sappho Vindtop** known in darker circles as _Sap the Black_ - is an incurable optimist, former fisherman's daughter, and accidentally stranded pirate.
 
-Armed with her twin scimitars (_First Kiss_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _[[Old-Hag]]_, a minor scheduling conflict in her hometown of [[Rivergold]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
+Armed with her twin scimitars (_First Kiss_ and _Last Dance_) and her custom pistol _Roxi_, she wanders the world with a beaming smile and an absurd list of sea-superstitions. Formerly sailing under Captain [[Adoot Ironneck]] aboard the _[[Old-Hag]]_, a minor scheduling conflict in her hometown of [[Rivergold (Archenbridge)]] left her behind. Now, she hops from ship to ship trying to track down her old crew.
 
 To her parents, she's still the adventurous girl working an honest fishing job. To anyone who recognizes her pirate moniker... she's someone you run from.
 
@@ -190,7 +190,7 @@ To her parents, she's still the adventurous girl working an honest fishing job. 
 ## 🏰Background 
 
    **Origin** 
-Sap grow up in a quiet little settlement just outside of [[Rivergold]] with both her parents and her twin sister Cal. They had a good childhood, not rich by any means, but they got by. 
+Sap grow up in a quiet little settlement just outside of [[Rivergold (Archenbridge)]] with both her parents and her twin sister Cal. They had a good childhood, not rich by any means, but they got by. 
 They are twins, but so unlike each other. Cal was/is a book worm and Sap hade to bribe her sister whit "we'll go to the book store after" ALOT! And they did most of the time. 
 
    **Upbringing** 
@@ -200,7 +200,7 @@ Sap was more of an adventure girl, she ran far and as wide she could, but still 
 If you ask her parents, she got work on a fishing boat, so she could both see the world and not run away. She on the other hand found a crew of pirates, Captain [[Adoot Ironneck]] and his crew, Iron Bolts.
 
    **Culture** 
-Some times she just sat in a tree West of [[Rivergold]], watching over the trade rute road. Sap was fiddling with a button on her jacket when it slipped from her fingers, disappearing into the thick moss and tall grass below. Seconds later, a traveling priest stopped directly under her branch, proclaiming loudly to his companions about Endrift of [[Sixfold]] and how faith keeps a soul steady through the storm.
+Some times she just sat in a tree West of [[Rivergold (Archenbridge)]], watching over the trade rute road. Sap was fiddling with a button on her jacket when it slipped from her fingers, disappearing into the thick moss and tall grass below. Seconds later, a traveling priest stopped directly under her branch, proclaiming loudly to his companions about Endrift of [[Sixfold]] and how faith keeps a soul steady through the storm.
 
 Sap, realizing what she had just done, froze in dread: "Oh no, that freakin button..."
 
@@ -214,7 +214,7 @@ She wasnt that most on a boat, her father [[Milo Vindtop]], been a fisherman too
 And even if it wasnt a real education, some of her sisters yapping stock.
 
    **Turning Point** 
-One time when Iron Bolts stopped at [[Rivergold]], she just had to go and say hi to her parents, nothing strange. But they didnt know Sap was a pirate, and sometimes word spread fast, and her parents heard that there were some pirates in town, she werent allowed to go back, to protect her. One thing led to another and she missed her boat, she lost her crew, nothing dramatic or so she just couldnt reach them. 
+One time when Iron Bolts stopped at [[Rivergold (Archenbridge)]], she just had to go and say hi to her parents, nothing strange. But they didnt know Sap was a pirate, and sometimes word spread fast, and her parents heard that there were some pirates in town, she werent allowed to go back, to protect her. One thing led to another and she missed her boat, she lost her crew, nothing dramatic or so she just couldnt reach them. 
 
 So now she jumps from boat to boat to hopefully run in to her crew again. To track down her crew, Sap relies heavily on **[[Fogline]]** the shadowy coastal smuggler network. Hopping from one smuggler cutter to another, the captains let her ride along partly out of fear of "Sap the Black" and partly because they think her weird sea-superstitions actually keep coastal patrols away.
 

@@ -10,13 +10,12 @@ Race:
 Gender: Female
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Horvan Niblespirit]]"
 Mother: "[[Unani Niblespirit]]"
 draft: false
-
 ---
 ![[Rocksan Tickelfoot.jpeg]]
 Build a gun to [[Sappho Vindtop]] by buying schimatics on [[Sunday Market]]

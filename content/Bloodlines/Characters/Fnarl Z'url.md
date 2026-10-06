@@ -9,10 +9,9 @@ Race:
   - Orc
 Gender: Male
 Occupation: Florist
-Residence: "[[Rivergold]]"
+Residence: "[[Rivergold (Archenbridge)]]"
 Partner: "[[Hef Dong]]"
 draft: false
-
 ---
 ![[Fnarl Z'url.jpeg]]
 
