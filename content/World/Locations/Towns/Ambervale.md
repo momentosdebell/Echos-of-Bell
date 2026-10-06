@@ -1,13 +1,13 @@
 ---
 Updated: 2026-08-31
-title: Ambervale
+title: Ambervale (Daggerford in faerun )
 Type: City
 Location:
 Vibe:
   - Idyllic
   - Wholesome
 Custodian: Council of Ambervale
-Population: "5000"
+Population: "1800"
 Cityzens:
   - Gnome
   - Halfling
