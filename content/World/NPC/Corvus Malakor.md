@@ -1,7 +1,7 @@
 ---
 Updated: 2026-08-28
-title:
-Img: Crow
+title: Crow
+Img:
 Race: Human
 Class: Rogue
 Age: 56y/o
