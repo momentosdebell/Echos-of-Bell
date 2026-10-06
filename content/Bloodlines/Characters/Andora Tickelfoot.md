@@ -8,7 +8,7 @@ Img: "[[Andorra Tickelfoot.jpeg]]"
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Occupation: Scholar
 Origin:
   - "[[Tickelfoot]]"

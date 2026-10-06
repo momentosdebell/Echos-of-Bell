@@ -10,14 +10,13 @@ Race:
   - Dog
 Gender: Female
 Class: Rogue
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Father: "[[Gustav Ekblad]]"
 Mother: "[[Agnes Ekblad]]"
-
 ---
 ![[Princess Wiggles.jpg]]
 ## 📖 Overview
-Princess Wiggles, living at [[The Shelf,]] an inn in the mountain settlement of [[World/Locations/Towns/Ever Peak]] run by [[Gustav Ekblad]] and [[Agnes Ekblad]]. To the tavern patrons, she is just a remarkably opinionated dog; to herself, she is an ancient soul who has seen empires rise and fall, and who now prefers a warm hearth, good food, and zero nonsense.
+Princess Wiggles, living at [[The Shelf,]] an inn in the mountain settlement of [[Ever Peak (Citadel Adbar)]] run by [[Gustav Ekblad]] and [[Agnes Ekblad]]. To the tavern patrons, she is just a remarkably opinionated dog; to herself, she is an ancient soul who has seen empires rise and fall, and who now prefers a warm hearth, good food, and zero nonsense.
 
 ## 🕰️ Early Life
 Long before she was found shivering and startlingly articulate by the back door of [[World/Locations/Venues/The Shelf]], her origins stretched back across millennia of forgotten names and ancient echoes of power. But in this current existence, her story began on a biting, snow-heavy night when Gustav and Agnes opened their kitchen door to throw out the day's scraps and instead found a strange, intensely judgmental puppy staring them down. Unimpressed by the cold and completely unintimidation by the mountain winds, she simply walked past them, hopped onto the warmest rug by the hearth, and decided these two humans would do as her caretakers.

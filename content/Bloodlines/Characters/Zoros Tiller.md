@@ -8,14 +8,13 @@ Img: "[[Zoros Tiller.jpeg]]"
 Race:
   - Satyr
 Gender: Male
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Partner: "[[Kinni Tiller]]"
 Children:
   - "[[Kinto Tiller]]"
   - "[[Qia Twinkle]]"
 draft: false
 Occupation: Politician
-
 ---
 ![[Zoros Tiller.jpeg]]
 

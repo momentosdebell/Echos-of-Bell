@@ -8,7 +8,7 @@ Img: "[[Elyra Fallow.png]]"
 Race:
   - Gnome
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -19,7 +19,6 @@ Siblings:
   - "[[Caleb Fallow]]"
 draft: false
 Occupation: Student
-
 ---
 ![[Elyra Fallow.png]]
 

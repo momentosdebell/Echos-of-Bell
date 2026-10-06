@@ -9,7 +9,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Orin Hamilton]]"
@@ -21,7 +21,6 @@ Siblings:
   - "[[Grizel Hamilton]]"
 draft: false
 Occupation: Warehouse Master
-
 ---
 ![[Quinn Hamilton.png]]
 

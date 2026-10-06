@@ -8,7 +8,7 @@ Img: "[[Caleb Fallow.png]]"
 Race:
   - Gnome
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Occupation: Student
 Origin:
   - "[[Hamilton]]"
@@ -19,7 +19,6 @@ Mother: "[[Molliebeth Bramblevick]]"
 Siblings:
   - "[[Noxie Fallow]]"
 draft: false
-
 ---
 ![[Caleb Fallow.png]]
 

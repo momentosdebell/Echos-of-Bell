@@ -11,7 +11,7 @@ Race:
 Gender: Female
 Class: Bard
 Occupation: Musician
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Mog Yotul]]"
@@ -20,7 +20,6 @@ Siblings:
   - "[[Scratch Yotul]]"
 Partner: "[[Bob]]"
 draft: false
-
 ---
 
 

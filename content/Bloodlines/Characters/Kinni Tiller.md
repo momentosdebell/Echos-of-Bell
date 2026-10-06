@@ -8,7 +8,7 @@ Img: "[[Kinni Tiller.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"
@@ -22,7 +22,6 @@ Children:
   - "[[Kinto Tiller]]"
   - "[[Qia Twinkle]]"
 draft: false
-
 ---
 ![[Kinni Tiller.jpeg]]
 

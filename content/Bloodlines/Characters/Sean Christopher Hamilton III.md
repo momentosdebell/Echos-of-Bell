@@ -9,7 +9,7 @@ Race:
   - Dwarf
   - Human
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
 Father: "[[Sean Christopher Hamilton II]]"
@@ -22,7 +22,6 @@ Children:
   - "[[Sean Christopher Hamilton IV]]"
   - "[[Wiltor Hamilton]]"
 draft: false
-
 ---
 ![[Sean Christopher Hamilton III.jpeg]]
 

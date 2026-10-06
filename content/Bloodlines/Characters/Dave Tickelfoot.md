@@ -9,7 +9,7 @@ Race:
   - Halfling
   - Half-Elf
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Jami-Lee Wolfaxe]]"
@@ -19,7 +19,6 @@ Siblings:
   - "[[Danny Tickelfoot]]"
 draft: false
 Occupation: Student
-
 ---
 ![[Dave Tickelfoot.jpeg]]
 

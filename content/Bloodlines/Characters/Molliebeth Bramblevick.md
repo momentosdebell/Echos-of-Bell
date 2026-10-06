@@ -12,7 +12,7 @@ Death: 1844
 Gender: Female
 Class: Cleric
 Occupation: "[[The Circle of the Blooming Table|Field Worker]]"
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -29,7 +29,6 @@ Children:
   - "[[Noxie Fallow]]"
   - "[[Caleb Fallow]]"
 draft: false
-
 ---
 ![[Molliebeth Bramblevick.png]]
 

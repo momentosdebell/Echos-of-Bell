@@ -10,7 +10,7 @@ Race:
   - Human
 Gender: Male
 Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:
@@ -19,7 +19,6 @@ Partner: "[[Agnes Ekblad]]"
 Children:
   - "[[Princess Wiggles]]"
 draft: false
-
 ---
 
 

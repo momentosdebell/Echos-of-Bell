@@ -8,7 +8,7 @@ Img: "[[Milo Vindtop.jpeg]]"
 Race:
   - Halfling
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Tickelfoot]]"
 Siblings:
@@ -19,7 +19,6 @@ Children:
   - "[[Calis Vindtop]]"
 draft: false
 Occupation: Fisherman
-
 ---
 ![[Milo Vindtop.jpeg]]
 

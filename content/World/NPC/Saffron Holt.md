@@ -8,7 +8,7 @@ Birth:
 Death:
 Gender: Female
 Occupation: "[[The Circle of the Blooming Table]]"
-Residence: "[[World/Locations/Towns/Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 draft: false
 ---
 

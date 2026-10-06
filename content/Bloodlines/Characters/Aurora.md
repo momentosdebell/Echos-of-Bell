@@ -7,9 +7,8 @@ title: Aurora
 Img: "[[Aurora.jpeg]]"
 Race:
   - Human
-
 Gender: Female
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Origin:
   - "[[Winterfrost]]"
   - "[[Hamilton]]"

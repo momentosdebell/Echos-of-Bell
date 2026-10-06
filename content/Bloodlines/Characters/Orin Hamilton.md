@@ -9,7 +9,7 @@ Race:
   - Gnome
 Gender: Male
 Occupation: Mechanic
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Partner: "[[Gelinda Hamilton]]"
 Children:
   - "[[Valentin Hamilton]]"
@@ -18,7 +18,6 @@ Children:
   - "[[Quinn Hamilton]]"
   - "[[Grizel Hamilton]]"
 draft: false
-
 ---
 ![[Orin Hamilton.png]]
 

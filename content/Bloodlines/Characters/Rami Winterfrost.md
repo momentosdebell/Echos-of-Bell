@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Bard
 Occupation: Musician
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Origin:
   - "[[Winterfrost]]"
 Father: "[[Samo Winterfrost]]"
@@ -19,7 +19,6 @@ Siblings:
   - "[[Sami Winterfrost]]"
   - "[[Lolo Winterfrost]]"
 draft: false
-
 ---
 Rami the Lost, the forgotten one. If you ask his family, they would tell you that Rami died when the mountain village of Irna was attacked by a horde of trolls.
 He is the youngest of three siblings, with his sister Lolo in the middle and his older brother Sami cast as the towering figure whose shadow he has lived in his entire life, constantly told to be more like Sami or fight like him. Their father, Samo, was even proud of Lolo, while Rami felt like the useless one, longing for a more affectionate life rather than being judged solely on how far he could throw a log. When the trolls attacked, he saw his way out; simply leaving his family wasn't accepted, so he preferred that they believe he died an honorable death in battle. Whether his village still stands is uncertain, though he is fairly sure his family survived, and the thought of running into them out in the world terrifies him, though on the flip side, they don't frequent taverns and town squares like he does.

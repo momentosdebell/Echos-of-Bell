@@ -7,7 +7,7 @@ title: Agnes Ekblad
 Race: Human
 Gender: Female
 Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Father: "[[Agust Ekblad]]"
 Mother: "[[Bromhilda Winterfrost]]"
 Siblings:

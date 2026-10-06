@@ -9,7 +9,7 @@ Race:
   - Human
   - Dwarf
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"
@@ -28,7 +28,6 @@ Children:
   - "[[Grizel Hamilton]]"
 draft: false
 Occupation: Politician
-
 ---
 ![[Gelinda Hamilton.png]]
 

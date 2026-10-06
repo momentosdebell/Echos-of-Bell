@@ -18,7 +18,7 @@ When you write your own backstory, you need names, places, lore. Here you'll fin
 - [[World/Locations/Venues/River Royal]] - vinjard that produce vine for centuries.
 - [[World/Locations/Venues/Dynamic Office Of Reality]] - the best Magic shop in the Kingdom. 
 - [[World/Locations/Venues/The Seven Cats Inn]] - Country spread concern inn, first of its kind. 
-- Great Peak Gate in [[World/Locations/Towns/Ever Peak]] - Land mark
+- Great Peak Gate in [[Ever Peak (Citadel Adbar)]] - Land mark
 - Moonhall Gardens in [[Silvergrove City (Evereska)]] - An extra ordinarie garden.
 - Eternal Archive in [[Silvergrove City (Evereska)]] - the oldest library in the country.
 ---

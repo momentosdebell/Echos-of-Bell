@@ -7,7 +7,7 @@ title: Mellinga Lillibet Bramblevick
 Img:
 Race: Gnome
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Partner: Borum Bramblevick
 Children:
   - "[[Talia Bramblevick]]"

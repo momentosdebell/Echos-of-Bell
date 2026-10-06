@@ -8,7 +8,7 @@ Img:
 Race:
   - Halfling
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Eldar Tarrintel]]"
@@ -21,7 +21,6 @@ Children:
   - "[[Sean Christopher Hamilton IV]]"
   - "[[Wiltor Hamilton]]"
 draft: false
-
 ---
 
 

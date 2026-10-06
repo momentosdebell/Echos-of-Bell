@@ -9,7 +9,7 @@ Race:
   - Firbolg
 Gender: Male
 Class: Druid
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Partner: "[[Safir Windgust]]"
 Children:
   - "[[Gustav Ekblad]]"
@@ -17,7 +17,6 @@ Children:
   - "[[Sequoia]]"
 draft: false
 Occupation: Arch Druid
-
 ---
 
 

@@ -9,7 +9,7 @@ Race:
   - Satyr
   - Elf
 Gender: Male
-Residence: "[[Ever Peak]]"
+Residence: "[[Ever Peak (Citadel Adbar)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"
@@ -18,7 +18,6 @@ Mother: "[[Kinni Tiller]]"
 Siblings:
   - "[[Qia Twinkle]]"
 draft: false
-
 ---
 ![[Kinto Tiller.jpeg]]
 

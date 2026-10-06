@@ -9,7 +9,7 @@ Race:
   - Halfling
   - Half-Elf
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Occupation: Student
 Origin:
   - "[[Tickelfoot]]"
@@ -19,7 +19,6 @@ Siblings:
   - "[[Dave Tickelfoot]]"
   - "[[Danny Tickelfoot]]"
 draft: false
-
 ---
 ![[Daniela Tickelfoot.jpeg]]
 

@@ -8,14 +8,13 @@ Img: "[[Harrick Fallow.png]]"
 Race:
   - Gnome
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Selgaunt)]]"
 Partner: "[[Lysandra Fallow]]"
 Former Partner: "[[Molliebeth Bramblevick]]"
 Children:
   - "[[Noxie Fallow]]"
   - "[[Caleb Fallow]]"
 draft: false
-
 ---
 ![[Harrick Fallow.png]]
 
