@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Artificer
 Occupation: Mechanic
-Residence: "[[Rivergold (Myratma)]]"
+Residence: "[[Rivergold (Maxal)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[Nollac]]"

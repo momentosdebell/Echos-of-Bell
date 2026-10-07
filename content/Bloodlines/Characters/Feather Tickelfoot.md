@@ -7,7 +7,7 @@ title: Feather Tickelfoot
 Img: "[[Feather Tickelfoot.jpeg]]"
 Race: Halfling
 Gender: Male
-Residence: "[[Rivergold (Myratma)]]"
+Residence: "[[Rivergold (Maxal)]]"
 Father: "[[Eldar Tarrintel]]"
 Mother: "[[Andora Tickelfoot]]"
 Siblings:

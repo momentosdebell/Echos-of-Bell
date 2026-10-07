@@ -7,7 +7,7 @@ title: Hef Dong
 Img: "[[Hef Dong]]"
 Race: Elf
 Gender: Male
-Residence: "[[Rivergold (Myratma)]]"
+Residence: "[[Rivergold (Maxal)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

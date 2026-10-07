@@ -44,7 +44,7 @@ draft: false
 Along time ago Seahag started its sailing in the Shining Sea, working its way up to Lake of Steam, where there wernt much to do, [[Adoot Ironneck|Ironneck]] heard that there were some locrative island just north of Shipwrek Neck, there were shot of clouds tight sports before reaching Vilhon Reach. From there it was mainly "down hill".
 Ever since they been in Sea of Fallen Stars, around everywhere basically. 
 
-The crew picked up a treasure map, a map of a place no one tutched [[Games/DoSI/index|Stormwreck Isle]]. But it was the same hard travel he once did. Well back on The Shingsea they stopped at [[Rivergold (Myratma)]], to stuck up food and water, there they lost [[Sappho Vindtop]], due to a scheduling miss. 
+The crew picked up a treasure map, a map of a place no one tutched [[Games/DoSI/index|Stormwreck Isle]]. But it was the same hard travel he once did. Well back on The Shingsea they stopped at [[Rivergold (Maxal)]], to stuck up food and water, there they lost [[Sappho Vindtop]], due to a scheduling miss. 
 
 So they headed out, traveling around Duchy of Valen, past the Cimarin Isles and up to Baldurs Gate and finaly the Sword Coast.
 
@@ -90,7 +90,7 @@ Doc has officially stopped complaining about having to stitch up flesh wounds an
 Moody and Powder Keg loaded the cannons in thick fog. Sap was first over the bulwarks alongside Sharks and Pawnshop, firing pistol with one hand and swinging sword with the other. You can't tell if she's smiling because she loves the fight or because she's terrified of her own superstitions. We took three chests of silver and two casks of salt beef.
 
 #### Day 1178
-Dropped anchor near [[Rivergold (Myratma)]] to load up on fresh water and [[Sunday Market]] black powder. Sap went ashore to "say a quick hi" to her folks and pick up supplies from her cousin [[Rocksan Tickelfoot| Rocksan]]. We gave her a strict deadline before the tide turned. Local guards started snooping around the docks looking for pirates, so we had to cast off fast.
+Dropped anchor near [[Rivergold (Maxal)]] to load up on fresh water and [[Sunday Market]] black powder. Sap went ashore to "say a quick hi" to her folks and pick up supplies from her cousin [[Rocksan Tickelfoot| Rocksan]]. We gave her a strict deadline before the tide turned. Local guards started snooping around the docks looking for pirates, so we had to cast off fast.
 
 #### Day 1180 
 Sap missed the boat. Literally. We waited as long as we dared, but with navy cutters patrolling the harbor, Ironneck had to give the order to weigh anchor. Saltgrip left a word with the local [[Fogline]] smugglers to keep an eye on her. She's a smart kid, she'll find a way back to us eventually.

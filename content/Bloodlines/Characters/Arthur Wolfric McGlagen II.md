@@ -8,7 +8,7 @@ Img:
 Race:
   - Dwarf
 Gender: Male
-Residence: "[[Rivergold (Myratma)]]"
+Residence: "[[Rivergold (Maxal)]]"
 Occupation: Politician
 Origin:
   - "[[McGlagen]]"

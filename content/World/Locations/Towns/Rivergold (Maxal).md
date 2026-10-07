@@ -1,28 +1,27 @@
 ---
 Updated: 2026-09-27
-title: Rivergold (Myratma)
+title: Rivergold (Maxal)
 Type: City
-Location: Tethyr
+Location: Far Payit, Maztica
 Vibe:
-  - Bustling
-  - Trade-heavy
-  - Southern
-  - River port
-Custodian: "City Council"
-Population: "50 000"
+  - Colonial
+  - Trade outpost
+  - Regulated
+  - Jungle port
+Custodian: City Council
+Population: 20 000
 Cityzens:
   - Human
+  - Green Folk
   - Halfling
-  - Half-Elf
-  - Dwarf 
 Economy:
-  - Caravan trade
-  - River shipping
-  - Textiles
+  - Exotic goods
+  - Logistics
+  - Spice trade
 draft: false
 ---
 ![[Rivergold.png]]
-## 🌟City of Rivergold ([Myratma](https://forgottenrealms.fandom.com/wiki/Myratma) i Faerûn)
+## 🌟City of Rivergold ([Maxal](https://forgottenrealms.fandom.com/wiki/Maxal) i Toril)
 
 Rivergold is a tightly built river trade town where stone walls, narrow streets, and stacked warehouses rise directly from the riverbanks. Barges and cargo ships fill the docks in constant rotation, feeding the city’s role as the main control point between inland trade and downstream export routes. 
 The city feels structured and controlled, shaped by contracts, customs, and logistics. Bells, ledgers, and dock signals set the rhythm of daily life, and the river itself feels less like nature and more like infrastructure.

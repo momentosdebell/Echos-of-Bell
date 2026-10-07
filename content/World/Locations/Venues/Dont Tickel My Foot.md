@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Dont Tickel My Foot
 Type: Shop
-Location: "[[Rivergold (Myratma)]]"
+Location: "[[Rivergold (Maxal)]]"
 Vibe:
   - Wierd
   - Intresting
