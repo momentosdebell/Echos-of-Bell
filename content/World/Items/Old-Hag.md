@@ -41,13 +41,18 @@ draft: false
 ---
 ![[old-hag-crew.png]]
 ## 📜 Overview
-Along time ago Seahag started its sailing in the Shining Sea, working its way up to Lake of Steam, where there wernt much to do, [[Adoot Ironneck|Ironneck]] heard that there were some locrative island just north of Shipwrek Neck, there were shot of clouds tight sports before reaching Vilhon Reach. From there it was mainly "down hill".
+Along time ago Seahag started its sailing in the Shining Sea, working its way up to Lake of Steam, where there wernt much to do,  heard that there were some locrative island just north of Shipwrek Neck, there were shot of clouds tight sports before reaching Vilhon Reach. From there it was mainly "down hill".
 Ever since they been in Sea of Fallen Stars, around everywhere basically. 
 
-The crew picked up a treasure map, a map of a place no one tutched [[Games/DoSI/index|Stormwreck Isle]]. But it was the same hard travel he once did. Well back on The Shingsea they stopped at [[Rivergold (Maxal)]], to stuck up food and water, there they lost [[Sappho Vindtop]], due to a scheduling miss. 
+The crew picked up a treasure map, a map of a place no one tutched . But it was the same hard travel he once did. Well back on The Shingsea they stopped at [[Rivergold (Maxal)]], to stuck up food and water, there they lost [[Sappho Vindtop]], due to a scheduling miss. 
 
 So they headed out, traveling around Duchy of Valen, past the Cimarin Isles and up to Baldurs Gate and finaly the Sword Coast.
 
+A long time ago, the Seahag cut its first waves across the Shining Sea and headed straight down into the Crowded Sea, where the real action was. [[Adoot Ironneck|Ironneck]] had caught wind of some lucrative little hideouts tucked away in the southern runs. Ever since then, they’ve lived their lives chewing up the Great Sea and, above all, the Crowded Sea, poking around every port and cove worth mentioning.
+
+Somewhere along the line, the crew fished up an old treasure map, a chart of a place nobody dared touch: [[Games/DoSI/index|Stormwreck Isle]]. Later on, heading west across the ocean wave, they made port at [[Rivergold (Maxal)]] in Maztica to stock up on food and water. That’s where they lost [[Sappho Vindtop]], thanks to a classic scheduling screw-up.
+
+Turning back east from the western continent, they pushed past the Lantan, dodging the Chult, hauling north past Nelanthere Islands, and finally breaking into the Sword Coast.
 ## 🏝️Landing Parties
 [[old_hag.jpg|Battlemap]]
 **BP (Beauty Pageant)** 
