@@ -11,7 +11,7 @@ Race:
 Gender: Female
 Class: Bard
 Occupation: Musician
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Mog Yotul]]"

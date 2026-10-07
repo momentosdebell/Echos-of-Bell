@@ -9,7 +9,7 @@ Race:
   - Halfling
   - Half-Elf
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Matil)]]"
 Occupation: Student
 Origin:
   - "[[Tickelfoot]]"

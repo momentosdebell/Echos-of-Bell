@@ -8,7 +8,7 @@ Img: "[[Helga Nollac.jpeg]]"
 Race:
   - Human
 Gender: Female
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Lucy Nollac]]"

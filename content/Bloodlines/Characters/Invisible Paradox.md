@@ -7,7 +7,7 @@ title: Invisible Paradox
 Img: "[[_Invisible Paradox_.jpeg]]"
 Gender: Male
 Occupation: Crime Lord
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Partner: "[[Helena Bunkum]]"
 draft: false
 ---

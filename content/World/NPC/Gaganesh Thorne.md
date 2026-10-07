@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Wizard
 Occupation: "[[World/Locations/Venues/Dynamic Office Of Reality|Store Owner]]"
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Children:
   - "[[Sequoia]]"
 draft: false

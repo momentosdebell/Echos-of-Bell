@@ -10,7 +10,7 @@ Race:
   - Human
 Gender: Male
 Occupation: "[[World/Locations/Venues/The Shelf|Innkeeper]]"
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Father: "[[Flow Windgust]]"
 Mother: "[[Safir Windgust]]"
 Siblings:

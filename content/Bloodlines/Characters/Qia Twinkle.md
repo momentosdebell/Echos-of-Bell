@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Monk
 Occupation: Bounty Hunter
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

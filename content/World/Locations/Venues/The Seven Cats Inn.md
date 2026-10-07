@@ -46,6 +46,6 @@ Among staff and long term travelers, a quiet saying emerged after the transition
 
 Ironically, live cats (animals) are no longer commonly allowed within the inns, as modern hygiene standards and network regulations discourage animals on premises.
 
-Staff are not locally based. Instead, they are contracted through a central administration hub in [[Silvergrove City (Evereska)]] and assigned to branches as needed. Each day, employees use the inn’s teleportation network to travel from centralized city quarters, work their shifts on site, and return the same way.
+Staff are not locally based. Instead, they are contracted through a central administration hub in [[Silvergrove City (Silverymoon)]] and assigned to branches as needed. Each day, employees use the inn’s teleportation network to travel from centralized city quarters, work their shifts on site, and return the same way.
 
 This creates a rotating workforce system where training, service standards, and procedures remain highly uniform across all branches, while local staffing dependency is minimized.

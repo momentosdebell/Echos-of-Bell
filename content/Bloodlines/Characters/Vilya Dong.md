@@ -9,7 +9,7 @@ Race:
   - Elf
   - Dragonborn
 Gender: Female
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Dong]]"
 Father: "[[Lord Hilivard Everfall]]"

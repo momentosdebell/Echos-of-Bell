@@ -8,7 +8,7 @@ Img: "[[Aurora.jpeg]]"
 Race:
   - Human
 Gender: Female
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Origin:
   - "[[Winterfrost]]"
   - "[[Hamilton]]"

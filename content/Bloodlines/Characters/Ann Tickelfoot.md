@@ -9,7 +9,7 @@ Race:
   - Halfling
 Gender: Female
 Occupation: Mechanic
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Matil)]]"
 Origin:
   - "[[Tickelfoot]]"
 Father: "[[Feather Tickelfoot]]"

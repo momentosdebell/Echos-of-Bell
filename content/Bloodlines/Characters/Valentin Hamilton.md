@@ -9,7 +9,7 @@ Race:
   - Gnome
   - Dwarf
 Gender: Male
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Matil)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

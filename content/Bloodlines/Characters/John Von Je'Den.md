@@ -8,7 +8,7 @@ Img: "[[John Von Je'Den.jpeg]]"
 Race:
   - Human
 Gender: Male
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Partner: "[[Helga Nollac]]"
 Children:
   - "[[Lord Andross von Je'Den]]"

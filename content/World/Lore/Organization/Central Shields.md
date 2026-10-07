@@ -11,7 +11,7 @@ draft: false
 ---
 > [!infobox]+ Quickies  
 > **Type:**  City Guard
-> **Headquarters:**  [[Silvergrove City (Evereska)]]
+> **Headquarters:**  [[Silvergrove City (Silverymoon)]]
 > **Leader:** Dorian Blackwell
 > **Size:** Large 
 > **Influence:** High in trade cities, moderate in rural zones

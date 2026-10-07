@@ -9,7 +9,7 @@ Race:
   - Human
   - Dwarf
 Gender: Female
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Matil)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

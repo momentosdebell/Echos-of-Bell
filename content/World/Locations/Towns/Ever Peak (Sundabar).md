@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-title: Ever Peak (Citadel Adbar)
+title: Ever Peak (Sundabar)
 Type: City
 Location:
 Vibe:
@@ -17,7 +17,7 @@ Economy:
 draft: false
 ---
 ![[Ever Peak.png]]
-### 🌟 City of Ever Peak ([Citadel Adbar](https://forgottenrealms.fandom.com/wiki/Citadel_Adbar) i Faerûn)
+### 🌟 City of Ever Peak ([Sundabar](https://forgottenrealms.fandom.com/wiki/Sundabar) in Toril)
 Ever Peak doesn’t look like a mining town at first glance.
 
 From a distance it feels almost soft. A quiet mountain town clinging to the cliffs, smoke curling from stone chimneys, bridges draped between terraced streets, little lanterns glowing against pale rock. It looks cozy. Calm. Safe.

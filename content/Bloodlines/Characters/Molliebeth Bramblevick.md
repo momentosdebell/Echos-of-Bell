@@ -12,7 +12,7 @@ Death: 1844
 Gender: Female
 Class: Cleric
 Occupation: "[[The Circle of the Blooming Table|Field Worker]]"
-Residence: "[[Ambervale]]"
+Residence: "[[Ambervale (Matil)]]"
 Origin:
   - "[[Hamilton]]"
   - "[[McGlagen]]"

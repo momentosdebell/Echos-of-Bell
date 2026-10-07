@@ -8,7 +8,7 @@ Img: "[[Lily Yllaris Everfall.jpg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"

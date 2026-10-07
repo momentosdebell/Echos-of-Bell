@@ -10,7 +10,7 @@ Race:
 Gender: Male
 Class: Bard
 Occupation: Musician
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Origin:
   - "[[Winterfrost]]"
 Father: "[[Samo Winterfrost]]"

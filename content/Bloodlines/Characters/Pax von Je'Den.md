@@ -9,7 +9,7 @@ Race:
   - Human
   - Elf
 Gender: Male
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Nollac]]"
   - "[[Everfall]]"

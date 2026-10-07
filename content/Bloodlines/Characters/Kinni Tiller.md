@@ -8,7 +8,7 @@ Img: "[[Kinni Tiller.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

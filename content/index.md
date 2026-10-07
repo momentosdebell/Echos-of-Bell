@@ -4,7 +4,7 @@ title: Welcome
 draft: false
 ---
 ## 📜Overview 
-This is a wiki page mainly for roleplaying game dungeons and dragons, created by Isabelle Lindén called Echos of Bell, containing lore all from characters to religions. Important side note, i do not consider my lore to be finished,it just a starting point for expand and explore in game. Most of the lore is however still only in my head, its a work in progress. My so far favorite in world lore are the Winery [[River Royal]], the city [[Silvergrove City (Evereska)]] and the religion [[Sixfold]]. And in characters [[Sequoia]], [[Princess Wiggles]] and [[Arthur Wolfric McGlagen III]]
+This is a wiki page mainly for roleplaying game dungeons and dragons, created by Isabelle Lindén called Echos of Bell, containing lore all from characters to religions. Important side note, i do not consider my lore to be finished,it just a starting point for expand and explore in game. Most of the lore is however still only in my head, its a work in progress. My so far favorite in world lore are the Winery [[River Royal]], the city [[Silvergrove City (Silverymoon)]] and the religion [[Sixfold]]. And in characters [[Sequoia]], [[Princess Wiggles]] and [[Arthur Wolfric McGlagen III]]
 
 Some of the characters in my library i have already played with, the next one however is probably [[Molliebeth Bramblevick]], depending on the group and adventure.
 

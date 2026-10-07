@@ -8,7 +8,7 @@ Img: "[[Zoros Tiller.jpeg]]"
 Race:
   - Satyr
 Gender: Male
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Partner: "[[Kinni Tiller]]"
 Children:
   - "[[Kinto Tiller]]"

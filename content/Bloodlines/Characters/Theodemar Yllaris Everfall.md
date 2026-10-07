@@ -8,7 +8,7 @@ Img: "[[King Theodemar Yllaris Everfall.jpeg]]"
 Race: Elf
 Gender: Male
 Occupation: King
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"

@@ -16,7 +16,7 @@ Economy:
 draft: false
 ---
 ![[Liora.png]]
-## 🌟 City of Liora ([Velen](https://forgottenrealms.fandom.com/wiki/Velen) i Faerûn)
+## 🌟 City of Liora ([Velen](https://forgottenrealms.fandom.com/wiki/Velen) in Toril)
 Liora looks like a calm southern coastal city where life moves at an easy pace. The harbor is busy, but never chaotic, and the vineyards stretch quietly across the hills behind it. Visitors often assume nothing important ever happens here. That assumption is what keeps Liora safe. Nothing feels forced, but almost everything is controlled in some way. The calm is real, but it is also maintained.
  # 📜 Overview
 Liora is a warm coastal city in the south, shaped by sea trade, vineyards, and everyday life along the shoreline.

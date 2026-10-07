@@ -7,7 +7,7 @@ title: Agust Ekblad
 Race: Human
 Gender: Male
 Occupation: Viking
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Partner: "[[Bromhilda Winterfrost]]"
 Children:
   - "[[Aurora]]"

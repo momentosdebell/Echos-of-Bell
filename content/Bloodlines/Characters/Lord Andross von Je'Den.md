@@ -8,7 +8,7 @@ Img: "[[Lord Andross von Je'Den.jpeg]]"
 Race:
   - Human
 Gender: Male
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[John Von Je'Den]]"

@@ -11,7 +11,7 @@ Race:
 Gender: Female
 Class: Rogue
 Occupation: Assasin
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Nollac]]"
   - "[[Hamilton]]"

@@ -10,7 +10,7 @@ Race:
 Gender: Female
 Class: Cleric
 Occupation: Spy
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Nollac]]"
 Father: "[[Lucy Nollac]]"

@@ -9,7 +9,7 @@ Race:
 Gender: Male
 Class: Wizard
 Occupation: Arch Mage
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Former Partner: "[[Melon Everfall]]"
 Children:
   - "[[King Theodemar Yllaris Everfal]]"

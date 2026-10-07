@@ -1,8 +1,8 @@
 ---
 Updated: 2026-08-31
-title: Ambervale
+title: Ambervale (Matil)
 Type: City
-Location: Tethyr on Ith River
+Location: Far Payit, Maztica
 Vibe:
   - Idyllic
   - Wholesome
@@ -16,7 +16,7 @@ Economy: Trade
 draft: false
 ---
 ![[Ambervale.png]]
-## 🌟 City of Ambervale
+## 🌟 City of Ambervale ( in Toril)
 Ambervale is a sun drenched trade city spread wide across rolling hills, more open landscape than crowded streets. A broad river runs through its heart, feeding a busy harbor where barges move goods toward [[Rivergold (Maxal)]] without pause. Surrounded by endless farmland and watched over by a distant mountain trade route, the city feels warm, alive, and always in motion, like a marketplace that never fully sleeps.
 ## 📜 Overview
 Trade is the backbone, but Ambervale’s real strength is its reputation for reliability. Goods from here are expected to be consistent, durable, and honest in quality, which makes them highly valued.

@@ -9,7 +9,7 @@ Race:
   - Tiefling
 Gender: Male
 Occupation: "[[The Seven Cats Inn]]"
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 draft: false
 ---
 

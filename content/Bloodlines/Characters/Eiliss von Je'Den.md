@@ -8,7 +8,7 @@ Img: "[[Eiliss von Je'Den.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Dong]]"

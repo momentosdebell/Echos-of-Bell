@@ -51,7 +51,7 @@ The Green Vein operates anywhere civil engineering bleeds into untamed wildernes
 - **[[Slum Goblins]]:** Mutual hatred. The Slum Goblins constantly strip border forests for scrap wood and dirty fuel, sparking frequent bloody skirmishes along the city periphery.
 
 ## 🏛️ History
-The Green Vein was formed in the aftermath of the "Iron Clearing," a massive industrial expansion in [[Ever Peak (Citadel Adbar)]] where noble houses clear-cut an ancient, sacred forest to fuel a decade-long war effort. When gentle protests and druidic pleas were met with steel and fire, a radical faction broke away from the traditional circles.
+The Green Vein was formed in the aftermath of the "Iron Clearing," a massive industrial expansion in [[Ever Peak (Sundabar)]] where noble houses clear-cut an ancient, sacred forest to fuel a decade-long war effort. When gentle protests and druidic pleas were met with steel and fire, a radical faction broke away from the traditional circles.
 
 Renouncing passive mediation, they swore a blood oath to use nature’s harshest tools, poison, rot, and wild fury, to fight back. Over time, their desperate resistance grew into a organized, continent-spanning threat to urban expansion.
 

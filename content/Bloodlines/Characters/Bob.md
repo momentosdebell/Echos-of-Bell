@@ -9,7 +9,7 @@ Race:
   - Warforged
 Gender: Non-Binary
 Occupation: Monk
-Residence: "[[Ever Peak (Citadel Adbar)]]"
+Residence: "[[Ever Peak (Sundabar)]]"
 Partner: "[[Hanna Nollac]]"
 draft: false
 ---

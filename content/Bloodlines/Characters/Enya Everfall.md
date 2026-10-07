@@ -8,7 +8,7 @@ Img: "[[Enya Everfall.jpeg]]"
 Race:
   - Elf
 Gender: Female
-Residence: "[[Silvergrove City (Evereska)]]"
+Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
 Siblings:
