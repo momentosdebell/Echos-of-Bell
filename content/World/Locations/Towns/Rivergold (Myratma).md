@@ -2,18 +2,23 @@
 Updated: 2026-09-27
 title: Rivergold (Myratma)
 Type: City
-Location:
+Location: Tethyr
 Vibe:
-  - Bureaucratic
-  - Regulated
-Custodian: "[[Arthur Wolfric McGlagen II]]"
-Population: "7000"
+  - Bustling
+  - Trade-heavy
+  - Southern
+  - River port
+Custodian: "City Council"
+Population: "50 000"
 Cityzens:
   - Human
-  - Half-Orc
-  - Half-Elf 
+  - Halfling
+  - Half-Elf
+  - Dwarf 
 Economy:
-  - Logistics
+  - Caravan trade
+  - River shipping
+  - Textiles
 draft: false
 ---
 ![[Rivergold.png]]
@@ -39,7 +44,6 @@ Education is highly valued, particularly literacy, accounting, and contract law.
 
 ## 🎭 NPCs
 
-- [[Arthur Wolfric McGlagen II]] - Lord Proprietor
 - Garruk Ironmark - Head Customs Officer 
 - Professor Cedric Vale - Trade Academy Headmaster
 - Marina Holt - Harbormaster
@@ -53,7 +57,6 @@ The town is built for function. Streets are narrower and more organized, funneli
 Bells ring from dock towers, merchants negotiate in crowded plazas, and cargo wagons rumble through the streets from dawn until well after sunset.
 
 The **Trade Academy** stands slightly elevated above the harbor district, a structured stone complex where future merchants, clerks, and administrators are trained. Its presence reinforces Rivergold’s identity as a city built on education in trade, contracts, and logistics, and its bell marks the rhythm of study hours as much as the docks mark the rhythm of trade.
-
 #### The Wet Foundry
 The most heavily guarded district in Rivergold. This is where customs, harbor control, and taxation are enforced. Every ship, crate, and coin entering the city passes through here.
 #### Candlebank
