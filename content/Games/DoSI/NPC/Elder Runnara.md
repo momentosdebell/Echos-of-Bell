@@ -16,4 +16,4 @@ draft: false
 ## 📜 Overview 
 Sweet old Priest Lady, showing us Dragons Rest, and warned us of nott beeing aggresiv. Threatening us in a nice way, that if we are violent, we'll die.
 ## 📖 Lore
-- 
+- First intruduced [[C1S1]]
