@@ -9,7 +9,10 @@ Gender: Female
 Occupation:
   - Tinkerer
   - Shoopkeeper
-Residence: Dragons Rest
+Residence:
+  - "[[Dragons Rest]]"
+Conections:
+  - "[[Elder Runnara]]"
 draft: false
 ---
 ![[myla.png]]
