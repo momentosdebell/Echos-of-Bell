@@ -8,7 +8,7 @@ Age: "8"
 Gender: Female
 Occupation:
   - Tinkerer
-  - Shoopkeeper
+  - Shopkeeper
 Residence:
   - "[[Dragons Rest]]"
 Conections:
@@ -17,7 +17,7 @@ draft: false
 ---
 ![[myla.png]]
 ## 📜 Overview
-Sweet shoopkeeper on Broken Isles.
+Sweet shopkeeper on Broken Isles.
 ## 📖 Lore
 - First intruduced [[C1S1]]
 - Was hurt on her new wings by Stirge
