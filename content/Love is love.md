@@ -1,3 +1,17 @@
+---
+Updated: 2026-09-27
+draft: true
+---
+## 🎬 Recap
+
+## 👥 NPCs
+-  
+## 📅 Events
+- 
+## 🎯 Quests
+- 
+## 💰Loot
+- 
 # Intro
 The wind up on the high ridge of The Peak bites clean and sharp, but looking out from the ledge, the whole city opens up beneath you.
 
