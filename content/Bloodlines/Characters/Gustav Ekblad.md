@@ -1,8 +1,8 @@
 ---
-Age: 73y/o
+Age: Died this year at 84y/o
 Updated: 2026-08-28
-Birth: 1394
-Death: 1471
+Birth: 1458
+Death: 1542
 title: Gustav Ekblad
 Img:
 Race:

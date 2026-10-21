@@ -1,5 +1,5 @@
 ---
-Age: Unborn 2 years before there time
+Age: Died 65 years ago at 8
 Updated: 2026-08-27
 Birth: 1469
 Death: 1477

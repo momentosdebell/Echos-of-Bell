@@ -1,8 +1,8 @@
 ---
-Age: Died 62 years ago at 86
+Age: Died 122 years ago at 89
 Updated: 2026-08-28
-Birth: 1319
-Death: 1405
+Birth: 1331
+Death: 1420
 title: Fyr Hamilton
 Img: "[[Fyr Hamilton.jpg]]"
 Race:

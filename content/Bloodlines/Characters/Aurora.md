@@ -1,8 +1,8 @@
 ---
-Age: Died 48 years ago at 29
+Age: Died 43 years ago at 55
 Updated: 2026-08-27
-Birth: 1390
-Death: 1419
+Birth: 1444
+Death: 1499
 title: Aurora
 Img: "[[Aurora.jpeg]]"
 Race:

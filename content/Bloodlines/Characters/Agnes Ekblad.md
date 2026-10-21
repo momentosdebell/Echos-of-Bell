@@ -1,8 +1,8 @@
 ---
-Age: 73y/o
+Age: 84y/o
 Updated: 2026-08-27
-Birth: 1394
-Death: 1477
+Birth: 1458
+Death: 1543
 title: Agnes Ekblad
 Race: Human
 Gender: Female

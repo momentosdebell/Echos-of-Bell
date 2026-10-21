@@ -1,5 +1,5 @@
 ---
-Age: 2y/o
+Age: Died 65 years ago at 12
 Updated: 2026-08-28
 Birth: 1465
 Death: 1477

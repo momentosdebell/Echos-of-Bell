@@ -1,5 +1,5 @@
 ---
-Age: 433y/o
+Age: Died 40 years ago at 468
 Updated: 2026-08-28
 Birth: 1034
 Death: 1502

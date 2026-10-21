@@ -1,8 +1,8 @@
 ---
-Age: Died 34 years ago at 69
+Age: Died 28 years ago at 88
 Updated: 2026-08-28
-Birth: 1364
-Death: 1433
+Birth: 1426
+Death: 1514
 title: Safir Windgust
 Img:
 Race:
@@ -13,7 +13,6 @@ Children:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"
 draft: false
-
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-31
-Status: 10 years before its time
+Status: Happened 65 years ago
 title: Guardian of Gold
 Category:
   - Event

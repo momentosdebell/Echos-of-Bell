@@ -1,8 +1,8 @@
 ---
-Age: Died 89 years ago at 46
+Age: Died 142 years ago at 68
 Updated: 2026-08-28
 Birth: 1332
-Death: 1378
+Death: 1400
 title: Lolo Winterfrost
 Img:
 Race:
