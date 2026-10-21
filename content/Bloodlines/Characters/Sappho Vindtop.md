@@ -147,7 +147,7 @@ draft: false
 </style>
 
 <div class="dnd-stat">
-  <div class="dnd-stat-hdr">Paladin 1</div>
+  <div class="dnd-stat-hdr">Paladin 2</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
       <img src="Sappho Vindtop.png" alt="Token">
@@ -252,6 +252,7 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 
 ---
 ## 🗓️Events
+- Are currntly in [[Games/DoSI/index|Dragons of Stormwreck Isle]]
 
 ---
 ## 🍿Trivia
