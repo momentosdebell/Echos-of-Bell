@@ -153,8 +153,8 @@ draft: false
       <img src="Sappho Vindtop.png" alt="Token">
     </div>
     <div class="dnd-stat-topgrid">
-      <div class="dnd-stat-box"><span class="dnd-stat-lbl">AC</span><span class="dnd-stat-val">17</span></div>
-      <div class="dnd-stat-box"><span class="dnd-stat-lbl">MAX HP</span><span class="dnd-stat-val">11</span></div>
+      <div class="dnd-stat-box"><span class="dnd-stat-lbl">AC</span><span class="dnd-stat-val">18</span></div>
+      <div class="dnd-stat-box"><span class="dnd-stat-lbl">MAX HP</span><span class="dnd-stat-val">18</span></div>
       <div class="dnd-stat-box"><span class="dnd-stat-lbl">SPEED</span><span class="dnd-stat-val">25ft</span></div>
       <div class="dnd-stat-box"><span class="dnd-stat-lbl">INITIATIVE</span><span class="dnd-stat-val">+5</span></div>
     </div>
