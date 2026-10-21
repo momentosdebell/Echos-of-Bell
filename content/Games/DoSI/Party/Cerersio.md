@@ -136,7 +136,7 @@ draft: false
 </style>
 
 <div class="dnd-stat">
-  <div class="dnd-stat-hdr">Fighter Level 1</div>
+  <div class="dnd-stat-hdr">Fighter Level 2</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
       <img src="img/cerersio.png" alt="Token">
