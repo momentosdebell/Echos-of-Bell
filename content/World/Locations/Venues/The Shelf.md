@@ -17,7 +17,7 @@ Emoji:
 ---
 ![[TheShelf.png]]
 ## 📜 Overview 
-Perched atop a scenic, rolling hill overlooking the heart of the village sits The Shelf, a tavern that feels less like a business and more like a warm, living memory. 
+Perched atop a scenic, rolling hill overlooking the heart of the village sits The Shelf, a tavern that feels less like a business and more like a warm, living memory.  
 
 Originally built over a century ago as a private home by the Moliner family, the house was lovingly sold to [[Bromhilda Winterfrost]] and late inherited by [[Agnes Ekblad]], who had already begun transforming the structure. Over the decades, [[Agnes Ekblad]] and her husband, [[Gustav Ekblad]], poured their hearts and hard work molding it into the legendary sanctuary it is today.
 
