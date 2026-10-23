@@ -40,5 +40,5 @@ The Shelf is more than just a place to buy an ale, it is the beating heart of th
 
 ## 🍿 Trivia
 - The inn is named after a young Agnes plump breasts
-- Alot of the interior comes from [[Agnes Ekblad]] and [[Gustav Ekblad]] travels, one thing in particular is a old chair, a Mimic, for some reason this Mimic found himself likeing to just be apart of their lives, never harming anyone.
+- Alot of the interior comes from [[Agnes Ekblad]] and [[Gustav Ekblad]] travels, one thing in particular is a old chair, a Mimic, for some reason this Mimic found himself likeing to just be apart of their lives, never harming anyone
 
