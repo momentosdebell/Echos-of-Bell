@@ -13,12 +13,13 @@ Origin:
   - "[[Everfall]]"
 Siblings:
   - "[[Melon Everfall]]"
-Partner: "[[Lord Hilivard Everfall]]"
+Partner: "[[Hilivard Everfall]]"
 Children:
   - "[[Vilya Dong]]"
-  - "[[Li'thanïa Everfall]]"
+  - "[[Isilnor Everfall]]"
 draft: false
 Occupation: Noble
+Class: Sorcerer
 ---
 ![[Enya Everfall.jpeg]]
 

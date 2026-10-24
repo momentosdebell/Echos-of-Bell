@@ -1,23 +1,25 @@
 ---
 Age: 881y/o
 Updated: 2026-08-28
-Birth: 661
-Death: 1592
+Birth: 681
+Death: 887
 title: Li'thanïa Everfall
+Class: Sorcerer
 Img: "[[Li'thanïa Everfall.jpeg]]"
 Race:
   - Elf
   - Dragonborn
-Gender: Female
+Gender: Male
 Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
-Father: "[[Lord Hilivard Everfall]]"
+Father: "[[Hilivard Everfall]]"
 Mother: "[[Enya Everfall]]"
 Siblings:
   - "[[Vilya Dong]]"
+Partner: "[[Evanthe Everfall]]"
+Children:
+  - "[[Caladon Everfall]]"
+  - "[[Li'thiana Teshurr]]"
 draft: false
 ---
-![[Li'thanïa Everfall.jpeg]]
-
-

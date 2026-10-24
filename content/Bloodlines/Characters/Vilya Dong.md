@@ -12,10 +12,10 @@ Gender: Female
 Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Dong]]"
-Father: "[[Lord Hilivard Everfall]]"
+Father: "[[Hilivard Everfall]]"
 Mother: "[[Enya Everfall]]"
 Siblings:
-  - "[[Li'thanïa Everfall]]"
+  - "[[Isilnor Everfall]]"
 Partner: "[[Hao Dong]]"
 Children:
   - "[[Eiliss von Je'Den]]"
