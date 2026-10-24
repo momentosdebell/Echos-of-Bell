@@ -4,7 +4,7 @@ title: Harp
 Img:
 Race: Kalashtar
 Class: Ranger
-Age: 113y/o
+Age: Alive, 113y/o
 Gender: Female
 Occupation:
   - Chief Harpooner

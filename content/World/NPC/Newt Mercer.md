@@ -5,7 +5,7 @@ Img:
 Race:
   - Human
 Class: Wizard
-Age: 125y/o
+Age: Alive, 125y/o
 Gender: Male
 Occupation:
   - Quartermaster's Mate

@@ -1,5 +1,5 @@
 ---
-Age:
+Age: Died 655 years ago at 50
 Updated: 2026-08-28
 title: Caladon Everfall
 Img:

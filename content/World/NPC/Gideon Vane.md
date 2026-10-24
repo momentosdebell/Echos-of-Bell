@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-Age: 419y/o
+Age: Alive, 419y/o
 title: Saltgrip
 Img:
 Race: Drow

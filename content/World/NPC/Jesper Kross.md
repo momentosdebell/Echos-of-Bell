@@ -4,7 +4,7 @@ title: Biggie
 Img:
 Race: Simic Hybrid
 Class: Sorcerer
-Age: 103y/o
+Age: Alive, 103y/o
 Gender: Male
 Occupation: Lookout
 Residence: "[[Old-Hag]]"

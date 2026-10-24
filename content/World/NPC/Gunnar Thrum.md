@@ -4,7 +4,7 @@ title: Powder Keg
 Img:
 Race: Dwarf
 Class: Fighter
-Age: 327y/o
+Age: Alive, 327y/o
 Gender: Male
 Occupation:
   - Cannoneer

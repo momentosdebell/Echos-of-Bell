@@ -1,5 +1,5 @@
 ---
-Age:
+Age: Alive, 541y/o
 Updated: 2026-08-28
 title: Viny
 Img:

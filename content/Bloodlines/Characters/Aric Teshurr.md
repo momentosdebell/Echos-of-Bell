@@ -1,5 +1,5 @@
 ---
-Age:
+Age: Died 399 years ago at 177
 Updated: 2026-08-28
 title: Aric Riverrose
 Img:

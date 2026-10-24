@@ -1,6 +1,6 @@
 ---
 Updated: 2026-08-28
-Age: 131y/o
+Age: Alive, 131y/o
 title: Crow
 Img:
 Race: Human

@@ -1,5 +1,5 @@
 ---
-Age:
+Age: Died 321 years ago at 520
 Updated: 2026-08-28
 title: Evanthe Everfall
 Img:

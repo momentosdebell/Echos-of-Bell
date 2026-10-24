@@ -1,5 +1,5 @@
 ---
-Age:
+Age: Alive, 655y/o
 Updated: 2026-10-24
 title: Li'thiana Riverrose
 Img:

@@ -4,7 +4,7 @@ title: Ozy
 Img:
 Race: Human
 Class: Cleric
-Age: 107y/o
+Age: Alive, 107y/o
 Gender: Non-Binary
 Occupation: Scout
 Residence: "[[Old-Hag]]"

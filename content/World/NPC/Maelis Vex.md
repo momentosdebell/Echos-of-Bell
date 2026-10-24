@@ -4,7 +4,7 @@ title: Two Time
 Img:
 Race: Githyanki
 Class: Warlock
-Age: 111y/o
+Age: Alive, 111y/o
 Gender: Female
 Occupation: Chief Navigator
 Residence: "[[Old-Hag]]"

@@ -4,7 +4,7 @@ title: Stitch
 Img:
 Race: Tabaxi
 Class: Babarian
-Age: 98y/o
+Age: Alive, 98y/o
 Gender: Male
 Occupation: Deckhand
 Residence: "[[Old-Hag]]"

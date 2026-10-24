@@ -1,5 +1,5 @@
 ---
-Age: Died this year at 84y/o
+Age: Alive, {age}y/o
 Updated: 2026-08-28
 Birth: 1458
 Death: 1542
