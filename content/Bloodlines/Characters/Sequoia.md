@@ -11,7 +11,7 @@ Gender: Non-Binary
 Class: Druid
 Residence: "[[Silvergrove City (Silverymoon)]]"
 Father: "[[Flow Windgust]]"
-Mother: "[[Gaganesh Thorne]]"
+Mother: "[[Gaganesis Thorne]]"
 Siblings:
   - "[[Gustav Ekblad]]"
   - "[[Gullvi Nimue]]"
