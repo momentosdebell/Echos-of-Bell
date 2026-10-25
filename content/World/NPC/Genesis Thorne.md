@@ -3,7 +3,7 @@ Age: Alive, 928y/o
 Updated: 2026-08-28
 Birth: 614
 Death: 1793
-title: Gaganesh Orvil Amon Thorne
+title: Genesis Orvil Amon Thorne
 Img: "[[Gaganesh Orvil Amon Thorne.png]]"
 Race:
   - Loxodon
