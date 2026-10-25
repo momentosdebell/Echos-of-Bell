@@ -29,3 +29,4 @@ The Wildlands (Kroshna) is a rugged, tribal territory reminiscent of World of Wa
 
 ---
 ## 📖 Lore
+
