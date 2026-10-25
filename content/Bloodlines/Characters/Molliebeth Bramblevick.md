@@ -181,12 +181,12 @@ draft: false
 </div>
 
 
-## 📖 Overview 
+## ​📜 Overview 
 Molliebeth Bramblevick is a battle-hardened humanitarian and decorated survivor who traded the cold, gilded cage of House Hamilton for a life on the road, dedicating her existence to keeping others alive after losing everything she held dear.
 
 ---
 
-## Personality
+## 🎭Personality
 Molliebeth is deeply compassionate yet profoundly guarded, carrying a quiet resilience forged through early emotional isolation and devastating loss. Despite the cruelty she has suffered, she refuses to turn cold, channeling her own grief into an overwhelming, fierce drive to care for others. She is practical, observant, and entirely unimpressed by status or vanity, preferring the honest labor of the field and kitchen to the hollow halls of nobility. Beneath her gentle, nurturing exterior lies a battle-hardened survivor—someone who can step up to manage impossible crises with absolute calm, even as she quietly carries the heavy ghosts of her past.
 
 ---
@@ -236,11 +236,11 @@ Molliebeth was standing over her trusty pot in yet another muddy camp, dishing o
 She caught up with the group intentionally after hearing they were breaking trail toward uncharted territory far beyond the usual refugee circuits. It wasn’t about escaping compassion; it was about finding a smarter way to wield it, breaking the exhausting cycle, and turning her stubborn care into real, lasting change alongside people worth laughing with. When the crew piled into the tavern to shake off the road dust and map out their first real step into the unknown, she was right there with them, pouring the drinks, locking in the new direction, and finally stepping through that fresh door.
 
 ---
-## Abilities
+## 💪Abilities
 While she is fundamentally a person of peace who strongly prefers to avoid violence, the realities of the road have forced her to adapt. When ambushed during her travels, she relies on calm resourcefulness rather than aggression, often defending herself by tossing small, intricately carved wooden flower petals imbued with the Magic Stone spell.
 
 ---
-## Equipment
+## ⚔️Equipment
  Molliebeth relies on a carefully chosen selection of field gear that blends her passion for cooking with practical survival. Her most trusted companion is the Emberhand Cast Iron Skillet, a versatile tool that not only boasts a handful of handy magical properties when preparing meals but also doubles exceptionally well as a sturdy shield when trouble finds her on the road.
 
  To keep her provisions stocked during long humanitarian journeys, she carries a Pouch of Everfresh, a specialized, miniature bag of holding that functions with the magical properties of a refrigerator to keep ingredients and perishables perfectly preserved.
@@ -248,15 +248,15 @@ While she is fundamentally a person of peace who strongly prefers to avoid viole
 Alongside it, she utilizes a compact Right Pouch of Holding, a reliable pocket dimension functioning just like a standard bag of holding scaled down for her everyday carry.
 
 ---
-## Relationships 
+## 💞Relationships 
 Is not in an active game yet.
 
 ---
-## Events
+## 🗓️Events
 Is not in an active game yet
 
 ---
-## Trivia 
+## 🍿Trivia 
 • Molly's favorit food to cook and eat is Honey-Garlic Chicken with Roasted Roots. Brown chunks of chicken in the skillet, then set aside. Toss thick-cut potato, carrot, and onion into the pan to roast until tender and caramelized. Tumble the chicken back in, drizzle with honey, crushed garlic, and spices.
 
 • Moliebeth Bramblewick was first Molibeth Hamilton, got married and took Fallow. Then after the divorce took her friends(?) name Bramblewick 
