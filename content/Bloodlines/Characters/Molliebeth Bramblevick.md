@@ -158,7 +158,7 @@ draft: false
 </style>
 
 <div class="dnd-stat">
-  <div class="dnd-stat-hdr">Cleric 1</div>
+  <div class="dnd-stat-hdr">Cleric 2</div>
   <div class="dnd-stat-row">
     <div class="dnd-stat-token">
       <img src="Molliebeth Bramblevick.png" alt="Token">
