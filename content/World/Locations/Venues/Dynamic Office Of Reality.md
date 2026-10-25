@@ -6,7 +6,7 @@ Location: "[[Silvergrove City (Silverymoon)]]"
 Vibe:
   - Surreal
   - Breathtaking
-Custodian: "[[Genesis Thorne]]"
+Custodian: "[[GaganesisThorne]]"
 Economy:
   - 🪙🪙🪙⚪⚪
 draft: false
