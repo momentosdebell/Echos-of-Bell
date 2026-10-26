@@ -7,7 +7,7 @@ Occupation:
   - Bandit Leader
 Residence: "[[Littlecost]]"
 draft: false
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 ---
 ![[Blackeye.png]]
 ## 📜 Overview

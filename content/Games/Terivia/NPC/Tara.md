@@ -5,7 +5,7 @@ Img:
 Age: Child
 Gender: Female
 Residence: "[[Littlecost]]"
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 ## 📜 Overview

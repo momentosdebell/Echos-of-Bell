@@ -286,6 +286,7 @@ plugins:
         - Hit Points 
         - Speed
         - Crew
+        - Session
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -351,6 +352,7 @@ plugins:
         - Hit Points 
         - Speed
         - Crew
+        - Session
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

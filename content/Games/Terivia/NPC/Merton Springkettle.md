@@ -8,7 +8,7 @@ Gender: Female
 Occupation:
   - Innkeeper
 Residence: "[[Littlecost]]"
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 ## 📜 Overview

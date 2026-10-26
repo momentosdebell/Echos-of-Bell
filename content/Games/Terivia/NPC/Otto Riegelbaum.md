@@ -7,7 +7,7 @@ Race:
 Gender: Male
 Occupation:
   - Merchant
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 ## 📜 Overview

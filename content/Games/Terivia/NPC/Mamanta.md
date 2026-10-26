@@ -7,7 +7,7 @@ Race:
 Gender: Male
 Occupation:
   - Rolling Shopkeeper 
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 ## 📜 Overview

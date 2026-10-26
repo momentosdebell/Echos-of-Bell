@@ -9,7 +9,7 @@ Class: Sorcerer/Wizard
 Occupation:
   - Rolling Shopkeeper 
 Residence: "[[Littlecost]]"
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 ## 📜 Overview

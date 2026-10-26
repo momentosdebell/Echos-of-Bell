@@ -9,7 +9,7 @@ Occupation:
   - Bishop
 Residence: "[[Littlecost]]"
 draft: false
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 ---
 
 ## 📖 Lore

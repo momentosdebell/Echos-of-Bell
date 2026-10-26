@@ -8,7 +8,7 @@ Gender: Female
 Occupation:
   - Works at the Inn
 Residence: "[[Littlecost]]"
-Conections: "[[C2S1]]"
+Session: "[[C2S1]]"
 draft: false
 ---
 
