@@ -39,6 +39,3 @@ Cantrips
 
 5th-Level Spells
 - **Obliviate** we use *Modify Memory*
-
-9th-Level Spells
-- **Avada Kedavra** we use *Power Word Kill*
