@@ -15,6 +15,7 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
+Session: "[[C2S0]]"
 ---
 ## 📜 Overview
 The Principality of Dugmere is an industrial region situated in a harsh, freezing frontier. Driven by steampunk innovation and technological advancement, it balances progress with the grueling demands of survival in an unforgiving landscape.

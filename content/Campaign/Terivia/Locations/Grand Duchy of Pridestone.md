@@ -17,6 +17,7 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
+Session: "[[C2S0]]"
 ---
 ## 📜 Overview
 The Grand Duchy of Pridestone is a region centered around prestigious magical learning and factional guild dynamics. Its atmosphere is often described as Hogwarts meeting the guild-based intrigue of Magic: The Gathering, where rival factions and arcane institutions compete for influence, knowledge, and power.

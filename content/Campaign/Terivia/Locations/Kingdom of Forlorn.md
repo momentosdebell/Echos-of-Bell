@@ -12,6 +12,7 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
+Session: "[[C2S0]]"
 ---
 ## 📜 Overview
 The Kingdom of Forlorn is a region defined by classic high-fantasy aesthetics, reminiscent of iconic realms like Minas Tirith. Despite its heroic facade and grand traditions, the kingdom balances on the edge of a bitter civil war, torn by internal strife and escalating political tension.

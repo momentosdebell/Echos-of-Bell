@@ -10,6 +10,7 @@ Custodian: "[[Merton Springkettle]]"
 Economy:
   - 🪙🪙⚪⚪⚪
 draft: false
+Session: "[[C2S1]]"
 ---
 ## 📖 Lore
 - Met both [[Merton Springkettle]] and [[Bolga]] here

@@ -92,3 +92,6 @@ Winners of the Blooming are not warriors or rulers, but those capable of preserv
 Today, the Circle remains a neutral humanitarian force spanning the continent. Though often associated with druidic traditions due to its agricultural and nature aligned knowledge, it is fundamentally not a druid order, nor a religious institution. It is a living network of clerics, cooks, scholars, farmers, and ordinary people bound together by one idea:
 
 that survival itself is a shared responsibility.
+## 🎭NPCs
+- [[Frodrick]] - Member
+- [[Sebastian Otmund]] - Leader in [[Littlecost]]

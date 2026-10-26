@@ -10,4 +10,5 @@ Population: Low
 Economy:
   - Good
 draft: false
+Session: "[[C2S1]]"
 ---

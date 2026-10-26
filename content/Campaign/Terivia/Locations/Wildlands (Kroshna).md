@@ -12,6 +12,7 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
+Session: "[[C2S0]]"
 ---
 ## 📜 Overview
 The Wildlands (Kroshna) is a rugged, tribal territory reminiscent of World of Warcraft's Horde. It is inhabited by primitive societies and clans bound together by honor, survival, and a strict code where strength dictates leadership and unity.
