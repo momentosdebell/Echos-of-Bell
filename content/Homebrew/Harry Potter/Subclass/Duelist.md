@@ -1,0 +1,2 @@
+## ​📜 Overview
+A formal academic trained in high-speed magical combat, performing as a lightning-fast combatant who relies on rapid spell counters, precise strikes, and nimble positioning to outmaneuver rivals.

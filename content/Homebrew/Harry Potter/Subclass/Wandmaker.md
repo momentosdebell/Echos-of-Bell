@@ -1,0 +1,2 @@
+## ​📜 Overview
+A scholar deep in the foundational arts of matter-shaping and magical focal tools, serving an enchanter who reshapes battlefield terrain on the fly, alters physical objects, and temporarily empowers party equipment.

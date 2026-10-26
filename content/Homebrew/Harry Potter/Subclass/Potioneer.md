@@ -1,0 +1,2 @@
+## ​📜 Overview
+A master of cauldrons and restorative infirmary care, serving as a dedicated support caster who brews consumable elixirs during rests, purifies harmful afflictions, and delivers swift emergency healing in combat.

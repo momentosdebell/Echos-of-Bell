@@ -1,0 +1,2 @@
+## ​📜 Overview
+A globe-trotting naturalist dedicated to tracking and protecting magical fauna, functioning as a creature-focused strategist who summons animal allies, tames wild encounters, and supports the party using the unique traits of beasts.
