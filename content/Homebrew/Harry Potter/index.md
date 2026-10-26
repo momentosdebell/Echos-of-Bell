@@ -14,5 +14,31 @@ Everything is balanced for ordinary DnD games, but if you want a more HP flare t
 - **Clerics**: Focus on the protective, potion-brewing, and restorative arts, embodying St. Mungo's Healers and Ministry Aurors. They excel at combat healing, brewing magical elixirs and placing defensive wards. They mainly align with Gryffindor.
 - **Sorcerers**: Focus on the Dark Arts and raw, innate magical power, channeling curses, Hexes, and dangerous offensive spells. They excel at high burst damage, non-verbal spellcasting, and unleashing unchecked dark magic upon their enemies. They mainly align with Slytherin.
 ## Spell List
+In the world of Harry Potter there is alot of spells, some does not exist at all in DnD, and i made some homebrew spells. But some of them we can use existing ones, here are the existing ones.
+
+Cantrips
 - **Lumos** we use *Light*
-- 
+- **Nox** we use *Control Flames*
+- **Wingardium Leviosa** we use *Mage Hand*
+- **Flipendo** we use *Gust*
+- **Incendio** we use *Fire Bolt*
+- **Aguamenti** we use *Shape Water*
+
+1st-Level Spells
+- **Episkey** we use *Healing Word*
+- **Protego** we use *Shield*
+- **Lumos Solem** we use *Color Spray*
+- **Locomotor** we use *Tenser's Floating Disk*
+- **Petrificus Totalus** we use *Tasha's Hideous Laughter*
+- **Arresto Momentum** we use *Feather Fall*
+
+2nd-Level Spells
+- **Alohomora** we use *Knock*
+- **Colloportus** we use *Arcane Lock*
+- **Incarcerous** we use *Hold Person*
+- **Riddikulus** we use *Phantasmal Force*
+
+3rd-Level Spells
+- **Confringo**
+- **Impedimenta**
+- **Obliviate**
