@@ -8,7 +8,7 @@ Race:
   - Dwarf
   - Human
 Birth: 1442
-Death: 1844
+Death:
 Gender: Female
 Class: Cleric
 Occupation: "[[The Circle of the Blooming Table|Field Worker]]"
@@ -249,11 +249,12 @@ Alongside it, she utilizes a compact Right Pouch of Holding, a reliable pocket d
 
 ---
 ## 💞Relationships 
-Is not in an active game yet.
+- Met [[Balsa]] on a cart traveling to [[Littlecost]]
+- Met [[Zaria]] on a cart traveling to [[Littlecost]]
 
 ---
 ## 🗓️Events
-Is not in an active game yet
+- Travelled to [[Littlecost]] found both trubbel and [[The Circle of the Blooming Table]] there
 
 ---
 ## 🍿Trivia 

@@ -16,6 +16,9 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
+Conections:
+  - "[[C1S1]]"
+  - "[[C1S2]]"
 ---
 ## 🎭NPCs
 - [[Myla]]

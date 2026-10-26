@@ -12,7 +12,7 @@ Occupation:
 Residence:
   - "[[Dragons Rest]]"
 Conections:
-  - "[[Elder Runnara]]"
+  - "[[C1S1]]"
 draft: false
 ---
 ![[myla.png]]

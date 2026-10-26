@@ -5,10 +5,12 @@ Race: Human
 Gender: Male
 Occupation:
   - Bandit Leader
-Residence:
-  - Litlecost
+Residence: "[[Littlecost]]"
 draft: false
+Conections: "[[C2S1]]"
 ---
+![[Blackeye.png]]
 ## 📜 Overview
-Bandit leader, Reward 800 gold
+Loud and agressive towards elves and other none humans.
 ## 📖 Lore
+- Bandit leader, criminal charges: Murder, Robbery. Reward 800 gold
