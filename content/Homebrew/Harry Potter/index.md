@@ -27,18 +27,19 @@ Cantrips
 1st-Level Spells
 - **Episkey** we use *Healing Word*
 - **Protego** we use *Shield*
-- **Lumos Solem** we use *Color Spray*
 - **Locomotor** we use *Tenser's Floating Disk*
-- **Petrificus Totalus** we use *Tasha's Hideous Laughter*
 - **Arresto Momentum** we use *Feather Fall*
 
 2nd-Level Spells
 - **Alohomora** we use *Knock*
 - **Colloportus** we use *Arcane Lock*
-- **Incarcerous** we use *Hold Person*
-- **Riddikulus** we use *Phantasmal Force*
+- **Legilimens** we use *Detect Thoughts*
 
 3rd-Level Spells
-- **Confringo**
-- **Impedimenta**
-- **Obliviate**
+- **Confringo** we use *Fireball*
+
+5th-Level Spells
+- **Obliviate** we use *Modify Memory*
+
+9th-Level Spells
+- **Avada Kedavra** we use *Power Word Kill*
