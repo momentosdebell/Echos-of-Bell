@@ -9,7 +9,7 @@ Gender: Female
 Occupation: Monastery Priest
 Residence:
   - "[[Dragons Rest]]"
-Conections:
+Session:
   - "[[C1S1]]"
 draft: false
 ---

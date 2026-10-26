@@ -27,7 +27,7 @@ Economy:
   - Fishing
   - Commerce
 draft: false
-Conections:
+Session:
   - "[[Campaign/DoSI/Session/C1S0|C1S0]]"
 ---
 ## 📜 Overview

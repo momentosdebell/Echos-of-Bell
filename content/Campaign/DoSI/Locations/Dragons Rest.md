@@ -16,7 +16,7 @@ draft: false
 Emoji:
   - 🪙
   - ⚪
-Conections:
+Session:
   - "[[C1S1]]"
   - "[[C1S2]]"
 ---
