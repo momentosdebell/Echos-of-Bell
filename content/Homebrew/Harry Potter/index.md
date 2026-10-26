@@ -20,7 +20,6 @@ Cantrips
 - **Lumos** we use *Light*
 - **Nox** we use *Control Flames*
 - **Wingardium Leviosa** we use *Mage Hand*
-- **Flipendo** we use *Gust*
 - **Incendio** we use *Fire Bolt*
 - **Aguamenti** we use *Shape Water*
 
