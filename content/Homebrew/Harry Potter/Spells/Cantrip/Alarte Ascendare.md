@@ -1,0 +1,1 @@
+Shoots a target or small object high into the air.

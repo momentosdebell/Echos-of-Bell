@@ -1,0 +1,1 @@
+Slashes a target or object with a sharp, magical cutting force.

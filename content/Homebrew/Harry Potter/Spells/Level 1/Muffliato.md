@@ -1,0 +1,1 @@
+Fills the ears of nearby people with a buzzing sound to prevent eavesdropping.

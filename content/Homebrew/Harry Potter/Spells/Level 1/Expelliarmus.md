@@ -1,0 +1,1 @@
+Forces the target to drop whatever item or wand they are holding.

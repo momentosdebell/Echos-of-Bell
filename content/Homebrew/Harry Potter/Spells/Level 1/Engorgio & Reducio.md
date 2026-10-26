@@ -1,0 +1,1 @@
+Enlarges or shrinks a non-magical object in size.

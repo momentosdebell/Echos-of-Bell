@@ -1,0 +1,1 @@
+Launches a bright red distress flare high into the sky.

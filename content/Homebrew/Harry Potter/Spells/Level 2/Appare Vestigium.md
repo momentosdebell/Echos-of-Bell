@@ -1,0 +1,1 @@
+Reveals recent magical activity and tracks footprints in glowing gold dust.

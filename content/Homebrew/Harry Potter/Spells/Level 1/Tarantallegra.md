@@ -1,0 +1,1 @@
+Forces a target's legs into frantic, uncontrollable dancing, severely disrupting their movement and balance.

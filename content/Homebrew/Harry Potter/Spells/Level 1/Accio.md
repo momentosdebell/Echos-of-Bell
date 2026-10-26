@@ -1,0 +1,1 @@
+Pulls a distant object straight into the caster's hand.

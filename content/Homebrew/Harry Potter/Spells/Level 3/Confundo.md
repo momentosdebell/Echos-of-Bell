@@ -1,0 +1,1 @@
+Confuses a target's mind, causing them to become disoriented for a short duration.

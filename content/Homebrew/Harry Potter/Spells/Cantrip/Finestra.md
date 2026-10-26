@@ -1,0 +1,1 @@
+Instantly shatters glass surfaces into tiny fragments.

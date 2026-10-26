@@ -1,0 +1,1 @@
+Transforms a terrifying entity or Boggart into a humorous form.

@@ -1,0 +1,1 @@
+Temporarily paralyzes a creature's body, rendering them rigid.

@@ -1,0 +1,1 @@
+Detects the presence of hidden or invisible human beings in the area.
