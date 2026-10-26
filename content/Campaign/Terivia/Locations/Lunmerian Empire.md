@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Lunmerian Empire
 Type: Region
-Location: "[[Games/Terivia/index|Terivia]]"
+Location: "[[Campaign/Terivia/index|Terivia]]"
 Vibe:
   - Elven
   - Strict

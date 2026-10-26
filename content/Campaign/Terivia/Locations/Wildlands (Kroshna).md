@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Wildlands (Kroshna)
 Type: Region
-Location: "[[Games/Terivia/index|Terivia]]"
+Location: "[[Campaign/Terivia/index|Terivia]]"
 Vibe:
   - World of Warcraft Horde
   - Tribal

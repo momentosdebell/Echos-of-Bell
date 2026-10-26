@@ -7,7 +7,7 @@ Race:
 Gender: Male
 Occupation:
   - Leader
-Residence: "[[Games/DoSI/index|Dragon of Stormwreck Isle]]"
+Residence: "[[Campaign/DoSI/index|Dragon of Stormwreck Isle]]"
 Conections: "[[C1S3]]"
 draft: false
 ---

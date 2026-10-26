@@ -129,7 +129,7 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 
 ---
 ## 🗓️Events
-- Are currntly in [[Games/DoSI/index|Dragons of Stormwreck Isle]]
+- Are currntly in [[Campaign/DoSI/index|Dragons of Stormwreck Isle]]
 
 ---
 ## 🍿Trivia

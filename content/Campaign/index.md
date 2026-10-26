@@ -1,6 +1,6 @@
 ---
 Updated: 2026-09-27
-title: Games
+title: Campaign
 draft: false
 ---
 ### Earlier Games

@@ -1,7 +1,7 @@
 ---
 Updated: 2026-09-27
 title: Terivia
-DM: "[[Games/Terivia/Party/index|Johnny Larsson]]"
+DM: "[[Campaign/Terivia/Party/index|Johnny Larsson]]"
 Players:
   - "[[Molliebeth Bramblevick|Bella (Me)]]"
   - "[[Zaria|Alicia]]"
@@ -10,7 +10,7 @@ draft: false
 ---
 ![[Terivia.jpg]]
 ##  📖 Overview 
-This whole world and campaign is a homebrew made by our DM [[Games/Terivia/Party/index|Johnny Larsson]], everything in this folder and setting is his creation and imagination.
+This whole world and campaign is a homebrew made by our DM [[Campaign/Terivia/Party/index|Johnny Larsson]], everything in this folder and setting is his creation and imagination.
 
 Terivia is a world shaped as a private garden by the deity Terivian. When Terivian was murdered by another god, her essence was reincarnated into the world as the four elements. 
 

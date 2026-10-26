@@ -50,7 +50,7 @@ So they headed out, traveling around Duchy of Valen, past the Cimarin Isles and 
 
 A long time ago, the Seahag cut its first waves across the Shining Sea and headed straight down into the Crowded Sea, where the real action was. [[Adoot Ironneck|Ironneck]] had caught wind of some lucrative little hideouts tucked away in the southern runs. Ever since then, they’ve lived their lives chewing up the Great Sea and, above all, the Crowded Sea, poking around every port and cove worth mentioning.
 
-Somewhere along the line, the crew fished up an old treasure map, a chart of a place nobody dared touch: [[Games/DoSI/index|Stormwreck Isle]]. Later on, heading west across the ocean wave, they made port at [[Rivergold (Maxal)]] in Maztica to stock up on food and water. That’s where they lost [[Sappho Vindtop]], thanks to a classic scheduling screw-up.
+Somewhere along the line, the crew fished up an old treasure map, a chart of a place nobody dared touch: [[Campaign/DoSI/index|Stormwreck Isle]]. Later on, heading west across the ocean wave, they made port at [[Rivergold (Maxal)]] in Maztica to stock up on food and water. That’s where they lost [[Sappho Vindtop]], thanks to a classic scheduling screw-up.
 
 Turning back east from the western continent, they pushed past the Lantan, dodging the Chult, hauling north past Nelanthere Islands, and finally breaking into the Sword Coast.
 ## 🏝️Landing Parties

@@ -1,7 +1,7 @@
 ---
 Updated: 2026-09-27
 title: DoSI
-DM: "[[Games/DoSI/Party/index|Daniel Sjögren]]"
+DM: "[[Campaign/DoSI/Party/index|Daniel Sjögren]]"
 Players:
   - "[[Sappho Vindtop|Me]]"
   - "[[Edgar Mcgee|Linus]]"

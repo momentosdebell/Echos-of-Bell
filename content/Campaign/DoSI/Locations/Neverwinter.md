@@ -28,7 +28,7 @@ Economy:
   - Commerce
 draft: false
 Conections:
-  - "[[Games/DoSI/Session/C1S0|C1S0]]"
+  - "[[Campaign/DoSI/Session/C1S0|C1S0]]"
 ---
 ## 📜 Overview
 Neverwinter, also known as the _Jewel of the North_, is a major coastal city-state situated along the Sword Coast. Renowned for its resilience, the city earned its name due to its unusually warm climate—heated by elemental forces within the Neverwinter River—which ensures its harbor never freezes even during harsh winters. After suffering near-total destruction from the cataclysmic eruption of Mount Hotenow, the city has undergone massive rebuilding efforts under the leadership of Lord Dagult Neverember.

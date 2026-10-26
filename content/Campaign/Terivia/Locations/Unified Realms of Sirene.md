@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Unified Realms of Sirene
 Type: Region
-Location: "[[Games/Terivia/index|Terivia]]"
+Location: "[[Campaign/Terivia/index|Terivia]]"
 Vibe:
   - Feudal
   - Samurai-inspired

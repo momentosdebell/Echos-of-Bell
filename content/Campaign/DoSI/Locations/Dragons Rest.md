@@ -2,7 +2,7 @@
 Updated: 2026-08-31
 title: Dragons Rest
 Type: Monestary
-Location: "[[Games/DoSI/index|Dragons of Stormwreck Isle]]"
+Location: "[[Campaign/DoSI/index|Dragons of Stormwreck Isle]]"
 Vibe:
 Custodian:
   - "[[Elder Runnara]]"
