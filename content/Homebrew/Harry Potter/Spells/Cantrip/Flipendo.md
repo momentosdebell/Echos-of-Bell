@@ -15,4 +15,3 @@ Tags:
   - Spell
   - Homebrew
 ---
-Knocks a target backward with a minor burst of force.

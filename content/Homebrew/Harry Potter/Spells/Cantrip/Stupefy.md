@@ -12,4 +12,3 @@ Tags:
   - Spell
   - Homebrew
 ---
-Stuns a target with a red flash, rendering them temporarily incapacitated.
