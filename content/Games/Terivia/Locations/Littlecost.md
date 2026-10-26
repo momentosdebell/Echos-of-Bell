@@ -12,4 +12,4 @@ Economy:
   - Trade
 draft: false
 ---
-![[Blackeye.png]]
+![[LittlecostBoard.jpeg]]
