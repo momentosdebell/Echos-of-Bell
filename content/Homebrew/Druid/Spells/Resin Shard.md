@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/spells/3412669-resin-shard
