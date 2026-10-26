@@ -17,8 +17,6 @@ Everything is balanced for ordinary DnD games, but if you want a more HP flare t
 In the world of Harry Potter there is alot of spells, some does not exist at all in DnD, and i made some homebrew spells. But some of them we can use existing ones, here are the existing ones.
 
 Cantrips
-- **Lumos** we use *Light*
-- **Nox** we use *Control Flames*
 - **Wingardium Leviosa** we use *Mage Hand*
 - **Incendio** we use *Fire Bolt*
 - **Aguamenti** we use *Shape Water*
