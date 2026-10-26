@@ -287,6 +287,22 @@ plugins:
         - Speed
         - Crew
         - Session
+        - Name
+        - Spell Level
+        - School
+        - Casting Time
+        - Range
+        - Components
+        - Material
+        - Duration
+        - Concentration
+        - Ritual
+        - Attack Save
+        - Damage
+        - Damage Type
+        - Higher Levels
+        - Effect
+        - Tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -353,6 +369,22 @@ plugins:
         - Speed
         - Crew
         - Session
+        - Name
+        - Spell Level
+        - School
+        - Casting Time
+        - Range
+        - Components
+        - Material
+        - Duration
+        - Concentration
+        - Ritual
+        - Attack Save
+        - Damage
+        - Damage Type
+        - Higher Levels
+        - Effect
+        - Tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

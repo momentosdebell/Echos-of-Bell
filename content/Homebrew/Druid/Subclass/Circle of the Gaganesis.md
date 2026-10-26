@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/subclasses/2919809-circle-of-the-gaganesis
