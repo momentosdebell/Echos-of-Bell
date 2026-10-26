@@ -1,0 +1,1 @@
+Instantly kills a target upon hit, bypassing all magical shields.

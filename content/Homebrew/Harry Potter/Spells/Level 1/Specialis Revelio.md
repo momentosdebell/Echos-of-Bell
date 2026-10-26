@@ -1,1 +1,0 @@
-Identifies the magical properties and enchantments of an object.

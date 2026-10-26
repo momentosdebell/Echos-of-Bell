@@ -1,1 +1,0 @@
-Slows down a target's movement speed and reactions.

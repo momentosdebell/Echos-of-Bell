@@ -1,0 +1,1 @@
+Unleashes uncontrollable dark fire shaped like beasts that consumes everything in its path.

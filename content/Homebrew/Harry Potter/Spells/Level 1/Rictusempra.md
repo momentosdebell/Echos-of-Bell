@@ -1,1 +1,0 @@
-Incapacitates a target by subjecting them to uncontrollable, overwhelming laughter and tickling sensations.

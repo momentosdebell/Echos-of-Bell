@@ -1,0 +1,1 @@
+Cuts the target deeply, inflicting continuous bleeding damage over time.

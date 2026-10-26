@@ -1,0 +1,1 @@
+Sets up an invisible ward around an encampment to alert and deter intruders.

@@ -1,0 +1,1 @@
+Blasts intense cold to freeze the ground or trap targets in ice.

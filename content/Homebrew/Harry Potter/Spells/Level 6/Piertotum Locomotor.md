@@ -1,0 +1,1 @@
+Animates a few nearby statues or suits of armor to fight for the caster.

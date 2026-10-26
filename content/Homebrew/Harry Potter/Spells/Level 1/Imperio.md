@@ -1,0 +1,1 @@
+Establishes total, long-term mental control over a target lasting for days or weeks.

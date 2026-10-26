@@ -1,0 +1,1 @@
+Creates a localized explosion to break barriers or damage enemies.

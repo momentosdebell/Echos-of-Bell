@@ -1,0 +1,1 @@
+Inflicts permanent psychological or physical agony without allowing a save.

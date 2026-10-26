@@ -1,0 +1,1 @@
+Conjures a ring of black and blue fire that incinerates enemies while protecting allies.

@@ -1,0 +1,1 @@
+Conjures a silver guardian that wards off dark creatures and mental attacks.

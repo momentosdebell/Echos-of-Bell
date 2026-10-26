@@ -1,0 +1,1 @@
+Blasts solid objects and stone obstacles into pieces.

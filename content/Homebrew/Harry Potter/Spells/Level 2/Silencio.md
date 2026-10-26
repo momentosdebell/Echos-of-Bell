@@ -1,1 +1,0 @@
-Silences a target completely, preventing all verbal speech and spellcasting.
