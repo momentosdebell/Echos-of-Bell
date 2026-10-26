@@ -13,3 +13,6 @@ Everything is balanced for ordinary DnD games, but if you want a more HP flare t
 -  **Wizards**: Focus on strict academic spellcraft and subjects, mastering Charms, Potions, and Defense Against the Dark Arts. They excel at high versatility, magical research, and strategic utility. They mainly align with Ravenclaw.
 - **Clerics**: Focus on the protective, potion-brewing, and restorative arts, embodying St. Mungo's Healers and Ministry Aurors. They excel at combat healing, brewing magical elixirs and placing defensive wards. They mainly align with Gryffindor.
 - **Sorcerers**: Focus on the Dark Arts and raw, innate magical power, channeling curses, Hexes, and dangerous offensive spells. They excel at high burst damage, non-verbal spellcasting, and unleashing unchecked dark magic upon their enemies. They mainly align with Slytherin.
+## Spell List
+- **Lumos** we use *Light*
+- 
