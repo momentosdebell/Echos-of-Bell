@@ -8,7 +8,9 @@ Gender: Male
 Occupation:
   - Leader
 Residence: "[[Campaign/DoSI/index|Dragon of Stormwreck Isle]]"
-Session: "[[C1S3]]"
+Session:
+  - "[[C1S3]]"
+  - "[[C1S4]]"
 draft: false
 ---
 ## 📜 Overview
