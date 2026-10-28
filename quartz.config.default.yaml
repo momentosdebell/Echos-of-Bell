@@ -303,6 +303,7 @@ plugins:
         - Higher Levels
         - Effect
         - Tags
+        - Checks
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -385,6 +386,7 @@ plugins:
         - Higher Levels
         - Effect
         - Tags
+        - Checks
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
