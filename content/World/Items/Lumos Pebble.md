@@ -14,7 +14,6 @@ Updated: 2026-05-31
 Img:
 ---
 
-
 ## Description
 A quite pretty stone, dark, smooth, and cool to the touch. It fits perfectly in the palm of a hand and carries a faint, pulsing warmth when held.
 
