@@ -5,7 +5,6 @@ Img:
 Category:
   - Tool
 Item Rarity: Common
-Value:
 Weight: "0.5"
 Armor Class: "1"
 Properties:
