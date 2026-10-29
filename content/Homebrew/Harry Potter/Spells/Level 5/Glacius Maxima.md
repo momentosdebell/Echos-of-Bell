@@ -1,1 +1,0 @@
-Instantly freezes an entire room or large battlefield into solid ice.

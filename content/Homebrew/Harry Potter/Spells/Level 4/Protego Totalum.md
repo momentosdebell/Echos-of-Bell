@@ -1,1 +1,0 @@
-Erects a protective magical dome over a large area to shelter allies.
