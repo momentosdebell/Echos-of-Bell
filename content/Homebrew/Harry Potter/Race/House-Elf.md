@@ -1,5 +1,5 @@
 ---
-Updated: 2026-08-28
+Updated: 2026-10-29
 title:
 Img:
 Race: Goblin
