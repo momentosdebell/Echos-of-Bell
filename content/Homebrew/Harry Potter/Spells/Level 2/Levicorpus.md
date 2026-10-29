@@ -1,1 +1,0 @@
-Hoists a target upside down into the air by their ankles.
