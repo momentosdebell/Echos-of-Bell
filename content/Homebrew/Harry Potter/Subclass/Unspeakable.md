@@ -1,2 +1,0 @@
-## ​📜 Overview
-A secret researcher from the Department of Mysteries studying space, prophecies, thought, and hidden truths, operating as a battlefield controller who manipulates enemy perception, twists fate through esoteric lore, and uses subtle magic to dictate the flow of combat.
