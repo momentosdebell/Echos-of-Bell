@@ -8,6 +8,6 @@ https://www.dndbeyond.com/subclasses/2923824-auror
 ### Sorcerer
 https://www.dndbeyond.com/subclasses/2923834-auror
 ### Cleric
-
+https://www.dndbeyond.com/subclasses/2923877-auror
 ### Druid
 
