@@ -1,2 +1,2 @@
 ## ​📜 Overview
-A witch or wizard who embraces forbidden magic, hexes, and dark rituals, playing as an aggressive burst-damage caster who weakens foes with lingering curses and devastates targets with high-impact destructive magic.
+Due to D&D Beyond limitations when making a subclass, there are four different Dark Wizard subclasses, one for each main class.
