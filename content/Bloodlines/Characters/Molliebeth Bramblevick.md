@@ -62,7 +62,7 @@ Molliebeth Bramblevick is a battle-hardened humanitarian and decorated survivor 
 ---
 
 ## 🎭Personality
-Molliebeth is deeply compassionate yet profoundly guarded, carrying a quiet resilience forged through early emotional isolation and devastating loss. Despite the cruelty she has suffered, she refuses to turn cold, channeling her own grief into an overwhelming, fierce drive to care for others. She is practical, observant, and entirely unimpressed by status or vanity, preferring the honest labor of the field and kitchen to the hollow halls of nobility. Beneath her gentle, nurturing exterior lies a battle-hardened survivor—someone who can step up to manage impossible crises with absolute calm, even as she quietly carries the heavy ghosts of her past.
+Molliebeth is deeply compassionate yet profoundly guarded, carrying a quiet resilience forged through early emotional isolation and devastating loss. Despite the cruelty she has suffered, she refuses to turn cold, channeling her own grief into an overwhelming, fierce drive to care for others. She is practical, observant, and entirely unimpressed by status or vanity, preferring the honest labor of the field and kitchen to the hollow halls of nobility. Beneath her gentle, nurturing exterior lies a battle-hardened survivor, someone who can step up to manage impossible crises with absolute calm, even as she quietly carries the heavy ghosts of her past.
 
 ---
 ## 🏠 Background
