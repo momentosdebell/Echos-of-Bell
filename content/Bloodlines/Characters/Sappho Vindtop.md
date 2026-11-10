@@ -126,6 +126,7 @@ The other two weapons she use is her trusted Scimitars First Kiss and Last Dance
 - Joins an od group [[Justin Case]] and [[Edgar Mcgee]]
 - [[Cerersio]] by chance also tages along
 - She flirts heavily with [[Justin Case]]
+- [[Edgar Mcgee]] after killing hers family that had turned to zombie bacame her arch enemy.
 
 ---
 ## 🗓️Events
