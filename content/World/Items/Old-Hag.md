@@ -74,6 +74,7 @@ Rearly leaves the boat:
 **Scramble**
 The rowdy backbone who handle the heavy gear, secure the perimeter, and clean up the leftovers:
 [[Malla Tri|Harp]], [[Reepicheep|Pip]] and [[Tobias Briggs|Mr T]]
+
 iron, nightinggale. moody, Doc, pawnshop, bb, saltgrip
 
 ## ⚓ Ship Log
