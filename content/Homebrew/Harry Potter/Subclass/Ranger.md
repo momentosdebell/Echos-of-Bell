@@ -1,5 +1,6 @@
 ---
 Updated: 2026-11-15
-title: Ranger, Magizoologist
+title:
 draft: false
 ---
+# Magizoologist

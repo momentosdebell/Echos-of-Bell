@@ -1,6 +1,7 @@
 ---
 Updated: 2026-11-15
-title: Cleric, Domain of St. Mungo
+title:
 draft: false
 ---
+# Domain of St. Mungo
 Mediwizard

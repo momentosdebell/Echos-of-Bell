@@ -1,5 +1,6 @@
 ---
 Updated: 2026-11-15
-title: Fighter, Squib
+title:
 draft: false
 ---
+# Squib

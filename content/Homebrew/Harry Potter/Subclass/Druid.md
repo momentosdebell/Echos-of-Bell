@@ -1,6 +1,7 @@
 ---
 Updated: 2026-11-15
-title: Druid, Circle of the Sprout
+title:
 draft: false
 ---
+# Circle of the Sprout
 Sprout Disciple
