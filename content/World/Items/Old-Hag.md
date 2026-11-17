@@ -75,8 +75,6 @@ Rearly leaves the boat:
 The rowdy backbone who handle the heavy gear, secure the perimeter, and clean up the leftovers:
 [[Malla Tri|Harp]], [[Reepicheep|Pip]] and [[Tobias Briggs|Mr T]]
 
-iron, nightinggale. moody, Doc, pawnshop, bb, saltgrip
-
 ## ⚓ Ship Log
 #### Day 98
 Salt eats the paint and the mainmast creaks like an old crone’s bones. Ironneck thought she sounded too refined. The crew had a good laugh and took a vote around the rum barrel. As of tonight, she is officially the Old Hag. It suits her better, she refuses to sink no matter what the seas throw at her.
@@ -104,3 +102,6 @@ Sap missed the boat. Literally. We waited as long as we dared, but with navy cut
 
 #### Day 1302 
 20 of us aboard now, missing our little black-powder powerhouse. We're cutting through the heavy squalls toward the jagged shores of Stormwreck Isle. Dangerous waters, ancient ruins, and heavy reefs ahead. If Sap is half as sharp as her superstitions suggest, she'll track the Old Hag down before we drop anchor.
+
+**Day 1369**
+We are under attack. Zombies are he...
