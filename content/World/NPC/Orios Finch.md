@@ -4,7 +4,7 @@ title: Doc
 Img:
 Race: Human
 Class: Fighter
-Age: Alive, 99y/o
+Age: Died 74 years ago at 25
 Gender: Male
 Occupation:
   - Cook
@@ -12,7 +12,7 @@ Occupation:
 Residence: "[[Old-Hag]]"
 draft: false
 Birth: 1443
-Death:
+Death: 1468
 ---
 <style>
 .dnd-stat { 
