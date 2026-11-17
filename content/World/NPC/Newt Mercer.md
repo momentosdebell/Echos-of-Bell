@@ -5,14 +5,14 @@ Img:
 Race:
   - Human
 Class: Wizard
-Age: Alive, 125y/o
+Age: Died 74 years ago at 51
 Gender: Male
 Occupation:
   - Quartermaster's Mate
 Residence: "[[Old-Hag]]"
 draft: false
 Birth: 1417
-Death:
+Death: 1468
 ---
 ![[whisp.jpeg]]
 
