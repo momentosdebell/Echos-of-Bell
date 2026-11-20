@@ -129,7 +129,8 @@ Alongside it, she utilizes a compact Right Pouch of Holding, a reliable pocket d
 
 ---
 ## 🗓️Events
-- Travelled to [[Littlecost]] found both trubbel and [[The Circle of the Blooming Table]] there
+- Travelled to [[Littlecost]] found both trubbel and [[The Circle of the Blooming Table]] there'
+- In a cave ([[C2S2]]) just outside [[Redmil]] she got injured and got a jagged, star-shaped scar across her right shoulder blade from slamming into a sharp cave rock. And a stark white, messy streak in her hair by her temple, paired with a faint greenish-gray scar on her cheek from the beast's toxic breath.
 
 ---
 ## 🍿Trivia 
