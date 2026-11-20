@@ -1,11 +1,19 @@
 ---
-Updated: 2026-08-28
-title: Zaria
-Img:
-Race: Goliath
-Gender: Female
-Class: Paladin
-draft: false
+Updated: 2026-11-20
+title:
+Date: 2026-11-08 18:30:00
+Campaign: "[[Campaign/Terivia/index|Terivia]]"
+DM: "[[Campaign/Terivia/Party/index|Johnny Larsson]]"
+Players:
+  - "[[Balsa|Sandra]]"
+  - "[[Zaria|Alicia]]"
+  - "[[Tor-Ulv|Göran]]"
+  - "[[Sappho Vindtop|Bella (Me)]]"
+  - "[[Edgar Mcgee|Linus]]"
+  - "[[Justin Case|Zammy]]"
+  - "[[Cerersio|Kevin]]"
+Location: Online
+draft: true
 ---
 
 <div class="dnd-stat">
