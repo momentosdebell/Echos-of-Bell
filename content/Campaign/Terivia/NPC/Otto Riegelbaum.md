@@ -7,7 +7,9 @@ Race:
 Gender: Male
 Occupation:
   - Merchant
-Session: "[[C2S1]]"
+Session:
+  - "[[C2S1]]"
+  - "[[C2S3]]"
 draft: false
 ---
 ## 📜 Overview

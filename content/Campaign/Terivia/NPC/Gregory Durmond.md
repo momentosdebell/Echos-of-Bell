@@ -8,7 +8,9 @@ Gender: Male
 Occupation:
   - "[[Redmil|Owner of Redmil]]"
 Residence: "[[Littlecost]]"
-Session: "[[C2S1]]"
+Session:
+  - "[[C2S1]]"
+  - "[[C2S3]]"
 draft: false
 ---
 ## 📜 Overview

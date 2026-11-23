@@ -11,6 +11,8 @@ Economy:
   - Lumbermil 
   - Trade
 draft: false
-Session: "[[C2S1]]"
+Session:
+  - "[[C2S1]]"
+  - "[[C2S3]]"
 ---
 ![[LittlecostBoard.jpeg]]
