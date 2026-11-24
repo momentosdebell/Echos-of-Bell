@@ -20,7 +20,7 @@ Crew:
   - "[[Gideon Vane|Quartermaster]]"
   - "[[Maelis Vex|Navigator]]"
   - "[[Vesper Vane|Helmsman]]"
-  - "[[Maeve O'Reilly|Gunner]]"
+  - "[[Mavis Nook|Lorekeeper]]"
   - "[[Martha von Je'Den|Boarder]]"
   - "[[Barnacle Barnaby|Shipwright]]"
   - "[[Orios Finch|Surgeon & Cook]]"
@@ -57,7 +57,7 @@ Turning back east from the western continent, they pushed past the Lantan, dodgi
 [[old_hag.jpg|Battlemap]]
 **BP (Beauty Pageant)** 
 The first landing party, checking for danger and other setbacks:
-[[Vesper Vane|Nightingale]], [[Martha von Je'Den|Pawnshop]], [[Maeve O'Reilly|Moody]] and [[Maelis Vex|Two Time]]
+[[Vesper Vane|Nightingale]], [[Martha von Je'Den|Pawnshop]], [[Mavis Nook|Nook]] and [[Maelis Vex|Two Time]]
 
 **DC (Disaster Crew)**
 The scouting party, checking ahead and gathering provisions:
