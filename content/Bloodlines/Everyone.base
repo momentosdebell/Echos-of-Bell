@@ -12,5 +12,7 @@ views:
       - Residence
       - Age
     sort:
+      - property: Race
+        direction: ASC
       - property: Age
         direction: ASC

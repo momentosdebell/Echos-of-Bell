@@ -2,14 +2,14 @@
 Updated: 2026-08-28
 title: Nook
 Img:
-Race: Goblin
+Race: Goblin (House-Elf)
 Class: Sorcerer
 Age: Alive, 133y/o
 Gender: Female
 Occupation:
   - Lorekeeper
 Residence: "[[Old-Hag]]"
-draft: false
+draft: true
 Birth: 1409
 Death:
 ---
