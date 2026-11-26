@@ -24,7 +24,7 @@ Death:
 ## 🏠Background 
 
    **Origin** 
-
+Born in 1409 in [[Thalasor]] within [[Bram’vorn]], a vast subterranean forest civilization hidden from the surface world on the Material Plane. Although House-Elves are regarded today as a goblin subrace, Nook’s people began as elves whose generations-long adaptation to subterranean forests, roots, and caves shaped them into small, nimble survivors, leaving an ancient heritage that surface dwellers rarely recognize or understand.
 
    **Upbringing** 
 
