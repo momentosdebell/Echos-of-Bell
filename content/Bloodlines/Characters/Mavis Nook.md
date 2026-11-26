@@ -9,7 +9,7 @@ Gender: Female
 Occupation:
   - Lorekeeper
 Residence: "[[Old-Hag]]"
-draft: true
+draft: false
 Birth: 1409
 Death:
 ---
