@@ -53,10 +53,8 @@ She have both a custom subrase and a custom subclass.
 
 ---
 ## 🗓️Events
-- Left her home 1472
-- Worked odd jobs (like Night watch, Courier, Messenger) 1478 - 1509
-- Tried settling down, met goblin prejudice, gave up and left 1510 - 1535
-- Joined [[Old-Hag]] 1535
+- Left her home 1462
+- Joined [[Old-Hag]] 1464
 
 ---
 ## 🍿Trivia
