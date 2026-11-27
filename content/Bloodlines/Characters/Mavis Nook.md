@@ -49,12 +49,15 @@ She have both a custom subrase and a custom subclass.
 
 ---
 ## 💞Relationships
-- [[Molliebeth Bramblevick]] - an friend and coworker from [[Old-Hag]]
+- [[Sappho Vindtop]] - an friend and coworker from [[Old-Hag]]
 
 ---
 ## 🗓️Events
 - Left her home 1462
 - Joined [[Old-Hag]] 1464
+- After [[Old-Hag]] went down (1469) near the island of [[Campaign/DoSI/index|Stormwreck Isle]], Mavis was rescued by [[Myla]] from [[Dragons Rest]].
+- She spent nearly a year at **[[Dragon's Rest]]**, recovering, mourning and burying the dead, and helping out to repay the cloister.
+- 
 
 ---
 ## 🍿Trivia
