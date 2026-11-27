@@ -1,6 +1,6 @@
 ---
 Age: Alive, 84y/o
-Updated: 2026-08-27
+Updated: 2026-08-28
 Birth: 1458
 Death: 1543
 title: Agnes Ekblad
@@ -16,5 +16,10 @@ Partner: "[[Gustav Ekblad]]"
 Children:
   - "[[Princess Wiggles]]"
 draft: false
+Img:
+Class:
+Origin:
+Former Partner:
 ---
+![[Agnes Ekblad.png]]
 
