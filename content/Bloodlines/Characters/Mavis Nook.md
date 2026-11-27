@@ -53,7 +53,7 @@ She have both a custom subrase and a custom subclass.
 
 ---
 ## 🗓️Events
-- 1462 Left her home 
+- 1462 Fled her underground home for the new world on the surface
 - 1464 Joined [[Old-Hag]] 
 - After [[Old-Hag]] went down (1469) near the island of [[Campaign/DoSI/index|Stormwreck Isle]], Mavis was rescued by [[Myla]] from [[Dragons Rest]].
 - She spent nearly a year at [[Dragon's Rest]], recovering, mourning and burying the dead, and helping out to repay the cloister.
@@ -63,7 +63,7 @@ She have both a custom subrase and a custom subclass.
 
 ---
 ## 🍿Trivia
-
+- If you missed it, this character is heavily influenced by the Harry Potter world
 
 
 
