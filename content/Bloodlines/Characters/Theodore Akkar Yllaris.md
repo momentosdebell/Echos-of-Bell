@@ -12,7 +12,7 @@ Occupation: Arch Mage
 Residence: "[[Silvergrove City (Silverymoon)]]"
 Former Partner: "[[Melon Everfall]]"
 Children:
-  - "[[King Theodemar Yllaris Everfal]]"
+  - "[[Theodemar Yllaris Everfall]]"
 draft: false
 ---
 ![[Theodore Akkar Yllaris.jpeg]]

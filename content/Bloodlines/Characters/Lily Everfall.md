@@ -19,6 +19,8 @@ Children:
   - "[[Tove Root]]"
 draft: false
 Occupation: Weaver
+Siblings:
+  - "[[jr Everfall]]"
 ---
 ![[Lily Yllaris Everfall.jpg]]
 

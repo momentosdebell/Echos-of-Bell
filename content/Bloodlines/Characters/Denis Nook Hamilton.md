@@ -1,7 +1,7 @@
 ---
-Age:
+Age: Alive, 41y/o
 Updated: 2026-08-28
-title: Aveline Nook Hamilton
+title: Denis Nook Hamilton
 Img:
 Race:
   - Goblin (House-Elf)

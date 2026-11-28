@@ -9,7 +9,7 @@ Race:
   - Elf
 Gender: Female
 Residence: "[[Silvergrove City (Silverymoon)]]"
-Partner: "[[King Theodemar Yllaris Everfal]]"
+Partner: "[[Theodemar Yllaris Everfall]]"
 Children:
   - "[[Lily Everfall]]"
 draft: false
