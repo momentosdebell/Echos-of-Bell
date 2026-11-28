@@ -15,7 +15,9 @@ Death:
 Mother:
   - Nessa Nook
   - Corin Nook
-"":
+Former Partner: "[[Wiltor Hamilton]]"
+Children:
+  - "[[Denis Nook Hamilton]]"
 ---
 ![[nook.png]]
 
@@ -56,9 +58,10 @@ She have both a custom subrase and a custom subclass.
 - 1462 Fled her underground home for the new world on the surface
 - 1464 Joined [[Old-Hag]] 
 - After [[Old-Hag]] went down (1469) near the island of [[Campaign/DoSI/index|Stormwreck Isle]], Mavis was rescued by [[Myla]] from [[Dragons Rest]].
-- She spent nearly a year at [[Dragon's Rest]], recovering, mourning and burying the dead, and helping out to repay the cloister.
+- She spent nearly a year at [[Dragons Rest]], recovering, mourning and burying the dead, and helping out to repay the cloister.
 - 1470 - 1495 Worked courier runs, night watch, and short gigs without settling.
-- 1496 Tried settling down, met prejudice when mistaken for a goblin, and got sick of it and left.
+- 1496 Tried settling down with [[Wiltor Hamilton]].
+- 1501 Got a daughter [[Denis Nook Hamilton]]
 - 1542 Started looking for a new crew and a new ship on her own terms.
 
 ---

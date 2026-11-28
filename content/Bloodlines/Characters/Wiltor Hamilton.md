@@ -18,8 +18,10 @@ Mother: "[[Phitra Hamilton]]"
 Siblings:
   - "[[Sean Christopher Hamilton IV]]"
 draft: false
-
+Former Partner: "[[Mavis Nook]]"
+Children:
+  - "[[Denis Nook Hamilton]]"
 ---
-![[Wiltor Hamilton.jpeg]]
+![[Wiltor.png]]
 
 
