@@ -20,7 +20,7 @@ Children:
 draft: false
 Occupation: Weaver
 Siblings:
-  - "[[jr Everfall]]"
+  - "[[Sir Lucian Yllaris Everfall]]"
 ---
 ![[Lily Yllaris Everfall.jpg]]
 
