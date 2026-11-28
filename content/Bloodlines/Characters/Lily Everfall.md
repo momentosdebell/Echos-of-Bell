@@ -12,7 +12,7 @@ Residence: "[[Silvergrove City (Silverymoon)]]"
 Origin:
   - "[[Everfall]]"
   - "[[Yllaris]]"
-Father: "[[King Theodemar Yllaris Everfal]]"
+Father: "[[Theodemar Yllaris Everfall]]"
 Mother: "[[Lilliana Yllaris Everfall]]"
 Partner: "[[Iquique Yllaris Everfall]]"
 Children:
