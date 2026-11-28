@@ -12,6 +12,7 @@ Residence: "[[Silvergrove City (Silverymoon)]]"
 Partner: "[[Theodemar Yllaris Everfall]]"
 Children:
   - "[[Lily Everfall]]"
+  - "[[jr Everfall]]"
 draft: false
 Occupation: Queen
 ---

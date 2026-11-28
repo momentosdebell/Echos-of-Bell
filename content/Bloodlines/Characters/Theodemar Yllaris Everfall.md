@@ -17,6 +17,7 @@ Mother: "[[Melon Everfall]]"
 Partner: "[[Lilliana Yllaris Everfall]]"
 Children:
   - "[[Lily Everfall]]"
+  - "[[jr Everfall]]"
 draft: false
 ---
 ![[King Theodemar Yllaris Everfall.jpeg]]
